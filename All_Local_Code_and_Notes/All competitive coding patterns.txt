@@ -1,0 +1,6085 @@
+
+Distill all patterns that you can encounter in competitive programming and make a list of problems and techniques having that pattern. Should ideally contain no more than 500 problems when I am a GM. Maximum 1000 problems. Simplify when needed. Gradatim Ferociter.
+
+1. Little Girl and Maximum sum (CF)-> Instead of going through all values in the range, increment the first value of the range, and decrement value after last. Then take the prefix sum to get the frequency of all elements in the range on O(n) instead of O(q*n)
+
+int n,q;
+    cin>>n>>q;
+    vector<long long> vec(n,0);
+    for(int i=0;i<n;i++){
+        cin>>vec[i];
+    }
+    sort(vec.rbegin(),vec.rend());
+    vector<long long> indexes(n + 1, 0);
+
+    for (int i = 0; i < q; i++) {
+        int a, b;
+        cin >> a >> b;
+        indexes[a - 1]++; 
+        indexes[b]--;     
+    }
+
+    
+    for (int i = 1; i < n; i++) {
+        indexes[i] += indexes[i - 1];
+    }
+    indexes.pop_back(); 
+
+    sort(indexes.rbegin(), indexes.rend());
+    long long ans = 0;
+    for (int i = 0; i < n; i++) {
+        ans += indexes[i] * vec[i];
+    }
+    cout<<ans;
+1. Uncrossed lines->
+
+class Solution:
+
+    def maxUncrossedLines(self, nums1: List[int], nums2: List[int]) -> int:
+
+        dp=[0]*(len(nums2)+1)
+
+        for i in range(len(nums1)):
+
+            new_dp=[0]*(len(nums2)+1)
+
+            for j in range(len(nums2)):
+
+                if nums1[i]==nums2[j]:
+
+                    new_dp[j+1]=1+dp[j]
+
+                else:
+
+                    new_dp[j+1]=max(dp[j+1],new_dp[j])
+
+            dp=new_dp
+
+        return new_dp[len(nums2)]
+2. Stickers to spell word->
+
+class Solution:
+
+    def minStickers(self, stickers: List[str], target: str) -> int:
+
+        sticker_count=[]
+
+        for i,s in enumerate(stickers):
+
+            sticker_count.append({})
+
+            for c in s:
+
+                sticker_count[i][c]=1+sticker_count[i].get(c,0)
+
+        dp={}
+
+        def dfs(t,stick):
+
+            if t in dp:
+
+                return dp[t]
+
+            res = 1 if stick else 0
+
+            remain_t=""
+
+            for c in t:
+
+                if c in stick and stick[c]>0:
+
+                    stick[c]-=1
+
+                else:
+
+                    remain_t+=c
+
+            if remain_t:
+
+                used=float("inf")
+
+                for s in sticker_count:
+
+                    if remain_t[0] not in s:
+
+                        continue
+
+                    used=min(used,dfs(remain_t,s.copy()))
+
+                dp[remain_t]=used
+
+                res+=used
+
+            return res
+
+  
+
+        res=dfs(target,{})
+
+        return res if res!=float("inf") else -1
+3. Number of longest increasing subsequence-> Start from the end and check for all values. If it satisfies the condition, add it in the dp
+
+class Solution:
+
+    def findNumberOfLIS(self, nums: List[int]) -> int:
+
+        dp={}
+
+        len_lis,res=0,0
+
+        for i in range(len(nums)-1,-1,-1):
+
+            max_len,max_count=1,1
+
+            for j in range(i+1,len(nums)):
+
+                if nums[j]>nums[i]:
+
+                    length,count=dp[j]
+
+                    if length+1>max_len:
+
+                        max_len=length+1
+
+                        max_count=count
+
+                    elif length+1==max_len:
+
+                        max_count+=count
+
+            if max_len>len_lis:
+
+                len_lis,res=max_len,max_count
+
+            elif max_len==len_lis:
+
+                res+=max_count
+
+            dp[i]=[max_len,max_count]
+
+        return res
+4. Integer break->
+
+class Solution:
+
+    def integerBreak(self, n: int) -> int:
+
+        if(n==2): return 1
+
+        if(n==3): return 2
+
+        prod=1
+
+        while(n>4):
+
+            prod*=3
+
+            n-=3
+
+        prod*=n
+
+        return prod
+5. Minimum cost for tickets-> Do a dfs for all the possibilities,and use a dp to store repeating subproblems
+
+class Solution:
+
+    def mincostTickets(self, days: List[int], costs: List[int]) -> int:
+
+        dp={}
+
+        def dfs(i):
+
+            if i==len(days):
+
+                return 0
+
+            if i in dp:
+
+                return dp[i]
+
+            dp[i]=float("inf")
+
+            for d,c in zip([1,7,30],costs):
+
+                j=i
+
+                while j<len(days) and days[j]<days[i]+d:
+
+                    j+=1
+
+                dp[i]=min(dp[i],c+dfs(j))
+
+            return dp[i]
+
+        return dfs(0)
+6. Maximum subarray min product-> Use a monotonic increasing stack
+
+class Solution:
+
+    def maxSumMinProduct(self, nums: List[int]) -> int:
+
+        res=0
+
+        stack=[]
+
+        prefix=[0]
+
+        for i in nums:
+
+            prefix.append(prefix[-1]+i)
+
+        for i, n in enumerate(nums):
+
+            new_start=i
+
+            while stack and stack[-1][1]>n:
+
+                start,val=stack.pop()
+
+                total=prefix[i]-prefix[start]
+
+                res=max(res,val*total)
+
+                new_start=start
+
+            stack.append((new_start,n))
+
+        for start,val in stack:
+
+            total=prefix[len(nums)]-prefix[start]
+
+            res=max(res,val*total)
+
+        return res%(10**9+7)
+7. Check if there is valid partition for the array->
+
+class Solution:
+
+    def validPartition(self, nums: List[int]) -> bool:
+
+        dp={}
+
+        def dfs(i):
+
+            if i==len(nums):
+
+                return True
+
+            if i in dp:
+
+                return dp[i]
+
+            res=False
+
+            if i<len(nums)-1 and nums[i]==nums[i+1]:
+
+                res=dfs(i+2)
+
+            if i<len(nums)-2 and nums[i]==nums[i+1]==nums[i+2]:
+
+                res=res or dfs(i+3)
+
+            if i<len(nums)-2 and nums[i]==nums[i+1]-1 and nums[i+1]==nums[i+2]-1:
+
+                res= res or dfs(i+3)
+
+            dp[i]=res
+
+            return res
+
+        return dfs(0)
+8. Perfect squares-> Similar to the combination sum and coin change
+
+class Solution:
+
+    def numSquares(self, n: int) -> int:
+
+        dp=[n]*(n+1)
+
+        dp[0]=0
+
+        for total in range(1,n+1):
+
+            for s in range(1,total+1):
+
+                square=s*s
+
+                if(total-square<0):
+
+                    break
+
+                dp[total]=min(dp[total],1+dp[total-square])
+
+        return dp[n]
+9. Combination sum IV->
+Bottom up DP 
+
+class Solution:
+
+    def combinationSum4(self, nums: List[int], target: int) -> int:
+
+        dp={0:1}
+
+        for total in range(1,target+1):
+
+            dp[total]=0
+
+            for n in nums:
+
+                dp[total]+=dp.get(total-n,0)
+
+        return dp[target]
+10. Paint houses->
+
+class Solution {
+
+public:
+
+    /**
+
+     * @param costs: n x 3 cost matrix
+
+     * @return: An integer, the minimum cost to paint all houses
+
+     */
+
+    int minCost(vector<vector<int>> &costs) {
+
+        // write your code here
+
+        vector<vector<int>> dp;
+
+        for(int i=0;i<costs.size();i++){
+
+            dp.push_back({0,0,0});
+
+        }
+
+        dp[0]=costs[0];
+
+        for(int i=1;i<costs.size();i++){
+
+            dp[i][0]=costs[i][0]+min(dp[i-1][1],dp[i-1][2]);
+
+            dp[i][1]=costs[i][1]+min(dp[i-1][0],dp[i-1][2]);
+
+            dp[i][2]=costs[i][2]+min(dp[i-1][0],dp[i-1][1]);
+
+        }
+
+        int x=costs.size()-1;
+
+        return min(dp[x][0],min(dp[x][1],dp[x][2]));
+
+    }
+
+};
+11. Delete and earn->
+Similar to house robber but just keep in mind the actual values instead of adjacent values
+
+class Solution {
+
+public:
+
+    int deleteAndEarn(vector<int>& nums) {
+
+        // sort(nums.begin(),nums.end());
+
+        unordered_map<int,int> mp;
+
+        for(int i=0;i<nums.size();i++){
+
+            mp[nums[i]]++;
+
+        }
+
+  
+
+        set<int> s;
+
+        for(int i=0;i<nums.size();i++){
+
+            s.insert(nums[i]);
+
+        }
+
+        nums={};
+
+        for(auto itr: s){
+
+            nums.push_back(itr);
+
+        }
+
+        vector<int> dp(nums.size(),-1);
+
+        sort(nums.begin(),nums.end());
+
+        for(int i=0;i<nums.size();i++){
+
+            if(i==0){
+
+                dp[i]=nums[i]*mp[nums[i]];
+
+            }
+
+            else if(i>0){
+
+                dp[i]=nums[i]*mp[nums[i]];
+
+                if(nums[i-1]!=(nums[i]-1)){
+
+                    dp[i]+=dp[i-1];
+
+                }
+
+                else if(i>=1){
+
+                    // dp[i]+=dp[i-2];
+
+                    // dp[i]=max(dp[i]+dp[i-2],dp[i-1]);
+
+                    if(i>1){
+
+                        dp[i]=max(dp[i]+dp[i-2],dp[i-1]);
+
+                    }
+
+                    else{
+
+                        dp[i]=max(dp[i],dp[i-1]);
+
+                    }
+
+                }
+
+            }
+
+        }
+
+        int n=nums.size();
+
+        if(n<2) return dp[n-1];
+
+        return max(dp[n-1],dp[n-2]);
+
+  
+  
+
+    }
+
+};
+12. Nth tribonacci number-> Cannot directly initialize a dp array outside, so initialize it like this
+
+vector<int> dp=vector<int>(38, -1);
+
+
+13. Course schedule IV-> Use memoization alongwith dfs
+
+class Solution {
+
+public:
+
+    unordered_map<int, unordered_map<int, bool>> memo; // Memoization
+
+  
+
+    bool go_through(unordered_map<int, vector<int>> &mp, int curr, int original) {
+
+        if (curr == original) return true;  // Found prerequisite
+
+        if (mp.find(curr) == mp.end()) return false;  // No outgoing edges
+
+        if (memo.count(curr) && memo[curr].count(original)) return memo[curr][original]; // Use memoized result
+
+  
+
+        for (int next : mp[curr]) {
+
+            if (go_through(mp, next, original)) {
+
+                return memo[curr][original] = true;  // Store result
+
+            }
+
+        }
+
+        return memo[curr][original] = false;  // Store result
+
+    }
+
+  
+
+    vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+
+        unordered_map<int, vector<int>> mp;
+
+        for (auto &pre : prerequisites) {
+
+            mp[pre[0]].push_back(pre[1]);
+
+        }
+
+  
+
+        vector<bool> ans;
+
+        for (auto &q : queries) {
+
+            ans.push_back(go_through(mp, q[0], q[1]));  // Use memoized DFS
+
+        }
+
+        return ans;
+
+    }
+
+};
+14. Find eventual safe states-> 
+
+class Solution:
+
+    def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
+
+        n=len(graph)
+
+        safe={}
+
+        res=[]
+
+        def dfs(i):
+
+            if i in safe:
+
+                return safe[i]
+
+            safe[i]=False
+
+            for ne in graph[i]:
+
+                if not dfs(ne):
+
+                    return False
+
+                # if dfs(ne):
+
+            safe[i]=True
+
+            return True
+
+        for i in range(n):
+
+            if dfs(i):
+
+                res.append(i)
+
+        return res 
+15. Open the lock-> 
+     
+     class Solution:
+
+    def openLock(self, deadends: List[str], target: str) -> int:
+
+        if "0000" in deadends:
+
+            return -1
+
+        def children(lock):
+
+            res= []
+
+            for i in range(4):
+
+                digit=str((int(lock[i])+1)%10)
+
+                res.append(lock[:i]+digit+lock[i+1:])
+
+                digit=str((int(lock[i])-1+10)%10)
+
+                res.append(lock[:i]+digit+lock[i+1:])
+
+            return res
+
+        q=deque()
+
+        q.append(["0000",0])
+
+        visit=set(deadends)
+
+        while q:
+
+            lock,turns=q.popleft()
+
+            if lock==target:
+
+                return turns
+
+            for child in children(lock):
+
+                if child not in visit:
+
+                    visit.add(child)
+
+                    q.append([child,turns+1])
+
+        return -1
+16. Snakes and Ladders-> Reverse the board, do a dfs
+     
+     class Solution:
+
+    def snakesAndLadders(self, board: List[List[int]]) -> int:
+
+        length=len(board)
+
+        board.reverse()
+
+        def int_to_pos(square):
+
+            r=(square-1)//length
+
+            c=(square-1)%length
+
+            if r%2:
+
+                c=length-1-c
+
+  
+
+            return [r,c]
+
+        q=deque()
+
+        q.append([1,0])
+
+        visit=set()
+
+        while q:
+
+            square,moves=q.popleft()
+
+            for i in range(1,7):
+
+                next_square=square+i
+
+                r,c=int_to_pos(next_square)
+
+                if board[r][c]!=-1:
+
+                    next_square=board[r][c]
+
+                if next_square==length*length:
+
+                    return moves+1
+
+                if next_square not in visit:
+
+                    visit.add(next_square)
+
+                    q.append([next_square,moves+1])
+
+        return -1
+17. Reorder routes to make all the city paths lead to zero->
+     
+     class Solution {
+
+public:
+
+    int dfs(vector<vector<int>> &gr, vector<bool> &visited, int from) {
+
+        auto change = 0;
+
+        visited[from] = true;
+
+        for (auto to : gr[from])
+
+            if (!visited[abs(to)])
+
+                change += dfs(gr, visited, abs(to)) + (to > 0);
+
+        return change;        
+
+    }
+
+    int minReorder(int n, vector<vector<int>>& connections) {
+
+        vector<vector<int>> gr(n);
+
+        for (auto &c : connections) {
+
+            gr[c[0]].push_back(c[1]);
+
+            gr[c[1]].push_back(-c[0]);
+
+        }
+
+        return dfs(gr, vector<bool>(n) = {}, 0);
+
+    }
+
+};
+18. Design Add and Search words data structure-> Use a prefix tree. Each node will have maximum 26 children
+     class TrieNode:
+
+    def __init__(self):
+
+        self.children={}
+
+        self.word=False
+
+class WordDictionary:
+
+  
+
+    def __init__(self):
+
+        self.root=TrieNode()
+
+  
+
+    def addWord(self, word: str) -> None:
+
+        cur=self.root
+
+        for c in word:
+
+            if c not in cur.children:
+
+                cur.children[c]=TrieNode()
+
+            cur=cur.children[c]
+
+        cur.word=True
+
+  
+  
+
+    def search(self, word: str) -> bool:
+
+        def dfs(j,root):
+
+            cur=root
+
+            for i in range(j,len(word)):
+
+                c=word[i]
+
+                if c =='.':
+
+                    for child in cur.children.values():
+
+                        if dfs(i+1,child):
+
+                            return True
+
+                    return False
+
+                else:
+
+                    if c not in cur.children:
+
+                        return False
+
+                    else:
+
+                        cur=cur.children[c]
+
+            return cur.word
+
+        return dfs(0,self.root)
+     
+19. Word Break II-> 
+     
+     class Solution:
+
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+
+        word_dict=set(wordDict)
+
+        def backtrack(i):
+
+            if i==len(s):
+
+                res.append(" ".join(curr))
+
+            for j in range(len(s)):
+
+                w = s[i:j+1]
+
+                if w in word_dict:
+
+                    curr.append(w)
+
+                    backtrack(j+1)
+
+                    curr.pop()
+
+        curr=[]
+
+        res=[]
+
+        backtrack(0)
+
+        return res
+20. Maximum score words formed by letters->
+     
+     class Solution:
+
+    def maxScoreWords(self, words: List[str], letters: List[str], score: List[int]) -> int:
+
+        def can_form(w,letter_cnt):
+
+            word_cnt=Counter(w)
+
+            for c in word_cnt:
+
+                if word_cnt[c]>letter_cnt[c]:
+
+                    return False
+
+            return True
+
+  
+
+        def get_score(w):
+
+            res=0
+
+            for c in w:
+
+                res+=score[ord(c)-ord('a')]
+
+            return res
+
+        letter_cnt=Counter(letters)
+
+        def backtrack(i):
+
+            if i==len(words):
+
+                return 0
+
+            res=backtrack(i+1)
+
+            if can_form(words[i],letter_cnt):
+
+                for c in words[i]:
+
+                    letter_cnt[c]-=1
+
+                res=max(res,get_score(words[i])+backtrack(i+1))
+
+                for c in words[i]:
+
+                    letter_cnt[c]+=1
+
+            return res
+
+        return backtrack(0)
+21. N queens->
+     
+     class Solution {
+
+public:
+
+    void go_through(vector<vector<string>> &vec,int r,vector<string> board,set<int> &cols,set<int> &pos_diag,set<int> &neg_diag){
+
+        if(r==board.size()){
+
+            vec.push_back(board);
+
+            return;
+
+        }
+
+        for(int i=0;i<board[0].size();i++){
+
+            if(cols.find(i)!=cols.end()||pos_diag.find(r+i)!=pos_diag.end()||neg_diag.find(r-i)!=neg_diag.end()){
+
+                continue;
+
+            }
+
+            cols.insert(i);
+
+            pos_diag.insert(r+i);
+
+            neg_diag.insert(r-i);
+
+            board[r][i]='Q';
+
+            go_through(vec,r+1,board,cols,pos_diag,neg_diag);
+
+            cols.erase(i);
+
+            pos_diag.erase(r+i);
+
+            neg_diag.erase(r-i);
+
+            board[r][i]='.';
+
+        }
+
+  
+
+    }
+
+    vector<vector<string>> solveNQueens(int n) {
+
+        vector<vector<string>> vec;
+
+        set<int> cols,pos_diag,neg_diag;
+
+        vector<string> board;
+
+        for(int i=0;i<n;i++){
+
+            string tmp="";
+
+            for(int j=0;j<n;j++){
+
+                tmp+='.';
+
+            }
+
+            board.push_back(tmp);
+
+        }
+
+        go_through(vec,0,board,cols,pos_diag,neg_diag);
+
+        return vec;
+
+  
+
+    }
+
+};
+22. The number of beautiful subsets-> 
+     Overall logic was correct. Count is done only when the whole subset is finalized. Also backtracking is only for the case where no element in the current array has element that can satisfy the condition. So we use a for else loop so that if the break is encountered, the else doesnt execute
+     class Solution:
+
+    def beautifulSubsets(self, nums: List[int], k: int) -> int:
+
+        curr=[]
+
+        count=0
+
+        def backtrack(i):
+
+            nonlocal count
+
+            if i==len(nums):
+
+                if curr:
+
+                    count+=1
+
+                return
+
+            for j in curr:
+
+                if abs(nums[i]-j)==k:
+
+                    break
+
+            else:
+
+                curr.append(nums[i])
+
+                backtrack(i+1)
+
+                curr.pop()
+
+            backtrack(i+1)
+
+        backtrack(0)
+
+        return count
+23. Maximum length of a concatenated string with unique characters->
+     Always solve backtracking problems with this template
+     class Solution:
+
+    def maxLength(self, arr: List[str]) -> int:
+
+        charset=set()
+
+        def overlap(charset,s):
+
+            c=Counter(charset)+Counter(s)
+
+            return max(c.values())>1
+
+        def backtrack(i):
+
+            if(i==len(arr)):
+
+                return len(charset)
+
+            res=0
+
+            if not overlap(charset,arr[i]):
+
+                for c in arr[i]:
+
+                    charset.add(c)
+
+                res=backtrack(i+1)
+
+                for c in arr[i]:
+
+                    charset.remove(c)
+
+            return max(res,backtrack(i+1))
+
+        return backtrack(0)
+24. Find unique binary string->
+     
+     class Solution {
+
+    string dfs(int i, string &str, unordered_set<string> &s) {
+
+        if(s.find(str) == s.end()) return str;
+
+        str[i] = '1';
+
+        return dfs(i + 1, str, s);
+
+        str[i] = '0';
+
+        return dfs(i + 1, str, s);
+
+    }
+
+public:
+
+    string findDifferentBinaryString(vector<string>& nums) {
+
+        unordered_set<string> s(nums.begin(), nums.end());
+
+        string str(nums.size(), '0');
+
+        return dfs(0, str, s);
+
+    }
+
+};
+25. Splitting a string into descending consequtive values->
+     
+     Standard backtracking.
+     
+     long long MX = 999999999999;
+
+class Solution {
+
+public:
+
+    bool dfs(string &s, long long prev, int idx, int cnt) {
+
+        if(idx == s.size() ) return cnt > 1;
+
+        long long num = 0;
+
+        for(int i = idx; i < s.size(); i++) {
+
+            num = num *  10l + s[i] - '0';
+
+            if(num > MX) break;
+
+            if(num == prev - 1 || prev == -1) {
+
+                if(dfs(s, num, i + 1, cnt + 1)) return true;
+
+            }
+
+            if(num > prev && prev != -1) break;
+
+        }
+
+        return false;
+
+    }
+
+    bool splitString(string s) {
+
+        if(s.size() <= 1) return false;
+
+        return dfs(s, -1, 0, 0);
+
+    }
+
+};
+26. Partition to k equal sum subsets-> 
+     
+     class Solution {
+
+public:
+
+    bool backtrack(vector<int> &matchsticks,int i,vector<int> &sides,int l){
+
+        if(i==matchsticks.size()) return true;
+
+        for(int j=0;j<sides.size();j++){
+
+            if (j > 0 && sides[j] == sides[j - 1]) {
+
+                continue;
+
+            }
+
+            if((sides[j]+matchsticks[i])<=l){
+
+                sides[j]+=matchsticks[i];
+
+                if(backtrack(matchsticks,i+1,sides,l)){
+
+                    return true;
+
+                }
+
+                sides[j]-=matchsticks[i];
+
+            }
+
+        }
+
+        return false;
+
+    }
+
+    bool canPartitionKSubsets(vector<int>& matchsticks,int k) {
+
+        int summation=0;
+
+        for(int i=0;i<matchsticks.size();i++){
+
+            summation+=matchsticks[i];
+
+        }
+
+        if(summation%k!=0) return false;
+
+        summation/=k;
+
+        vector<int> vec(k,0);
+
+        return backtrack(matchsticks,0,vec,summation);
+
+    }
+
+};
+27. Restore IP Address->  
+     
+     class Solution:
+
+    def restoreIpAddresses(self, s: str) -> List[str]:
+
+        res=[]
+
+        if len(s)>12:
+
+            return res
+
+        def backtrack(i,dots,curr_ip):
+
+            if dots==4 and i==len(s):
+
+                res.append(curr_ip[:-1])
+
+                return
+
+            if dots>4:
+
+                return
+
+            for j in range(i,(min(i+3,len(s)))):
+
+                if int(s[i:j+1])<=255 and (i==j or s[i]!='0'):
+
+                    backtrack(j+1,dots+1,curr_ip+s[i:j+1]+'.')
+
+        backtrack(0,0,"")
+
+        return res
+28. Constrained subsequence sum-> 
+     
+     
+     class Solution {
+
+public:
+
+    int constrainedSubsetSum(vector<int>& nums, int k) {
+
+        int n = nums.size();
+
+        priority_queue<pair<int, int>> pq;
+
+  
+
+        pq.push({nums[0], 0});
+
+        int res=nums[0];
+
+  
+  
+
+    for(int i=1;i<n;i++){
+
+        while(i-pq.top().second>k){
+
+            pq.pop();
+
+        }
+
+        int value = pq.top().first;
+
+        int curr_max=max(nums[i], nums[i]+value);
+
+        res=max(curr_max, res);
+
+        pq.push({curr_max, i});
+
+    }
+
+    return res;
+
+  
+
+    }
+
+};
+29. Number of flowers in full bloom-> 
+     use 2 heaps, one for starting and one for ending. Sort the people array with respect to their values, and for each index use keep the count by incrementing the count for start and decrementing for the ones that ended.
+     class Solution {
+
+public:
+
+    vector<int> fullBloomFlowers(vector<vector<int>>& flowers, vector<int>& people) {
+
+        priority_queue<int> starting,ending;
+
+        vector<int> ans(people.size(),0);
+
+        vector<vector<int>> people2;
+
+        for(int i=0;i<people.size();i++){
+
+            people2.push_back({people[i],i});
+
+        }
+
+        sort(people2.begin(),people2.end());
+
+        int count=0;
+
+        for(int i=0;i<flowers.size();i++){
+
+            starting.push(-flowers[i][0]);
+
+            ending.push(-flowers[i][1]);
+
+        }
+
+        for(int i=0;i<people2.size();i++){
+
+            while(!starting.empty()){
+
+                if(-starting.top()<=people2[i][0]){
+
+                    starting.pop();
+
+                    count++;
+
+                }
+
+                else{
+
+                    break;
+
+                }
+
+            }
+
+            while(!ending.empty()){
+
+                if(-ending.top()<people2[i][0]){
+
+                    ending.pop();
+
+                    count--;
+
+                }
+
+                else{
+
+                    break;
+
+                }
+
+            }
+
+            ans[people2[i][1]]=count;
+
+        }
+
+        return ans;
+
+    }
+
+};
+30. Minimum cost to hire K workers->  
+     
+     class Solution:
+
+    def mincostToHireWorkers(self, quality: List[int], wage: List[int], k: int) -> float:
+
+        res= float("inf")
+
+        pairs= []
+
+        for i in range(len(quality)):
+
+            pairs.append((wage[i]/quality[i],quality[i]))
+
+        pairs.sort(key=lambda p:p[0])
+
+        max_heap=[]
+
+        total_quality=0
+
+        for ratio, q in pairs:
+
+            heapq.heappush(max_heap,-q)
+
+            total_quality+=q
+
+            if len(max_heap)>k:
+
+                total_quality+=heapq.heappop(max_heap)
+
+  
+
+            if len(max_heap)==k:
+
+                res=min(res,total_quality*ratio)
+
+        return res
+31. Maximum performance of a team-> 
+     If the priority queue has more elements, just pop the minimum and subtract from the summation. For each summation the minimum efficiency will be that of current element and then we multiply summation and efficiency to get the ans.
+     class Solution {
+
+public:
+
+    int maxPerformance(int n, vector<int>& speed, vector<int>& efficiency, int k) {
+
+        vector<pair<int, int>> engineers;
+
+        for (int i = 0; i < n; i++) {
+
+            engineers.push_back({efficiency[i], speed[i]});
+
+        }
+
+        // Sort by efficiency in descending order
+
+        sort(engineers.rbegin(), engineers.rend());
+
+        priority_queue<int, vector<int>, greater<int>> pq; // Min-heap to store the smallest speeds
+
+        long long speedSum = 0, maxPerformance = 0;
+
+        const int MOD = 1000000007;
+
+  
+
+        for (auto& [currEfficiency, currSpeed] : engineers) {
+
+            // Add current speed to the running sum
+
+            speedSum += currSpeed;
+
+            pq.push(currSpeed);
+
+            // If the size of the heap exceeds k, remove the smallest speed
+
+            if (pq.size() > k) {
+
+                speedSum -= pq.top();
+
+                pq.pop();
+
+            }
+
+            // Calculate the performance with the current efficiency
+
+            maxPerformance = max(maxPerformance, speedSum * currEfficiency);
+
+        }
+
+  
+
+        return maxPerformance % MOD;
+
+    }
+
+};
+32. Car pooling-> 
+     
+     this is how you sort using the 1st or second numbers in an array of arrays
+     
+      sort(trips.begin(), trips.end(), [](const vector<int>& a, const vector<int>& b) {
+
+        return (a[1] < b[1]) || (a[1] == b[1] && a[2] < b[2]);
+
+        });
+     
+     class Solution {
+
+public:
+
+    bool carPooling(vector<vector<int>>& trips, int capacity) {
+
+        if(trips.size()==0) return true;
+
+        sort(trips.begin(), trips.end(), [](const vector<int>& a, const vector<int>& b) {
+
+        return (a[1] < b[1]) || (a[1] == b[1] && a[2] < b[2]);
+
+        });
+
+        int curr_cap=0;
+
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+
+        for(int i=0;i<trips.size();i++){
+
+            while(!pq.empty()){
+
+                int val=pq.top().first,val2=pq.top().second;
+
+                if(trips[i][1]>=val){
+
+                    pq.pop();
+
+                    curr_cap-=val2;
+
+                }
+
+                else{
+
+                    break;
+
+                }
+
+            }
+
+            curr_cap+=trips[i][0];
+
+            pq.push({trips[i][2],trips[i][0]});
+
+            if(curr_cap>capacity) return false;
+
+        }
+
+        return true;
+
+  
+  
+
+    }
+
+};
+33. Longest happy string-> Simply use a heap, and if the last and 2nd last characters are equal, use the 2nd most common value
+     
+     class Solution {
+
+public:
+
+    string longestDiverseString(int a3, int b3, int c3) {
+
+        priority_queue<pair<int,char>> pq;
+
+        string res="";
+
+        if(a3>0){
+
+            pq.push({a3,'a'});
+
+        }
+
+        if(b3>0){
+
+            pq.push({b3,'b'});
+
+        }
+
+        if(c3>0){
+
+            pq.push({c3,'c'});
+
+        }
+
+        while(!pq.empty()){
+
+            int cnt=pq.top().first;
+
+            char c=pq.top().second;
+
+            pq.pop();
+
+            if(res.size()>1 && res[res.size()-1]==res[res.size()-2] && res[res.size()-1]==c){
+
+                if(pq.empty()){
+
+                    break;
+
+                }
+
+                int cnt2=pq.top().first;
+
+                char c2=pq.top().second;
+
+                pq.pop();
+
+                res+=c2;
+
+                cnt2--;
+
+                if(cnt2){
+
+                    pq.push({cnt2,c2});
+
+                }
+
+            }
+
+            else{
+
+                res+=c;
+
+                cnt--;
+
+            }
+
+            if(cnt){
+
+                pq.push({cnt,c});
+
+            }
+
+        }
+
+        return res;
+
+    }
+
+};
+34. Reorganize string-> Use a heap to store the characters alongwith the counts, keep a track of the previous, and push the previous in the next iteration.If previous exists but the heap is empty, there is no other way but to use the previous again which will make the string have 2 consecutive equal characters,so we output an empty string
+     
+     class Solution:
+
+    def reorganizeString(self, s: str) -> str:
+
+        count= Counter(s)
+
+        max_heap= [[-cnt,char] for char,cnt in count.items()]
+
+        heapq.heapify(max_heap)
+
+        prev=None
+
+        res = ''
+
+        while max_heap or prev:
+
+            if not max_heap and prev:
+
+                return ''
+
+            cnt,char=heapq.heappop(max_heap)
+
+            res +=char
+
+            cnt+=1
+
+            if prev:
+
+                heapq.heappush(max_heap,prev)
+
+                prev=None
+
+            if(cnt!=0):
+
+                prev=[cnt,char]
+
+        return res
+35. Process tasks using servers-> Use 2 heaps
+     
+     class Solution {
+
+public:
+
+    vector<int> assignTasks(vector<int>& servers, vector<int>& tasks) {
+
+        int n = servers.size();
+
+        int m = tasks.size();
+
+        // store {weight, server_index}
+
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> free_server_pq;
+
+        // store {end_time, server_index}, use long instead of int because the time maybe overflow
+
+        priority_queue<pair<long, long>, vector<pair<long, long>>, greater<pair<long, long>>> busy_server_pq;
+
+        vector<int> ans(m);
+
+        for (int i = 0; i < n; ++i) {
+
+            free_server_pq.push({servers[i], i});
+
+        }
+
+        long time = 0;
+
+        for (int i = 0; i < m; ++i) {
+
+            time = max(static_cast<long>(i), time);
+
+            if (free_server_pq.empty() && busy_server_pq.top().first > time) {
+
+                time = busy_server_pq.top().first;
+
+            }
+
+            while (!busy_server_pq.empty() && busy_server_pq.top().first <= time) {
+
+                auto &info = busy_server_pq.top();
+
+                int server_idx = static_cast<int>(info.second);
+
+                free_server_pq.push({servers[server_idx], server_idx});
+
+                busy_server_pq.pop();
+
+            }
+
+            auto &info = free_server_pq.top();
+
+            busy_server_pq.push({time + tasks[i], info.second});
+
+            ans[i] = info.second;
+
+            free_server_pq.pop();
+
+        }
+
+        return ans;
+
+    }
+
+};
+36. Single threaded CPU->
+     
+     class Solution:
+
+    def getOrder(self, tasks: List[List[int]]) -> List[int]:
+
+        for i,t in enumerate(tasks):
+
+            t.append(i)
+
+  
+
+        tasks.sort(key=lambda t:t[0])
+
+        res,min_heap=[],[]
+
+        i,time=0,tasks[0][0]
+
+        while min_heap or i<len(tasks):
+
+            while i<len(tasks) and time>=tasks[i][0]:
+
+                heapq.heappush(min_heap,[tasks[i][1],tasks[i][2]])
+
+                i+=1
+
+            if not min_heap:
+
+                time=tasks[i][0]
+
+            else:
+
+                proc_time,index=heapq.heappop(min_heap)
+
+                time+=proc_time
+
+                res.append(index)
+
+        return res
+37. Maximum subsequence score-> 
+     
+     class Solution:
+
+    def maxScore(self, nums1: List[int], nums2: List[int], k: int) -> int:
+
+        pairs=[(n1,n2) for n1,n2 in zip(nums1,nums2)]
+
+        pairs=sorted(pairs,key=lambda p : p[1],reverse=True)
+
+        min_heap=[]
+
+        n1_sum=0
+
+        res=0
+
+        for n1,n2 in pairs:
+
+            n1_sum+=n1
+
+            # n2_min=min(n2_min,n2)
+
+            heapq.heappush(min_heap,n1)
+
+            if len(min_heap)>k:
+
+                n1_pop=heapq.heappop(min_heap)
+
+                n1_sum-=n1_pop
+
+            if len(min_heap)==k:
+
+                res= max(res,n1_sum*n2)
+
+        return res
+38. Minimize deviation in an array->
+     
+     https://www.youtube.com/watch?v=boHNFptxo2A
+     
+     class Solution:
+
+    def minimumDeviation(self, nums: List[int]) -> int:
+
+        min_heap,heap_max=[],0
+
+        for n in nums:
+
+            tmp=n
+
+            while n%2==0:
+
+                n=n//2
+
+            min_heap.append((n,max(tmp,2*n)))
+
+            heap_max=max(heap_max,n)
+
+        res=float("inf")
+
+        heapq.heapify(min_heap)
+
+        while len(min_heap)==len(nums):
+
+            n,n_max=heapq.heappop(min_heap)
+
+            res= min(res,heap_max-n)
+
+            if n_max>n:
+
+                heapq.heappush(min_heap,(n*2,n_max))
+
+                heap_max=max(heap_max,n*2)
+
+        return res
+111.Furthest building you can reach-> Use a max heap to store the maximum value encountered till now. If you can use a brick, use it, if not, retroactively use a ladder in the maximum one till now, and use bricks in current
+class Solution {
+
+public:
+
+    int furthestBuilding(vector<int>& heights, int bricks, int ladders) {
+
+        priority_queue<int> pq;
+
+        int ans=0;
+
+        for(int i=1;i<heights.size();i++){
+
+            if(heights[i]>heights[i-1]){
+
+                int tmp=heights[i]-heights[i-1];
+
+                pq.push(tmp);
+
+                bricks-=tmp;
+
+                if(bricks>=0){
+
+                    ans=i;
+
+                    continue;
+
+                }
+
+                else{
+
+                    if(ladders>0){
+
+                        ladders--;
+
+                        int tmp2=pq.top();
+
+                        bricks+=tmp2;
+
+                        ans=i;
+
+                        pq.pop();
+
+                        continue;
+
+                    }
+
+                    else{
+
+                        break;
+
+                    }
+
+                }
+
+            }
+
+            else{
+
+                ans=i;
+
+            }
+
+        }
+
+        return ans;
+
+    }
+
+};
+
+39. Design twitter->
+     Use a priority queue for the latest tweets. In the priority queue order using the time of the tweet and only select the latest 10. 
+     
+     class Twitter {
+
+public:
+
+    unordered_map<int,set<int>> user_map;
+
+    unordered_map<int,vector<vector<int>>> user_tweet_map;
+
+    int count=0;
+
+    Twitter() {
+
+  
+  
+
+    }
+
+    void postTweet(int userId, int tweetId) {
+
+        user_tweet_map[userId].push_back({count,tweetId});
+
+        count++;
+
+    }
+
+    vector<int> getNewsFeed(int userId) {
+
+        vector<int> res;
+
+        priority_queue<vector<int>> min_heap;
+
+        user_map[userId].insert(userId);
+
+        for(auto itr: user_map[userId]){
+
+            if (user_tweet_map.find(itr)!=user_tweet_map.end()){
+
+                int tweet_id=user_tweet_map[itr][user_tweet_map[itr].size()-1][1];
+
+                int count2=user_tweet_map[itr][user_tweet_map[itr].size()-1][0];
+
+                min_heap.push({count2,tweet_id,itr,user_tweet_map[itr].size()-1-1});
+
+            }}
+
+        while (!min_heap.empty() && res.size()<10){
+
+            vector<int> tmp2=min_heap.top();
+
+            min_heap.pop();
+
+            res.push_back(tmp2[1]);
+
+            if (tmp2[3]>=0){
+
+            int count3=user_tweet_map[tmp2[2]][tmp2[3]][0],tweet_id3=user_tweet_map[tmp2[2]][tmp2[3]][1];
+
+            min_heap.push({count3,tweet_id3,tmp2[2],tmp2[3]-1});}
+
+        }
+
+  
+
+        return res;
+
+    }
+
+    void follow(int followerId, int followeeId) {
+
+        user_map[followerId].insert(followeeId);
+
+    }
+
+    void unfollow(int followerId, int followeeId) {
+
+        user_map[followerId].erase(followeeId);
+
+    }
+
+};
+40. Distribute coins in a binary tree-> 
+     
+     # Definition for a binary tree node.
+
+# class TreeNode:
+
+#     def __init__(self, val=0, left=None, right=None):
+
+#         self.val = val
+
+#         self.left = left
+
+#         self.right = right
+
+class Solution:
+
+    def distributeCoins(self, root: Optional[TreeNode]) -> int:
+
+        self.res=0
+
+        def dfs(cur):
+
+            if not cur:
+
+                return [0,0]
+
+            left_size,left_coins=dfs(cur.left)
+
+            right_size,right_coins=dfs(cur.right)
+
+            size = 1+left_size+right_size
+
+            coins= cur.val+left_coins+right_coins
+
+            self.res+=abs(size-coins)
+
+            return [size,coins]
+
+        dfs(root)
+
+        return self.res
+41. Delete leaves with a given value->
+     Need to keep deleting till its impossible. Just recursively delete in the same function for each node
+     
+     /**
+
+ * Definition for a binary tree node.
+
+ * struct TreeNode {
+
+ *     int val;
+
+ *     TreeNode *left;
+
+ *     TreeNode *right;
+
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+
+ * };
+
+ */
+
+class Solution {
+
+public:
+
+    TreeNode* removeLeafNodes(TreeNode* root, int target) {
+
+        if(root==NULL) return NULL;
+
+        if(root!=NULL && root->left==NULL && root->right==NULL && root->val==target){
+
+            return NULL;
+
+        }
+
+        if(root!=NULL){
+
+            root->left=removeLeafNodes(root->left,target);
+
+            root->right=removeLeafNodes(root->right,target);
+
+        }
+
+        if(root!=NULL && root->left==NULL && root->right==NULL && root->val==target){
+
+            return NULL;
+
+        }
+
+        return root;
+
+    }
+
+};
+42. Pseudo palindromic paths in the binary tree->
+     
+     class Solution {
+
+public:
+
+    void dfs(TreeNode* root, int bitmask, int &result) {
+
+        if (!root) return;
+
+        // Toggle the bit corresponding to the current node's value
+
+        bitmask ^= (1 << root->val);
+
+  
+
+        // If it's a leaf node, check if the path is pseudo-palindromic
+
+        if (!root->left && !root->right) {
+
+            // A path is pseudo-palindromic if at most one bit is set in the bitmask
+
+            if ((bitmask & (bitmask - 1)) == 0) {
+
+                result++;
+
+            }
+
+        }
+
+  
+
+        // Recurse for left and right children
+
+        if (root->left) dfs(root->left, bitmask, result);
+
+        if (root->right) dfs(root->right, bitmask, result);
+
+    }
+
+  
+
+    int pseudoPalindromicPaths(TreeNode* root) {
+
+        int result = 0;
+
+        dfs(root, 0, result);
+
+        return result;
+
+    }
+
+};
+43. Validate binary tree nodes-> Find the root if any node doesn't have any parent. Then do a dfs from the root and find if we can visit all nodes and we have a cycle or not
+     
+     class Solution {
+
+public:
+
+    void dfs(unordered_map<int,vector<int>> &mp,set<int> &s,int curr,bool &cycle){
+
+        if(mp.find(curr)==mp.end()){
+
+            if(s.find(curr)!=s.end()){
+
+                cycle=true;
+
+                return;
+
+            }
+
+            s.insert(curr);
+
+            return;
+
+        }
+
+        if(s.find(curr)!=s.end()){
+
+            cycle=true;
+
+            return;
+
+        }
+
+        s.insert(curr);
+
+        for(int i=0;i<mp[curr].size();i++){
+
+  
+
+            dfs(mp,s,mp[curr][i],cycle);
+
+        }
+
+  
+
+    }
+
+    bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
+
+        unordered_map<int,vector<int>> mp;
+
+        int root_node=-1;
+
+        for(int i=0;i<n;i++){
+
+            if(leftChild[i]!=-1){
+
+                mp[i].push_back(leftChild[i]);
+
+            }
+
+            if(rightChild[i]!=-1){
+
+                mp[i].push_back(rightChild[i]);
+
+            }
+
+  
+
+        }
+
+        set<int> s;
+
+        set<int> s2;
+
+        for(auto itr: mp){
+
+            // cout<<itr.first<<" ";
+
+            for(int i=0;i<itr.second.size();i++){
+
+                s2.insert(itr.second[i]);
+
+                // cout<<itr.second[i]<<" ";
+
+            }
+
+            // cout<<endl;
+
+        }
+
+        // if
+
+        for(int i=0;i<n;i++){
+
+            if(s2.find(i)==s2.end()){
+
+                root_node=i;
+
+            }
+
+        }
+
+        // cout<<root_node;
+
+        if(root_node==-1) return false;
+
+        bool cycle=false;
+
+        // for(auto itr: mp){
+
+        //     dfs(mp,s,itr.first,cycle);
+
+        // }
+
+        dfs(mp,s,root_node,cycle);
+
+        if(cycle) return false;
+
+        return s.size()==n;
+
+  
+
+    }
+
+};
+44. Trim a binary search tree-> Recursively visit each node, if the node satisfies the condition, recursively run the trim functions in both left and right subtree and assign it to the root.left and root.right respectively
+     
+     if not root:
+
+            return root
+
+        if root.val>high:
+
+            return self.trimBST(root.left,low,high)
+
+        if root.val<low:
+
+            return self.trimBST(root.right,low,high)
+
+        root.left=self.trimBST(root.left,low,high)
+
+        root.right=self.trimBST(root.right,low,high)
+
+        return root
+45. All possible full binary trees-> The main idea is just brute forcing all the solutions through recursion. This won't get accepted and will give TLE but we can apply dp in this to make it faster
+     def backtrack(n):
+
+            if n==0:
+
+                return []
+
+            if n==1:
+
+                return [TreeNode()]
+
+            res = []
+
+            for l in range(n):
+
+                r=n-l-1
+
+                left_tree,right_tree=backtrack(l),backtrack(r)
+
+                for t1 in left_tree:
+
+                    for t2 in right_tree:
+
+                        res.append(TreeNode(0,t1,t2))
+
+            return res
+
+        return backtrack(n)
+46. Operations on tree-> 
+     
+     class LockingTree:
+
+  
+
+    def __init__(self, parent: List[int]):
+
+        self.parent=parent
+
+        self.locked=[None]*len(parent)
+
+        self.child={i:[] for i in range(len(parent))}
+
+        for i in range(1,len(parent)):
+
+            self.child[parent[i]].append(i)
+
+  
+
+    def lock(self, num: int, user: int) -> bool:
+
+        if self.locked[num]: return False
+
+        self.locked[num]=user
+
+        return True
+
+  
+  
+
+    def unlock(self, num: int, user: int) -> bool:
+
+        if self.locked[num]!=user: return False
+
+        self.locked[num]=None
+
+        return True
+
+  
+
+    def upgrade(self, num: int, user: int) -> bool:
+
+        i=num
+
+        while i!=-1:
+
+            if self.locked[i]:
+
+                return False
+
+            i=self.parent[i]
+
+        locked_count,q=0,deque([num])
+
+        while q:
+
+            n=q.popleft()
+
+            if self.locked[n]:
+
+                self.locked[n]=None
+
+                locked_count+=1
+
+            q.extend(self.child[n])
+
+        if locked_count>0:
+
+            self.locked[num]=user
+
+  
+
+        return locked_count>0
+
+  
+  
+
+# Your LockingTree object will be instantiated and called as such:
+
+# obj = LockingTree(parent)
+
+# param_1 = obj.lock(num,user)
+
+# param_2 = obj.unlock(num,user)
+
+# param_3 = obj.upgrade(num,user)
+47. House Robber III-> Do a dfs, and for each value, either we include the root or we don't include the root. If we include the root, we can only take the value 2 before in the left_pair and 2 after in the right_pair. If we don't we can take any maximum
+     
+     # Definition for a binary tree node.
+
+# class TreeNode:
+
+#     def __init__(self, val=0, left=None, right=None):
+
+#         self.val = val
+
+#         self.left = left
+
+#         self.right = right
+
+class Solution:
+
+    def rob(self, root: Optional[TreeNode]) -> int:
+
+        def dfs(root):
+
+            if not root:
+
+                return [0,0]
+
+            left_pair=dfs(root.left)
+
+            right_pair=dfs(root.right)
+
+            with_root=root.val+left_pair[1]+right_pair[1]
+
+            without_root=max(left_pair[0],left_pair[1])+max(right_pair[0],right_pair[1])
+
+            return [with_root,without_root]
+
+        a,b=dfs(root)
+
+        return max(a,b)
+48. Unique binary search trees II-> 
+     
+     # Definition for a binary tree node.
+
+# class TreeNode:
+
+#     def __init__(self, val=0, left=None, right=None):
+
+#         self.val = val
+
+#         self.left = left
+
+#         self.right = right
+
+class Solution:
+
+    def generateTrees(self, n: int) -> List[Optional[TreeNode]]:
+
+        def generate(left,right):
+
+            if(left==right):
+
+                return [TreeNode(left)]
+
+            if left>right:
+
+                return [None]
+
+            res = []
+
+            for val in range(left,right+1):
+
+                for left_tree in generate(left,val-1):
+
+                   for right_tree in generate(val+1,right):
+
+                        root=TreeNode(val,left_tree,right_tree)
+
+                        res.append(root)
+
+            return res
+
+        return generate(1,n)
+49. Unique binary search trees-> Simple recursion. Just for each root node, solve the subproblems
+     
+     class Solution {
+
+public:
+
+    int numTrees(int n) {
+
+        if(n==1||n==0) return 1;
+
+        int ans=0;
+
+        for(int i=1;i<=n;i++){
+
+            ans+=(numTrees(i-1)*numTrees(n-i));
+
+        }
+
+        return ans;
+
+    }
+
+};
+
+50. Time needed to inform all employees-> Need to do either a bfs or dfs. Doing level order traversal and adding the maximum won't work because the process is done in parallel
+    
+    class Solution {
+
+public:
+
+    int numOfMinutes(int n, int headID, vector<int>& manager, vector<int>& informTime) {
+
+
+        int res = 0, len, currCumulatedTime, currNode;
+
+        pair<int, int> currNodeInfo;
+
+        // getting the graph in a more navigable format
+
+        vector<vector<int>> paths(n);
+
+        for (int id = 0; id < n; id++) if (id != headID) paths[manager[id]].push_back(id);
+
+        // preparing layers for a BFS approach to be in the <cumulated time, id> format
+
+        queue<pair<int, int>> layer;
+
+        layer.push({0, headID});
+
+        while (layer.size()) {
+
+            len = layer.size();
+
+            for (int i = 0; i < len; i++) {
+
+                // extracting the stored node information
+
+                currNodeInfo = layer.front();
+
+                currCumulatedTime = currNodeInfo.first;
+
+                currNode = currNodeInfo.second;
+
+                // adding more nodes to be connected if this is not a terminal one
+
+                if (paths[currNode].size()) {
+
+                    for (auto node: paths[currNode]) layer.push({currCumulatedTime + informTime[currNode], node});
+
+                }
+
+                // else updating res
+
+                else res = max(currCumulatedTime, res);
+
+                // removing the parsed node from the queue
+
+                layer.pop();
+
+            }
+
+        }
+
+        return res;
+
+    }
+
+};
+51. Maximum width of a binary tree->
+    
+    # Definition for a binary tree node.
+
+# class TreeNode:
+
+#     def __init__(self, val=0, left=None, right=None):
+
+#         self.val = val
+
+#         self.left = left
+
+#         self.right = right
+
+class Solution:
+
+    def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+
+        res=0
+
+        q = deque([[root,1,0]])
+
+        prev_level,prev_num=0,1
+
+        while q:
+
+            node,num,level=q.popleft()
+
+            if level>prev_level:
+
+                prev_level=level
+
+                prev_num=num
+
+            res= max(res,num-prev_num+1)
+
+            if node.left:
+
+                q.append([node.left,2*num,level+1])
+
+            if node.right:
+
+                q.append([node.right,2*num+1,level+1])
+
+        return res
+52. Construct binary tree from inorder and postorder traversal->
+    
+    # Definition for a binary tree node.
+
+# class TreeNode:
+
+#     def __init__(self, val=0, left=None, right=None):
+
+#         self.val = val
+
+#         self.left = left
+
+#         self.right = right
+
+class Solution:
+
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+
+        if not inorder:
+
+            return None
+
+        root=TreeNode(postorder.pop())
+
+        idx=inorder.index(root.val)
+
+        root.right=self.buildTree(inorder[idx+1:],postorder)
+
+        root.left=self.buildTree(inorder[0:idx],postorder)
+
+        return root
+53. Check completeness of binary tree-> Put the nodes in a queue in bfs/level order manner from left to right. If nullptr is encountered once, we shouldn't get any node with value ever again until the queue is empty. If we do its incomplete else its complete.
+54. Find duplicate subtrees->Make strings and map it based on whether the string for the whole subtree. If the string is repeating/duplicate, append in the answer vector
+    
+    /**
+
+ * Definition for a binary tree node.
+
+ * struct TreeNode {
+
+ *     int val;
+
+ *     TreeNode *left;
+
+ *     TreeNode *right;
+
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+
+ * };
+
+ */
+
+class Solution {
+
+public:
+
+    string dfs(TreeNode* root, unordered_map<string,int> &mp,vector<TreeNode*> &result){
+
+        if(root==nullptr) return "#";
+
+        string serialized=to_string(root->val)+','+dfs(root->left,mp,result)+','+dfs(root->right,mp,result);
+
+        mp[serialized]++;
+
+        if(mp[serialized]==2){
+
+            result.push_back(root);
+
+        }
+
+        return serialized;
+
+    }
+
+    vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
+
+        unordered_map<string,int> mp;
+
+        vector<TreeNode*> vec;
+
+        dfs(root,mp,vec);
+
+        return vec;
+
+  
+
+    }
+
+};
+55. Construct Quad Tree-> Recursively in each dfs add the nodes of the tree
+    
+    """
+
+# Definition for a QuadTree node.
+
+class Node:
+
+    def __init__(self, val, isLeaf, topLeft, topRight, bottomLeft, bottomRight):
+
+        self.val = val
+
+        self.isLeaf = isLeaf
+
+        self.topLeft = topLeft
+
+        self.topRight = topRight
+
+        self.bottomLeft = bottomLeft
+
+        self.bottomRight = bottomRight
+
+"""
+
+  
+
+class Solution:
+
+    def construct(self, grid: List[List[int]]) -> 'Node':
+
+        def dfs(n,r,c):
+
+            all_same=True
+
+            for i in range(n):
+
+                for j in range(n):
+
+                    if(grid[r][c]!=grid[r+i][c+j]):
+
+                        all_same=False
+
+                        break
+
+            if all_same:
+
+                return Node(grid[r][c],True)
+
+            n=n//2
+
+            top_left=dfs(n,r,c)
+
+            top_right=dfs(n,r,c+n)
+
+            bottom_left=dfs(n,r+n,c)
+
+            bottom_right=dfs(n,r+n,c+n)
+
+            return Node(0,False,top_left,top_right,bottom_left,bottom_right)
+
+        return dfs(len(grid),0,0)
+56. Minimum time to collect all apples in the apple tree-> Do a dfs and  recursively for each node, check if it has apples or not, and if it does return 2 to the parent
+    
+    class Solution {
+
+public:
+
+    int dfs(unordered_map<int,vector<int>> &mp,vector<bool>& hasApple,int curr,int par){
+
+        int time=0;
+
+        for(int i=0;i<mp[curr].size();i++){
+
+            if(mp[curr][i]==par) continue;
+
+            int child_time = dfs(mp,hasApple,mp[curr][i],curr);
+
+            if(child_time>0 || hasApple[mp[curr][i]]){
+
+                time+=2+child_time;
+
+            }
+
+        }
+
+        return time;
+
+    }
+
+    int minTime(int n, vector<vector<int>>& edges, vector<bool>& hasApple) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(int i=0;i<edges.size();i++){
+
+            mp[edges[i][0]].push_back(edges[i][1]);
+
+            mp[edges[i][1]].push_back(edges[i][0]);
+
+        }
+
+        return dfs(mp,hasApple,0,-1);
+
+  
+
+    }
+
+};
+57. Delete node in a bst->
+    /**
+
+ * Definition for a binary tree node.
+
+ * struct TreeNode {
+
+ *     int val;
+
+ *     TreeNode *left;
+
+ *     TreeNode *right;
+
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+
+ * };
+
+ */
+
+class Solution {
+
+public:
+
+    TreeNode* deleteNode(TreeNode* root, int key) {
+
+        if(root==nullptr) return nullptr;
+
+        if(key>root->val){
+
+            root->right=deleteNode(root->right,key);
+
+        }
+
+        else if(key<root->val){
+
+            root->left=deleteNode(root->left,key);
+
+        }
+
+        else{
+
+            if(!root->left){
+
+                return root->right;
+
+            }
+
+            else if(!root->right){
+
+                return root->left;
+
+            }
+
+            TreeNode* cur=root->right;
+
+            while(cur->left){
+
+                cur=cur->left;
+
+            }
+
+            root->val=cur->val;
+
+            root->right=deleteNode(root->right,root->val);
+
+        }
+
+        return root;
+
+    }
+
+};
+58. Insert in binary search tree-> Go through the binary search tree and based on whether the value is greater than or less than val, insert
+    /**
+
+ * Definition for a binary tree node.
+
+ * struct TreeNode {
+
+ *     int val;
+
+ *     TreeNode *left;
+
+ *     TreeNode *right;
+
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+
+ * };
+
+ */
+
+class Solution {
+
+public:
+
+    TreeNode* insertIntoBST(TreeNode* root, int val) {
+
+        if(root==nullptr){
+
+            return new TreeNode(val);
+
+        }
+
+        TreeNode* curr=root;
+
+        while(true){
+
+            if(val>curr->val){
+
+                if(!curr->right){
+
+                    curr->right=new TreeNode(val);
+
+                    return root;
+
+                }
+
+                curr=curr->right;
+
+            }
+
+            else{
+
+                if(!curr->left){
+
+                    curr->left=new TreeNode(val);
+
+                    return root;
+
+                }
+
+                curr=curr->left;
+
+            }
+
+        }
+
+        return root;
+
+    }
+
+};
+59. LRU Cache-> 
+    
+    class Node:
+
+    def __init__(self,key,val):
+
+        self.key,self.val=key,val
+
+        self.prev=self.next=None
+
+class LRUCache:
+
+  
+
+    def __init__(self, capacity: int):
+
+        self.cap=capacity
+
+        self.cache={}
+
+        self.left,self.right=Node(0,0),Node(0,0)
+
+        self.left.next,self.right.prev=self.right,self.left
+
+  
+
+    def remove(self,node):
+
+        prev,nxt=node.prev,node.next
+
+        prev.next=nxt
+
+        nxt.prev=prev
+
+  
+  
+
+    def insert(self,node):
+
+        prev,nxt=self.right.prev,self.right
+
+        prev.next=nxt.prev=node
+
+        node.next,node.prev=nxt,prev
+
+  
+
+    def get(self, key: int) -> int:
+
+        if key in self.cache:
+
+            self.remove(self.cache[key])
+
+            self.insert(self.cache[key])
+
+  
+
+            return self.cache[key].val
+
+        return -1
+
+  
+
+    def put(self, key: int, value: int) -> None:
+
+        if key in self.cache:
+
+            self.remove(self.cache[key])
+
+        self.cache[key]=Node(key,value)        
+
+        self.insert(self.cache[key])
+
+        if len(self.cache)>self.cap:
+
+            lru=self.left.next
+
+            self.remove(lru)
+
+            del self.cache[lru.key]
+60. Insertion Sort List-> 
+    
+    ListNode* dummy = new ListNode(0);
+
+        dummy -> next = head;
+
+        ListNode *pre = dummy, *cur = head;
+
+        while (cur) {
+
+            if ((cur -> next) && (cur -> next -> val < cur -> val)) {
+
+                while ((pre -> next) && (pre -> next -> val < cur -> next -> val)) {
+
+                    pre = pre -> next;
+
+                }
+
+                ListNode* temp = pre -> next;
+
+                pre -> next = cur -> next;
+
+                cur -> next = cur -> next -> next;
+
+                pre -> next -> next = temp;
+
+                pre = dummy;
+
+            }
+
+            else {
+
+                cur = cur -> next;
+
+            }
+
+        }
+
+        return dummy -> next;
+61. Design a circular queue-> 
+    
+    Use a doubly linked list
+    
+    class ListNode:
+
+    def __init__(self,val,nxt,prev):
+
+        self.val,self.next,self.prev=val,nxt,prev
+
+class MyCircularQueue:
+
+  
+
+    def __init__(self, k: int):
+
+        self.space=k
+
+        self.left=ListNode(0,None,None)
+
+        self.right=ListNode(0,None,self.left)
+
+        self.left.next=self.right
+
+  
+
+    def enQueue(self, value: int) -> bool:
+
+        if(self.space==0):
+
+            return False
+
+        cur=ListNode(value,self.right,self.right.prev)
+
+        self.right.prev.next=cur
+
+        self.right.prev=cur
+
+        self.space-=1
+
+        return True
+
+  
+
+    def deQueue(self) -> bool:
+
+        if(self.isEmpty()):
+
+            return False
+
+        self.left.next=self.left.next.next
+
+        self.left.next.prev=self.left
+
+        self.space+=1
+
+        return True
+
+  
+
+    def Front(self) -> int:
+
+        if(self.isEmpty()):
+
+            return -1
+
+        return self.left.next.val
+
+  
+
+    def Rear(self) -> int:
+
+        if(self.isEmpty()):
+
+            return -1
+
+        return self.right.prev.val
+
+  
+
+    def isEmpty(self) -> bool:
+
+        return self.left.next==self.right
+
+  
+
+    def isFull(self) -> bool:
+
+        return self.space==0
+
+  
+  
+
+# Your MyCircularQueue object will be instantiated and called as such:
+
+# obj = MyCircularQueue(k)
+
+# param_1 = obj.enQueue(value)
+
+# param_2 = obj.deQueue()
+
+# param_3 = obj.Front()
+
+# param_4 = obj.Rear()
+
+# param_5 = obj.isEmpty()
+
+# param_6 = obj.isFull()
+62. Reverse Linked List II-> 
+    Create a dummy node. 
+    
+
+if not head or m == n: return head
+        p = dummy = ListNode(None)
+        dummy.next = head
+        for i in range(m-1): p = p.next
+        tail = p.next
+
+        for i in range(n-m):
+            tmp = p.next                  # a)
+            p.next = tail.next            # b)
+            tail.next = tail.next.next    # c)
+            p.next.next = tmp             # d)
+        return dummy.next
+
+63. Find in mountain array-> Triple binary search
+    
+    /**
+
+ * // This is the MountainArray's API interface.
+
+ * // You should not implement it, or speculate about its implementation
+
+ * class MountainArray {
+
+ *   public:
+
+ *     int get(int index);
+
+ *     int length();
+
+ * };
+
+ */
+
+  
+
+class Solution {
+
+public:
+
+    int findInMountainArray(int target, MountainArray &A) {
+
+        int n = A.length(), l, r, m, peak = 0;
+
+        // find index of peak
+
+        l  = 0;
+
+        r = n - 1;
+
+        while (l < r) {
+
+            m = (l + r) / 2;
+
+            if (A.get(m) < A.get(m + 1))
+
+                l = peak = m + 1;
+
+            else
+
+                r = m;
+
+        }
+
+        // find target in the left of peak
+
+        l = 0;
+
+        r = peak;
+
+        while (l <= r) {
+
+            m = (l + r) / 2;
+
+            if (A.get(m) < target)
+
+                l = m + 1;
+
+            else if (A.get(m) > target)
+
+                r = m - 1;
+
+            else
+
+                return m;
+
+        }
+
+        // find target in the right of peak
+
+        l = peak;
+
+        r = n - 1;
+
+        while (l <= r) {
+
+            m = (l + r) / 2;
+
+            if (A.get(m) > target)
+
+                l = m + 1;
+
+            else if (A.get(m) < target)
+
+                r = m - 1;
+
+            else
+
+                return m;
+
+        }
+
+        return -1;
+
+    }
+
+};
+64. Split array largest sum-> Do a binary search on the values possible
+    
+    class Solution:
+
+    def splitArray(self, nums: List[int], k: int) -> int:
+
+        def can_split(largest):
+
+            subarr=0
+
+            cursum=0
+
+            for n in nums:
+
+                cursum+=n
+
+                if cursum>largest:
+
+                    subarr+=1
+
+                    cursum=n
+
+            if(subarr+1<=k):
+
+                return True
+
+            return False
+
+        l,r=max(nums),sum(nums)
+
+        res=r
+
+        while(l<=r):
+
+            mid=l+(r-l)//2
+
+            if(can_split(mid)):
+
+                res=mid
+
+                r=mid-1
+
+            else:
+
+                l=mid+1
+
+        return res
+65. Populating next right pointers in each node-> Do a bfs and in a queue populate the next nodes
+    
+    if(!root) return nullptr;
+
+        queue<Node*> q;
+
+        q.push(root);        
+
+        while(size(q)) {
+
+            Node* rightNode = nullptr;                    // set rightNode to null initially
+
+            for(int i = size(q); i; i--) {                // traversing each level
+
+                auto cur = q.front(); q.pop();            // pop a node from current level and,
+
+                cur -> next = rightNode;                  // set its next pointer to rightNode
+
+                rightNode = cur;                          // update rightNode as cur for next iteration
+
+                if(cur -> right)                          // if a child exists
+
+                    q.push(cur -> right),                 // IMP: push right first to do right-to-left BFS
+
+                    q.push(cur -> left);                  // then push left
+
+            }
+
+        }
+
+        return root;
+66. Maximum number of removable characters-> 
+    
+    class Solution {
+
+public:
+
+    int maximumRemovals(string s, string p, vector<int>& rem) {
+
+        int l = 0, r = rem.size();
+
+        vector<int> map(s.size(), INT_MAX);
+
+        for (int i = 0; i < rem.size(); ++i)
+
+            map[rem[i]] = i;
+
+        while (l < r) {
+
+            int m = (l + r + 1) / 2, j = 0;
+
+            for (int i = 0; i < s.size() && j < p.size(); ++i)
+
+                if (map[i] >= m && s[i] == p[j])
+
+                    ++j;
+
+            if (j == p.size())
+
+                l = m;
+
+            else
+
+                r = m - 1;
+
+        }
+
+        return l;
+
+  
+
+    }
+
+};
+67. Minimize the maximum difference of pairs-> Do binary search on the range of the numbers in the array. The validity is determined for each threshold
+    
+    class Solution {
+
+public:
+
+    bool is_valid(vector<int> &nums,int threshold, int p){
+
+        int i=0,count=0;
+
+        while(i<nums.size()-1){
+
+            if(abs(nums[i]-nums[i+1])<=threshold){
+
+                count++;
+
+                i+=2;
+
+            }
+
+            else{
+
+                i++;
+
+            }
+
+            if(count==p) return true;
+
+        }
+
+        return false;
+
+    }
+
+    int minimizeMax(vector<int>& nums, int p) {
+
+        sort(nums.begin(),nums.end());
+
+        if(p==0) return 0;
+
+        int l=0,r=nums[nums.size()-1];
+
+        int res=INT_MAX;
+
+        while(l<=r){
+
+            int mid=l+(r-l)/2;
+
+            if(is_valid(nums,mid,p)){
+
+                res=mid;
+
+                r=mid-1;
+
+            }
+
+            else{
+
+                l=mid+1;
+
+            }
+
+        }
+
+        return res;
+
+  
+  
+
+    }
+
+};
+68. Sum of subarray minimums-> Create monotonic stack
+    
+    class Solution {
+
+public:
+
+    int sumSubarrayMins(vector<int>& A) {
+
+        stack<pair<int, int>> in_stk_p, in_stk_n;
+
+        // left is for the distance to previous less element
+
+        // right is for the distance to next less element
+
+        vector<int> left(A.size()), right(A.size());
+
+        //initialize
+
+        for(int i = 0; i < A.size(); i++) left[i] =  i + 1;
+
+        for(int i = 0; i < A.size(); i++) right[i] = A.size() - i;
+
+        for(int i = 0; i < A.size(); i++){
+
+        // for previous less
+
+        while(!in_stk_p.empty() && in_stk_p.top().first > A[i]) in_stk_p.pop();
+
+        left[i] = in_stk_p.empty()? i + 1: i - in_stk_p.top().second;
+
+        in_stk_p.push({A[i],i});
+
+        // for next less
+
+        while(!in_stk_n.empty() && in_stk_n.top().first > A[i]){
+
+            auto x = in_stk_n.top();in_stk_n.pop();
+
+            right[x.second] = i - x.second;
+
+        }
+
+        in_stk_n.push({A[i], i});
+
+        }
+
+  
+
+        long long ans = 0, mod = 1000000007;
+
+        for(int i = 0; i < A.size(); i++){
+
+        ans = (ans + (long long)((long long)A[i]*(long long)left[i]*(long long)right[i]))%mod;
+
+        }
+
+        return ans;
+
+    }
+
+};
+69. Maximum frequency stack-> 
+    
+    Use a grouping stack with frequency
+    
+    class FreqStack {
+
+public:
+
+    FreqStack() {
+
+    }
+
+    unordered_map<int, int> freq;                   // Frequency map for each value
+
+    unordered_map<int, stack<int>> group;          // Group stacks by frequency
+
+    int maxFreq=INT_MIN;
+
+    void push(int val) {
+
+        freq[val]++;
+
+        int f = freq[val];
+
+        // Update the maximum frequency
+
+        maxFreq = max(maxFreq, f);
+
+        // Add the value to the stack for this frequency
+
+        group[f].push(val);
+
+    }
+
+    int pop() {
+
+        int val = group[maxFreq].top();
+
+        group[maxFreq].pop();
+
+        // Decrement the frequency of the value
+
+        freq[val]--;
+
+        // If no elements are left in the max frequency group, reduce maxFreq
+
+        if (group[maxFreq].empty()) {
+
+            maxFreq--;
+
+        }
+
+        return val;
+
+    }
+
+};
+
+  
+
+/**
+
+ * Your FreqStack object will be instantiated and called as such:
+
+ * FreqStack* obj = new FreqStack();
+
+ * obj->push(val);
+
+ * int param_2 = obj->pop();
+
+ */
+70. Flatten nested list iterator->
+    
+    class NestedIterator {
+
+private:
+
+    // The list of NestedInteger elements to be flattened
+
+    vector<NestedInteger> nestedList;
+
+  
+
+    // The flattened list of integers
+
+    vector<int> flattenedList;
+
+  
+
+    // Index to keep track of the current position in the flattenedList
+
+    int currentIndex = 0;
+
+  
+
+    // Recursively flattens the nested list and adds integers to the flattenedList
+
+    void flatten(vector<NestedInteger>& currentList) {
+
+        for (int i = 0; i < currentList.size(); i++) {
+
+            if (currentList[i].isInteger()) {
+
+                flattenedList.push_back(currentList[i].getInteger());
+
+            } else {
+
+                // Recursively flatten nested lists
+
+                flatten(currentList[i].getList());
+
+            }
+
+        }
+
+    }
+
+  
+
+public:
+
+    NestedIterator(vector<NestedInteger> &nestedList) {
+
+        this->nestedList = nestedList;
+
+        // Flatten the nestedList during initialization
+
+        flatten(nestedList);
+
+    }
+
+  
+
+    // Returns the next integer in the flattened list
+
+    int next() {
+
+        int number = flattenedList[currentIndex];
+
+        currentIndex++;
+
+        return number;
+
+    }
+
+  
+
+    // Checks if there are more integers in the flattened list
+
+    bool hasNext() {
+
+        return currentIndex < flattenedList.size();
+
+    }
+
+};
+71. Find 132 pattern-> 
+    
+    class Solution {
+
+public:
+
+    bool find132pattern(vector<int>& nums) {
+
+        int s3=INT_MIN;
+
+        stack<int> stck;
+
+        for(int i=nums.size()-1;i>-1;i--){
+
+            if(nums[i]<s3) return true;
+
+            else{
+
+                while(!stck.empty() && nums[i]>stck.top()){
+
+                    s3=stck.top();
+
+                    stck.pop();
+
+                }
+
+                stck.push(nums[i]);
+
+            }
+
+        }
+
+        return false;
+
+    }
+
+};
+72. Remove k digits-> 
+    
+    class Solution {
+
+public:
+
+    string removeKdigits(string num, int k) {
+
+        if(num.length() <= k)  
+
+            return "0";
+
+        // k is 0 , no need of removing /  preforming any operation
+
+        if(k == 0)
+
+            return num;
+
+        string res = "";// result string
+
+        stack <char> s; // char stack
+
+        s.push(num[0]); // pushing first character into stack
+
+        for(int i = 1; i<num.length(); ++i)
+
+        {
+
+            while(k > 0 && !s.empty() && num[i] < s.top())
+
+            {
+
+                // if k greater than 0 and our stack is not empty and the upcoming digit,
+
+                // is less than the current top than we will pop the stack top
+
+                --k;
+
+                s.pop();
+
+            }
+
+            s.push(num[i]);
+
+            // popping preceding zeroes
+
+            if(s.size() == 1 && num[i] == '0')
+
+                s.pop();
+
+        }
+
+        while(k && !s.empty())
+
+        {
+
+            // for cases like "456" where every num[i] > num.top()
+
+            --k;
+
+            s.pop();
+
+        }
+
+        while(!s.empty())
+
+        {
+
+            res.push_back(s.top()); // pushing stack top to string
+
+            s.pop(); // pop the top element
+
+        }
+
+        reverse(res.begin(),res.end()); // reverse the string
+
+        if(res.length() == 0)
+
+            return "0";
+
+        return res;
+
+    }
+
+};
+73. Decode string-> Using a stack in python is much simpler, but we can do this
+    class Solution:
+
+    def decodeString(self, s: str) -> str:
+
+        stck=[]
+
+        for i in range(len(s)):
+
+            if(s[i]!=']'):
+
+                stck.append(s[i])
+
+            else:
+
+                substr=""
+
+                while(stck[-1]!='['):
+
+                    substr=stck.pop()+substr
+
+                stck.pop()
+
+                k=""
+
+                while stck and stck[-1].isdigit():
+
+                    k=stck.pop()+k
+
+                stck.append(int(k)*substr)
+
+        return "".join(stck)
+        
+        
+74. Simplify path-> Use a stack for the .. operator function. Ignore . and extra slashes
+    
+    class Solution {
+
+public:
+
+    string simplifyPath(string path) {
+
+        stack<string> s;
+
+        string res;
+
+        for(int i=0;i<path.size();++i){
+
+            if(path[i]=='/') continue;
+
+            string temp;
+
+            while(i<path.size() && path[i]!='/'){
+
+                temp+=path[i];
+
+                ++i;
+
+            }
+
+            if(temp==".") {continue;}
+
+            else if(temp==".."){
+
+                if(!s.empty()){
+
+                    s.pop();
+
+                }
+
+            }
+
+            else{
+
+                s.push(temp);
+
+            }
+
+        }
+
+        while(!s.empty()){
+
+            res="/"+ s.top()+res;
+
+            s.pop();
+
+        }
+
+        if(res.size()==0) return "/";
+
+        return res;
+
+    }
+
+};
+75. Minimum number of operations to make array continuous->
+    
+    class Solution {
+
+public:
+
+    int minOperations(vector<int>& A) {
+
+        int N = A.size(), ans = N, j = 0;
+
+        sort(begin(A), end(A));
+
+        A.erase(unique(begin(A), end(A)), end(A)); // only keep unique elements
+
+        int M = A.size();
+
+        for (int i = 0; i < M; ++i) {
+
+            while (j < M && A[j] < A[i] + N) ++j; // let `j` point to the first element that is out of range -- `>= A[i] + N`.
+
+            ans = min(ans, N - j + i); // The length of this subarray is `j - i`. We need to replace `N - j + i` elements to make it continuous.
+
+        }
+
+        return ans;
+
+  
+
+    }
+
+};
+76. Subarrays with K different integers-> We use 3 pointers called the l_near, l_far and right
+    
+    class Solution {
+
+public:
+
+    int subarraysWithKDistinct(vector<int>& nums, int k) {
+
+        unordered_map<int,int> mp;
+
+        int res=0,l_far=0,l_near=0;
+
+        for(int r=0;r<nums.size();r++){
+
+            mp[nums[r]]++;
+
+            while(mp.size()>k){
+
+                mp[nums[l_near]]--;
+
+                if(mp[nums[l_near]]==0){
+
+                    mp.erase(nums[l_near]);
+
+                }
+
+                l_near++;
+
+                l_far=l_near;
+
+            }
+
+            while(mp[nums[l_near]]>1){
+
+                mp[nums[l_near]]--;
+
+                l_near++;
+
+            }
+
+            if(mp.size()==k){
+
+                res+=l_near-l_far+1;
+
+            }
+
+        }
+
+        return res;
+
+  
+
+    }
+
+};
+77. Length of longest subarray with k frequency-> Simple sliding window
+    
+    unordered_map<int,int> mp;
+
+        int n=nums.size();
+
+        int ans=0;
+
+        for(int l=0,r=0;r<n;r++){
+
+            mp[nums[r]]++;
+
+            if(mp[nums[r]]>k){
+
+                while(nums[l]!=nums[r]){
+
+                    mp[nums[l]]--;
+
+                    l++;
+
+                }
+
+                mp[nums[l]]--;
+
+                l++;
+
+            }
+
+            ans=max(ans,r-l+1);
+
+        }
+
+        return ans;
+78. Count subarrays where max element appears k times->
+    
+    class Solution {
+
+public:
+
+    long long countSubarrays(vector<int>& nums, int k) {
+
+        int maxim=INT_MIN;
+
+        for(int i=0;i<nums.size();i++){
+
+            maxim=max(nums[i],maxim);
+
+        }
+
+        vector<int> vec={0};
+
+        int count=0;
+
+        for(int i=0;i<nums.size();i++){
+
+            if(nums[i]==maxim) count++;
+
+            vec.push_back(count);
+
+        }
+
+        int l=0,r=0;
+
+        long long res=0;
+
+        while(r<vec.size()){
+
+            while (r < nums.size() && vec[r + 1] - vec[l] < k) {
+
+                r++;
+
+            }
+
+            if (r < nums.size() && vec[r + 1] - vec[l] >= k) {
+
+                res += nums.size() - r;
+
+                l++;
+
+            } else {
+
+                r++;
+
+            }
+
+        }
+
+        return res;
+
+  
+
+    }
+
+};
+79. Find k closest elements-> 
+    
+    The array is sorted so we use binary search
+    
+    
+int left = 0, right = A.size() - k;
+        while (left < right) {
+            int mid = (left + right) / 2;
+            if (x - A[mid] > A[mid + k] - x)
+                left = mid + 1;
+            else
+                right = mid;
+        }
+        return vector<int>(A.begin() + left, A.begin() + left + k);
+We cannot compare absolute values as it fails in test cases where x and k are equal
+
+
+80. Minimum operations to reduce X to zero-> DFS or backtracking solution fails and gives TLE
+    
+    Need to do a 2 pointer on prefix sum
+    
+    class Solution {
+
+public:
+
+    int minOperations(vector<int>& nums, int x) {
+
+        if (!nums.size())
+
+            return -1;
+
+  
+
+        int sum = accumulate(nums.begin(), nums.end(), 0) - x;
+
+  
+
+        if (sum < 0)
+
+            return -1;
+
+  
+
+        if (sum == 0)
+
+            return nums.size();
+
+  
+
+        int curr = 0;
+
+        int start = 0;
+
+        int res = INT_MIN;
+
+  
+
+        for (int end = 0; end < nums.size(); end++) {
+
+            if (curr < sum)
+
+                curr += nums[end];
+
+  
+
+            while (curr >= sum) {
+
+                if (curr == sum) {
+
+                    res = max(res, end - start + 1);
+
+                }
+
+                curr -= nums[start++];
+
+            }
+
+        }
+
+  
+
+        return res != INT_MIN ? nums.size() - res : -1;
+
+    }
+
+};
+81. Minimum number of flips to make binary string alternating->
+    
+    Add the string to itself. Now use sliding window to compare if its equal to 101010... or 010101...
+    
+    class Solution {
+
+public:
+
+    int minFlips(string s) {
+
+        int n=s.size();
+
+        s+=s;
+
+        string alt1="",alt2="";
+
+        for(int i=0;i<s.size();i++){
+
+            if(i%2==0){
+
+                alt1+='0';
+
+                alt2+='1';
+
+            }
+
+            else{
+
+                alt1+='1';
+
+                alt2+='0';
+
+            }
+
+        }
+
+        int diff1=0,diff2=0;
+
+        int l=0;
+
+        int res=s.size();
+
+        for(int r=0;r<s.size();r++){
+
+            if(s[r]!=alt1[r]){
+
+                diff1++;
+
+            }
+
+            else if(s[r]!=alt2[r]){
+
+                diff2++;
+
+            }
+
+            if((r-l+1)>n){
+
+                if(s[l]!=alt1[l]){
+
+                    diff1--;
+
+                }
+
+                if(s[l]!=alt2[l]){
+
+                    diff2--;
+
+                }
+
+                l++;
+
+            }
+
+            if((r-l+1)==n){
+
+                res=min(res,min(diff1,diff2));
+
+            }
+
+        }
+
+        return res;
+
+    }
+
+};
+82. Frequency of the most frequent element-> Just use a sliding window
+    
+    sort(nums.begin(),nums.end());
+
+        int i=0,j;
+
+        for( j=0;j<nums.size();j++){
+
+            k+=nums[j];
+
+            if(k<(long)(nums[j])*(j-i+1)){
+
+                k-=nums[i++];
+
+            }
+
+        }
+
+        return j-i;
+83. Kth symbol in grammar-> Think of it as a binary tree
+    
+    if (n == 1) return 0;
+
+        if (k % 2 == 0) return (kthGrammar(n - 1, k / 2) == 0) ? 1 : 0;
+
+        else return (kthGrammar(n - 1, (k + 1) / 2) == 0) ? 0 : 1;
+84. Number of subsequences with given sum condition-> 
+    
+    sort(A.begin(), A.end());
+
+        int res = 0, n = A.size(), l = 0, r = n - 1, mod = 1e9 + 7;
+
+        vector<int> pows(n, 1);
+
+        for (int i = 1 ; i < n ; ++i)
+
+            pows[i] = pows[i - 1] * 2 % mod;
+
+        while (l <= r) {
+
+            if (A[l] + A[r] > target) {
+
+                r--;
+
+            } else {
+
+                res = (res + pows[r - l++]) % mod;
+
+            }
+
+        }
+
+        return res;
+
+    }
+85. Number of submatrices that sum to target-> 
+    For each row, calculate the prefix sum.  
+For each pair of columns,  
+calculate the accumulated sum of rows.
+Then find the subarray sum for each 2d array
+
+class Solution {
+
+public:
+
+    int numSubmatrixSumTarget(vector<vector<int>>& matrix, int target) {
+
+        int res=0,m=matrix.size(),n=matrix[0].size();
+
+        for(int i=0;i<m;i++){
+
+            for(int j=1;j<n;j++){
+
+                matrix[i][j]+=matrix[i][j-1];
+
+            }
+
+        }
+
+        unordered_map<int,int> counter;
+
+        for(int i=0;i<n;i++){
+
+            for(int j=i;j<n;j++){
+
+                counter={{0,1}};
+
+                int cur=0;
+
+                for(int k=0;k<m;k++){
+
+                    cur+=matrix[k][j]-(i>0?matrix[k][i-1]:0);
+
+                    res+=counter.find(cur-target)!=counter.end()?counter[cur-target]:0;
+
+                    counter[cur]++;
+
+                }
+
+            }
+
+        }
+
+        return res;
+
+    }
+
+};
+86. Text justification-> 
+    
+    class Solution {
+
+public:
+
+    vector<string> fullJustify(vector<string>& words, int maxWidth) {
+
+        vector<string> res;
+
+        vector<string> curr_line;
+
+        int len=0;
+
+        int i=0;
+
+        while(i<words.size()){
+
+            if(len+curr_line.size()+words[i].size()>maxWidth){
+
+                int extra_space=maxWidth-len;
+
+                int m=curr_line.size();
+
+  
+
+                int spaces= extra_space/max(1,m-1);
+
+                int remainder= extra_space%(max(1,m -1));
+
+                for(int j=0;j<max(1,m-1);j++){
+
+                    for(int k=0;k<spaces;k++){
+
+                        curr_line[j]+=' ';
+
+                    }
+
+                    if(remainder){
+
+                        curr_line[j]+=' ';
+
+                        remainder--;
+
+                    }
+
+                }
+
+                string ans2="";
+
+                for(int k=0;k<m;k++){
+
+                    ans2+=curr_line[k];
+
+                }
+
+                res.push_back(ans2);
+
+                vector<string> curr_line2;
+
+                len=0;
+
+                curr_line=curr_line2;
+
+            }
+
+  
+  
+
+            curr_line.push_back(words[i]);
+
+            len+=words[i].size();
+
+            i++;
+
+  
+
+        }
+
+        string last_line="";
+
+        for(int i=0;i<curr_line.size();i++){
+
+            last_line+=curr_line[i];
+
+            if(i<curr_line.size()-1) last_line+=' ';
+
+        }
+
+        int trail_space=maxWidth-last_line.size();
+
+        for(int i=0;i<trail_space;i++){
+
+            last_line+=' ';
+
+        }
+
+        res.push_back(last_line);
+
+        return res;
+
+  
+
+    }
+
+};
+87. Target sum-> Simple dfs using dp
+    
+    class Solution {
+
+public:
+
+    int dfs(vector<int> &nums,int target,map<pair<int,int>,int> &dp,int index,int curr_sum){
+
+        if(index>=nums.size()){
+
+            if(target==curr_sum) return 1;
+
+            return 0;
+
+        }
+
+        if(dp.find({index,curr_sum})!=dp.end()){
+
+            return dp[{index,curr_sum}];
+
+        }
+
+        dp[{index,curr_sum}]=dfs(nums,target,dp,index+1,curr_sum+nums[index])+dfs(nums,target,dp,index+1,curr_sum-nums[index]);
+
+        return dp[{index,curr_sum}];
+
+  
+  
+  
+
+    }
+
+    int findTargetSumWays(vector<int>& nums, int target) {
+
+        map<pair<int,int>,int> dp;
+
+        return dfs(nums,target,dp,0,0);
+
+    }
+
+};
+88. Coin change II-> 
+    
+    int combinationSum(vector<int>& coins, int amount) {
+
+        vector<int> dp(amount + 1, 0);
+
+        dp[0] = 1;
+
+  
+
+        for (int coin : coins) {
+
+            for (int i = coin; i <= amount; i++) {
+
+                dp[i] += dp[i - coin];
+
+            }
+
+        }
+
+  
+
+        return dp[amount];
+
+    }
+
+    int change(int amount, vector<int>& coins) {
+
+        int result = combinationSum(coins, amount);
+
+        return result;
+
+    }
+89. Buy and Sell stock with cooldown-> Either I buy or sell, and if I sell I am forced to enter a cooldown. If I buy, it can go either sell or cooldown. Use a map as we cannot create unordered_map<pair<int,int>,int> as this requires a hash function
+    
+    class Solution {
+
+public:
+
+    int dfs(vector<int> &prices,int index,bool buying,map<pair<int,int>,int> &dp){
+
+        if(index>=prices.size()){
+
+            return 0;
+
+        }
+
+        if(dp.find({index,buying})!=dp.end()){
+
+            return dp[{index,buying}];
+
+        }
+
+        int cooldown=dfs(prices,index+1,buying,dp);
+
+        if(buying){
+
+            int buy=dfs(prices,index+1,!buying,dp)-prices[index];
+
+            dp[{index,buying}]=max(buy,cooldown);
+
+        }
+
+        else{
+
+            int sell=dfs(prices,index+2,!buying,dp)+prices[index];
+
+            dp[{index,buying}]=max(sell,cooldown);
+
+        }
+
+        return dp[{index,buying}];
+
+    }
+
+    int maxProfit(vector<int>& prices) {
+
+        map<pair<int,int>,int> dp;
+
+        return dfs(prices,0,true,dp);
+
+    }
+
+};
+90. Longest Common subsequence-> Make a 2d dp and for each value check the maximum of the right, down and diagonally right values. If the characters are equal increase by 1
+    
+    class Solution {
+
+public:
+
+    int longestCommonSubsequence(string text1, string text2) {
+
+        vector<vector<int>> dp;
+
+        for(int i=0;i<text1.size()+1;i++){
+
+            vector<int> tmp(text2.size()+1,0);
+
+            dp.push_back(tmp);
+
+        }
+
+        for(int i=text1.size()-1;i>-1;i--){
+
+            for(int j=text2.size()-1;j>-1;j--){
+
+                if(text1[i]==text2[j]){
+
+                    if(i==text1.size()-1 || j==text2.size()-1){
+
+                        dp[i][j]++;
+
+                    }
+
+                    else{
+
+                        dp[i][j]=dp[i+1][j+1]+1;
+
+                    }
+
+                }
+
+                else{
+
+                    dp[i][j]=max(dp[i+1][j+1],max(dp[i+1][j],dp[i][j+1]));
+
+                }
+
+            }
+
+        }
+
+        return dp[0][0];
+
+    }
+
+};
+91. Partition equal subset sum-> We just either include or exclude the particular number. We can use a 2d dp to keep track. The solution gets accepted without dp as well, but using it is better for large inputs
+    
+    class Solution {
+
+public:
+
+    bool go_through(vector<int> &nums,int index,int curr_sum,int &total_sum, vector<vector<int>> &dp){
+
+        if(index>=nums.size() && total_sum!=2*curr_sum) return false;
+
+        if(total_sum==2*curr_sum && index==nums.size()){
+
+            // ans=true;
+
+            return true;
+
+        }
+
+        if(curr_sum>total_sum/2) return false;
+
+  
+
+        if(dp[index][curr_sum]!=-1) return dp[index][curr_sum];
+
+        bool include=go_through(nums,index+1,curr_sum+nums[index],total_sum,dp);
+
+        bool exclude=go_through(nums,index+1,curr_sum,total_sum,dp);
+
+        dp[index][curr_sum]=include||exclude;
+
+        return dp[index][curr_sum];
+
+    }
+
+    bool canPartition(vector<int>& nums) {
+
+        int total_sum=0;
+
+        for(int i=0;i<nums.size();i++){
+
+            total_sum+=nums[i];
+
+        }
+
+        if(total_sum%2==1) return false;
+
+        // bool ans=false;
+
+        vector<vector<int>> dp(nums.size(),vector<int>(total_sum/2+1,-1));
+
+        return go_through(nums,0,0,total_sum,dp);
+
+        // return ans;
+
+  
+
+    }
+
+};
+92. Longest increasing subsequence-> From the end we can check if the subsequence satisfies the condition. For each condition satisifed we update the length in the dp array and take maximum
+    
+    vector<int> dp(nums.size(),1);
+
+        dp[nums.size()-1]=1;
+
+        int ans=1;
+
+        for(int i=nums.size()-1;i>-1;i--){
+
+            for(int j=i;j<nums.size();j++){
+
+                if(nums[i]<nums[j]){
+
+                    dp[i]=max(dp[i],1+dp[j]);
+
+                    ans=max(ans,dp[i]);
+
+                }
+
+            }
+
+        }
+
+        return ans;
+        
+        There is also a more efficient solution, where we can use binary search to get the element that satisfies greater than the current, and only take that for the maximum sequence length
+        
+        std::vector<int> sub; // to maintain the current subsequence
+
+for (int x : vec) {
+
+// Find the position where x can replace an element
+
+auto it = std::lower_bound(sub.begin(), sub.end(), x);
+
+if (it == sub.end()) {
+
+// x is larger than all elements in sub, append it
+
+sub.push_back(x);
+
+} else {
+
+// Replace the first element greater than or equal to x
+
+*it = x;
+
+}
+
+}
+
+cout<< sub.size();
+
+93. Word Break-> We run the dfs on the dictionary array to get all the possibilities. Earlier I was using a boolean dp, but that doesn't work because false denotes both unchartered territory and wrong territory. We need 3 distinguishing variables, unchartered, wrong and right and hence dp values should be 0, 1 or -1.
+    
+    class Solution {
+
+public:
+
+    bool go_through(vector<string> &wordDict,int index,string &s,vector<int> &dp){
+
+        if(index==s.size()){
+
+            return true;
+
+        }
+
+        if(index>s.size()){
+
+            return false;
+
+        }
+
+        if(dp[index]!=-1) return dp[index]==1;
+
+        for(int i=0;i<wordDict.size();i++){
+
+            int tmp=wordDict[i].size();
+
+            string x=s.substr(index,tmp);
+
+            if(x==wordDict[i] && go_through(wordDict,index+tmp,s,dp)){
+
+                dp[index]=1;
+
+                return true;
+
+            }
+        }
+        dp[index]=0;
+        return false;
+    }
+    bool wordBreak(string s, vector<string>& wordDict) {
+
+        vector<int> dp(s.size(),-1);
+
+        return go_through(wordDict,0,s,dp);
+
+    }
+
+};
+94. Maximum product subarray-> Even though its a dp problem, it has a better solution without using dp and just using max and min
+    
+    if(nums.size()==1) return nums[0];
+
+        int prod=nums[0];
+
+        int curr_max=nums[0];
+
+        int curr_min=nums[0];
+
+        for(int i=1;i<nums.size();i++){
+
+            if(nums[i]<0){
+
+                swap(curr_max,curr_min);
+
+            }
+
+            curr_max=max(nums[i],curr_max*nums[i]);
+
+            curr_min=min(nums[i],curr_min*nums[i]);
+
+            prod=max(prod,curr_max);
+
+        }
+
+        return prod;
+95. Coin change-> For each possibility use a dfs, also memoize so that we can fetch the solution for each subproblem
+    
+    class Solution {
+
+public:
+
+    void dfs(long long total,vector<int> &coins,long long  &ans,long long  total_2,long long coinss,vector<int> &dp){
+
+        if(total_2>total){
+
+            return;
+
+        }
+
+        if (dp[total_2] != -1 && dp[total_2] <= coinss) {
+
+            return;
+
+        }
+
+        dp[total_2] = coinss;
+
+        if(total_2==total){
+
+  
+
+            ans=min(ans,coinss);
+
+            return;
+
+        }
+
+  
+
+        for(int i=0;i<coins.size();i++){
+
+            // coins++;
+
+            dfs(total,coins,ans,total_2+coins[i],coinss+1,dp);
+
+        }
+
+    }
+
+    int coinChange(vector<int>& coins, int amount) {
+
+        // sort(coins.rbegin(),coins.rend());
+
+        long long ans=99999999999999999;
+
+        vector<int> dp(amount+1,-1);
+
+        dfs(amount,coins,ans,0,0,dp);
+
+        if(ans==99999999999999999) return -1;
+
+  
+
+        return ans;
+
+    }
+
+};
+53.Decode ways-> Use a dfs with memoization to go through cases where the substring value is between 1 and 26
+class Solution {
+
+public:
+
+    int dfs(int curr, string &s,vector<int> &dp){
+
+        if(curr==s.size()){
+
+            return 1;
+
+        }
+
+        int result=0;
+
+        if(s[curr]=='0') return 0;
+
+        if (dp[curr] != -1) return dp[curr];
+
+        string curr2="";
+
+        int actual_number=s[curr]-'1';
+
+        curr2+='A'+actual_number;
+
+        result+=dfs(curr+1,s,dp);
+
+        if(curr<(s.size()-1) && s[curr]!='0'){
+
+            int actual_number_2=(s[curr]-'0')*10+s[curr+1]-'0';
+
+            if(actual_number_2<=26){
+
+                string curr3="";
+
+                curr3+='A'+actual_number_2-1;    
+
+                result+=dfs(curr+2,s,dp);
+
+            }
+
+        }
+
+        dp[curr] = result;
+
+        return result;
+
+    }
+
+    int numDecodings(string s) {
+
+        vector<int> dp(s.size(),-1);
+
+        if(s[0]=='0') return 0;
+
+        return dfs(0,s,dp);
+
+    }
+
+};
+
+96. Palindromic substrings-> Same as previous, just we need to count the number of substrings instead of getting the greatest one
+97. Longest Palindromic Subsequence-> We create a 2d dp because for each string to be a palindrome, the substring i+1 j-1 needs to be a palindrome and i-1 needs to be equal to j+1. Basically the inner substring should be a palindrome and the outer characters must be equal. To calculate this, we traverse the array from the end for the first loop, and 2nd loop is normal traversal. Then we can check dp[i+1][j-1] for each value as that will be precomputed
+    
+for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                if (s[i] == s[j] && 
+                    (j - i <= 2 || dp[i + 1][j - 1])) {
+
+                    dp[i][j] = true;
+                    if (resLen < (j - i + 1)) {
+                        resIdx = i;
+                        resLen = j - i + 1;
+                    }
+                }
+            }
+        }
+
+98. House Robber II-> Same as house robber 1, but since its circular there can be only 2 cases, from 0-n-2 and from 1-n-1. Take the maximum
+99. House robber I-> Simple dp, maximum of i-1 and dp[i-2]+nums[i]
+100. Reconstruct itinerary-> Used a stack to make a path for valid desitnations that can be reached from the current, always choosing the one lexicographically smallest first. 
+    
+    class Solution {
+
+public:
+
+    vector<string> findItinerary(vector<vector<string>>& tickets) {
+
+        unordered_map<string,vector<string>> mp;
+
+        for(auto itr: tickets){
+
+            mp[itr[0]].push_back(itr[1]);
+
+            sort(mp[itr[0]].rbegin(),mp[itr[0]].rend());
+
+        }
+
+        vector<string> path;
+
+        stack<string> s;
+
+        s.push("JFK");
+
+        while(!s.empty()){
+
+            int x=s.size();
+
+            for(int i=0;i<x;i++){
+
+                string tmp=s.top();
+
+                if(mp[tmp].size()==0){
+
+                    path.push_back(tmp);
+
+                    s.pop();
+
+                }
+
+                else{
+
+                    string nexx=mp[tmp].back();
+
+                    mp[tmp].pop_back();
+
+                    s.push(nexx);
+
+                }
+
+            }
+
+        }
+
+        reverse(path.begin(),path.end());
+
+        return path;
+
+  
+
+    }
+
+};
+There is an optimized version of this that uses the Heirholzer algorithm
+class Solution {
+
+public:
+
+    vector<string> findItinerary(vector<vector<string>>& tickets) {
+
+        unordered_map<string, deque<string>> adj;
+
+        for (auto& ticket : tickets) {
+
+            adj[ticket[0]].push_back(ticket[1]);
+
+        }
+
+        for (auto& [src, dests] : adj) {
+
+            sort(dests.rbegin(), dests.rend());
+
+        }
+
+        vector<string> res;
+
+        dfs("JFK", adj, res);
+
+        reverse(res.begin(), res.end());
+
+        return res;
+
+    }
+
+  
+
+private:
+
+    void dfs(const string& src, unordered_map<string,
+
+        deque<string>>& adj, vector<string>& res) {
+
+        while (!adj[src].empty()) {
+
+            string dst = adj[src].back();
+
+            adj[src].pop_back();
+
+            dfs(dst, adj, res);
+
+        }
+
+        res.push_back(src);
+
+    }
+
+};
+
+
+
+101. Word Ladder-> used a queue to do a bfs and find the shortest path to the word. If it doesn't exist return 0
+    
+    class Solution {
+
+public:
+
+    int bfs(string word, vector<string>& wordList,string target_word){
+
+        queue<string> q;
+
+        q.push(word);
+
+        int ans=1;
+
+        bool done=false;
+
+        set<string> visited;
+
+        while(!q.empty()){
+
+            int x=q.size();
+
+            queue<string> q2;
+
+            for(int i=0;i<x;i++){
+
+                string tmp=q.front();
+
+                if(visited.find(tmp)!=visited.end()){
+
+                    q.pop();
+
+                    continue;
+
+                }
+
+                visited.insert(tmp);
+
+                if(tmp==target_word){
+
+                    return ans;
+
+                }
+
+                q.pop();
+
+                for(int j=0;j<wordList.size();j++){
+
+                    if(wordList[j].size()!=tmp.size()){
+
+                        continue;
+
+                    }
+
+                    int count=0;
+
+                    for(int k=0;k<wordList[j].size();k++){
+
+                        if(wordList[j][k]!=tmp[k]) count++;
+
+                    }
+
+                    if(count==1 && visited.find(wordList[j])==visited.end()){
+
+                        q2.push(wordList[j]);
+
+                    }
+
+                }
+
+            }
+
+            ans++;
+
+            q=q2;
+
+        }
+
+        return 0;
+
+  
+
+    }
+
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+
+        if(beginWord.size()!=endWord.size()) return 0;
+
+        int tree_height=bfs(beginWord,wordList,endWord);
+
+        return tree_height;
+
+    }
+
+  
+
+};
+102. Redundant connection-> For my solution I am doing a dfs from all the nodes, then when I find a redundant edge that is not in the set, I will append and terminate. This means I will find all the redundant edges that are in the graph i.e. all the edges that are part of a cycle. Then I will go through the edges from back to front and find the first edge that satisfies the condition. There are definitely more elegant solutions. Mine is the simplest albeit the most inefficient.
+    
+    A more efficient solution is using union find
+    
+    Learn UNION FIND properly
+    
+    class Solution {
+
+public:
+
+    void dfs_cycle_detect(set<int> &visited, int curr, int parent,unordered_map<int,vector<int>> &mp,set<pair<int,int>> &ans){
+
+        if(visited.find(curr)!=visited.end()){
+
+            ans.insert({curr,parent});
+
+            return;
+
+        }
+
+        visited.insert(curr);
+
+        for(auto itr: mp[curr]){
+
+            if(itr!=parent){
+
+                dfs_cycle_detect(visited,itr,curr,mp,ans);
+
+            }
+
+        }
+
+    }
+
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(auto itr: edges){
+
+            mp[itr[0]].push_back(itr[1]);
+
+            mp[itr[1]].push_back(itr[0]);
+
+        }
+
+        set<pair<int,int>> ans;
+
+        for(auto itr: mp){
+
+            set<int> visited;
+
+            dfs_cycle_detect(visited,itr.first,-1,mp,ans);
+
+        }
+
+  
+
+        for(int i=edges.size()-1;i>-1;i--){
+
+            for(auto itr: ans){
+
+                if((itr.first==edges[i][0]&&itr.second==edges[i][1])||(itr.first==edges[i][1]&&itr.second==edges[i][0])){
+
+                    return edges[i];
+
+                }
+
+            }
+
+        }
+
+        return {};
+
+    }
+
+};
+103. Number of connected components in an undirected graph-> Simply do a dfs traversal for each node if its unvisited, and put all the nodes visited in the array. Increment a variable once any unvisited node is found.
+    
+    void dfs(set<int> &visited, int curr,unordered_map<int,vector<int>> &mp){
+
+        visited.insert(curr);
+
+        for(auto itr: mp[curr]){
+
+            if(visited.find(itr)==visited.end()){
+
+                dfs(visited,itr,mp);
+
+            }
+
+        }  
+
+    }
+
+    int countComponents(int n, vector<vector<int>>& edges) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(int i=0;i<n;i++){
+
+            mp[i]={};
+
+        }
+
+        for(auto itr: edges){
+
+            mp[itr[0]].push_back(itr[1]);
+
+            mp[itr[1]].push_back(itr[0]);
+
+        }
+
+        set<int> visited;
+
+        int ans=0;
+
+        for(int i=0;i<n;i++){
+
+            if (visited.find(i) == visited.end()) {
+
+                dfs(visited,i,mp);
+
+                ans++;
+
+            }
+
+        }
+
+        return ans;
+104. Valid tree-> The property of a tree is from any node I can traverse the whole tree without visiting any node twice. So write a dfs to do that while tracking the parent and the child nodes to avoid going "up the tree". If it is not possible to visit all nodes or if there is a cycle its false, or else its a tree
+    
+    bool dfs(unordered_map<int,vector<int>> &mp,int curr, int parent,set<int> &visited){
+
+        visited.insert(curr);
+
+        for(auto itr: mp[curr]){
+
+            if(itr==parent) continue;
+
+            if(visited.find(itr)!=visited.end()) return false;
+
+            if(!dfs(mp,itr,curr,visited)) return false;
+
+        }
+
+        return true;
+
+    }
+
+    bool validTree(int n, vector<vector<int>>& edges) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(int i=0;i<n;i++){
+
+            mp[i]={};
+
+        }
+
+        for(auto itr: edges){
+
+            mp[itr[0]].push_back(itr[1]);
+
+            mp[itr[1]].push_back(itr[0]);
+
+        }
+
+        set<int> visited;
+
+        if(!dfs(mp,0,-1,visited)) return false;
+
+        return visited.size()==n;
+105. Course schedule II-> Just use an array to keep track of the nodes having no prerequisites and add them. If its possible, output the array or else an empty arr
+    
+    bool dfs(unordered_map<int,vector<int>> &mp,vector<int> &ans,set<int> &visited,int x){
+
+        if(visited.find(x)!=visited.end()){
+
+            return false;
+
+        }
+
+        if(mp[x].size()==0){
+
+            // ans.push_back(x);
+
+            for(int i=0;i<ans.size();i++){
+
+                if(ans[i]==x){
+
+                    return true;
+
+                }
+
+            }
+
+            ans.push_back(x);
+
+            // if(visited.)
+
+            return true;
+
+        }
+
+        visited.insert(x);
+
+        for(auto itr: mp[x]){
+
+            if(!dfs(mp,ans,visited,itr)){
+
+                return false;
+
+            }
+
+        }
+
+        visited.erase(x);
+
+        mp[x]={};
+
+        // ans.push_back(x);
+
+        for(int i=0;i<ans.size();i++){
+
+                if(ans[i]==x){
+
+                    return true;
+
+                }
+
+            }
+
+            ans.push_back(x);
+
+        return true;
+
+  
+
+    }
+
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(int i=0;i<numCourses;i++){
+
+            mp[i]={};
+
+        }
+
+        for(auto itr: prerequisites){
+
+            mp[itr[0]].push_back(itr[1]);
+
+        }
+
+        vector<int> ans;
+
+        set<int> visited;
+
+        for(int i=0;i<numCourses;i++){
+
+            if(!dfs(mp,ans,visited,i)){
+
+                return {};
+
+            }
+
+        }
+
+        return ans;
+
+    }
+
+};
+42.Course schedule-> Just a simple cycle detection in a graph using dfs:
+bool dfs(set<int> &visited,unordered_map<int,vector<int>> &mp,int x){
+
+        if (visited.find(x) != visited.end()) {
+
+        return true;
+
+        }
+
+        visited.insert(x);
+
+        for (int neighbor : mp[x]) {
+
+            if (dfs(visited, mp, neighbor)) {
+
+                return true;
+
+            }
+
+        }
+
+        visited.erase(x);
+
+        return false;
+
+    }
+
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+
+        unordered_map<int,vector<int>> mp;
+
+        for(auto itr: prerequisites){
+
+            mp[itr[1]].push_back(itr[0]);
+
+        }
+
+        for(int i=0;i<numCourses;i++){
+
+            set<int> visited;
+
+            if(dfs(visited,mp,i)){
+
+                return false;
+
+            }
+
+        }
+
+        return true;
+
+    }
+
+106. Surrounded regions-> Each region will be unsurrounded if and only if it has atleast 1 zero that is in the border. So for all bordered zeroes we do a dfs, mark every zero that it shares a region with with some temporary variable. Then for all other zeroes we can change the value to X and for the ones marked with the temporary variable it wil remain unchanged to O
+    
+    void dfs(vector<vector<char>> &board, int r, int c){
+
+        vector<pair<int,int>> directions={{1,0},{-1,0},{0,1},{0,-1}};
+
+        board[r][c]='T';
+
+        for(auto itr: directions){
+
+            int new_row=r+itr.first,new_col=itr.second+c;
+
+            if(new_row<board.size() && new_row>=0 && new_col>=0 && new_col<board[0].size()){
+
+                if(board[new_row][new_col]=='O'){
+
+                    dfs(board,new_row,new_col);
+
+                }
+
+            }
+
+        }
+
+    }
+
+    void solve(vector<vector<char>>& board) {
+
+        int rows=board.size(),cols=board[0].size();
+
+        for(int i=0;i<rows;i++){
+
+            for(int j=0;j<cols;j++){
+
+                if(i==0||i==rows-1||j==0||j==cols-1){
+
+                    if(board[i][j]=='O'){
+
+                        dfs(board,i,j);
+
+                    }
+
+                }
+
+            }
+
+        }
+
+        for(int i=0;i<rows;i++){
+
+            for(int j=0;j<cols;j++){
+
+                if(board[i][j]=='O'){
+
+                    board[i][j]='X';
+
+                }
+
+                if(board[i][j]=='T'){
+
+                    board[i][j]='O';
+
+                }
+
+            }
+
+        }
+
+    }
+107. Rotting fruit-> Just use a queue to go through all the rotten fruits in a bfs manner and elapse the time by 1 minute when the whole queue is done:
+    
+    while(!q.empty()){
+
+            int si=q.size();
+
+            mins++;
+
+            for(int i=0;i<si;i++){
+
+                int r1=q.front().first,c1=q.front().second;
+
+                q.pop();
+
+                for(auto itr: directions){
+
+                    int new_row=r1+itr.first,new_col=c1+itr.second;
+
+                    if(new_row>=0 && new_row<rows && new_col>=0 && new_col<cols && grid[new_row][new_col]==1){
+
+                        grid[new_row][new_col]=2;
+
+                        q.push({new_row,new_col});
+
+                    }
+
+                }
+
+            }
+
+        }
+108. Islands and treasures-> Using a dfs gives TLE. So we use a BFS like so
+    
+    void bfs(int r,int c,vector<vector<int>> &grid){
+
+        int rows=grid.size();
+
+        int cols=grid[0].size();
+
+        set<pair<int,int>> visited;
+
+        queue<pair<int,int>> q;
+
+        q.push({r,c});
+
+        visited.insert({r,c});
+
+        int distance=0;
+
+        vector<pair<int,int>> directions={{1,0},{-1,0},{0,1},{0,-1}};
+
+  
+
+        while(!q.empty()){
+
+            int si=q.size();
+
+            for(int i=0;i<si;i++){
+
+                auto r1=q.front().first,c1=q.front().second;
+
+                q.pop();
+
+                if(grid[r1][c1]==0){
+
+                    grid[r][c]=distance;
+
+                    return;
+
+                }
+
+                for(auto itr:directions){
+
+                    int dr=itr.first;
+
+                    int dc=itr.second;
+
+                    int new_row=r1+dr;
+
+                    int new_col=c1+dc;
+
+                    if(new_row>=0 && new_row<rows && new_col>=0 && new_col<cols && visited.find({new_row,new_col})==visited.end() && grid[new_row][new_col]!=-1){
+
+                        visited.insert({new_row,new_col});
+
+                        q.push({new_row,new_col});
+
+                    }
+
+  
+
+                }
+
+            }
+
+            distance++;
+
+        }
+        
+        For each node we just run this bfs and this changes the values accordingly in the matrix
+109. Clone graph-> For each node if it is not in hashmap clone it. Then check all its neighbords and do the same. If they are already in hashmap put them in the neighbors of the copied node as well.
+    
+    /*
+
+// Definition for a Node.
+
+class Node {
+
+public:
+
+    int val;
+
+    vector<Node*> neighbors;
+
+    Node() {
+
+        val = 0;
+
+        neighbors = vector<Node*>();
+
+    }
+
+    Node(int _val) {
+
+        val = _val;
+
+        neighbors = vector<Node*>();
+
+    }
+
+    Node(int _val, vector<Node*> _neighbors) {
+
+        val = _val;
+
+        neighbors = _neighbors;
+
+    }
+
+};
+
+*/
+
+  
+
+class Solution {
+
+public:
+
+    Node* dfs(map<Node*,Node*> &mp,Node* node){
+
+        if(mp.find(node)!=mp.end()){
+
+            return mp[node];
+
+        }
+
+        Node* cp=new Node(node->val);
+
+        mp[node]=cp;
+
+        for(auto itr: node->neighbors){
+
+            (cp->neighbors).push_back(dfs(mp,itr));
+
+        }
+
+        return cp;
+
+    }
+
+    Node* cloneGraph(Node* node) {
+
+        map<Node*,Node*> mp;
+
+        if(node!=NULL){
+
+            return dfs(mp,node);
+
+  
+
+        }
+
+        return NULL;
+
+    }
+
+};
+110. Number of islands-> For each point not in the visited set, do a bfs and mark all other points as visited in the island. Increment the islands by 1 and do it for all points
+    
+    class Solution {
+
+public:
+
+    void bfs(int r,int c,set<pair<int,int>> &visit,int rows,int cols,vector<vector<char>> &grid){
+
+        queue<pair<int,int>> q;
+
+        visit.insert({r,c});
+
+        q.push({r,c});
+
+        while(!q.empty()){
+
+            auto itr=q.front();
+
+            q.pop();
+
+            int first1=itr.first,second1=itr.second;
+
+            vector<pair<int,int>> directions = {{1,0},{-1,0},{0,1},{0,-1}};
+
+            for(auto itr2: directions){
+
+                if(first1+itr2.first>=0 && second1+itr2.second>=0 &&first1+itr2.first<rows && second1+itr2.second<cols && grid[first1+itr2.first][second1+itr2.second]=='1' && visit.find({first1+itr2.first,second1+itr2.second})==visit.end()){
+
+                    q.push({first1+itr2.first,second1+itr2.second});
+
+                    visit.insert({first1+itr2.first,second1+itr2.second});
+
+                }
+
+            }
+
+        }
+
+    }
+
+    int numIslands(vector<vector<char>>& grid) {
+
+        if(grid.size()==0) return 0;
+
+        int rows=grid.size(),cols=grid[0].size();
+
+        set<pair<int,int>> visit;
+
+        int islands=0;
+
+        for(int i=0;i<rows;i++){
+
+            for(int j=0;j<cols;j++){
+
+                if(grid[i][j]=='1' && visit.find({i,j})==visit.end()){
+
+                    bfs(i,j,visit,rows,cols,grid);
+
+                    islands++;
+
+  
+
+                }
+
+            }
+
+        }
+
+        return islands;
+
+    }
+
+};
+111. N Queens-> Simple backtracking. Use cols, negative diag and positive diag to keep track of all the areas queen is attacking. Each value should be unique in all these sets
+    
+    class Solution {
+
+public:
+
+    void go_through(vector<vector<string>> &vec,int r,vector<string> board,set<int> &cols,set<int> &pos_diag,set<int> &neg_diag){
+
+        if(r==board.size()){
+
+            vec.push_back(board);
+
+            return;
+
+        }
+
+        for(int i=0;i<board[0].size();i++){
+
+            if(cols.find(i)!=cols.end()||pos_diag.find(r+i)!=pos_diag.end()||neg_diag.find(r-i)!=neg_diag.end()){
+
+                continue;
+
+            }
+
+            cols.insert(i);
+
+            pos_diag.insert(r+i);
+
+            neg_diag.insert(r-i);
+
+            board[r][i]='Q';
+
+            go_through(vec,r+1,board,cols,pos_diag,neg_diag);
+
+            cols.erase(i);
+
+            pos_diag.erase(r+i);
+
+            neg_diag.erase(r-i);
+
+            board[r][i]='.';
+
+        }
+
+  
+
+    }
+
+    vector<vector<string>> solveNQueens(int n) {
+
+        vector<vector<string>> vec;
+
+        set<int> cols,pos_diag,neg_diag;
+
+        vector<string> board;
+
+        for(int i=0;i<n;i++){
+
+            string tmp="";
+
+            for(int j=0;j<n;j++){
+
+                tmp+='.';
+
+            }
+
+            board.push_back(tmp);
+
+        }
+
+        go_through(vec,0,board,cols,pos_diag,neg_diag);
+
+        return vec;
+
+  
+
+    }
+
+};
+112. Palindrome partitioning-> Just use dfs with backtracking:
+    
+    void dfs(string s, int index,vector<string> &tmp,vector<vector<string>> &ans){
+
+        if(index==s.size()){
+
+            ans.push_back(tmp);
+
+            return;
+
+        }
+
+        for(int i=index;i<s.size();i++){
+
+            if(isPalindrome(s,index,i)){
+
+                tmp.push_back(s.substr(index,i-index+1));
+
+                dfs(s,i+1,tmp,ans);
+
+                tmp.pop_back();
+
+            }
+
+        }
+
+    }
+113. Word search-> 
+    Just go through the matrix using dfs and use backtracking to again rectify the changes
+    bool dfs(vector<vector<char>> &board,string &word,int i, int j ,int index){
+
+        if(index==word.size()) return true;
+
+  
+
+        if(i<0 ||i>=board.size()||j<0||j>=board[0].size()||board[i][j]!=word[index]) return false;
+
+        char tmp=board[i][j];
+
+        board[i][j]='#';
+
+        bool found=dfs(board,word,i+1,j,index+1)||dfs(board,word,i,j+1,index+1)||dfs(board,word,i-1,j,index+1)||dfs(board,word,i,j-1,index+1);
+
+        board[i][j]=tmp;// Backtracking
+
+        return found;
+
+    }
+    
+    For all the indexes use this to find if the word exists or not since we can find the word if it starts from any part of the matrix.
+114. Find median from data stream-> Put left half and right half in min heap and max heap respectively.
+    
+    q1.push(num);
+
+        q2.push(q1.top());
+
+        q1.pop();
+
+        if(q1.size()<q2.size()){
+
+            q1.push(q2.top());
+
+            q2.pop();
+
+        }
+
+    }
+
+    double findMedian() {
+
+        if(q1.size()>q2.size()){
+
+            return q1.top();
+
+        }
+
+        else{
+
+            return (double(q1.top()+q2.top()))/2;
+
+        }
+115. Serialize and deserialize tree-> For serializing just go through the tree in any manner, and put it in string. If the node is null, put N.
+    For deserializing again go through in the same manner, but make nodes for each value, convert the string into an array so that you can easily traverse. If the value is null or N, make a special thing in the array to identify and get null ptr in the tree.
+116. Binary tree maximum path sum-> For each node, think of the path splitting at the node i.e. the node is the root node. Then we will traverse each subtree without splitting. The answer will be the maximum sum we get from all the operations.
+    int dfs(TreeNode* root,vector<int> &vec){
+
+        if(root==NULL) return 0;
+
+        int left_max=dfs(root->left,vec);
+
+        int right_max=dfs(root->right,vec);
+
+        left_max=max(left_max,0);
+
+        right_max=max(right_max,0);
+
+        vec[0]=max(vec[0],root->val+left_max+right_max);
+
+        return root->val+max(left_max,right_max);
+117. Unique paths-> All values of initial 2d dp will be 1 as initialization for all dp[n+1][m+1]. Then for each value dp[i][j]=dp[i-1][j]+dp[i][j-1]. Answer will be dp[n][m]
+118. Josephius Problem-> Just use a queue instead of an array and sorting.
+119. Towers-> Multiset has an upper bound. USE IT.
+120. Missing coin sum-> Sort and add to the target if the coin value is smaller or equal to the target starting with 1. Since every number smaller than the current target we will be able to make if this condition is satisfied. Else break and output the target.
+121. Sum of two values-> Simple 2 sum problem. Using unordered_map suffers from hash collisions so we use map. That increases the time complexity to O(nlogn) but for large n values hash collisions are not an issue
+122. Movie festival-> Sort using the second value of the vector of pairs and for each first value less greater than or equal to previous second value, we can see that movie and increment the answer.
+123. Digit queries-> For any n we first find out the group it is in by N- digits*9*(10,digits-1) for each digit. Then index becomes n%digits and the number after that becomes power(10,digits-1)+(n-1)/digits
+    If index is not 0 then res/power(10,digits-index)
+    Then the answer is res%10 since the last digit of the number is the number at the nth place
+124. Restaurant customers-> A priority queue has the top element as the maximum i.e. its a max heap. To turn it into a min heap we can define it as such priority_queue<int,vector<int>,greater<int>> q;
+    Then the solution becomes straightforward
+125. Concert tickets-> using a multiset and upper_bound is the only efficient solution. Binary search and deletion gives TLE. https://www.geeksforgeeks.org/multiset-upper_bound-in-cpp-stl-with-examples/
+126. Ferris Wheel-> The trick is to pair the heaviest child possible with the current left pointer. Just we make 2 pointers and choose the right most each time. Once the value becomes equal we know we won't be able to choose 2 further.
+127. Book shop-> Example of a classic knapsack problem. There is no known solution that is correct and fast in optimal time. However there is a pseudo polynomial solving problem using dynamic programming. For each weight possible we make a 2d dp on whether or not we are choosing the ith weight/price value, and the value in the dp array is the number of pages/value that we want to maximize. For any ith we get the maximum of i-1 and the value when added to i-price[j]th so that we can get the addition possible for all combinations based on 
+    
+
+    for(int i=0;i<=x;i++){
+        dp[0][i]=price[0]<=i?pages[0]:0;
+    }
+    for(int i=1;i<n;i++){
+        for(int j=0;j<=x;j++){
+            if(price[i]>j){
+                dp[i][j]=dp[i-1][j];
+            }
+            else{
+                dp[i][j]=max(dp[i-1][j],dp[i-1][j-price[i]]+ pages[i]);
+            }
+        }
+    }
+
+128. Coin combinations II-> reverse the loop order from coin combinations 1 and sort the array
+129. Coin combinations 1-> Basically just initialize dp[0] as 1 (doesn't mean anything, just for a 0 sum, there is only 1 way with 0). Then for each number add the previous number dp[i-nums[j]]
+
+130. Minimizing coins-> Similar to combination, just need to calculate the minimum value of coins, so add one and take the minimum of curr and value after adding one to the previous. All values in dp should be INT_MAX
+
+131. Dice combinations-> Use a dp array where dp[0]=0 and check for each number 1-6 if it is possible add it in the array for all i 1 to n
+
+132. Creating Strings-> use of next_permutationCAn also use recursion.
+133. Tower of Hanoi-> Recursion. Basically we think of the largest disk. If n=1 we can just move since it is the largest. Else we move the n-1 upper disks from source to auxilliary (using recursion call this), then we move the nth disk from source to target. Then for the n-1 disks that are in the auxilary, the auxilary becomes the new source, target remains unchanged and source becomes auxilary(since it is the only remaining peg).
+134. Palindrome Reorder-> Making palindrome out of given string. Can be done by swapping or maps, I chose maps
+135. Coin piles-> Simple math and observation
+136. Trailing zeroes-> Counting zeroes in factorial. Had to do an optimization to avoid TLE, but the main logic was pretty simple
+
+137. Bit strings-> Power with modulo
+138. Two sets-> Dividing into 2 sets with some criteria
+139. Two knights-> Number theory, Maths, Counting
+
+140. Number spiral(CSES)-> 2d matrix traversal. There was a particular pattern of traversal, so this traversal in a grid with numbers in a particular pattern and then saying the number in the row and column is very useful
+
+141. Permutations -> Linear traversal with certain condition and edge case. Have to make own logic of how to place the numbers
+142. Increasing array-> Linear traversal with modification 
+
+143. Repetitions(CSES)-> Linear search with counting
+
+144. Distinct numbers (CSES)-> Map/Set/Sorting
+
+145. Missing number (CSES)-> Linear search
+
+146. Weird algorithm(CSES)-> Simple simulation
