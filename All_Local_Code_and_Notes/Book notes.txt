@@ -1,3 +1,258 @@
+Cracking the PM interview:
+
+PM defines success and makes decisions for the direction of the product. However
+a PM doesn't have direct authority over their team
+
+A PM sits at the intersection of technology business and design. 
+Research & Planning-> Design-> Implement and Test-> Release
+
+Some companies split the role for 2 people TPM and PM 
+If a product is technically demanding, this split is done
+The TPM focuses on Design and implement and test, while the PM 
+is focused on research and planning and release.
+
+A new idea may come from:
+customer request 
+competitive analysis 
+new technology 
+user research 
+sales or marketing teams 
+brainstorming 
+big vision for the project 
+
+So a PM fields those ideas, gathers funds, takes the responsibility and gathers the team 
+to execute those ideas 
+
+Now for each company the methodology is different. But its the PMs job to have the required people 
+be on board with the idea 
+
+PM needs to have the answer of : Why are we working on this? 
+
+OKRs -> Objectives and Key results 
+
+Product design is about defining the features and functionality of the product 
+PMs role in product design varies substantially between products, teams and companies 
+
+Dogfooding-> Using your own products yourself internally 
+
+Each PM will have a launch checklist based on how much they want to collaborate with management,
+finance teams, legal teams, etc
+
+They make sure that the customer service team is prepared, operations team is prepared, etc.
+
+Being a PM on a mature product is very different from being a PM on a new product 
+Shipped software like windows or apps, have a longer timeline as you cannot immediately push updates 
+like in a website
+
+Most online software teams run A/B tests. In this a new feature is released to a percentage of users.
+Product knowledge, and having the intuition for good vs bad products is very essential for product managers 
+
+Good PMs don't just serve as passive conduit for other people's opinions.
+
+In any room, the PM needs to represent the opinions of all the people who are not in the room 
+
+PMs don't tell the date, the engineers tell the date 
+Not trusting the engineer's estimates and promising other teams that the work will be done 
+sooner than what the engineers estimate is the fastest way to ruin your relationship with the team 
+
+PMs don't have as much authority over the team, they are working with the team, the team doesn't work for them 
+
+When you are a PM, your job is anything that is not being covered by other people
+
+If you let the work slip by, no one will make sure it gets caught
+
+Some budgeting and resource management work that product managers do:
+1. Clarify goals and gather satisfaction metrics
+2. Determine the people and skills needed to complete the project
+3. Setup project management tools, plans and processes
+4. Analyze data to identify opportunities
+5. Identify and implement changes to improve efficiency
+6. Manage changes that come in from the customer
+7. Find ways to keep the project on track even when things go wrong
+
+Amazon doesn't accept product managers who are not MBAs. Apple has EPMs or Engineering Product Managers.
+Facebook requires all product managers to be technical. It has a substantial number of PMs who
+were founders of acquired companies, as well as few ex google PMs 
+
+Some google PMs have MBAs but google puts more emphasis on masters and phds.
+
+Microsoft prefers a technical background even though it doesn't have to be CS.
+
+How a company hires PMs and focuses on new products is dependent on its startup roots and the philosophy 
+set by the founders. Jeff Bezos was an MBA so he prefers MBAs, Apple had both Jobs and Woz so they prefer EPMs, 
+Mark was technical so PMs need to be technical, Larry and Sergey were Phds so the PMs are Phds.
+
+MBAs or +4 years of experience can get into product roles at google.
+
+Google strongly values analytical skills in its PMs. Data analytics becomes a huge part of a PMs job at google.
+
+
+In microsoft, the PM has a very central role and MSFT has one of the highest PM to developer ratios 
+
+People who look at things from multiple perspectives are valued as PMs
+PM at microsoft begins by writing a one page spec for the basic requirements and use cases 
+
+After review they expand it to a detailed spec
+Apple has software and hardware EPMs 
+
+
+Facebook looks for highly technical and entrepreneurial PMs 
+Facebook has a do it yourself culture
+When facebook acquihires, they look for small teams preferably less than 10 with high impact.
+
+
+
+Amazon Leadership principles:
+0. Make data driven decisions
+1.Customer obsession
+2. Ownership
+3. Invent and simplify
+4. Leaders are right a lot. They always question their closely held beliefs.
+5. Learn and be curious. Most people at a certain point find it too threatening or too difficult to keep learning. That shouldn't be you. You have to have a plan of how you are going to change, and then make that change.
+6.  Hire and develop the best. Who you hire is one of the most important decisions we can make. Recognise what a person is good at, and also identify where they need to grow
+7. Insist on the highest standards
+8. Think Big. Thinking small is a self fulfilling prophecy. Keep thinking big.
+9. Always have a bias for action. Speed matters in business, many decisions and actions are reversible. Take calculated risks. Speed is not preordained. Its a leadership and culture decision. The overwhelming majority of decisions we make are one way door decisions. Have the right mindset and right urgency to take decisions.
+10. Be frugal. Constraints breed resourcefulness and invention. The very best businesses do more with less. Everything you save on, you can give back to customers with low prices and more productive things.
+11. Earn trust of the people. Leaders listen attentively, speak candidly and treat others respectfully. They are vocally self critical even when doing so is awkward or embarassing. Leaders don't believe that their or their own team's body odor smells like perfume. They benchmark themselves and their teams against the best. 
+12. Dive deep. Leaders operate at all levels, stay connected to the details, audit frequently and are skeptical when metrics and annecdotes differ. No task is beneath them. Details of an idea matters the most. THat is what the customers and people actually see. It is hard to fake the details in a narrative. Follow the anecdotes and inspect the details.
+13. Have a backbone. Disagree and commit. Leaders are obligated to respectfully challenge decisions when they disagree.They do not compromise for the sake of social cohesion. Once a decision is made, the commit whole heartedly.Don't compromise to make each other feel better, the answer should be about truth.
+14. Leaders focus on the key inputs for their businesses and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle. Don't try to actively manage the outputs. Focus on the inputs. Launch or delivery is not the finish line, its the starting line.
+15. Strive to be the earth's best employer.
+16. Leaders create more than they consume, and always leave things better than they found them.
+
+
+Amazon is very data driven, so PMs need to have very strong analytical skills.
+
+Tim cook's leadership principles focus on people, strategy and execution.
+
+PMs at yahoo generally have a CS degree.
+
+In twitter, many TPMs come from varied backgrounds like Management, consulting, engineering, or Tech lead and tech architect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
