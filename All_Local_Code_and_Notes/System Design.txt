@@ -1,0 +1,71 @@
+Alex Xu
+
+First we focus on a single server setup 
+1. Users access the website through the domain name. Usually the DNS(Domain Name System) is a paid 
+service hosted by a third party(Godaddy offers a DNS service as part of its suite of services).
+DNS transforms human readable addresses into IP addresses. The browser sends the DNS query to a DNS resolver.
+2. IP address is returned to the web browser
+3. Once the IP address is obtained, HTTP requests are sent directly to the web server
+4. The server sends HTML pages or JSON response for rendering
+
+There can be 2 main sources, web apps and mobile apps
+Web apps use a combination of server side languages to handle business logic and client side languages for 
+presentation
+JSON is used for api response format.
+
+Vertical scaling has a hard limit and does not have failover and redundancy
+In horizontal scaling, a load balancer is the best technique to ensure failover and redundancy
+
+In order to support failover and redundancy for a single database, database replication is a simple idea 
+In its simplest form, database replication uses a master slave architecture
+
+The data is also replicated in multiple servers so that data loss doesn't happen
+
+If the master database goes down, a slave database will be promoted to the master. A new slave database
+will replace the old one for replication temporarily(even this may not be needed). In prod systems, 
+promoting a new master is complicated as data in a slave database might not be up to date. We need to
+run data recovery scripts to sync up the databases
+
+There are some other methods like multi-master and circular replication.
+
+In multi master architecture, all nodes have both read and write capabilities unlike where in single master
+only the master does the write while the slaves are read only
+Conflict resolution is done by LWW(Last Write Wins). The system maintains different versions of the data 
+to check which version is the authoritative one. Also in this specific business rules govern how different 
+conflicts will be handled
+
+Multimaster systems are common in cloud applications where availability and scalability are key 
+
+Circular replication is a replication system that can be used in multi master architecture among others. 
+Here if we think of nodes in a circle, data flows in a loop and data for node A is duplicated in node B, node B to node C, etc.
+Even here we can use LWW for resolving conflicts 
+ 
+Once the cache is full we can use any kind of cache eviction like LRU, LFU, etc.
+
+Since a CDN loads static content from a cache. Thus we can also use Dynamic Content Caching in CDNs 
+to make it even faster
+
+When caching in CDNs we must also configure how to cope with CDN failure. Most CDNs offer automatic 
+failover to origin. But that can make it incredibly slow, so there are different approaches like Multi CDN strategy, Origin Shields, Edge caching with redundancy, local caching,etc.
+
+
+Stateless web tier-> Is a design pattern where each request made by the client to the server is independent 
+and self contained, and the server doesn't store any prior information of the client 
+REST api is a stateless architecture. Every API request is independent and the server does not maintain any information between requests.
+In a serverless model like AWS Lambda, each function is stateless and processes a single request without maintaining user data
+
+Challenges-> Since the server doesn't remember previous interactions, clients may need to store some information 
+like user sessions or authentication tokens 
+
+On the other hand, the pattern where we store metadata from client requests is called stateful architecture.
+
+
+A stateless system is simpler, more robust and scalable.
+
+
+We can use services like geoDNS to geographically route requests.
+
+This allows us to have multi data centers for each geo location.
+
+For further scaling, we decouple different components of the system so that they can be scaled efficiently.
+
