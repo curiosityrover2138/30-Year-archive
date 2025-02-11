@@ -69,3 +69,5 @@ This allows us to have multi data centers for each geo location.
 
 For further scaling, we decouple different components of the system so that they can be scaled efficiently.
 
+Messaging queue is one step towards decoupling the queueing process to make it scalable
+
