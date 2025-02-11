@@ -76,4 +76,49 @@ All_Local_Code_and_Notes\System Design images\1st.png
 
 
 
+Stackoverflow and Spotify used only 1 database. The overall cost of vertical scaling is high as single high 
+performance servers are much more expensive
+
+Horizontal scaling is also known as sharding
+Sharding separates large databases into small easily managed parts called shards
+
+The most important factor to consider when implementing a sharding strategy is choosing a sharding key
+
+
+New challenges in sharding:
+1. Resharding data is needed when a single shard cannot handle /hold more data due to rapid growth.
+Certain shards might experience shard exhaustion faster due to uneven data distribution.
+Consistent hashing is a common technique used to solve this problem.
+2. Celebrity problem: What instagram faced with JB uploads.
+3. Join and Denormalization: Once a DB has been sharded across multiple servers, it is hard to perform Join
+operations across database shards. A common workaround is to denormalize the database so that the queries can 
+be performed in a single table.
+
+All_Local_Code_and_Notes\System Design images\2nd.png
+
+
+Scaling a system is an iterative process. Many fine tuning strategies will be needed to make it beyond 
+a certain number of users. Platforms like Google, FB, Insta, use a lot of optimization strategies for each 
+type of operation.
+
+Main strategies are:
+1. Keep web tier stateless
+2. Build redundancy at every tier.
+3. Cache data as much as possible
+4. Support multiple data centers
+5. Host static assets in CDNs
+6. Scale data tier by sharding
+7. Split data tiers into individual services
+8. Monitor systems and use automation tools.
+
+
+Create back of the envelope estimations to have a rough idea of systems. This will be the major thing 
+expected in interviews.
+
+
+Memory is fast but disk is slow 
+Avoid disk seek operations if possible 
+Simple compression algorithms are fast 
+Compress data before sending it over the internet if possible
+Data centers are usually in different regions and transferring data and taking data is expensive
 

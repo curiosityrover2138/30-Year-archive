@@ -21,6 +21,7 @@
 Write detailed ideas for each product as narratives VVIMP
 
 
+
 Make communities where others keep track of your productivity at any task. 
 Community-> For making a community of like minded people focusing on live streams and encouraging productivity.
 Use computer vision to track gym workouts, suggest good form, suggest diet based on exercise and track progress
