@@ -122,3 +122,14 @@ Simple compression algorithms are fast
 Compress data before sending it over the internet if possible
 Data centers are usually in different regions and transferring data and taking data is expensive
 
+Back of the envelope estimation is all about the process. Simply estimate the number of 
+requests, data size, things you need to store or cache, among other things 
+
+Real world system design is extremely complicated, the interviews only try to simulate a meeting discussion
+
+The final design is less important than the work you put in the process
+Collaborate, work well under pressure and resolve ambiguity constructively.Ask good questions 
+
+Overengineering is a real disease. Always ask questions and don't focus on answers. Focus on the process.
+
+43
