@@ -234,3 +234,9 @@ Sliding window counter algorithm->
 Hybrid approach that combines the fixed window counter and a sliding window log.
 
 All_Local_Code_and_Notes\System Design images\10.png
+
+Number of requests in the rolling window is calculated
+
+Requests in current window+ (Requests in previous window * overlap percentage of rolling window and previous window)
+
+62
