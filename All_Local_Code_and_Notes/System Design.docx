@@ -132,4 +132,105 @@ Collaborate, work well under pressure and resolve ambiguity constructively.Ask g
 
 Overengineering is a real disease. Always ask questions and don't focus on answers. Focus on the process.
 
-43
+One of the most important skills in an engineer is to ask the important questions, understand and deal 
+with ambiguity and clarify requirements.
+If you are making your assumptions instead of getting data from the interviewer, right down the assumptions 
+
+
+First propose high level design, and get buy-in i.e. the interviewer should agree with your design
+
+Once you go into detail, keep collaborating with the interviewer. Give potential drawbacks of the design,
+discuss bottlenecks, and always give potential cases where it can fail. No design is perfect and since 
+its all dependent on use cases, the imperfections need to be clear as well.
+
+Discuss rate limiters, all apis use some form of rate limits.
+
+Rate limiters->
+
+1.Acurately limit excessive requests 
+2. Low latency-> A rate limiter shouldn't slow down HTTP response time
+3. Use as little memory as possible 
+4. Distributed-> Can be shared across multiple servers or processes.
+5. Exception handling-> Show clear exceptions to users when their requests are throttled.
+6. High fault tolerance
+
+We can implement a rate limiter either on the client side or server side 
+Generally speaking, client side is unreliable to enforce since client requests can be easily forged 
+
+We can create a rate limiter middleware, which throttles requests to API 
+All_Local_Code_and_Notes\System Design images\3rd.png
+
+Cloud microservices have become popular and the rate limiting is usually implemented in an API gateway 
+API Gateway is a fully managed service that supports rate limiting, SSL termination, authentication,
+IP whitelisting, servicing static content, etc.
+
+Evaluate your current programming language, cache service, etc. Make sure your programming language is
+efficient to support rate limiting on server side.
+
+Identify the rate limiting algorithm that fits your business needs. when you implement everything on the server 
+side you have full control of the algorithm, but it may change if you are using a third party gateway 
+
+
+Algorithms for rate limiting:
+1.Token bucket
+2. Leaking bucket 
+3. Fixed window counter 
+4. Sliding window log
+5. Sliding window counter 
+
+All_Local_Code_and_Notes\System Design images\4th.png -> Token bucket
+All_Local_Code_and_Notes\System Design images\5.png->    "
+
+A token bucket algo takes 2 params-> Bucket size and refill rate 
+
+It is usually necessary to have different buckets for different endpoints 
+
+The params might be difficult to tune properly.
+
+Leaking bucket algorithm->
+All_Local_Code_and_Notes\System Design images\6.png
+
+It is similar to a token bucket, except the requests are processed at a fixed rate
+Takes 2 params-> Bucket size and outflow rate 
+
+Cons-> A burst of traffic fills up the queue with old requests, and if they are not processed 
+in time,recent requests will be rate limited.
+
+Fixed window counter algorithm->
+
+The algorithm divides the timeline into fixed sized time windows and assign a counter for each window 
+
+Each request increments the counter by one 
+
+Once the counter reaches the predefined threshold, new requests are dropped until a new time window starts 
+All_Local_Code_and_Notes\System Design images\7.png
+
+
+The con for this is that a spike in traffic at the edges of a window, could cause more requests than the  
+allowed quota to go through
+
+All_Local_Code_and_Notes\System Design images\8.png
+Here the limit is 5, but in a 1 minute time frame 10 can go through
+
+
+Sliding window log algorithm->
+
+This fixes the issue of fixed window counter.
+
+The algorithm keeps track of request timestamps. The data is kept in cache in a sorted order like Redis 
+
+When a new request comes in, remove all the outdated timestamps. Add timestamp of the new request to the log 
+
+If the log size is same or lower than the allowed count, the request is accepted or it is rejected.
+All_Local_Code_and_Notes\System Design images\9.png
+
+
+
+Cons-> The algorithm can consume a lot of memory because even if a request is rejected, its timestamp
+might still be stored in the memory.
+
+Sliding window counter algorithm->
+
+Hybrid approach that combines the fixed window counter and a sliding window log.
+
+All_Local_Code_and_Notes\System Design images\10.png

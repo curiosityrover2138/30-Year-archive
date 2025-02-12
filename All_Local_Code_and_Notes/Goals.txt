@@ -1,0 +1,89 @@
+# Inspirations: Alex Honnold, Kevin Hart, Alex Karp, Grigori Perelman, Bernie Ecclestone, Prince, Seth Green, Demetrius Johnson, Bow Wow, Daniel Naroditsky, Daniel Day Lewis, Mickey Rooney, Paul Allen, Anil Agarwal, Sam Walton, Vincent Van Gogh,RK Damani, Neville Naronha, Luiz Andre Barozzo, Jeff Bezos, Ozzy Osbourne, Howard Schultz, Alan Holdsworth
+
+## Contest-> Stuck (if applicable)-> Learn
+
+Gradatim Ferociter
+
+Start Contest timer, even if stuck sit through and try every possible aspect of the problem. Then start the stuck timer, try through even more, then look at the solution. This will reduce the time of solving each problem in the short term, but that is how I will learn. There is no other way. This way I will dedicate atmost 3 hours to a problem I am stuck in which is a good middle point.
+
+Become a billionaire by the age of 70. Thats the goal.
+Become a millionaire by 35, multi by 45 and billionaire by 70. I will need great year and atleast 2x clarity and 1.5x speed of my peers
+Get a job at a great tech company-> Get good at technical+soft skills-> Start your company while ensuring your salary is always greater or equal to what it was before-> If it doesnt succeed, exit and either get into a good company again or repeat-> Focus on business models more than valuation and keep increasing your lifestyle
+Bernie is MY BIGGEST inspiration. If he can do it from nothing, I can atleast achieve 1% of that. As long as I am able to do that, I will be satisfied. Express the love of god and man through entrepreneurship. IT IS THE NEW ART
+AS LONG AS I AM WRITING CODE EVEN IF ITS A LINE A MONTH, I WILL BE DOING COMPETITIVE PROGRAMMING. I will only retire once I am sure I won't need to write a line of code in my life.
+Be totally positive like a ray of sunshine, but be absolutely ruthless, focused and relentless in what you want to get out of the transaction with any person. We have created a facade of positiveness just because it works better than savagery, but we aren't positive an nice people. Focus on being good at navigating the world if you want to get ahead in any way
+
+I am in love with the idea and desire a certain kind of life. I will work and do anything required to get that. IDC what happens to me. I will just DO IT.
+
+https://codeforces.com/profile/S2speed
+This progress is definitely possible. 3-4 years max is a very good time limit for this goal, no matter what occurs in life. Worst has already occurred
+Reaching a goal is never about what you want or dont want. Its about what you should be doing in order to reach the goals. Others set the rules, you dont.
+
+
+Goal -> 1800 by December , 2100 by May 2025.
+
+24/06/2024-> 3 questions completed in around 3 hours
+25-26/06/2024-> Did a few questions. Need to focus harder for longer
+27-> A bit better but can do a lot better. Need to also sleep a bit more as having trouble sleeping just delays everything and leads to very less overall time where I can actually do something. Also div 2s are a whole different breed. Need to practice much more div 2 a and b in order to progress as even the easy ones have ideas I haven't encountered before and hence are harder to solve than div3
+Develop your intuition. There are no hard and fast rules. Spend the maximum time allotted for each range when you are stuck, but if the intuition isn't developed you will keep walking in the wrong direction. Remain stuck on a problem when the intuition tells you to. If not quickly look at the solution, understand and learn from it and move on
+If you are 1500 rated you wont be able to solve all 1100 1200 questions flawlessly. There will be around 3 brackets of your practice now. 1000-1500, 1600-2200 and 2200+. When you go pass a threshold, only then it becomes easy to solve all problems consistently in the lower bracket. Till then dont hope so.
+
+Do Competitive programming questions, and upload the streams on youtube
+
+Goal -> Should be doing 100 sums a month atleast.
+
+1. When trying to go into a flow state, first step is overcoming anxiety, fear and getting used to the adrenaline rush
+2. Calm your mind somehow to get used to the adrenaline so that you are able to get out of the phase when needed to sleep and have a normal mind
+3. Assign goal(s), and work towards it with a single minded focus
+
+
+800-1100-> Can comfortably do the sums, but have to do it under 10-15 mins
+
+
+Don't let the problem and the test cases fool you. Happened twice, won't let it happen ever again.
+
+You are just flustered, uncomfortable and miserable because your brain is not accustomed to new things. Once it becomes accustomed, it will become the new happier normal.
+
+Always keep the problems solved in last month count in codeforces above 150
+
+I know I can do this. By 2028 January, I will CRACK the interview for L5 at google. Or Crack L4 at google by 2027 January
+
+I'm not gifted. I'm not smarter than everybody else. I'm not stronger. I just have the ability to stick to a plan and not quit. I Have a plan I know I can achieve. I just WON'T QUIT. Thats it.
+
+I am just having difficulty implementing shit. I have a good idea of what the solution might be, but doing it all the way through is difficult.
+
+As long as I am dealing with software, even remotely, I cannot give up CP. As long as I am involved in development of software, and dealing with code(reading, writing, or anything remotely related), even if it is for 10 minutes once a month, I will do CP 40+ hours a week. If my life somehow becomes similar to steve jobs or some kind of useful asset to the company without even remotely involved in technical stuff, I will give up(maybe) but not before that.
+
+Don't move forward in rating unless you feel extremely confident in the current rating.
+
+Give 1 Codeforces contest a week (preferably Saturday/Sunday)
+
+Trust the process. Always be aware of the bigger picture and never do anything that ruins it. I am not an idiot for being able to do certain sums and missing the easy ones. Think of it like chess, you will make idiotic blunders and pull off some crazy combinations frequently. It is the nature of the game. Don't get disheartened and enjoy the journey and stay focused. It is definitely possible to excel.
+
+https://ali-ibrahim137.github.io/competitive/programming/2020/08/23/Stress-Testing.html
+
+- If you did not solve, did not try a lot of ideas, and did not use the editorial: you did not improve.
+- If you did not solve, did not try a lot of ideas, and did use the editorial: you did not improve.
+- If you did not solve, did try a lot of ideas, and did not use the editorial: you did not improve.
+- If you did not solve, did try a lot of ideas, and did use the editorial: **you did improve but very less.**
+- If you did solve, did not try a lot of ideas, and did not use the editorial: you did not improve.
+- If you did solve, did not try a lot of ideas, and did use the editorial: you did not improve.
+- If you did solve, did try a lot of ideas, and did not use the editorial: **you did improve.**
+- If you did solve, did try a lot of ideas, and did use the editorial: **you did improve.**
+
+Approximate rating graph (questions that challenge you)-> 1,000 questions-> 1800
+                                                2,500 questions-> 2100
+                                                 4,000 questions-> 2250
+                                                 6,000 questions-> 2350
+                                                 7,500 questions-> 2400
+	                                              10,000 questions-> 2550
+	                                              15,000 questions-> 2700
+	                                              25,000+ questions + challenging yourself immensely + having high level of concepts clear + tried many different ways for each problem -> 3000+ 
+
+Solve all CSES problem sets of Searching, Sorting DP and intro graph and know the pattern inside out
+
+It is fine to spend 1-2 hours on a particular problem. You won't know the solution instantly. The key is to get good at patterns to reduce it to 30-45 mins per problem.
+
+
+
+
