@@ -1,5 +1,5 @@
 1. Virth-> Net worth of each human
-2. Rent a friend
+2. Rent a friend 
 3. Rate->Rate any person in your contacts out of 10, give anonymous reviews.
 4. Homeopathy app
 5. Productivity tracker and "worth measurer" for businesses
@@ -17,10 +17,15 @@
 17. Local politician to voter connect
 18. Alert govt and local officials for any particular problem
 19. Social media app based on location to get posts based on what is happening around us (Locality)
+20. Rent actors
+21. 
 
 Write detailed ideas for each product as narratives VVIMP
 
 
+
+
+Figure out the core human want, and figure out the core human drive.
 
 Make communities where others keep track of your productivity at any task. 
 Community-> For making a community of like minded people focusing on live streams and encouraging productivity.

@@ -87,3 +87,9 @@ It is fine to spend 1-2 hours on a particular problem. You won't know the soluti
 
 
 
+Get good at:
+1. Competitive Programming-> So that you can master the meta skill of learning things fast
+2. System Design and Overall tech leadership-> So you can design decently good systems, and don't need to always rely on a cofounder 
+3. Business Acumen-> Obviously. Also includes Product knowledge, Product Market fit, researching market, identifying opportunities and having the innate bulb calibrated inside your mind that lights up when you notice a great opportunity
+4. Finance-> So you can manage finances and get decently good at the technicalities. This also helps you in finding the best valuation for a particular product, and giving you the innate sense of value and profitability
+
