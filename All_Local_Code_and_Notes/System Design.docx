@@ -240,4 +240,118 @@ Number of requests in the rolling window is calculated
 
 Requests in current window+ (Requests in previous window * overlap percentage of rolling window and previous window)
 
-62
+Since we need a counter to track how many requests are made by the same user, redis is a good rate limiting
+implementation choice 
+
+Rate limiting rules are generally in the config files and saved within a disk
+
+Rate limiters append specific HTTP headers to indicate the status of rate limiting
+THese aare:
+
+X-RateLimit-Limit
+X-RateLimit-Remaining
+X-RateLimit-RetryAfter
+Retry-After 
+
+All_Local_Code_and_Notes\System Design images\11.png
+
+Building a rate limiter that works in a single server environment is easy, but scaling it is a different story
+
+2 challenges are:
+-> Race Conditions
+-> Synchronization
+
+Locks are the most obvious solution to solve race conditions, but they will significantly slow down the system 
+
+Lua scripts and Sorted sets data structure in redis are the 2 commonly used strategies to solve this
+
+Redis allows us to run Lua scripts in an atomic fashion, meaning that once a script is invoked, it is 
+executed in a single uninterrupted operation
+
+-- Lua script for rate limiting EXAMPLE
+local key = KEYS[1]  -- Redis key (e.g., rate_limit:{user_id})
+local limit = tonumber(ARGV[1])  -- Rate limit (e.g., 100 requests)
+local window = tonumber(ARGV[2])  -- Time window (e.g., 60 seconds)
+
+-- Check the current request count
+local current = tonumber(redis.call('GET', key))
+
+if current and current >= limit then
+    -- If the current count is greater than or equal to the limit, reject the request
+    return 0  -- Indicating rate limit exceeded
+else
+    -- Increment the request count
+    if current then
+        redis.call('INCR', key)
+    else
+        redis.call('SET', key, 1)
+    end
+    -- Set the expiration time for the key (rate limit window)
+    redis.call('EXPIRE', key, window)
+    return 1  -- Indicating the request is allowed
+end
+
+
+Instead of Lua scripts, we can just use a sorted set to always check for each user key the requests, and only 
+append in the set if it can be appended. However, this can cause some performance issues for very large number 
+of users
+
+Multi data center setup is crucial for rate limiters as latency is high for users far away from the
+geographical region
+
+
+After setup of a rate limiter,it is important to gather analytics data to check whether the rate limiter is
+effective or not. Primarily we want to make sure the rate limiting is working as expected and the rules 
+aren't too strict.
+
+When desiging we can address other things like Hard vs Soft rate limiting, Rate limiting at different levels
+
+
+
+Consistent hashing:
+
+
+If we change the number of servers in normal hashing, all the keys would need to be remapped as 
+it is based on the number of servers. However in consistent hashing, only n/m keys need to be remapped where n is the number 
+of keys and m is the number of slots.
+
+In consistent hashing a blob is hashed, and then mapped to a circle
+
+F(x)%360
+
+Then this mapped value is assigned to the server in the nearest position clockwise. This can be determined
+by a binary search or linear search 
+
+Thus when a server fails, only the blobs assigned to the failed server need to be reassigned, hence n/m 
+
+
+All_Local_Code_and_Notes\System Design images\12.png
+
+
+Issues:
+
+1. Its impossible to keep the same size of partitions on the ring for all servers considering a server can
+be added or removed.
+2. It is possible to have a non uniform key distribution in the ring
+
+
+This can be solved using virtual nodes.
+
+We can create multiple virtual nodes for each server to make all the servers uniform in the circle.
+
+Consistent hashing is widely used in real world scenarios like:
+Partitioning component for Amazon Dynamo DB
+Data partitioning across the cluster in Apache Cassandra
+Discord chat applications
+Akamai CDN
+Maglev network load balancer
+
+
+Design a key value store:
+
+There is no perfect design for a key value store. Each design achieves a specific tradeoff balance between 
+read write and memory usage 
+
+Consistency and Availability are also 2 key aspects of the tradeoff 
+
+
