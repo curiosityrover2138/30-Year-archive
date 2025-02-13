@@ -13,6 +13,7 @@ Web apps use a combination of server side languages to handle business logic and
 presentation
 JSON is used for api response format.
 
+
 Vertical scaling has a hard limit and does not have failover and redundancy
 In horizontal scaling, a load balancer is the best technique to ensure failover and redundancy
 
