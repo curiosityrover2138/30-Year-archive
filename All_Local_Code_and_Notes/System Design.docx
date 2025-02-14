@@ -354,4 +354,24 @@ read write and memory usage
 
 Consistency and Availability are also 2 key aspects of the tradeoff 
 
+When designing a distributed system, it is vital to understand CAP theorem, Consistency Availability 
+Partition tolerance
+
+CAP theorem states that it is impossible for a distributed system to provide all 3.
+
+Thus we can design either CA, CP or AP systems but not CAP systems 
+
+Since network failure is unavoidable, a distributed system must tolerate network partition. Thus 
+a CA system cannot exist in real world applications.
+
+There are following core components and techniques used to build a key-value store:
+1. Data partition
+2. Data replication
+3. Consistency 
+4. Inconsistency resolution
+5. Handling failures
+6. System architecture diagram 
+7. Write path 
+8. Read path 
+
 
