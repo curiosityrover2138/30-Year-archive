@@ -1,7 +1,15 @@
 
 Distill all patterns that you can encounter in competitive programming and make a list of problems and techniques having that pattern. Should ideally contain no more than 500 problems when I am a GM. Maximum 1000 problems. Simplify when needed. Gradatim Ferociter.
 
-147. 
+147. 2046A-> All values can be divided into 3 types, one where we go through both rows, one 
+on row 1 and one on row 2. So we can go through all columns and consider we are taking both, then for 
+each column go through all remaining columns and take only the max. The complexity will be O(N^2)
+
+148. 2055C-> I was assigning the sum 0 correctly, but incorrectly going through the row or column required.
+I was going through all the rows, but instead I should have gone through any one required, be it row or column 
+based on R or C
+
+149.2051D-> Upper bound and lower bound give the values. But you can convert into indices by subtracting vec.begin()
 
 
 1. Little Girl and Maximum sum (CF)-> Instead of going through all values in the range, increment the first value of the range, and decrement value after last. Then take the prefix sum to get the frequency of all elements in the range on O(n) instead of O(q*n)

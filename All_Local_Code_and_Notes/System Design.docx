@@ -374,4 +374,49 @@ There are following core components and techniques used to build a key-value sto
 7. Write path 
 8. Read path 
 
+Data partition:
+Simplest way to accomplish data partitioning is to use consistent hashing which is a specific form of 
+sharding.
+
+Using consistent hashing for partitioning has the following advantages:
+AUTOMATIC SCALING-> Servers can be added or removed automatically depending on the load 
+HETEROGENEITY-> The number of nodes for a server is proportional to the server capacity i.e. servers 
+with high capacity are assigned more virtual nodes 
+
+
+Data replication:
+Data replication is achieved by choosing the next N servers in the ring(where N is configurable) and 
+store copies of the data in all the N servers 
+With virtual nodes, the first N nodes on the ring may be owned by fewer than N physical servers. To avoid 
+this issue, we choose N unique servers and N is kept <= total no. of servers.
+
+Nodes in the same data centers may fail simultaneously, so to avoid failures during power outages, natural 
+disasters etc. we use N distinct data centers in distinct locations.
+
+
+
+
+Consistency:
+
+Quorum consensus can guarantee consistency for both read and write operations 
+N=no. of replicas
+
+W= A write quorum of size W. For a write operation to be considered as successful write operation must 
+be acknowledged from W replicas 
+R= Read quorum of size R. For a read operation to be considered successful read operation must wait 
+from atleast R replicas 
+
+A coordinator acts as a proxy between the client and the nodes 
+A consistency model defines a degree of data consistency and a wide degree of possible models exist:
+1. Strong consistency-> Any operation returns a value of the most up to date data and the data is always consistent
+2. Weak consistency-> Subsequent reads may not always give the most updated data 
+3. Eventual consistency-> This is a specific form of weak consistency. Given enough time, all updates 
+are propagated and all replicas are consistent.
+
+Strong consistency is usually achieved by forcing a replica to not accept new reads/writes until every 
+replica has agreed on current write. This approach is not ideal for highly available systems as it could 
+block new operations. Dynamo and Cassandra adopt eventual consistency, which is usually the best. 
+
+
+Inconsistency resolution: Versioning->
 
