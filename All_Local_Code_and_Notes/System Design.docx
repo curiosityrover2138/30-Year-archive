@@ -420,3 +420,38 @@ block new operations. Dynamo and Cassandra adopt eventual consistency, which is 
 
 Inconsistency resolution: Versioning->
 
+Replication gives high availability but causes inconsistency among replicas.
+
+Versioning and vector clocks are used to resolve inconsistency issues 
+
+If 2 changes are performed simultaneously in 2 replicas of the same data, we will have 2 versions 
+even though the change was only supposed to be one 
+
+Now there is no clear way to resolve the conflict of the last 2 versions 
+
+Vector clock has a [server,version] pair associated with the data item. It can be used to check if 
+one version preceeds, succeeds or is in conflict with others 
+
+For each data item we have D([S1,V1],[S2,V2],[S3,V3],...,[Sn,Vn])
+
+If data item D is written on server S, we increment V for that S, else we create a new D([S,V])
+and replace the original with it 
+
+For eg.
+
+If I write D1, and the write is executed by S1 we created D1([S1,V1])
+If we modify D1 to D2, and write is executed by S1, the vector clock becomes D2([S1,V2])
+Another client reads the data D2, and changes it to D3, now the write is executed by S2 so vector clock 
+becomes D3([S1,V2],[S2,V1])
+
+This is how vector clocks work 
+
+Now if one client again reads the latest D2 and modifies it by writing it from S3 
+the vector clock becomes D3([S1,V2],[S3,V1])
+
+Now there is a conflict as both D3([S1,V2],[S2,V1]) and D3([S1,V2],[S3,V1]) cannot coexist simultaneously
+
+
+
+
+

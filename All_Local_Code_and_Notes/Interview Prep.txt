@@ -1,0 +1,5 @@
+Do competitive programming for increasing speed and accuracy
+
+Test speed and accuracy in leetcode style problems. Have amazing approach, write production quality code,
+explain it very well, and do all of it fast. Key should be to solve leetcode hard problems in under 20 mins
+

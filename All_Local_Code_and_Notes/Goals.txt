@@ -80,6 +80,14 @@ Approximate rating graph (questions that challenge you)-> 1,000 questions-> 1800
 	                                              15,000 questions-> 2700
 	                                              25,000+ questions + challenging yourself immensely + having high level of concepts clear + tried many different ways for each problem -> 3000+ 
 
+Focus on not only solving problems but solving them fast.
+
+1st target For 1500-> Solve 90% of <1500 in under 40 mins with 1000-1200 in under 20 mins
+Figure out the whole logic and ideally mathematically prove at least somewhat that your solution is true before 
+writing any code
+
+
+
 Solve all CSES problem sets of Searching, Sorting DP and intro graph and know the pattern inside out
 
 It is fine to spend 1-2 hours on a particular problem. You won't know the solution instantly. The key is to get good at patterns to reduce it to 30-45 mins per problem.
@@ -117,6 +125,7 @@ Time line-> For 2 years (26.7-28.7):
 8. Start documenting your life. This will allow you to see your intensity from the outside, and how you 
    look to people as well as what kind of work you are are doing. Force yourself to always be ON and perform 
    ruthlessly
+9. Run and build endurance to complete 20 km runs in 2 hours. Start from 45 min HIIT jogs and ramp up.
 
 
 
@@ -129,6 +138,7 @@ From 29-31:
 6. Write online and summarize research papers you read on linkedin, make a brand based on just giving out information, as well as focus on your uploads and lives. Be authentic and focus on creating a community out of development, learning and just have your persona out there. Document your whole life for yourself. See the weekly progress you are making and keep iterating.
 7. Develop your knowledge of finance.
 8. Have a girlfriend by this time who meets most of your criteria. Be charming, and do anything needed to get that.
+9. Be able to run 41 km in 4-4.5 hours
 
 From 31-33:
 1. Start a company or few companies.
@@ -138,6 +148,7 @@ enough to get a job at FAANG as senior software engineer or Manager+
 get job again at FAANG or a startup if you agree with their idea and think its a better option than FAANG
 4. Find a girl to marry by this time.(preferably 10-15 years of age diff)
 5. Keep iterating and switching between business and job 
+6. Be able to run 41 km in <4 hours preferably 3.5
 
 From 33-40:
 1. Have kid if your wife wants one
@@ -189,3 +200,4 @@ The goal is to force personal development, and make sure you are improving. Comb
 practice mode. Everything you do must be better than before. Hypothesize-> Experiment-> Conclude-> Repeat.
 
 Use youtube to document your life, keep external pressure, and force yourself to improve everyday.
+

@@ -11,6 +11,8 @@ based on R or C
 
 149.2051D-> Upper bound and lower bound give the values. But you can convert into indices by subtracting vec.begin()
 
+150. Longest increasing path in a matrix LEETCODE-> Use the directions array alongwith dp to do a dfs for all 
+values
 
 1. Little Girl and Maximum sum (CF)-> Instead of going through all values in the range, increment the first value of the range, and decrement value after last. Then take the prefix sum to get the frequency of all elements in the range on O(n) instead of O(q*n)
 

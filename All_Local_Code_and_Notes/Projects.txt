@@ -1,0 +1,55 @@
+1️⃣ URL Shortener (Bit.ly Clone)
+✅ Concepts Covered:
+
+Database scaling (Sharding, Consistent Hashing)
+Cache optimization (Redis for quick URL lookups)
+Rate limiting (Avoid spam requests)
+Read-heavy optimizations
+🚀 Bonus: Deploy to GCP/AWS using Cloud Functions + Firestore
+
+2️⃣ Distributed File Storage System (Google Drive Clone)
+✅ Concepts Covered:
+
+Chunking large files (Splitting into parts, storing in distributed storage)
+Metadata service (Tracking file ownership, access, and history)
+Load balancing (Handling millions of file uploads/downloads)
+Event-driven updates (Pub/Sub for sync across devices)
+🚀 Bonus: Use Cloud Storage + Firebase for real-world experience
+
+3️⃣ Real-Time Chat Application (WhatsApp Clone)
+✅ Concepts Covered:
+
+WebSockets & long polling (Handling real-time messages)
+Message queues (Kafka/PubSub) (Asynchronous delivery)
+Data replication (Ensuring message durability)
+Typing indicators, Read receipts
+🚀 Bonus:
+
+Use Firebase Firestore for real-time sync
+Add end-to-end encryption (Signal Protocol)
+4️⃣ Video Streaming Service (YouTube Clone)
+✅ Concepts Covered:
+
+Chunk-based video streaming (HLS/DASH)
+CDN Caching (For smooth playback)
+Metadata Storage (Firestore, DynamoDB)
+Transcoding & Compression (Adaptive bitrate streaming)
+🚀 Bonus:
+
+Deploy using GCP Cloud Run for autoscaling
+Store videos in GCP Cloud Storage
+5️⃣ Rate Limiter (API Gateway Feature)
+✅ Concepts Covered:
+
+Token bucket algorithm (Preventing abuse)
+Sliding window counters (Flexible rate limiting)
+Distributed storage for counters (Redis, DynamoDB, Spanner)
+🚀 Bonus: Implement Google Cloud API Gateway + Redis
+
+6️⃣ Scalable Notification System (Gmail/FB Notification Clone)
+✅ Concepts Covered:
+
+Pub/Sub model (Kafka, Google Pub/Sub for async delivery)
+Email + push notifications (Multi-channel delivery)
+Delayed notifications (Scheduler for retries, rate limits)
+🚀 Bonus: Use Firebase Cloud Messaging (FCM) + Google Pub/Sub
