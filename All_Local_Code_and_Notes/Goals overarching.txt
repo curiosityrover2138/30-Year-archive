@@ -9,6 +9,7 @@ Start Contest timer, even if stuck sit through and try every possible aspect of 
 
 
 
+
 Become a billionaire by the age of 70. Thats the goal.
 Become a millionaire by 35, multi by 45 and billionaire by 70. I will need great year and atleast 2x clarity and 1.5x speed of my peers
 Get a job at a great tech company-> Get good at technical+soft skills-> Start your company while ensuring your salary is always greater or equal to what it was before-> If it doesnt succeed, exit and either get into a good company again or repeat-> Focus on business models more than valuation and keep increasing your lifestyle
@@ -23,13 +24,6 @@ This progress is definitely possible. 3-4 years max is a very good time limit fo
 Reaching a goal is never about what you want or dont want. Its about what you should be doing in order to reach the goals. Others set the rules, you dont.
 
 
-Goal -> 1800 by December , 2100 by May 2025.
-
-24/06/2024-> 3 questions completed in around 3 hours
-25-26/06/2024-> Did a few questions. Need to focus harder for longer
-27-> A bit better but can do a lot better. Need to also sleep a bit more as having trouble sleeping just delays everything and leads to very less overall time where I can actually do something. Also div 2s are a whole different breed. Need to practice much more div 2 a and b in order to progress as even the easy ones have ideas I haven't encountered before and hence are harder to solve than div3
-Develop your intuition. There are no hard and fast rules. Spend the maximum time allotted for each range when you are stuck, but if the intuition isn't developed you will keep walking in the wrong direction. Remain stuck on a problem when the intuition tells you to. If not quickly look at the solution, understand and learn from it and move on
-If you are 1500 rated you wont be able to solve all 1100 1200 questions flawlessly. There will be around 3 brackets of your practice now. 1000-1500, 1600-2200 and 2200+. When you go pass a threshold, only then it becomes easy to solve all problems consistently in the lower bracket. Till then dont hope so.
 
 Do Competitive programming questions, and upload the streams on youtube
 
