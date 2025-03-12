@@ -3,3 +3,4 @@ and among them the ones with lesser ones will go first. Use stable_sort for that
 1831B-> Find the maximum continguous sequence of each element in the array and the left and right pointers
 for it, that way you can 
 1765M-> Just go through all the divisors in O(sqrt(n)) and find the first divisor that will be the answer
+1715B-> Greedy with k*b as first and 
