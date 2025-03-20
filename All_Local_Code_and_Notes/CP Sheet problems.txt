@@ -4,3 +4,7 @@ and among them the ones with lesser ones will go first. Use stable_sort for that
 for it, that way you can 
 1765M-> Just go through all the divisors in O(sqrt(n)) and find the first divisor that will be the answer
 1715B-> Greedy with k*b as first and 
+1438B-> If any 2 values are same it will always be possible 
+1447 B-> If the negative numbers are odd, we just take the minmum value and subtract it from sum twice. 
+Else the sum is the answer.
+1704B-> Use a greedy strategy starting from first element, if it doesn't fit, change it or else keep it.
