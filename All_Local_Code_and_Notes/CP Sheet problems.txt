@@ -8,3 +8,19 @@ for it, that way you can
 1447 B-> If the negative numbers are odd, we just take the minmum value and subtract it from sum twice. 
 Else the sum is the answer.
 1704B-> Use a greedy strategy starting from first element, if it doesn't fit, change it or else keep it.
+1917B-> Second operation is only needed at first instance, as other strings can be reached 
+by just the first operation after that. Thus we check the string from the end,
+
+vector<int> nxt(26, n);
+    ans[n - 1] = 1;
+    nxt[s[n - 1] - 'a'] = n - 1;
+
+    for (int i = n - 2; i >= 0; i--) {
+        ans[i] = ans[i + 1] + (nxt[s[i] - 'a'] - i);
+        nxt[s[i] - 'a'] = i;
+    }
+
+    cout << ans[0] << endl;
+
+And use dp to add the answer for subsequent 
+1891B-> almost did it, the only optimization was just doing it if it is minimum encountered thus far.
