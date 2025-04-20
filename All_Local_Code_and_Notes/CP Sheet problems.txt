@@ -24,3 +24,37 @@ vector<int> nxt(26, n);
 
 And use dp to add the answer for subsequent 
 1891B-> almost did it, the only optimization was just doing it if it is minimum encountered thus far.
+1731B-> Use mod_inverse using fermat's little theorem for dividing
+
+ull mod_inverse(ull a, ull m) {
+    ull result = 1;
+    ull exp = m - 2; // Fermat's Little Theorem
+    while (exp > 0) {
+        if (exp % 2 == 1) {
+            result = (result * a) % m;
+        }
+        a = (a * a) % m;
+        exp /= 2;
+    }
+    return result;
+}
+
+void solve() {
+    ull n;
+    cin >> n;
+
+    ull inv6 = mod_inverse(6, MOD);
+
+    ull ans = ((n * (n + 1) % MOD) * ((2 * n + 1) % MOD) % MOD) * inv6 % MOD;
+
+    ans = (ans * 2) % MOD;
+
+    ans = (ans - (n * (n + 1) / 2) % MOD + MOD) % MOD; // To keep it positive
+
+    ans = (ans * 2022) % MOD;
+
+    cout << ans << endl;
+
+}
+
+1820 B 

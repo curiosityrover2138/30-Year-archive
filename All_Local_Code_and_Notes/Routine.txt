@@ -1,11 +1,11 @@
-1. Wakeup 5 AM 
+1. Wakeup 6 AM 
 2. Exercise jog and lift weights 
 3. Codeforces 
 4. Guitar
 5. Codeforces 
 6. System Design+ Work 
 7. Guitar 
-8. Sleep at 9 PM 
+8. Sleep at 10 PM 
 
 
 Always go to sleep and wakeup consistently. Also during contest days or days you cannot sleep at 9 

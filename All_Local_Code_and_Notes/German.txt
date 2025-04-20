@@ -15,7 +15,8 @@ Bitte Schon or Bitte Welcome or you are welcome
 Bitte-> Please
 Entschuldigen Sie, Bitte!= Excuse me please 
 Entschuldigung Bitte-> informal 
-Es tuut mir Leid-> I am sorry 
+Entschuldigung Excuse me 
+Es tut mir Leid-> I am sorry 
 Wie bitte?-> I beg your pardon
 noch einmal bitte-> Once again please 
 Bitte weiderholen sie-> Please repeat
@@ -47,7 +48,7 @@ Wie  heist du-> Informal what is your name,
 Ich heise harsh 
 
 Wie ist ihr familienname
-Wie ist dien familienname
+Wie ist dein familienname
 Mein familienname ist Tandon 
 
 Woher kommen Sie/Woher kommst du 
@@ -62,6 +63,7 @@ Welche sprachen sprechen sie/Welche sprachen sprichst du?(Which languages do you
 Ich spreche deutsch, english, hindi und bengali
 
 Was machen sie beruflich/was machst du beruflich(What do you do for a living)-> Ich bin Programmierer
+beruf-> profession
 
 Was sind ihre hobbys/Was sind deine hobbys -> What are your hobbies 
 noch einmal-> Once more
@@ -82,11 +84,12 @@ die kalte-> The cold
 
 Ich mag die kaelte nicht-> I don't like the cold 
 
-Brauchst-> To need
+Brauchst-> To need, brauchen
 
 Du brauchst eine neue hose->You need a new pair of pants 
 
 will-> want 
+auch-> Also (Mein vater ist auch Arzt)
 
 Kuchen-> cake
 
@@ -106,6 +109,7 @@ es geht-> Not too bad
 Mir geht es schlecht-> I am not doing well 
 Mir geht es nicht gut-> I am not so well 
 Mir geht es sehr schlecht-> I am feeling very bad 
+schlecht-> bad 
 Miserabel-> Miserable 
 furchtbar-> Awful 
 Ich bin muede-> I am tired
@@ -148,3 +152,251 @@ die Wahrheit-> The truth
 Sagt Joey ihr die Wahrheit-> Does joey tell her the truth?
 schon-> Already
 
+
+Wie ist es in -> What is it like in 
+
+Da-> There 
+Da ist er-> There he is
+Das wetter
+
+alles klar-> All good/alright
+
+ich weiss- I know 
+
+kellnerin-> Waitress 
+Kellner
+
+interessant-> Interesting
+
+
+koche-> cook 
+schwimme-> swim 
+
+male-> Paint 
+manschmal-> Sometimes 
+oft= often 
+immer-> Always 
+schach-> chess 
+nie-> never
+
+spiele-> Play
+
+ich spiele, du spielst -> I play you play 
+
+lecker-> tasty
+
+sie spielt-> She plays
+
+Er schwimmt-> He swims 
+
+klavier-> Piano 
+
+malt er immer-> Does he always paint
+
+rechts-> Right(direction)
+richtig-> Right(correct)
+korrekt-> correct 
+
+alt-> Old 
+U-Bahnstation-> Subway stations
+
+Der Geldautomat ist da drüben.-> The atm is over there 
+teuer= expensive 
+aufregend= exciting
+billig-> Cheap 
+
+Universtat-> University 
+neu-> New 
+
+die Kirche-> The church
+
+weit-> Far 
+weg-> Away 
+bahnhof-> Train station 
+
+Wo ist der park-> Where is the park 
+
+Kanzlerin-> Chancellor 
+
+Sind sie frau klum-> Are you Ms klum?
+
+polizist-> Police 
+
+Heisen sie anna?-> Is your name anna 
+
+ich spreche deutsch und englisch-> I speak german and english 
+
+nein, ich spreche kein englisch-> No, I don't speak english 
+
+Und sie, Wie heisen sie-> And you, what is your name?
+
+Anwalt-> Lawyer 
+Anwaltin-> Female lawyer 
+
+Kunstler-> Artist
+
+Bist du kunstler Max-> Are you an artist max?
+
+Ja ich wohne in Kanada-> Yes I live in canada
+
+Tasche-> Bag 
+Nahe-> Nearby 
+
+Gern Geschehen- You are welcome 
+Brot-> bread
+
+Das brot kostet drei dollar und ist sehr lecker-> The bread costs 3 dollars and is very tasty
+
+mit-> With
+
+Die pizza mit kase kostet sieben euro
+
+Erdbeeren->> Strawberries 
+
+Wie viel-> How much
+
+Wirklich-> Really 
+voll-> Full
+
+Gerne-> With pleasure 
+helfer-> Helper
+
+ich-> Singular
+wir-> Plural 
+
+Ich wohne in new york-> I live in new york 
+Wir wohnen in new york-> We live in new york 
+
+
+du -> You informal  
+ihr-> You all informal 
+
+Max , wo wohnst du? -> Max, where do you live
+
+Julia und  Max, wo wohnst ihr?
+
+sie-> You formal 
+sie -> Formal plural 
+
+Herr muller, wo wohnen sie?
+Herr und Frau Muller, wo wohnen sie? 
+
+er-> He 
+Sie-> She 
+es-> It 
+
+Sie-> Also they 
+
+Das ist michael. Er wohnt in london
+
+Das ist michaela. Sie wohnt in paris 
+
+Das ist mein buch. Es ist alt 
+
+Das sind petra and josh. Sie wohnen in munich 
+
+Haben and Sein-> Helping verbs 
+
+Haben-> To have 
+Sein-> To be 
+
+Ich habe ein auto-> I have a car 
+Sind sie verheiratet-> Are you married 
+
+haben types:
+
+ich habe 
+du hast 
+sie haben 
+er/sie/es hat 
+
+
+wir haben 
+ihr habt 
+sie haben 
+
+
+Ich habe eine haus
+Hast du eine freundin 
+Wir haben eine auto 
+Habt ihr kinder 
+Frau Schmidt, habe sie eine moment?
+Er hat keine zeit
+Maria hat eine tochter 
+Meine Eltert haben einen hund 
+
+
+
+ich bin 
+du bist
+sie sind 
+er/sie/es ist 
+
+wir sind 
+ihr seid 
+Sie sind 
+
+heute-> today 
+jetzt-> now 
+regnet-> raining
+stark-> hard 
+es-> it 
+schneit-> snowing
+fruhling-> spring
+wasserflasche-> Water bottle 
+neblig-> foggy
+wanderst-> hike, wandern sie 
+Wo wandern sie frau graf-> Where do you hike ms graf
+ich wandere -> I hike 
+zu-> too 
+viel-> Much
+Wie viel kostet die sonnencreme-> How much does the sunscreen cost ?
+tauchen-> to dive 
+kartoffeln-> potatoes 
+Da drüben ist das nicht-> It is not over there 
+Lieblings-> Favorite 
+Das kann nicht sein-> That can't be true 
+Sprich mit im-> Talk to him
+Nein, ich bin zu nervos-> No I am too nervous
+schuhe-> Shoes
+sag-> Say (also sagen )
+einfach-> just
+ich muss heir weg-> I must get away from here 
+bewolkt (bevoklt)-> Cloudy
+Anna, ist es heute bewolkt-> Anna,Is it cloudy today 
+Regenchirm-> Umbrella 
+windig-> Windy
+herbst-> Fall/Autumn All seasons are der 
+der schal ist teuer aber schon-> the scarf is expensive but beautiful
+aber-> But
+es ist manschmal heizz(with ezzet) im fruhling-> It is sometimes hot in the spring
+Wanderst du oft, Anna-> Do you hike often, anna?
+Die wasserflache ist sehr grozz-> The waterbottle is very big 
+Oh, Sie wandern nie frau graf-> Oh you never hike ms graf?
+Es ist nie warm im winter-> It is never warm in winter 
+Wanderst du heute? Es ist sehr sonnig. Hier ist die Sonnencreme.(Are you going hiking today? It is very sunny. Here is the sunscreen)
+Du wanderst im sommer und ich wandere im herbst
+
+hilfe-> Help
+Super, Ich brauche hilfe-> Great I need help 
+Mogen sie die rote jacke heir-> Do you like the red jacket here ?
+schwarze-> Black 
+Oh ja, die rote jacke ist perfekt fur sie-> Oh yes, the red jacket is perfect for you 
+
+Ist deine mutter kellnerin-> Is your mother a Waitress
+Was ist dein beruf-> What is your profession?
+
+hast du einen onkel-> Do you have an uncle?
+mitbewohner-> with resident/roommate 
+Tante-> Aunt 
+
+Liebt dein bruder deinen hund-> Does your brother love your dog 
+Wo ist deine partnerin-> Where is your partner 
+Oma-> Grandma 
+Opa-> Grandpa 
+
+Ja meine schneke kommt aus Osterreich-> Yes my snail is from austria 
+hast du einen mann-> Do you have a husband?
+Mein Onkel hat einen sohn-> My uncle has a son 
+Er liebt dienen bruder-> He loves your brother 
+Das ist zu viel-> That is too much 
