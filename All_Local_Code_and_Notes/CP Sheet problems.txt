@@ -92,3 +92,5 @@ int n, q;
     cout << endl;
 
     Using binary search and prefix sum
+
+https://codeforces.com/problemset/problem/1881/D

@@ -13,3 +13,4 @@
 1793 C
 1820 B 
 1742E
+https://codeforces.com/problemset/problem/1881/D
