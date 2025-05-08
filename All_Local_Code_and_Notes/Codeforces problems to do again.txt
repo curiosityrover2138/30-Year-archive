@@ -16,3 +16,4 @@
 https://codeforces.com/problemset/problem/1881/D
 https://codeforces.com/problemset/problem/1857/D
 https://codeforces.com/contest/1794/problem/C
+https://codeforces.com/problemset/problem/1775/B
