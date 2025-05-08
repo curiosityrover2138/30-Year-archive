@@ -19,3 +19,6 @@ Health:
 4. Melatonin + Ashwagandha for sleep (cycle every 3 months)
 5. Calcium for 2 months + Vitamin K2 for 1 month + 1 month break -> Cycle
 6. Prebiotics and probiotics for gut health 
+
+
+For local ssh-add "/c/Users/U6070329/OneDrive - Clarivate Analytics/Desktop/Personal/.ssh/id_ed25519_personal"
