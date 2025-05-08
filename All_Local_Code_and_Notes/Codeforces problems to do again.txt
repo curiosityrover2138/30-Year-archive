@@ -14,3 +14,5 @@
 1820 B 
 1742E
 https://codeforces.com/problemset/problem/1881/D
+https://codeforces.com/problemset/problem/1857/D
+https://codeforces.com/contest/1794/problem/C
