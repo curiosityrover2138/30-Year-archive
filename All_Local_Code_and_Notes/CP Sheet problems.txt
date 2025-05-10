@@ -98,3 +98,113 @@ https://codeforces.com/problemset/problem/1881/D
 https://codeforces.com/problemset/problem/1857/D
 
 https://codeforces.com/problemset/problem/1775/B
+
+
+https://codeforces.com/problemset/problem/1676/G
+
+Dynamic programming problem + tree 
+Run dynamic programming from the leaves to the root. For each vertex store the values of the number of balanced
+subtrees as well as the number of black and white vertices in it 
+Then from a vertex we can count the total number of white vertices in its subtree as well as black vertices in its 
+subtree and update the total if these 2 numbers are equal. The answer is the answer at the root 
+
+int n;
+	cin >> n;
+	vector<int> child[n + 7];
+	for (int i = 2; i <= n; i++) {
+		int x;
+		cin >> x;
+		child[x].push_back(i);
+	}
+	string s;
+	cin >> s;
+	int res = 0;
+	function<int(int)> dp = [&] (int x) {
+		int bal = (s[x - 1] == 'B') ? -1 : 1;
+		if (child[x].empty()) {return bal;}
+		for (int i : child[x]) {
+			bal += dp(i);
+		}
+		if (bal == 0) {res++;}
+		return bal;
+	};
+	dp(1);
+	cout << res << '\n';
+
+
+https://codeforces.com/problemset/problem/1669/H
+
+Greedily take bits 
+int n, k; cin >> n >> k;
+        vector<int> cnt(31, 0), a(n);
+        for(int i = 0;i < n; ++i) {
+            cin >> a[i];
+            for(int j = 30; j >= 0; --j) {
+                if(a[i] & (1 << j)) ++cnt[j];
+            }
+        }
+        int ans = 0;
+        for(int i = 30; i >= 0; --i) {
+            int need = n - cnt[i];
+            if(need <= k) {
+                k -= need;
+                ans += (1 << i);
+            }
+        }
+        cout << ans << "\n";
+
+
+https://codeforces.com/problemset/problem/1601/A
+
+Think of bit problems and and or problems more in terms of array of bits 
+
+
+https://codeforces.com/contest/1498/problem/B
+
+Take the count of all widths, now try and fit the maximum width of the rectangle possible. If its not possible, 
+reset the width and increment height by 1 and try again.
+
+int n, box_width, w;
+        cin >> n >> box_width;
+
+        vector<int> counts(20);
+        for (int i = 0; i < n; i++) {
+            cin >> w;
+            counts[log2(w)]++;
+        }
+
+        int height = 1, space_left = box_width;
+
+        for (int iter = 0; iter < n; iter++) {
+            int largest = -1;
+
+            for (int size = 19; size >= 0; size--) {
+                if (counts[size] and (1 << size) <= space_left) {
+                    largest = size;
+                    break;
+                }
+            }
+
+            if (largest == -1) {
+                space_left = box_width;
+                height++;
+                for (int size = 19; size >= 0; size--) {
+                    if (counts[size] and (1 << size) <= space_left) {
+                        largest = size;
+                        break;
+                    }
+                }
+            }
+
+            counts[largest] -= 1;
+            space_left -= 1 << largest;
+        }
+
+        cout << height << endl;
+
+
+https://codeforces.com/problemset/problem/1459/B
+
+Formula based approach. THink of how the values are dependent on n being odd or even
+
+https://codeforces.com/problemset/problem/1366/B
