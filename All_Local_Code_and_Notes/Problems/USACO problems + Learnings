@@ -1,0 +1,6 @@
+
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=832
+
+Basically try for all indexes where 1st cow can be and seeing if that leads to a valid solution

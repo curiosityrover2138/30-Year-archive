@@ -26,3 +26,5 @@ https://codeforces.com/problemset/problem/1601/A
 https://codeforces.com/problemset/problem/1669/H
 
 https://codeforces.com/problemset/problem/1366/B
+
+https://usaco.org/index.php?page=viewproblem2&cpid=642-> Field reduction
