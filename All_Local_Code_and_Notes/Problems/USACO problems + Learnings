@@ -4,3 +4,14 @@
 https://usaco.org/index.php?page=viewproblem2&cpid=832
 
 Basically try for all indexes where 1st cow can be and seeing if that leads to a valid solution
+
+
+(pref_sum[i]%n+n)%n trick for negative values in pref_sum and ensuring the mod is always correct
+
+If I do abs(pref_sum[i])%n it becomes a different "class" of modulo due to 6-1 and 6- (-1) behaving differently so 1 has modulo 
+1 and -1 has modulo 
+
+https://codeforces.com/contest/863/problem/B
+
+Brute force all the ones not selected, then just find pairs from the ones selected. The 1st-2nd, 3rd-4th 
+will work because we are finding the ones selected, so 1st-4th + 2nd-3rd == 1st-2nd + 3rd-4th

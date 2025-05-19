@@ -1,33 +1,66 @@
 Only focus on your weekly goals, monthly, and overarching goals and achieve them. Anything else is a distraction. Minimum 5 maximum 10.
 Believe you can and you will succeed. Doubt yourself for even a second and you fail. Have unwavering belief in your approach to life
-Destroy yourself to make yourself. Focus every second, and embody the character every waking minute. Nothing else is acceptable
-In order to turn from failure to success, you need to unleash the beast inside you and make it your friend
+Destroy yourself to make yourself. Focus every second, and embody the character every waking minute. Nothing else is acceptable. Think long term but act like you will die tomorrow and you need to do everything you plan on doing. 5 years is also a long and valid time to achieve all your dreams and ambitions. Don't let the long time be a crutch.
 Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can maintain this intensity 30 years will be enough
 {M} twice a month to prevent {N}
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad.
 ✓ or X
 
+18/05-24/05:
+1. Complete https://usaco.guide/bronze/intro-sorting?lang=cpp
+2. Complete https://usaco.guide/bronze/ad-hoc?lang=cpp
+3. Complete https://usaco.guide/bronze/intro-sets?lang=cpp
+4. Complete https://usaco.guide/bronze/intro-greedy?lang=cpp
+5. Complete https://usaco.guide/bronze/intro-graphs?lang=cpp
+6. Exercise 40  mins everyday 
+7. Complete rest of https://usaco.guide/silver/prefix-sums?lang=cpp
+8. Complete ave maria
+
+18
+No exercise 
+1 sum 
+15 min guitar
+Not much as I just got home. Will do intense work tomorrow. Messed up 2 days for no reason but 
+was kind of unavoidable. Need to make my reputation and work with others so that the intensity 
+and new me becomes more known and accepted. 
+
+
+19
+15 mins exercise 
+1 sum 
+
+
+20
+
+21
+
+22
+
+23
+
+24
+
 11/05-17/05:
 
-1. Complete 1300 and 1400 problems 
-2. Do 5 1500 and 5 1600 problems and 3 1700 problems  
-3. Practice guitar from 6 to 10
-4. Wakeup at 6 maximum 7 AM everyday
-5. Do skin care everyday 
+1. Complete 1300 and 1400 problems X
+2. Do 5 1500 and 5 1600 problems and 3 1700 problems  X
+3. Practice guitar from 6 to 10 decent 
+4. Wakeup at 6 maximum 7 AM everyday ✓
+5. Do skin care everyday  ✓
 6. Always sleep on your back. X
 6.5 Apply rosemary oil everyday 1 day missed
-7. Exercise 45 mins everyday 
-8. Jog atleast 30 mins everyday 
-9. Lift weights everyday 
-10. Wash clothes 
-11. Complete insights alerts apis, geography integration in insights api and email alert notification
-12. Do USACO 10 problems from Bronze 6 done
-13. Read USACO silver articles 
-14. Eat atleast twice everyday 
-15. Protein shake atleast once everyday 
-16. Get weight to 56.5
+7. Exercise 45 mins everyday ✓
+8. Jog atleast 30 mins everyday ✓
+9. Lift weights everyday ✓
+10. Wash clothes  X
+11. Complete insights alerts apis, geography integration in insights api and email alert notification ✓
+12. Do USACO 10 problems from Bronze 8 done decent ✓
+13. Read USACO silver articles ✓
+14. Eat atleast twice everyday ✓
+15. Protein shake atleast once everyday 2 days missed because I had chicken ✓
+16. Get weight to 56.5 ✓
 17. Make optimization for mapping function to be able to do large csvs ✓
-18. Solve 10 USACO silver problems 
+18. Solve 10 USACO silver problems 8 done ✓
 
 11/05/25
 20 mins exercise 
@@ -69,18 +102,44 @@ Lots of work, completed 80% of insights api and optimized mapping tool
 
 14/05/25
 4 sums from USACO 
+exercise 10 mins 
+weights 
+Guitar 30 mins but didnt do more since I didnt feel like I deserved it 
+skincare 
+rosemary oil 
 
 
 
 
 
 15/05/25
+20 mins jogging  
+weights 
+2 sums USACO silver
+1 sum more total 3 
+Lots of work. Completed the whole insights feature and email
+Skincare 
+
+
+
 
 
 16/05/25
+Exercise 30 mins 
+Weights 
+2 sum USACO 
+Changing Email functionality according to template 
+1 sum usaco 
+guitar about 30 mins because I didn't feel like I deserved it 
+
+
 
 
 17/05/25
+Exercise 20 mins
+1 sum usaco 
+
+
 
 04/05-10/05: Improvement but not able to reach the lofty goals changed due to delay
 1. Complete 1200 1300 and 1400 problems X

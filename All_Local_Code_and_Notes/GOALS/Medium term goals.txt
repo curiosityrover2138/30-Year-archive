@@ -1,3 +1,9 @@
+September 2025:
+1. Complete USACO silver and half of gold.
+2. Be decent at dp and be able to solve all the standard problems 
+3. Have 2 good projects on resume 
+4. Start applying to companies and jobs 
+
 Dec 2025:
 1. Get to 1800 rating in Codeforces and be able to do 2000 problems 
 2. Run 20 loops comfortably around kadugodi tree park 
@@ -21,4 +27,3 @@ Feb 2026:
 6. Have resting  bpm of <65
 7. Be able to jog a 10 k in under 45 mins 
 8. Run a marathon in under 4 hours 
-9. Get B2 in german and understand most convos and cartoons like spongebob fluently
