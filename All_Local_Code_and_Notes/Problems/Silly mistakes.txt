@@ -1,0 +1,4 @@
+1. Use sorting using structs 
+
+2. Can use pair of strings or even vector of strings as a map or unordered_map key
+

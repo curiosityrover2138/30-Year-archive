@@ -15,3 +15,9 @@ https://codeforces.com/contest/863/problem/B
 
 Brute force all the ones not selected, then just find pairs from the ones selected. The 1st-2nd, 3rd-4th 
 will work because we are finding the ones selected, so 1st-4th + 2nd-3rd == 1st-2nd + 3rd-4th
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=667
+
+Should have used pair of strings, as each city name can repeat with multiple states
+and using string,string mapping overrides that

@@ -30,3 +30,4 @@ https://codeforces.com/problemset/problem/1366/B
 https://usaco.org/index.php?page=viewproblem2&cpid=642-> Field reduction
 
 https://codeforces.com/contest/863/problem/B
+https://usaco.org/index.php?page=viewproblem2&cpid=667
