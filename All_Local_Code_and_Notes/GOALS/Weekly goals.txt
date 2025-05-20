@@ -7,7 +7,7 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad.
 ✓ or X
 
 18/05-24/05:
-1. Complete https://usaco.guide/bronze/intro-sorting?lang=cpp
+1. Complete https://usaco.guide/bronze/intro-sorting?lang=cpp ✓
 2. Complete https://usaco.guide/bronze/ad-hoc?lang=cpp
 3. Complete https://usaco.guide/bronze/intro-sets?lang=cpp
 4. Complete https://usaco.guide/bronze/intro-greedy?lang=cpp
@@ -27,10 +27,12 @@ and new me becomes more known and accepted.
 
 19
 15 mins exercise 
-1 sum 
+2 sums
 
 
 20
+15 mins jog 
+
 
 21
 
