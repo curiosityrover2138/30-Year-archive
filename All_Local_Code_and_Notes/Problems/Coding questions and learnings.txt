@@ -1,5 +1,34 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 
+Livestock Lineup:
+
+Generating from next_permutation 
+
+sort(vec.begin(),vec.end());
+
+do{
+    //Check if the permutation satisfies the conditions
+}while(next_permutation(vec.begin(),vec.end()));
+
+
+
+
+
+Air Cownditioning:
+
+Very frequently used trick of generating bitmasks and then for all possibilities choosing if it is valid
+
+for(int mask=0;mask<(1<<n);mask++){
+    for(int i=0;i<n;i++){
+        if(mask & (1<<i)){
+            //Select this and do something here
+        }
+    }
+}
+
+
+
+
 Ugly numbers II
 
 dp[i] = min(next2, min(next3, next5)); if (dp[i] == next2) { i2++; next2 = dp[i2] * 2; } if (dp[i] == next3) { i3++; next3 = dp[i3] * 3; } if (dp[i] == next5) { i5++; next5 = dp[i5] * 5; }

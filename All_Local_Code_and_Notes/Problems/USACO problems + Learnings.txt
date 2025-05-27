@@ -1,3 +1,137 @@
+Move on after completing 80% of a level. Then do the rest 20% while doing the next
+
+
+https://dmoj.ca/problem/ccc08s4
+
+Check all the pairs. Take the rest in a vector, and then use all 4 operations, and put it in that vector 
+and recursively go and backtrack to check different ones.
+
+void dfsAllParentheses(vector<int> vec, int &maxim) {
+    if (vec.size() == 1) {
+        if (vec[0] <= 24) maxim = max(maxim, vec[0]);
+        return;
+    }
+    int n = vec.size();
+    for (int i = 0; i < n; ++i) {
+        for (int j = i+1; j < n; ++j) {
+            vector<int> nextVec;
+            for (int k = 0; k < n; ++k) {
+                if (k != i && k != j) nextVec.push_back(vec[k]);
+            }
+
+            int a = vec[i], b = vec[j];
+
+            nextVec.push_back(a + b);
+            dfsAllParentheses(nextVec, maxim);
+            nextVec.pop_back();
+
+            nextVec.push_back(a - b);
+            dfsAllParentheses(nextVec, maxim);
+            nextVec.pop_back();
+
+            nextVec.push_back(b - a);
+            dfsAllParentheses(nextVec, maxim);
+            nextVec.pop_back();
+
+            nextVec.push_back(a * b);
+            dfsAllParentheses(nextVec, maxim);
+            nextVec.pop_back();
+
+            if (b != 0 && a % b == 0) {
+                nextVec.push_back(a / b);
+                dfsAllParentheses(nextVec, maxim);
+                nextVec.pop_back();
+            }
+
+            if (a != 0 && b % a == 0) {
+                nextVec.push_back(b / a);
+                dfsAllParentheses(nextVec, maxim);
+                nextVec.pop_back();
+            }
+        }
+    }
+}
+
+
+
+Back Forth:
+
+recursively go through each barn and at the end input in the set.
+
+void recursively_go(int day, vector<int> barn1, vector<int> barn2, int curr_barn_one, set<int> &total_possibilities);
+If I don't use this line, basically here go_to_barn uses recursively_go and recursively_go uses go_to_barn
+so any function I put above the other function will give undefined error. So one of them needs to be defined 
+at the top like this. This is called a forward declaration.
+
+Code:
+void recursively_go(int day, vector<int> barn1, vector<int> barn2, int curr_barn_one, set<int> &total_possibilities);
+
+void go_to_barn(vector<int> barn1, vector<int> barn2, int target_barn, int ind, int curr_barn_one, set<int> &total_possibilities, int day) {
+    if (target_barn == 2) {
+        int tmp = barn1[ind];
+        curr_barn_one -= tmp;
+        barn1.erase(barn1.begin() + ind);
+        barn2.push_back(tmp);
+        recursively_go(day + 1, barn1, barn2, curr_barn_one, total_possibilities);
+    } else if (target_barn == 1) {
+        int tmp = barn2[ind];
+        curr_barn_one += tmp;
+        barn2.erase(barn2.begin() + ind);
+        barn1.push_back(tmp);
+        recursively_go(day + 1, barn1, barn2, curr_barn_one, total_possibilities);
+    }
+}
+
+void recursively_go(int day, vector<int> barn1, vector<int> barn2, int curr_barn_one, set<int> &total_possibilities) {
+    if (day == 5) {
+        //Insert after everything is done, earlier I was trying to insert and delete as we went 
+        // but that won't work as set size will keep varying and numbers will become invalid in recursive calls
+        total_possibilities.insert(curr_barn_one);
+        return;
+    }
+    if (day == 1 || day == 3) {
+        for (int i = 0; i < barn1.size(); i++) {
+            go_to_barn(barn1, barn2, 2, i, curr_barn_one, total_possibilities, day);
+        }
+    } else if (day == 2 || day == 4) {
+        for (int i = 0; i < barn2.size(); i++) {
+            go_to_barn(barn1, barn2, 1, i, curr_barn_one, total_possibilities, day);
+        }
+    }
+}
+
+
+
+
+
+
+Livestock Lineup:
+
+    Generating from next_permutation 
+
+    sort(vec.begin(),vec.end());
+
+    do{
+        //Check if the permutation satisfies the conditions
+    }while(next_permutation(vec.begin(),vec.end()));
+
+
+
+
+
+Air Cownditioning:
+
+    Very frequently used trick of generating bitmasks and then for all possibilities choosing if it is valid
+
+    for(int mask=0;mask<(1<<n);mask++){
+        for(int i=0;i<n;i++){
+            if(mask & (1<<i)){
+                //Select this and do something here
+            }
+        }
+    }
+
+
 
 
 
@@ -21,3 +155,10 @@ https://usaco.org/index.php?page=viewproblem2&cpid=667
 
 Should have used pair of strings, as each city name can repeat with multiple states
 and using string,string mapping overrides that
+
+
+https://codeforces.com/contest/1209/problem/G1
+
+I didn't understand this solution totally but it was intuitive. Basically for any stretch 
+we try reducing everything based on the occurance of other elements. Its fine because 
+it was the last of the topic. So I will complete bronze when I am atleast 60% done with silver.

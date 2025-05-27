@@ -8,13 +8,16 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad.
 
 18/05-24/05:
 1. Complete https://usaco.guide/bronze/intro-sorting?lang=cpp ✓
-2. Complete https://usaco.guide/bronze/ad-hoc?lang=cpp
-3. Complete https://usaco.guide/bronze/intro-sets?lang=cpp
-4. Complete https://usaco.guide/bronze/intro-greedy?lang=cpp
-5. Complete https://usaco.guide/bronze/intro-graphs?lang=cpp
-6. Exercise 40  mins everyday 
-7. Complete rest of https://usaco.guide/silver/prefix-sums?lang=cpp
-8. Complete ave maria
+2. Complete https://usaco.guide/bronze/ad-hoc?lang=cpp ✓ Skipped a few very hard problems
+3. Complete https://usaco.guide/bronze/intro-sets?lang=cpp  ✓
+4. Complete https://usaco.guide/bronze/intro-greedy?lang=cpp X
+5. Complete https://usaco.guide/bronze/intro-graphs?lang=cpp X
+6. Exercise 40  mins everyday ✓
+7. Complete rest of https://usaco.guide/silver/prefix-sums?lang=cpp X
+8. Complete ave maria CANNOT DO GUITAR BECAUSE OF SHIT GUITAR. I need to practice 5 hours everyday to make up
+ once I go back
+9. Complete 80% of bronze problems 
+10. Do all starred problems from https://usaco.guide/bronze/complete-rec?lang=cpp  Almost 
 
 18
 No exercise 
@@ -32,14 +35,22 @@ and new me becomes more known and accepted.
 
 20
 15 mins jog 
-2 sums
+3 sums
 
 
 21
+15 mins jog
+4 sums
 
 22
+20 mins jog 
+4 sums 
+
+
 
 23
+20 mins jog
+1 sum
 
 24
 

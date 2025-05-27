@@ -31,3 +31,7 @@ https://usaco.org/index.php?page=viewproblem2&cpid=642-> Field reduction
 
 https://codeforces.com/contest/863/problem/B
 https://usaco.org/index.php?page=viewproblem2&cpid=667
+
+https://codeforces.com/contest/1209/problem/G1
+
+https://dmoj.ca/problem/ccc08s4
