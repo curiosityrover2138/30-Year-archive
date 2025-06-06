@@ -2,3 +2,6 @@
 
 2. Can use pair of strings or even vector of strings as a map or unordered_map key
 
+3. Verify ideas as soon as you have them and desperately try everything before checking anything else
+
+

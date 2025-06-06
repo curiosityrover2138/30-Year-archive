@@ -6,7 +6,89 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad.
 ✓ or X
 
-18/05-24/05:
+29/05-8/06:
+
+1. Complete https://usaco.guide/bronze/intro-greedy?lang=cpp ✓
+2. Complete https://usaco.guide/bronze/intro-graphs?lang=cpp ✓
+3. Complete https://usaco.guide/bronze/bronze-conclusion?lang=cpp atleast 70% ✓
+4. Complete https://usaco.guide/silver/prefix-sums?lang=cpp ✓
+5. Complete https://usaco.guide/silver/more-prefix-sums?lang=cpp
+6. Run 50 mins a day+ weightlifting + perfect routine with skincare and all health goals ✓
+7. Complete Ave maria  ✓
+8. Complete the high part of passacaglia 
+9. Complete https://usaco.guide/silver/two-pointers?lang=cpp
+10. Complete code change for optimization of uspf workflow  ✓
+11. Complete https://usaco.guide/silver/binary-search-sorted-array?lang=cpp
+12. Start and do about 20% of https://usaco.guide/silver/binary-search?lang=cpp
+13. Get weight to 57 kg
+14. Code change for insights popup ✓
+
+29
+1 sum
+Jogging 20 mins 
+
+30
+Nothing
+
+31
+Nothing
+
+1 
+Nothing
+
+2
+Spent lot of time cleaning, and bs health insurance and other worries
+Need to stop worrying and working for the big picture. 
+15 mins jogging 
+work 
+guitar 
+not able to do any sum 
+
+
+
+3
+10 mins jog . Need to do 30 more 
+Worked a lot and solved the claims issue 
+Couldnt do anything else. I am wasting a lot of time I won't get back need to focus 
+guitar 1 hour 
+1.5 hours guitar 
+not able to do any sum mainly just did guitar today. But now I am free from the tension
+I was taking regarding claims. I need to chill, nothing will happen to my job. I need
+to switch asap, thats it.
+
+
+4
+10 mins jog. Do 30 more in evening after food 
+1 sum
+4 sums 
+20 min jog couldn't do more due to poor stamina
+guitar practice 2 hours 
+
+
+
+5
+30 mins jog 
+weightlifting very less as muscle has dropped a bit 
+3 sums 
+Need to figure out what I will do if I run out of ideas and feel stuck. I feel stuck after I feel stuck 
+which I don't think should happen
+Spent almost 2 hours stuck on a problem. Need to find a way to find other ideas and desperately solve 
+instead of feeling stuck and doing youtube 
+Guitar 2 hours 
+
+
+
+6
+10 mins jog, couldn't do more due to being hungry
+
+
+7
+
+8
+
+
+
+18/05-24/05: 2* M
 1. Complete https://usaco.guide/bronze/intro-sorting?lang=cpp ✓
 2. Complete https://usaco.guide/bronze/ad-hoc?lang=cpp ✓ Skipped a few very hard problems
 3. Complete https://usaco.guide/bronze/intro-sets?lang=cpp  ✓

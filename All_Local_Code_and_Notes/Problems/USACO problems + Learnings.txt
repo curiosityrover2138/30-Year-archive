@@ -1,4 +1,31 @@
-Move on after completing 80% of a level. Then do the rest 20% while doing the next
+Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
+
+https://codeforces.com/gym/104114/problem/N
+
+Just a 2 pass would have worked. I was trying a prefix sum kind of approach after getting confused 
+by the module. But the reason it doesnt work is we want local maximas and not global ones 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=416
+
+Run a transformation on the original grid to make the diamond into a square
+
+https://atcoder.jp/contests/abc125/tasks/abc125_c
+
+Use a prefix and suffix to find the gcd of all but one
+
+https://www.spoj.com/problems/HAYBALE/
+
+Very common trick. Increment the lower half of the range and decrement 1 greater than the upper half 
+and then take prefix sum to find the actual array 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=916
+Didn't even understand howt his was graphs. Instead of thinking in a graphs manner should have Tried 
+just doing it like adhoc
+
+https://usaco.org/index.php?page=viewproblem2&cpid=689#
+
+Had this vague idea of trying the same thing from end, but didn't do it for some reason
+Very easy at the end, but guess I got distracted 
 
 
 https://dmoj.ca/problem/ccc08s4

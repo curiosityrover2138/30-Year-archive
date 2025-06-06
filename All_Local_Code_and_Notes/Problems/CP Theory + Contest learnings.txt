@@ -1,3 +1,21 @@
+2d prefix sums:
+
+If we are trying to make a rectangular sum i.e. in any rectangle increasing it by some unit m  
+Let the rectangle's coordinates be start_x,start_y and end_x end_y 
+
+vec[start_x][start_y]+=m 
+vec[start_x][end_y]-=m 
+vec[end_x][start_y]-=m 
+vec[end_x][end_y]+=m 
+
+
+then for all x and y  for all valid x and y where possible 
+vec[x][y]+=vec[x-1][y]
+vec[x][y]+=vec[x][y-1]
+vec[x][y]-=vec[x-1][y-1]
+
+
+
 Learning-> Missed 2071 B due to overcomplicating. Both approaches of precomputing bad ones and checking 
 for each i the square and keeping appending it in the array were valid. I was thinking along the correct lines 
 but the pressure and not being able to solve it quickly made me think that it was harder than it actually was.
