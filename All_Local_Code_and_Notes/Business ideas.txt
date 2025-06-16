@@ -21,6 +21,7 @@
 21. Practical engineering youtube series-> Making full projects without much knowledge of anything 
 just like how you would in a job
 22. AI assisted crime judgement, legal tool instead of authority
+23. Student productivity tool for students and teachers. JIRA+ Agile+ productivity suite
 
 Write detailed ideas for each product as narratives VVIMP
 

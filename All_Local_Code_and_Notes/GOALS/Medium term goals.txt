@@ -1,5 +1,5 @@
 September 2025:
-1. Complete USACO silver and half of gold.
+1. Complete USACO silver and gold.
 2. Be decent at dp and be able to solve all the standard problems 
 3. Have 2 good projects on resume 
 4. Start applying to companies and jobs 
@@ -19,6 +19,7 @@ Feb 2026:
 
 
 2026 October:
+0. Keep giving codeforces contests. Complete USACO plat and rating should be 2100+
 1. Get into google/microsoft
 2. Buy and get decent at electric guitar 
 3. Have a great dressing sense 
@@ -27,3 +28,18 @@ Feb 2026:
 6. Have resting  bpm of <65
 7. Be able to jog a 10 k in under 45 mins 
 8. Run a marathon in under 4 hours 
+9. Start thinking of business ideas and building mvps
+
+
+
+2027 December:
+0. Codeforces rating should be 2300
+1. Start your own company 
+
+2028 May:
+1. Start applying to Ycombinator
+
+2029 Oct:
+1. Get an idea or mvp to Y combinator. Try and find a cofounder (depends on the YC and startup goal)
+
+
