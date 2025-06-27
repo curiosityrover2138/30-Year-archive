@@ -1,20 +1,146 @@
 Only focus on your weekly goals, monthly, and overarching goals and achieve them. Anything else is a distraction. Minimum 5 maximum 10.
 Believe you can and you will succeed. Doubt yourself for even a second and you fail. Have unwavering belief in your approach to life
 Destroy yourself to make yourself. Focus every second, and embody the character every waking minute. Nothing else is acceptable. Think long term but act like you will die tomorrow and you need to do everything you plan on doing. 5 years is also a long and valid time to achieve all your dreams and ambitions. Don't let the long time be a crutch.
-Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can maintain this intensity 30 years will be enough
-{M} twice a month to prevent {N}
-Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad.
+Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can maintain this intensity 30 years will be enough for absolute world class stuff
+{M} twice a month without {P} to prevent {N} 
+Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
-9/06-21/06:
+26/06 - 30/06:
 
-1. Complete https://usaco.guide/silver/two-pointers
+1. Complete https://usaco.guide/silver/binary-search
+2. Jog 30 mins daily 
+3. Eat fruits and on time and mostly clean 
+4. Bathe 
+5. Complete Passacaglia high part  
+
+26
+No exercise no sums only work idk what is wrong with me 
+I JUST CANNOT WASTE A SINGLE MOMENT NOW ITS SO INTENSE IT IS IMPOSSIBLE 
+TO REST 
+I AM JUST BEING AN IDIOT BY WASTING TIME. IF I WASTE ANY MORE I WILL JUST END UP QUITTING AND BE A FAILURE.
+I CANNOT FAIL NOW. NOT ANYMORE. EITHER DO THIS OR KILL YOURSELF.
+
+
+
+27
+Jogged 15 mins. Will go to office as well by walking. Don't want to strain too much 
+very quickly.
+Weightlifting 2 mins 
+2 sums 
+
+
+
+28
+
+
+29
+
+
+30
+
+21/06- 29/06
+I am not even thinking of weekly goals. Need to have high impact fewer tasks 
+
+1. Complete https://usaco.guide/silver/binary-search-sorted-array ✓
+2. Complete https://usaco.guide/silver/binary-search X
+3. Complete https://usaco.guide/bronze/intro-complete?lang=cpp X
+4. Get weight to 54.3. Eat perfectly MEH X
+5. Manage work alongside routine. NEVER Let it consume you. Do all the work on time ✓
+6. Learn Passacaglia full high octave part ✓
+7. Bathe 3 times a week atleast and wash clothes X
+8. Learn c major scale ✓. Practice open chords C major, G major, A minor and E minor 
+9. Start exercise for all notes on guitar i.e. know instinctively the major notes 
+all throught the neck X
+10. Complete alfred book 1 till page 50. Ignore the bass clef if it doesn't add much. Alter anything you 
+play thinking its the electric guitar or violin.X
+11. Learn minor pentatonic scale ✓
+12. Do ear training for 30 mins daily X
+13. Complete 80% of https://usaco.guide/silver/greedy-sorting?lang=cpp X
+14. Read 50 pages of The complete musician  X
+15. Record tum hi aana first para perfectly X
+16. Complete skipped problems in Bronze X
+17. Weight lift atleast 5 mins a day. Ramp up to 20 slowly X
+18. Run 30 mins daily and every alternate day do HIIT runs. Take a bit slow for recovery. ✓
+19. 10 mins of body weight workouts daily or walk. X
+20. HAVE CONSISTENT EATING SCHEDULE. NEVER MISS A MEAL. EAT 3 meals a day. IF YOU WANT TO WORK LIKE A MACHINE 
+TREAT YOUR BODY LIKE ONE. ✓
+
+
+21
+4 easy sums. Jogging for 5 mins, need to do 40 more
+3 medium sums 
+30 mins jogging. Cannot do more since didn't eat. Need to fuel properly inorder to be fit.
+3 mins weight lifting. Need to do a lot more 
+Guitar around 2 hours
+
+22
+25 mins jogging decent intensity 
+6 mins weight lifting 
+5 sums medium about 3 hours of productive work 
+Guitar 1.5 hours 
+
+
+
+23
+RECOVERY DAY
+Getting nightmares and fragmented sleep. Need to take exercise a bit easier and more mindful.
+Going fast isn't the problem, inefficient movement is. 
+No jog only slow walk 
+Weight lifting 1 min
+Unable to handle any outside food. Should avoid even seemingly healthy stuff as well as packed food. 
+HAVE AN EXTREMELY CLEAN DIET. ANY OUTSIDE FOOD SHOULD BE AVOIDED. 
+Completed work, but couldn't do any sums and anything else. Need to be like a machine if I want to think 
+and act like one. I CANNOT AFFORD ANY SMALL SLIP. Will do guitar a bit more and will need to exercise slightly 
+more for 1 week to makeup.
+
+
+
+
+24
+ENOUGH of BS. NOW I UNDERSTOOD EVERYTHING. NEED TO WORK AND TREAT MY BODY LIKE A MACHINE. IF I AM DOING THE BASICS 
+RIGHT. EVERYTHING ELSE IS AN EXCUSE.
+30 mins of jogging.
+3 sets i.e. 3-4 mins of weightlifting 
+1 sum as was stuck in another. But need to work more. 
+30 mins guitar 
+
+
+
+
+
+25
+Wasted a lot of valuable time. Took rest from workout but will do 5 intense days next to makeup 
+Lots of work and got distracted because of idiotic bs. 
+
+
+
+
+26
+
+
+27
+
+28
+
+
+29
+
+
+9/06-21/06: {M} 
+
+Somewhat did it, but still can be a lot better. Need maniacal focus so much that people 
+get scared of it.
+
+1. Complete https://usaco.guide/silver/two-pointers ✓
 2. Complete https://usaco.guide/silver/binary-search-sorted-array
 3. Complete https://usaco.guide/silver/binary-search
 4. Complete https://usaco.guide/silver/sorting-custom?lang=cpp
 5. Complete https://usaco.guide/bronze/intro-complete?lang=cpp
 6. Have a perfect diet and have energy. Don't starve yourself and eat on time. Get weight to 55
-7. Complete all the work PRs and refreshes if any for USPF 
+7. Complete all the work PRs and refreshes if any for USPF ✓
+7.5 Resolved huge prod issue and merged a few PRs. ✓ 
+7.8 Do code changes for VBC and make a separate app ✓
 8. Record perfect Ave maria ✓
 9. Complete 50% of passacaglia 
 10. Bathe 3 times a week atleast and wash clothes
@@ -28,6 +154,7 @@ play thinking its the electric guitar or violin.
 16. Complete 80% of https://usaco.guide/silver/greedy-sorting?lang=cpp
 17. Read 50 pages of The complete musician 
 18. Record tum hi aana first para perfectly
+
 
 
 13
@@ -44,19 +171,35 @@ WORK ISSUE HUGE PRODUCTION FAILURE Worked on it
 
 
 16 
-
+ALL DONE FOR PROD ISSUE
+Slight guitar practice
+Skin care 
 
 17
+No work till 4 pm except company
+Light exercise 
+good diet 
+Guitar 
+Skin care 
 
 
 18
+Exercised for 30 mins, need to do 30 more minutes in evening
+Didn't solve any sums but tried solving 1 
+Work 
+Guitar 1 hour
 
 
 
 19
+GUitar 1 hour 
+Work 
+Exercise 20 mins
 
 
 20
+Exercise 20 mins . NEED TO DO 20 more 
+
 
 
 21

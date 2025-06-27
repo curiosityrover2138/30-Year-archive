@@ -4,4 +4,7 @@
 
 3. Verify ideas as soon as you have them and desperately try everything before checking anything else
 
+4. Think of simpler solution. Don't brute force and simulate. Think of easier 
+things you can do and tricks you can apply. Keep it simple 
+
 

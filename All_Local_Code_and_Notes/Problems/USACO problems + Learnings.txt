@@ -1,5 +1,76 @@
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G
+
+Simple idea but I overcomplicated it. Just check the total and see if mid*k is less than or equal or not.
+Basically we add to the total the minimum of vec[i] or mid as we cannot add more than mid but we can always 
+keep adding and if the total is fine we can distribute easily 
+
+Print number
+
+Floating point is tricky, I was doing the same thing but taking left<right and final==c 
+both give errors in floating point. Everything else was correct. Also needed to ensure that 
+answer is printed so at the end print left if ans is unchanged. I was printing in the loop which 
+meant for some cases the answer wasn't printed
+
+long double c;
+    cin>>c;
+
+    long double left=0,right=c;
+    long double ans=-1;
+    while(right-left>1e-7){
+        long double middle=left+(right-left)/2;
+        long double square = middle*middle;
+        long double square_root = sqrt(middle);
+        long double final = square+square_root;
+        if(abs(final-c)<=1e-6){
+        
+            ans=middle;
+            break;
+        }
+        else if(final>c){
+            right=middle;
+        }
+        else{
+            left=middle;
+        }
+    }
+    if(ans==-1) ans=left;
+    cout<<fixed<<setprecision(6)<<ans;
+
+
+
+Rope cutting problem https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B:
+
+Basically make left and right equal and check for difference in precision since we are dealing with real numbers 
+and not integers 
+
+ll n,k;
+    cin>>n>>k;
+    long double left=0,right=10000000;
+    vector<long double> vec(n,0);
+    for(int i=0;i<n;i++){
+        cin>>vec[i];
+    }
+    long double ans=0;
+    while((right-left)>1e-7){
+        long double rope_length=left+(right-left)/2;
+        ll count=0;
+        for(auto itr: vec){
+            count+=((ll)(itr/rope_length));
+        }
+        if(count>=k){
+            ans=max(ans,rope_length);
+            left=rope_length;
+        }
+        else{
+            right=rope_length;
+        }
+    }
+    cout<<fixed<<setprecision(6)<<ans;
+
+
+
 https://codeforces.com/gym/104114/problem/N
 
 Just a 2 pass would have worked. I was trying a prefix sum kind of approach after getting confused 

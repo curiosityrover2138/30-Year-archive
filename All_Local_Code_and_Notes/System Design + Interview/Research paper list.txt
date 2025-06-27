@@ -1,1 +1,86 @@
 1. Scaling memcached at facebook
+
+
+ Tech Blogs (Engineering Blogs)
+📌 General System Design & Infra
+High Scalability – highscalability.com
+Great real-world architecture breakdowns from companies like Netflix, Amazon, etc.
+
+Brave Engineering – brave.com/blog/engineering
+
+Slack Engineering – slack.engineering
+
+Uber Engineering – eng.uber.com
+
+Lyft Engineering – eng.lyft.com
+
+Dropbox Tech Blog – dropbox.tech
+
+Airbnb Engineering – medium.com/airbnb-engineering
+
+📌 Databases & Infra
+CockroachDB Blog – cockroachlabs.com/blog
+
+PlanetScale Blog (Vitess) – planetscale.com/blog
+
+ScyllaDB Blog – scylladb.com/blog
+
+FaunaDB Blog – fauna.com/blog
+
+📌 Distributed Systems
+Cloudflare Engineering – blog.cloudflare.com/tag/engineering
+
+Netflix Tech Blog – netflixtechblog.com
+
+Meta Engineering – engineering.fb.com
+
+📰 Newsletters (System Design / Infra Focused)
+ByteByteGo by Alex Xu
+→ bytebytego.com/newsletter
+Perfect mix of visuals + system design case studies.
+
+The Pragmatic Engineer by Gergely Orosz
+→ pragmaticengineer.com
+Covers infra, org design, scaling, hiring—all from an insider’s view.
+
+Infra as Code
+→ infa-as-code.substack.com
+Covers DevOps, cloud infra, and distributed systems trends.
+
+Morning Cup of Coding
+→ morningcupofcoding.com
+Broader dev articles, but often includes systems and DBs.
+
+TLDR.tech
+→ tldr.tech/newsletter
+Brief summaries of the top engineering and dev articles daily.
+
+📄 Classic Research Papers (with modern relevance)
+System Design & Infrastructure
+The Datacenter as a Computer – PDF
+Google’s internal systems summarized for cloud-scale infra.
+
+MapReduce: Simplified Data Processing on Large Clusters – Google
+
+The Tail at Scale – PDF
+
+Distributed Systems
+Paxos Made Simple – Leslie Lamport
+
+Raft Consensus Algorithm – raft.github.io
+
+Dynamo: Amazon's Highly Available Key-Value Store – PDF
+
+Databases
+Spanner: Google’s Globally-Distributed Database – PDF
+
+Bigtable: A Distributed Storage System for Structured Data – PDF
+
+FaunaDB: A NewSQL Database – good case studies on their blog.
+
+🎓 Bonus: Courses & Deep Dives
+MIT 6.824: Distributed Systems – https://pdos.csail.mit.edu/6.824/
+
+Stanford CS 244: Advanced Networking – Great for understanding infra/traffic.
+
+System Design Primer GitHub – https://github.com/donnemartin/system-design-primer
