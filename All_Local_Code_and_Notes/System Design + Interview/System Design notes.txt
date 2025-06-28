@@ -452,6 +452,95 @@ the vector clock becomes D3([S1,V2],[S3,V1])
 Now there is a conflict as both D3([S1,V2],[S2,V1]) and D3([S1,V2],[S3,V1]) cannot coexist simultaneously
 
 
+For failure detection in Distributed systems, it takes atleast 2 independent sources of information 
+to mark a server down 
+For failure communication, all to all multicasting is a brute force straightforward solution but ofc 
+inefficient. 
+
+Gossip protocol is more efficient.
+Here each node maintains a membership id, and heartbeat counter for all nodes 
+Each node periodically increments its own heartbeat counter and periodically sends its 
+heartbeat no. to a random set of nodes 
+As each node gets the heartbeat no. they update their membership key value pair with the correct no. 
+If a node has not been updated for a predefined time, it is considered offline 
+
+Sloppy Quorum -> Writing to any N healthy nodes instead of the strict replica set and later repairing 
+the actual replicas asynchronously (hinted handoff)
+
+Sloppy quorum is commonly used to handle failures gracefully in gossip protocol oriented distributed systems
+
+
+Since hinted handoff is used to handle temporary data failures, what if the replica is permanently 
+unavailable? To handle such a situation we implement an anti entropy protocol to keep the replicas in sync 
+
+A merkle tree is used for inconsistency detection and minimizing the amount of data transferred  
+
+Each server stores a tree with hashes. The tree is such that every non leaf node is labelled with the hash 
+of its child nodes 
+Hash trees allow efficient and secure verification of contents of large data structures 
+https://en.wikipedia.org/wiki/Merkle_tree
+
+
+Designing a key value store main considerations:
+
+1. Clients communicate with the key value store through simple APIs 
+2. A coordinator is a node that acts as a proxy between the client and the key value store 
+3. Nodes are distributed on a ring using consistent hashing 
+4. The system is completely decentralized so adding and removing nodes can be O(1)
+5. Data is replicated at multiple nodes 
+6. There is no single point of failure as every node has multiple responsibilities 
+
+Client gives the data which is saved to memory cache and the commit is saved to a commit log. 
+If the memory cache is full or reaches
+a predefined threshold, data is flushed to a disk that uses SSTable(which are sorted by key value pairs
+which enables binary search)
+
+The SSTable is also paired with Bloom Filters, Index files and summary tables for faster lookup 
+
+As multiple SSTables are accumulated Cassandra runs Compaction to merge SSTables, Discard overwritten 
+or deleted data and reduce lookup costs 
+
+A bloom filter is used to figure out which SSTable might contain the key. It doesn't give false negatives
+but only false positives. 
+
+Bloom filter works by hashing a value k times, and then setting all the bits to 1 found from the hash. Then 
+when we get the value to lookup it again hashes it k times and checks for the bits. If all the bits 
+are set, it is positive, else negative.
+The only reason it can return false positives is because of bits being set due to other elements or multiple 
+other elements. But it is a good first barrier to reduce time
+
+
+
+Design a Unique ID Generator in Distributed Systems:
+
+
+Characteristics:
+
+1. Ids must be unique and sortable 
+2. The id increments by time but not necessarily by 1. IDs created in the evening are larger than 
+those created in morning
+3. Ids only contain numerical value 
+4. 10k ids per second 
+5. Ids fit into 64 bit 
+
+Multi master replication:
+
+This approach uses the database's auto_increment feature. Instead of incrementing the next ID by 
+1, we increment it by k where k is the no. of database servers in use. 
+
+However, this is hard to scale with multiple data centers 
+
+
+UUID:
+This is another way of obtaining unique ids, as this has a very low collision rate. UUID is a 128 bit no. 
+
+
+Ticket servers:
+
+Flickr introduced a single server for distributed primary keys calling it the ticket server. 
+
+
+
 
 
 

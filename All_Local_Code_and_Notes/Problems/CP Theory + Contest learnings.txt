@@ -1,3 +1,5 @@
+
+
 2d prefix sums:
 
 If we are trying to make a rectangular sum i.e. in any rectangle increasing it by some unit m  

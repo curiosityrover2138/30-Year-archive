@@ -1,14 +1,19 @@
-July 2025:
+Aug 1 2025:
 1. By end complete USACO silver 
 2. Start making projects in free time 
 3. Jog everyday and weight lift everyday. Play guitar atleast 3 hours everyday and be clean 
 4. Don't slack on work and do all the tasks in time 
+5. Be able to do 5 div 3 problems and 3 div 2 problems on average 
+6. Complete Alex Xu System design
 
-September 2025:
+Oct 1 2025:
 1. Complete USACO silver and gold.
 2. Be decent at dp and be able to solve all the standard problems 
 3. Have 2 good projects on resume 
 4. Start applying to companies and jobs 
+5. Be able to do all Div 3 problems and about 4 div 2 problems on average
+6. Make notes and read System design blogs. Be able to do all the common interview problems 
+7. Know all the common framework and language questions asked in interviews
 
 Dec 2025:
 1. Get to 1800 rating in Codeforces and be able to do 2000 problems 
@@ -16,12 +21,16 @@ Dec 2025:
 3. Switch jobs 
 4. Buy an electric guitar 
 5. Have a rhr <70
-6. Be able to either run + walk or run 36 loops around kadugodi tree park 
+6. Be able to either run + walk or run 36 loops around kadugodi tree park
+7. Do all patterns from leetcode and google interview questions 
 
 Feb 2026:
-1. Enroll in swimming and do it 3 times a week for 1-1.5 hours each session 
-2. Learn freestyle in 2 months 
+1. Enroll in swimming and do it 3 times a week for 1-1.5 hours each session  (optional)
+2. Learn freestyle in 2 months (optional)
 3. CTC should be above 15lpa
+4. Be able to do 80% of Codeforces Div 2 problems. 
+5. Complete half of USACO platinum and all the problems in other divisions that were skipped.
+
 
 
 2026 October:

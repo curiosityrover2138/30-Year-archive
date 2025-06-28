@@ -1,6 +1,4 @@
-Only focus on your weekly goals, monthly, and overarching goals and achieve them. Anything else is a distraction. Minimum 5 maximum 10.
-Believe you can and you will succeed. Doubt yourself for even a second and you fail. Have unwavering belief in your approach to life
-Destroy yourself to make yourself. Focus every second, and embody the character every waking minute. Nothing else is acceptable. Think long term but act like you will die tomorrow and you need to do everything you plan on doing. 5 years is also a long and valid time to achieve all your dreams and ambitions. Don't let the long time be a crutch.
+Only focus on your weekly goals, monthly, and overarching goals and achieve them. Anything else is a distraction. Minimum 5 maximum 10. FLOW EXISTENCE
 Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can maintain this intensity 30 years will be enough for absolute world class stuff
 {M} twice a month without {P} to prevent {N} 
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
@@ -9,11 +7,11 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 28/06 - 6/07:
 
 1. Complete https://usaco.guide/silver/binary-search. Do 5 sums daily
-2. Jog 30 mins daily  + weights atleast 10 mins a day 
+2. Jog 30 mins daily  + weights 2-10 mins a day 
 3. Eat fruits and on time and mostly clean 
 4. Bathe 
 5. Complete Passacaglia
-6. Give 1 virtual contest everyday  
+6. Give 1 virtual contest everyday. Div3 3 days and div 2 4 days
 7. Read and make notes of system design 2 hours a day 
 
 
@@ -21,7 +19,11 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 28
 15 mins jog will do 30 more 
 2 sums 
-
+25 mins total jog. 2 mins weights 
+System design 2 hours 
+5 sums total 
+Did 2 sums from codeforces Virtual Contest Div 3. Need to do more. 
+Guitar 2 hours. Completed passacaglia
 
 
 29
