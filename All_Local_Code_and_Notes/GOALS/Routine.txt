@@ -1,4 +1,4 @@
-Gradatim Ferociter.                          === Revise every 6 months (1/11/2025) === 
+Gradatim Ferociter.   Train like you’re already there                       === Revise every 6 months (1/11/2025) === 
 
 1. Wakeup 6 AM 
 6:15-7:
@@ -10,6 +10,7 @@ Gradatim Ferociter.                          === Revise every 6 months (1/11/202
 4. Office or off days guitar 1 hour 
 11:00:
 5. Codeforces/USACO 4 hours OR 2.5 hour office and 1.5 hour high intensity USACO based on time and work  
+Give 1 contest daily + 5 usaco sums atleast 
 1:30-2:
   Lunch
 3:30-5:45:
