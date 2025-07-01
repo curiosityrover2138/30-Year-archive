@@ -735,4 +735,95 @@ cin>>n>>k;
 
 
 
+1849 B-> Sort it using mod of k, and the indexes divisible by k will go first, then k-1, k-2, etc 
+and among them the ones with lesser ones will go first. Use stable_sort for that.
+1831B-> Find the maximum continguous sequence of each element in the array and the left and right pointers
+for it, that way you can 
+1765M-> Just go through all the divisors in O(sqrt(n)) and find the first divisor that will be the answer
+1715B-> Greedy with k*b as first and 
+1438B-> If any 2 values are same it will always be possible 
+1447 B-> If the negative numbers are odd, we just take the minmum value and subtract it from sum twice. 
+Else the sum is the answer.
+1704B-> Use a greedy strategy starting from first element, if it doesn't fit, change it or else keep it.
+1917B-> Second operation is only needed at first instance, as other strings can be reached 
+by just the first operation after that. Thus we check the string from the end,
 
+
+And use dp to add the answer for subsequent 
+1891B-> almost did it, the only optimization was just doing it if it is minimum encountered thus far.
+1731B-> Use mod_inverse using fermat's little theorem for dividing
+
+
+1820 B 
+
+1793C Use a 2 pointer approach.
+
+1742 E 
+
+
+    Using binary search and prefix sum
+
+https://codeforces.com/problemset/problem/1881/D
+
+https://codeforces.com/problemset/problem/1857/D
+
+https://codeforces.com/problemset/problem/1775/B
+
+
+https://codeforces.com/problemset/problem/1676/G
+
+Dynamic programming problem + tree 
+Run dynamic programming from the leaves to the root. For each vertex store the values of the number of balanced
+subtrees as well as the number of black and white vertices in it 
+Then from a vertex we can count the total number of white vertices in its subtree as well as black vertices in its 
+subtree and update the total if these 2 numbers are equal. The answer is the answer at the root 
+
+
+
+https://codeforces.com/problemset/problem/1669/H
+
+Greedily take bits 
+
+
+https://codeforces.com/problemset/problem/1601/A
+
+Think of bit problems and and or problems more in terms of array of bits 
+
+
+https://codeforces.com/contest/1498/problem/B
+
+Take the count of all widths, now try and fit the maximum width of the rectangle possible. If its not possible, 
+reset the width and increment height by 1 and try again.
+
+https://codeforces.com/problemset/problem/1459/B
+
+Formula based approach. THink of how the values are dependent on n being odd or even
+
+https://codeforces.com/problemset/problem/1366/B
+
+
+
+
+2d prefix sums:
+
+If we are trying to make a rectangular sum i.e. in any rectangle increasing it by some unit m  
+Let the rectangle's coordinates be start_x,start_y and end_x end_y 
+
+vec[start_x][start_y]+=m 
+vec[start_x][end_y]-=m 
+vec[end_x][start_y]-=m 
+vec[end_x][end_y]+=m 
+
+
+then for all x and y  for all valid x and y where possible 
+vec[x][y]+=vec[x-1][y]
+vec[x][y]+=vec[x][y-1]
+vec[x][y]-=vec[x-1][y-1]
+
+
+
+Learning-> Missed 2071 B due to overcomplicating. Both approaches of precomputing bad ones and checking 
+for each i the square and keeping appending it in the array were valid. I was thinking along the correct lines 
+but the pressure and not being able to solve it quickly made me think that it was harder than it actually was.
+
+Think an approach whole way through before dismissing a problem as too hard.
