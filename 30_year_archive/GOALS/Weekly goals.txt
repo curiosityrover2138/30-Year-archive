@@ -4,7 +4,7 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
-28/06 - 6/07:
+28/06 - 6/07: {M}
 
 1. Complete https://usaco.guide/silver/binary-search. Do 5 sums daily
 2. Jog 30 mins daily  + weights 2-10 mins a day 
@@ -13,6 +13,7 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 5. Complete Passacaglia
 6. Give 1 virtual contest everyday. Div3 3 days and div 2 4 days
 7. Read and make notes of system design 2 hours a day 
+8. Get weight to 54
 
 
 
@@ -29,12 +30,34 @@ Guitar 2 hours. Completed passacaglia
 29
 15 mins jog. Will do 30 more 
 3 mins of weights need to do 7 more 
+1.5 hours of System design 
+Tried to do sums for hours but was stuck in 1 and wasn't able to do it and had to skip it ultimately. 
+Because of this wasn't able to do contest either. Will think of something else from tomorrow
+
+
 
 
 30
+{M} today with {P}. Will not do any next week and see what happens.
+Cannot stay awake, sleeping a bit now which is a bad bad sign.
+Experimenting with anything I am unsure of and will do anything that gives best result. BE RESULT ORIENTED 
+and take everything as feedback.
+Use everything to optimize yourself like a mathematical equation. but in the end focus on the work and flow, not 
+on metadata.
 
+16 mins jog 
+1 min weightlifting 
+Maybe it took away my desperation. Need to be more desperate and work harder.
+Wasn't able to do either sums properly or system design. Maybe not doing it is best. Also sleep is fragmented.
+
+2 hours guitar 
+
+Really tried hard today but couldn't do the sums. Need to figure out a way to struggle and fail properly
 
 1
+20 mins jog, no weights, need to do that as well as 40 mins 1 session 
+
+
 
 
 2
@@ -51,7 +74,7 @@ Guitar 2 hours. Completed passacaglia
 
 6
 
-21/06- 27/06
+21/06- 27/06 {M} without {P}
 I am not even thinking of weekly goals. Need to have high impact fewer tasks 
 
 1. Complete https://usaco.guide/silver/binary-search-sorted-array ✓

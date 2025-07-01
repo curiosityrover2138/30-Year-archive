@@ -1,5 +1,144 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 
+Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
+
+
+https://cses.fi/problemset/task/1085
+
+For this I was first checking if count==k but that is not needed as for any count<k we can 
+divide it more to make it k, and checking count==k is not good as binary search is not honing in 
+on that specific number, and will skip past the optimal solution 
+
+
+https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G
+
+Simple idea but I overcomplicated it. Just check the total and see if mid*k is less than or equal or not.
+Basically we add to the total the minimum of vec[i] or mid as we cannot add more than mid but we can always 
+keep adding and if the total is fine we can distribute easily 
+
+Print number
+
+Floating point is tricky, I was doing the same thing but taking left<right and final==c 
+both give errors in floating point. Everything else was correct. Also needed to ensure that 
+answer is printed so at the end print left if ans is unchanged. I was printing in the loop which 
+meant for some cases the answer wasn't printed
+
+
+
+Rope cutting problem https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B:
+
+Basically make left and right equal and check for difference in precision since we are dealing with real numbers 
+and not integers 
+
+
+https://codeforces.com/gym/104114/problem/N
+
+Just a 2 pass would have worked. I was trying a prefix sum kind of approach after getting confused 
+by the module. But the reason it doesnt work is we want local maximas and not global ones 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=416
+
+Run a transformation on the original grid to make the diamond into a square
+
+https://atcoder.jp/contests/abc125/tasks/abc125_c
+
+Use a prefix and suffix to find the gcd of all but one
+
+https://www.spoj.com/problems/HAYBALE/
+
+Very common trick. Increment the lower half of the range and decrement 1 greater than the upper half 
+and then take prefix sum to find the actual array 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=916
+Didn't even understand howt his was graphs. Instead of thinking in a graphs manner should have Tried 
+just doing it like adhoc
+
+https://usaco.org/index.php?page=viewproblem2&cpid=689#
+
+Had this vague idea of trying the same thing from end, but didn't do it for some reason
+Very easy at the end, but guess I got distracted 
+
+
+https://dmoj.ca/problem/ccc08s4
+
+Check all the pairs. Take the rest in a vector, and then use all 4 operations, and put it in that vector 
+and recursively go and backtrack to check different ones.
+
+
+
+
+Back Forth:
+
+recursively go through each barn and at the end input in the set.
+
+void recursively_go(int day, vector<int> barn1, vector<int> barn2, int curr_barn_one, set<int> &total_possibilities);
+If I don't use this line, basically here go_to_barn uses recursively_go and recursively_go uses go_to_barn
+so any function I put above the other function will give undefined error. So one of them needs to be defined 
+at the top like this. This is called a forward declaration.
+
+
+
+
+
+Livestock Lineup:
+
+    Generating from next_permutation 
+
+    sort(vec.begin(),vec.end());
+
+    do{
+        //Check if the permutation satisfies the conditions
+    }while(next_permutation(vec.begin(),vec.end()));
+
+
+
+
+
+Air Cownditioning:
+
+    Very frequently used trick of generating bitmasks and then for all possibilities choosing if it is valid
+
+    for(int mask=0;mask<(1<<n);mask++){
+        for(int i=0;i<n;i++){
+            if(mask & (1<<i)){
+                //Select this and do something here
+            }
+        }
+    }
+
+
+
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=832
+
+Basically try for all indexes where 1st cow can be and seeing if that leads to a valid solution
+
+
+(pref_sum[i]%n+n)%n trick for negative values in pref_sum and ensuring the mod is always correct
+
+If I do abs(pref_sum[i])%n it becomes a different "class" of modulo due to 6-1 and 6- (-1) behaving differently so 1 has modulo 
+1 and -1 has modulo 
+
+https://codeforces.com/contest/863/problem/B
+
+Brute force all the ones not selected, then just find pairs from the ones selected. The 1st-2nd, 3rd-4th 
+will work because we are finding the ones selected, so 1st-4th + 2nd-3rd == 1st-2nd + 3rd-4th
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=667
+
+Should have used pair of strings, as each city name can repeat with multiple states
+and using string,string mapping overrides that
+
+
+https://codeforces.com/contest/1209/problem/G1
+
+I didn't understand this solution totally but it was intuitive. Basically for any stretch 
+we try reducing everything based on the occurance of other elements. Its fine because 
+it was the last of the topic. So I will complete bronze when I am atleast 60% done with silver.
+
+
 Livestock Lineup:
 
 Generating from next_permutation 
@@ -96,41 +235,6 @@ We will do all the operations in reverse order. For that we will need to find th
 https://codeforces.com/problemset/problem/653/B
 Generate all strings using recursion
 Use a checker function to check if it is valid or not
-void go_through(int n, string s){
-    if(n==0){
-        if(check(s)){
-            ans++;
-            
-        }
-        return;
-    }
-    for(int i=0;i<6;i++){
-        go_through(n-1,s+(char)('a'+i));
-    }
-}
-bool check(string s){
-    for(int i=0;i<s.size()-1;i++){
-        string tmp=s.substr(i,2);
-        if(ss.find(tmp)!=ss.end()){
-            s[i+1]=ma[tmp];
-        }
-        else{
-            return false;
-        }
-    }
-    if(s[s.size()-1]=='a') return true;
-    return false;
-}
-int n,m;
-    cin>>n>>m;
-    for(int i=0;i<m;i++){
-        string a;
-        char b;
-        cin>>a>>b;
-        ss.insert(a);
-        ma[a]=b;
-
-    }
 
 
 

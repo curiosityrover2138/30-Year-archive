@@ -1,0 +1,72 @@
+Google Spanner:
+
+Starting from paxos and Google spanner works on top of it. 
+Paxos is a fundamental consensus algorithm. It ensures that multiple nodes agree on a single 
+value even if some nodes or messages fail 
+Paxos ensures that a group of unreliable nodes can still reach to a consensus. For eg if a group thinks 
+of ordering pizza, even if some people don't respond, it doesn't reach any other conclusion 
+There are 3 roles in paxos 
+1. Proposer 
+2. Acceptor 
+3. Learner 
+Its like a single group of people. To avoid livelock, a single proposer is chosen. And the idea 
+of suboptimal proposals is corrected by having multiple paxos 
+
+Here spanner comes into play. 
+Spanner is basically at the highest level a database that shards data across multiple paxos machines 
+spread all over the world 
+Replication is used for global availability and geographic locality 
+Clients automatically failover between the replicas 
+
+Spanner automatically reshards data across machines as the amount of data or the number of servers 
+changes and it automatically migrates data across machines or even across data centers 
+to balance load and in response to failures 
+Spanner is designed to scale upto a million machines and trillions of database rows 
+
+Spanner's main focus is maintaining cross datacenter replicated data 
+Spanner evolved from a Bigtable like versioned key value store into a temporal multiversion database 
+Spanner supports general purpose transactions and provides an SQL based query language 
+
+Spanner provides externally consistent reads and writes and globally consistent reads across the database at 
+a timestamp
+These features enable it to support consistent backups, consistent mapreduce executions, atomic schema 
+updates all at global scale and even in the presence of ongoing transactions 
+
+The key enabler is the TrueTime API. The truetime api directly exposes clock uncertainty. If the 
+uncertainty is large, spanner slows down and waits out that time.
+Google's cluster management software provides an implementation of TrueTime api. 
+
+Conservatively reporting uncertainty is essential for correctness. Keeping the uncertainty bound small 
+is necessary for performance.
+
+A spanner deployment is called a universe 
+3 universes-> test/playground, dev/prod and prod only 
+
+A zone has 1 zone master and between 100 and several thousand spanservers
+
+At the bottom, each spanserver is responsible for between 100 and 1000 instances of a data structure called a 
+tablet 
+
+A tablet's state is stored in a set of B-tree like files and a write ahead log all on a distributed file 
+system called Colossus which is a successor to Google File System 
+
+
+The layer for each spanserver from bottom to top:
+- Colossus 
+-- Tablet 
+--- Paxos 
+---- Replica 
+-----Leader 
+------Lock Table 
+-------Transaction Manager
+--------Participant Leader 
+
+The paxos implementation supports long lived leaders with time based leader leases whose length defaults 
+to 10 seconds 
+
+The current spanner implementation logs every paxos write twice, once in the tablet's log and once in the paxos log
+Having a long lived paxos leader is key to effectively managing a lock table 
+
+
+
+

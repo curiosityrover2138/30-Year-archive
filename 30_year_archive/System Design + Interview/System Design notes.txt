@@ -538,7 +538,31 @@ This is another way of obtaining unique ids, as this has a very low collision ra
 Ticket servers:
 
 Flickr introduced a single server for distributed primary keys calling it the ticket server. 
+It is easy to implement but a single point of failure 
 
+Twitter snowflake approach:
+
+Twitter has its own UUID generation system called snowflake. 
+
+We divide the ids into multiple parts 
+sign bit, timestamp, data center id, machine id, sequence no. 
+
+Data center and machine id are chosen at the startup time 
+Timestamp and sequence no. is generated when the id generator is running 
+
+Timestamp is in milliseconds and twitter uses a twitter epoch time  to add to it inorder to  
+convert it to UTC. 
+
+If the timestamp is 41 bits (which it is in snowflake id), then the maximum timestamp is 2^41-1 millisecond which will be 
+about 69 years. After 69 years, they just need to change the epoch time or adopt other techniques. 
+
+Sequence no. is 12 bits  
+This field will be 0 unless more than 1 id is generated every millisecond 
+Thus a machine can support 4096 ids each millisecond 
+
+Snowflake approach supports all the use cases and is incredibly scalable 
+
+Clock synchronization is a big challenge in this system. However twitter handles it using Network time protocol 
 
 
 

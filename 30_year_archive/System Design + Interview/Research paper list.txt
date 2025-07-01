@@ -1,4 +1,5 @@
 1. Scaling memcached at facebook
+2. Google spanner 
 
 
  Tech Blogs (Engineering Blogs)
