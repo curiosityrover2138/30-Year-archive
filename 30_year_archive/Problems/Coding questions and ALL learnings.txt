@@ -1,0 +1,829 @@
+Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
+
+Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
+
+
+https://cses.fi/problemset/task/1085
+
+For this I was first checking if count==k but that is not needed as for any count<k we can 
+divide it more to make it k, and checking count==k is not good as binary search is not honing in 
+on that specific number, and will skip past the optimal solution 
+
+
+https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G
+
+Simple idea but I overcomplicated it. Just check the total and see if mid*k is less than or equal or not.
+Basically we add to the total the minimum of vec[i] or mid as we cannot add more than mid but we can always 
+keep adding and if the total is fine we can distribute easily 
+
+Print number
+
+Floating point is tricky, I was doing the same thing but taking left<right and final==c 
+both give errors in floating point. Everything else was correct. Also needed to ensure that 
+answer is printed so at the end print left if ans is unchanged. I was printing in the loop which 
+meant for some cases the answer wasn't printed
+
+
+
+Rope cutting problem https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B:
+
+Basically make left and right equal and check for difference in precision since we are dealing with real numbers 
+and not integers 
+
+
+https://codeforces.com/gym/104114/problem/N
+
+Just a 2 pass would have worked. I was trying a prefix sum kind of approach after getting confused 
+by the module. But the reason it doesnt work is we want local maximas and not global ones 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=416
+
+Run a transformation on the original grid to make the diamond into a square
+
+https://atcoder.jp/contests/abc125/tasks/abc125_c
+
+Use a prefix and suffix to find the gcd of all but one
+
+https://www.spoj.com/problems/HAYBALE/
+
+Very common trick. Increment the lower half of the range and decrement 1 greater than the upper half 
+and then take prefix sum to find the actual array 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=916
+Didn't even understand howt his was graphs. Instead of thinking in a graphs manner should have Tried 
+just doing it like adhoc
+
+https://usaco.org/index.php?page=viewproblem2&cpid=689#
+
+Had this vague idea of trying the same thing from end, but didn't do it for some reason
+Very easy at the end, but guess I got distracted 
+
+
+https://dmoj.ca/problem/ccc08s4
+
+Check all the pairs. Take the rest in a vector, and then use all 4 operations, and put it in that vector 
+and recursively go and backtrack to check different ones.
+
+
+
+
+Back Forth:
+
+recursively go through each barn and at the end input in the set.
+
+void recursively_go(int day, vector<int> barn1, vector<int> barn2, int curr_barn_one, set<int> &total_possibilities);
+If I don't use this line, basically here go_to_barn uses recursively_go and recursively_go uses go_to_barn
+so any function I put above the other function will give undefined error. So one of them needs to be defined 
+at the top like this. This is called a forward declaration.
+
+
+
+
+
+Livestock Lineup:
+
+    Generating from next_permutation 
+
+    sort(vec.begin(),vec.end());
+
+    do{
+        //Check if the permutation satisfies the conditions
+    }while(next_permutation(vec.begin(),vec.end()));
+
+
+
+
+
+Air Cownditioning:
+
+    Very frequently used trick of generating bitmasks and then for all possibilities choosing if it is valid
+
+    for(int mask=0;mask<(1<<n);mask++){
+        for(int i=0;i<n;i++){
+            if(mask & (1<<i)){
+                //Select this and do something here
+            }
+        }
+    }
+
+
+
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=832
+
+Basically try for all indexes where 1st cow can be and seeing if that leads to a valid solution
+
+
+(pref_sum[i]%n+n)%n trick for negative values in pref_sum and ensuring the mod is always correct
+
+If I do abs(pref_sum[i])%n it becomes a different "class" of modulo due to 6-1 and 6- (-1) behaving differently so 1 has modulo 
+1 and -1 has modulo 
+
+https://codeforces.com/contest/863/problem/B
+
+Brute force all the ones not selected, then just find pairs from the ones selected. The 1st-2nd, 3rd-4th 
+will work because we are finding the ones selected, so 1st-4th + 2nd-3rd == 1st-2nd + 3rd-4th
+
+
+https://usaco.org/index.php?page=viewproblem2&cpid=667
+
+Should have used pair of strings, as each city name can repeat with multiple states
+and using string,string mapping overrides that
+
+
+https://codeforces.com/contest/1209/problem/G1
+
+I didn't understand this solution totally but it was intuitive. Basically for any stretch 
+we try reducing everything based on the occurance of other elements. Its fine because 
+it was the last of the topic. So I will complete bronze when I am atleast 60% done with silver.
+
+
+Livestock Lineup:
+
+Generating from next_permutation 
+
+sort(vec.begin(),vec.end());
+
+do{
+    //Check if the permutation satisfies the conditions
+}while(next_permutation(vec.begin(),vec.end()));
+
+
+
+
+
+Air Cownditioning:
+
+Very frequently used trick of generating bitmasks and then for all possibilities choosing if it is valid
+
+for(int mask=0;mask<(1<<n);mask++){
+    for(int i=0;i<n;i++){
+        if(mask & (1<<i)){
+            //Select this and do something here
+        }
+    }
+}
+
+
+
+
+Ugly numbers II
+
+dp[i] = min(next2, min(next3, next5)); if (dp[i] == next2) { i2++; next2 = dp[i2] * 2; } if (dp[i] == next3) { i3++; next3 = dp[i3] * 3; } if (dp[i] == next5) { i5++; next5 = dp[i5] * 5; }
+
+Have 3 pointers and 3 numbers to track all the 3 multiples
+
+https://leetcode.com/problems/maximum-product-subarray/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM
+Keep two variable max_product and min_product
+for each i
+tmp=max_product
+max_product=max(nums[i],max(tmp*nums[i],min_product*nums[i]));
+min_product=min(nums[i],min(tmp*nums[i],min_product*nums[i]));
+ans=max(ans,max_product)
+
+
+https://leetcode.com/problems/word-break/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM
+
+For all of ```
+```
+j<i
+check if the substring exists in dictionary and dp[j]==1. If it is then dp[i]=1
+and break from the loop
+```
+All values of dp[i] are 0 except dp[0] which is 1 as empty string is a valid segment
+https://leetcode.com/problems/edit-distance/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM
+
+Think of it as a path of converting word1 to word2. Create a dp of m+1Xn+1 and all the dp[i][0]=i and dp[0][i]=i
+If the characters are equal dp[i][j]=dp[i-1][j-1]
+else for insert 
+```
+dp[i][j]=dp[i][j-1]+1
+for deletion
+dp[i][j]=dp[i-1][j]+1
+for replacement
+dp[i][j]=dp[i-1][j-1]+1
+```
+Final will be minimum of these 3
+Answer obviously is dp[n][m]
+
+https://leetcode.com/problems/jump-game-ii/description/?envType=problem-list-v2&envId=dynamic-programming&difficulty=MEDIUM
+simple dp where we just check for every jth index the minimum number of jumps needed to jump to that index. Then output the n-1th index value in the dp as it gives the minimum jumps required to reach the n-1th index.
+
+
+
+https://codeforces.com/problemset/problem/2033/E
+
+swap(vec[vec[i]-1],vec[mp[i+1]]);
+            mp[vec[pos1]]=pos1;
+            mp[vec[pos2]]=pos2;
+
+
+
+I underestimate contests and think that I will be able to solve any problem as soon as I see it if its below the rating I am practicing. This is absolutely bogus. I need to just keep my mind still and focus, I can do it.
+
+
+
+Improve implementation skills. Practice Spiral matrix and other matrix like problems
+https://codeforces.com/problemset/problem/2036/C
+Use a set to keep indexes of all elements from where the 1100 begins. For each query, for the i-3 to ith number, do the update operation again. If the set is empty output NO, else YES
+
+
+https://codeforces.com/problemset/problem/1932/C
+We will do all the operations in reverse order. For that we will need to find the index of the element after all the operations, and check for each when its added. Then output the answer in reverse order. WHO EVEN THINKS OF THESE THINGS WTH
+
+https://codeforces.com/problemset/problem/653/B
+Generate all strings using recursion
+Use a checker function to check if it is valid or not
+
+
+
+https://codeforces.com/problemset/problem/115/A
+We can just group employees with same depth in the same group, we won't need to worry about any subordinates and the answer is simply the maximum depth of the tree.
+
+https://codeforces.com/problemset/problem/1931/E
+I had the right idea, just need to implement it properly
+
+https://codeforces.com/problemset/problem/1728/C
+
+Only comparing the largest elements is enough. We can just use priority queue to do this
+
+https://codeforces.com/problemset/problem/1772/D
+For all the adjacent values, we calculate v1+v2/2 and (v1+v2+1)/2
+Then we can get the maximum and minimum of those values depending on whether v1 is less than or greater than v2
+At last, if the range makes sense, we update any of the value as answer, or else its -1
+
+https://codeforces.com/problemset/problem/448/B
+Such simple fucking sums, and it takes me forever as I just get spooked by looking at the rating and think I am constantly doing something wrong. Need to calm myself and look at things objectively thinking through all the edge cases.
+
+https://codeforces.com/problemset/problem/1320/A
+For each element that belongs in a sequence, `vec[i]-i`
+will remain the exact same, so we can just store this in a hashmap and check for any value we encounter, if it exists we extend it.
+
+https://codeforces.com/problemset/problem/1548/A
+Much simpler than what I was doing. I need to stop with my complicated apporaches, and think of how the problem setter might have intended the solution as.
+The easy thing was just to keep a set of all nodes, and if there is any node that has an edge with any greater node, then remove the lesser one. Keep doing it for all queries, and once a 3 comes, just print the current size, as whenever a 3 comes, all the nodes that have any edges with a greater node will eventually get killed in all the rounds, but simulating all the rounds will give you TLE
+
+https://codeforces.com/problemset/problem/1535/C
+DP Approach:
+
+ `int dp[n][2]; memset(dp,0,sizeof dp);
+ `dp[0][0]=(s[0]!='1');
+ `dp[0][1]=(s[0]!='0');
+
+The base case is simple, for each 1 or 0 we start counting the beautiful substrings that can originate from there
+`if(s[i]=='?')
+`dp[i][1]=1+dp[i-1][0]
+`dp[i][0]=1+dp[i-1][1]
+If s[i] is 0 or 1 we update the dp array by taking values from the previous 1 and 0 respectively and we don't update the other value
+Then for all i, we add the maximum of `dp[i][0] and dp[i][1] 
+
+
+
+Official solution approach:
+The string is not beautiful if there are 2 same characters at an even distance or 2 different characters at an odd distance
+People also solved this with dp, just goes to show that you cannot solve all 1400 problems with 1400 techniques.
+For a beautiful substring, we will add r-l to the answer since all the substrings of the substring are beautiful
+For the rightmost border in any substring, we try to find the leftmost border such that the substring remains beautiful. To do that, we also need to consider the parity of each element and ensure that the same elements are even distance apart and the different characters are odd distance apart
+Now we declare a 2d vector:
+vector<vector<int>> lst(2, vector<int>(2, -1));
+lst[c][p] will store the last occurance of character c at parity p. Since 2 characters and 2 parities are there, we only need 2  rows and 2 columns
+For even i, the parity is 0 and for odd the parity is 1
+`if (s[i] != '1') j = min(j, max(lst[0][p ^ 1], lst[1][p]));`
+`if (s[i] != '0') j = min(j, max(lst[0][p], lst[1][p ^ 1]));`
+Then we add i-j to ans
+For ?
+if (s[i] != '?') lst[s[i] - '0'][p] = i;
+we update the lst array. It converts the character 0 or 1 to its corresponding integer value and updates the current parity. This ensures that next time the same parity is encountered, it can be used to update the left boundary.
+
+
+
+https://codeforces.com/contest/1714/problem/E
+
+Unnecessarily struggled with this a lot, implementation was idiotically tough for me for some reason, because the logic I had gotten very quickly early on
+If a particular solution is not working and you cannot find fault in the logic, try and implement the same thing in an easier simpler manner. I sometimes convolute the implementation and that leads to difficult debugging and getting mired down by complexity created through incompetence.
+
+https://codeforces.com/problemset/problem/1634/B
+Parity is the key. If we xor all values and check for the parity, no matter what alice or bob does, they will end up with different parity(%2), so if alice has the same parity as answer, alice can reach it, or else bob will.
+The question was intentionally confusing making you think about DP and other BS. The aim should have been to trust your mathematics and implement it.
+
+https://codeforces.com/problemset/problem/1095/C
+Always use a priority queue if you are sorting an array frequently
+
+https://codeforces.com/problemset/problem/1701/C
+This is binary search??? 
+If all tasks are completed in time t, then for each worker it will be min(t,cnti) 1hour tasks 
+and additional tasks will be floor((t-min(t,cnti))/2) 
+Worst case is 2m, so just binary search for each time to find the minimum
+
+
+https://codeforces.com/problemset/problem/1515/C
+The implementation was tough for this. Didn't strike my mind at all, will keep in mind so that it doesn't happen again
+Create a set<pair<int,int>> and add n elements one by one greedily
+
+https://codeforces.com/problemset/problem/289/B
+Sort the array and make each number equal to median. If any number % k is different from the rest answer isnt possible.
+
+https://codeforces.com/problemset/problem/546/C
+This was pure simulation using queues. Like an ABSOLUTE MORON, I somehow thought that only n was given and we have to check for all possibilities and thought it was backtracking. An absolute IDIOTIC thing to do. Will NEVER happen again, I will ensure of that.
+
+https://codeforces.com/problemset/problem/816/B
+Make prefix sum of all temperatures by vec[tmp1]++ and vec[tmp2+1]--, and then cumulating. Then if it is >=k set as 1 otherwise 0. Cumulate again and find vec[tmp2]-vec[tmp1];
+
+https://codeforces.com/problemset/problem/1362/C
+The answer is 2*n- number of bits set  in n
+
+
+
+https://codeforces.com/problemset/problem/1167/C
+This uses disjoint set unions. It can be solved by Dfs and bfs as well, but will exceed time limit because of O(N) solution expected.
+This is a technique that consists of 3 structures:
+1. Make set
+2. union set
+3. find set
+Each of these operations are done in O(1) time on average
+Since the edges are added dynamically and it is computed in O(1) time on average(time complexity is the reverse ackermann function), it is O(e) where e is the number of edges in the graph and hence it is much faster than a dfs.
+The make set is usually the operation that we change according to the question, but find and union remain the same.
+def find(x):
+	if(parent[x]==x) return x
+	 return parent[x]=find(x)
+
+This uses the path compression technique to represent each node with its representative called parent and checking the group each node belongs in.
+def union(x,y):
+	a=find(x)
+	 b=find(y)
+	 if(a!=b){
+		 if(component_size[a]<component_size[b]){
+			 swap(a,b)
+		 }
+		 parent[b]=a
+		 component_size[a]+=component_size[b]
+	 }
+
+
+https://codeforces.com/problemset/problem/277/A
+Question statement:
+The "BerCorp" company has got _n_ employees. These employees can use _m_ approved official languages for the formal correspondence. The languages are numbered with integers from 1 to _m_. For each employee we have the list of languages, which he knows. This list could be empty, i. e. an employee may know no official languages. But the employees are willing to learn any number of official languages, as long as the company pays their lessons. A study course in one language for one employee costs 1 berdollar.
+
+Find the minimum sum of money the company needs to spend so as any employee could correspond to any other one (their correspondence can be indirect, i. e. other employees can help out translating).
+
+Solution: 
+The solution is to make bipartite graph. Then do a dfs (or even bfs will work) to go through all the nodes possible when starting from a particular node, and mark them as visited, then only visit the unvisited nodes, find the connected components and the answer will be total connected components -1. If a person doesn't know any language then they are their own isolated component. If all people know zero languages, we need to teach them 1 language n times and thus answer is n.
+
+void dfs(ll empl){
+    v_emp[empl]=true;
+    for(ll lan: emp[empl]){
+        if(!v_lng[lan]){
+            v_lng[lan]=true;
+            for(ll e: lang[lan]){
+                if(!v_emp[e]){
+                    dfs(e);
+                }
+            }
+        }
+    }
+}
+
+
+
+
+https://codeforces.com/problemset/problem/1463/B
+
+The trick was to either use 1, a2, 1, a4,.... or a1,1,a3,1,.... One of these will satisfy the condition
+
+
+
+
+Easy pattern for divisors:
+vector<long long> divisors;
+    
+    for (long long i = 1; i * i <= n; i++) {
+        if (n % i == 0) {
+            divisors.push_back(i);
+            if (i != n / i) {
+                divisors.push_back(n / i);
+            }
+        }
+    }
+    
+    sort(divisors.begin(), divisors.end());
+
+    if (k > 0 && k <= divisors.size()) {
+        cout << divisors[k - 1];
+    } else {
+        cout << -1;
+    }
+
+
+
+
+Backtracking:
+ll n,l,r,x;
+    cin>>n>>l>>r>>x;
+    vector<int> vec(n,0);
+    for(int i=0;i<n;i++){
+        cin>>vec[i];
+    }
+    int count=0;
+    for(int i=0;i<(1<<n);i++){
+        vector<int> chosen;
+        for(int j=0;j<n;j++){
+            if(i & (1<<j)){
+                chosen.push_back(vec[j]);
+            }
+        }
+        if(chosen.size()>=2){
+            int total_diff=0;
+            int min_diff=chosen[0];
+            int max_diff=chosen[0];
+            for(auto diff: chosen){
+                total_diff+=diff;
+                min_diff=min(min_diff,diff);
+                max_diff=max(max_diff,diff);
+            }
+            if(total_diff>=l && total_diff<=r && max_diff-min_diff>=x){
+                count++;
+            }
+        }
+
+    }
+    cout<<count;
+
+
+
+Use a priority queue when trying to sort and get instead of always sorting an array or using a map
+
+orac and models
+
+int n;
+    cin>>n;
+    vector<int> a(n+1,0);
+    int f[n+1];
+    for(int i=1;i<=n;i++){
+        f[i]=1;
+    }
+    for(int i=1;i<=n;i++){
+        cin>>a[i];
+    }
+    for(int i = 1; i<=n; i++) 
+            for(int j = i*2; j<=n; j += i)
+                if(a[i]<a[j])
+                    f[j] = max(f[j],f[i]+1);
+    int ans = 0;
+    for(int i = 1; i<=n; i++)
+        ans = max(ans,f[i]);
+    cout<<ans<<endl;
+
+
+Mashmokh and ACM
+long long int i,j,k,l,n,sum=0;
+    cin>>n>>k;
+    for(i=0;i<=k;i++)
+        for(j=1;j<=n;j++)
+            dp[i][j]=0;
+    for(i=0;i<=n;i++)
+        dp[1][i]=1;
+    for(i=2;i<=k;i++)
+        for(j=1;j<=n;j++)
+            for(l=j;l<=n;l+=j)
+                dp[i][l]=(dp[i][l]+dp[i-1][j])%MOD;
+            
+    for(i=1;i<=n;i++)
+    {
+        sum=(sum+dp[k][i])%MOD;
+    }
+    cout<<sum%MOD<<endl;
+
+2d dp for vacations 698A
+ll n;
+    cin>>n;
+    ll a[n];
+    for(ll i=0;i<n;i++)
+    cin>>a[i];
+     
+     ll dp[n+1][3];
+     for(ll i=0;i<=n;i++)
+     {
+          dp[i][0]=INT_MAX;
+          dp[i][1]=INT_MAX;
+          dp[i][2]=INT_MAX;
+          
+     }
+     
+     dp[0][0]=0; dp[0][1]=0; dp[0][2]=0; //base cases
+     for(ll i=1;i<=n;i++)
+     {
+          dp[i][0]=1+min(dp[i-1][0],min(dp[i-1][1],dp[i-1][2])); // for a rest day, min because we want min resting days
+          
+          if(a[i-1]==1|| a[i-1]==3) // for a contest or gym
+           dp[i][1]=min(dp[i-1][0],dp[i-1][2]);
+               
+          
+          
+          if(a[i-1]==2 || a[i-1]==3)
+          dp[i][2]=min(dp[i-1][0],dp[i-1][1]);
+     }
+     
+     cout<<min(dp[n][0],min(dp[n][1],dp[n][2]));
+
+
+Look at the question very carefully. Look at the constraints. Figure out any tricks or the kind of topic it can be from. Then move forward with the solution. Don't expect to solve it as soon as you see it.
+
+https://codeforces.com/problemset/problem/2002/C
+Just compare without doing square root and making double. If that is greater, so will be the square root. Also, simply comparing 2 distances should have been enough, didn't need a third one
+
+https://codeforces.com/problemset/problem/1902/B
+
+Perform binary search
+
+https://codeforces.com/problemset/problem/1905/B
+
+I should have seen it as a tree instead of a graph and count the leaves
+
+https://codeforces.com/problemset/problem/1942/B
+
+```
+if(a[i] >= 0){
+			p[i] = mex;
+		}
+		else{
+			p[i] = mex - a[i];
+		}
+		has[p[i]] = true;
+		while(has[mex]) mex++;
+```
+
+https://codeforces.com/problemset/problem/1950/D
+
+First problem with precomputing and DP as a solution
+
+const int MAX = 100'007;
+const int MOD = 1'000'000'007;
+
+
+vector<int> binary_decimals;
+
+bool ok(int n) {
+    if (n == 1) {return true;}
+    bool ans = false;
+    for (int i : binary_decimals) {
+        if (n % i == 0) {
+            ans |= ok(n / i);
+        }
+    }
+    return ans;
+}
+
+void solve() {
+    int n;
+    cin >> n;
+    cout << (ok(n) ? "YES\n" : "NO\n");
+}
+
+int main(){
+    for (int i = 2; i < MAX; i++) {
+        int curr = i;
+        bool bad = false;
+        while (curr) {
+            if (curr % 10 > 1) {bad = true; break;}
+            curr /= 10;
+        }
+        if (!bad) {binary_decimals.push_back(i);}
+    }
+       
+   int t;
+   cin>>t;
+   while(t-->0){
+    solve();
+   }
+
+
+
+https://codeforces.com/problemset/problem/1592/B
+
+
+
+
+The answer is always "YES" If n≥2∗x𝑛≥2∗𝑥 because you can reorder the array as you want.
+
+Otherwise, You can swap the first n−x𝑛−𝑥 elements and the last n−x𝑛−𝑥 elements, so you can reorder them as you want but the rest have to stay in their positions in the sorted array.
+
+So if elements in the subarray [n−x+1,x][𝑛−𝑥+1,𝑥] in the original array are in their same position after sorting the array then the answer is YES, otherwise NO.
+
+
+
+
+
+
+
+for (int c = 0; c < 26; ++c) {
+            int l = 0, r = n - 1, cnt = 0;
+            while (l <= r) {
+                if (s[l] == s[r]) {
+                    l++, r--;
+                }
+                else if (s[l] == char('a' + c)) {
+                    cnt++, l++;
+                }
+                else if (s[r] == char('a' + c)) {
+                    cnt++, r--;
+                }
+                else {
+                    cnt = n + 1;
+                    break;
+                }
+            }
+            ans = min(ans, cnt);
+        }
+    Such a simple way of finding the minimum characters needing to be removed from a string to make it a palindrome. The placement of if conditions is important.
+
+
+https://codeforces.com/problemset/problem/1613/B
+Getting memory limit exceeded. Not sure how to check for pairs without storing them and also not sure how to check for the numbers already present in the array without checking them from a O(1) ds.
+One idea can be to sort and give all the n-1 pairs of first integer as y and others as x. DONE
+
+
+
+https://codeforces.com/contest/1611/problem/C
+Easy problem but overthinking became the cause of demise. Unfolding the permutation is easy as we just need to traverse from the end. If the first or last integer is not the maximum, it is impossible.
+
+
+https://codeforces.com/problemset/problem/1604/B
+Split in 1s. If n is even xor will be 0
+If odd and there is an index such that ai≥ai+1
+then it is possible else it won't be possible
+
+
+```
+ bool inc = true;
+    for (int i = 1; i <= n; i++) {
+      cin >> a[i];
+      inc &= a[i] > a[i - 1];
+    }
+    if (n % 2 == 0 or !inc) {
+      cout << "YES\n";
+    }
+    else {
+      cout << "NO\n";
+    }
+```
+
+
+
+https://codeforces.com/problemset/problem/1575/A
+Got pretty close but took some help.
+A string a𝑎 occurs before a string b𝑏 in asc-desc-ending order if and only if in the first position where a𝑎 and b𝑏 differ, the following holds:
+
+- if it is an odd position, the string a𝑎 has a letter that appears earlier in the alphabet than the corresponding letter in b𝑏;
+- if it is an even position, the string a𝑎 has a letter that appears later in the alphabet than the corresponding letter in b𝑏.
+  
+  The first position where a and b differs is the key point to consider, 
+  
+  size_t minLength = std::min(a.size(), b.size());
+    
+    for (size_t i = 0; i < minLength; ++i) {
+        if (a[i] != b[i]) {
+            if ((i + 1) % 2 == 1) { // odd position (1-based index)
+                return a[i] < b[i];
+            } else { // even position (1-based index)
+                return a[i] > b[i];
+            }
+        }
+    }
+    
+    Where the first character is different, based on the index of the character the sorting function will change the output. Then simply use this function to modify the sort library function.
+
+https://codeforces.com/problemset/problem/1579/B
+
+Have to implement insertion sort. Will always be less than n.
+
+for(int i=0;i<n-1;i++){
+	int min_pos=i;
+	for(int j=i+1;j<n;j++){
+		if(a[j]<a[min_pos]){
+			min_pos=j;
+		}
+	}
+	if(min_pos>i){
+		actions.push_back({i,min_pos});
+		int opt=a[min_pos];
+		for(int j=min_pos;j>i;j--){
+			a[j]=a[j-1];
+		}
+		a[i]=opt;
+	}
+}
+
+https://codeforces.com/problemset/problem/1594/B
+The problem is the same as finding the k𝑘-th number that in base n𝑛 has only zeros and ones.
+
+So you can write k in binary system and instead of powers of 2 add powers of n.
+
+```
+cin>>n>>k;
+        ll p = 1;
+        ll ans = 0;
+        f(j,0,31){
+            if(k & (1<<j)){
+                ans = (ans + p) % INF;
+            }
+            p *= n;
+            p %= INF;
+        }
+```
+
+
+
+
+1849 B-> Sort it using mod of k, and the indexes divisible by k will go first, then k-1, k-2, etc 
+and among them the ones with lesser ones will go first. Use stable_sort for that.
+1831B-> Find the maximum continguous sequence of each element in the array and the left and right pointers
+for it, that way you can 
+1765M-> Just go through all the divisors in O(sqrt(n)) and find the first divisor that will be the answer
+1715B-> Greedy with k*b as first and 
+1438B-> If any 2 values are same it will always be possible 
+1447 B-> If the negative numbers are odd, we just take the minmum value and subtract it from sum twice. 
+Else the sum is the answer.
+1704B-> Use a greedy strategy starting from first element, if it doesn't fit, change it or else keep it.
+1917B-> Second operation is only needed at first instance, as other strings can be reached 
+by just the first operation after that. Thus we check the string from the end,
+
+
+And use dp to add the answer for subsequent 
+1891B-> almost did it, the only optimization was just doing it if it is minimum encountered thus far.
+1731B-> Use mod_inverse using fermat's little theorem for dividing
+
+
+1820 B 
+
+1793C Use a 2 pointer approach.
+
+1742 E 
+
+
+    Using binary search and prefix sum
+
+https://codeforces.com/problemset/problem/1881/D
+
+https://codeforces.com/problemset/problem/1857/D
+
+https://codeforces.com/problemset/problem/1775/B
+
+
+https://codeforces.com/problemset/problem/1676/G
+
+Dynamic programming problem + tree 
+Run dynamic programming from the leaves to the root. For each vertex store the values of the number of balanced
+subtrees as well as the number of black and white vertices in it 
+Then from a vertex we can count the total number of white vertices in its subtree as well as black vertices in its 
+subtree and update the total if these 2 numbers are equal. The answer is the answer at the root 
+
+
+
+https://codeforces.com/problemset/problem/1669/H
+
+Greedily take bits 
+
+
+https://codeforces.com/problemset/problem/1601/A
+
+Think of bit problems and and or problems more in terms of array of bits 
+
+
+https://codeforces.com/contest/1498/problem/B
+
+Take the count of all widths, now try and fit the maximum width of the rectangle possible. If its not possible, 
+reset the width and increment height by 1 and try again.
+
+https://codeforces.com/problemset/problem/1459/B
+
+Formula based approach. THink of how the values are dependent on n being odd or even
+
+https://codeforces.com/problemset/problem/1366/B
+
+
+
+
+2d prefix sums:
+
+If we are trying to make a rectangular sum i.e. in any rectangle increasing it by some unit m  
+Let the rectangle's coordinates be start_x,start_y and end_x end_y 
+
+vec[start_x][start_y]+=m 
+vec[start_x][end_y]-=m 
+vec[end_x][start_y]-=m 
+vec[end_x][end_y]+=m 
+
+
+then for all x and y  for all valid x and y where possible 
+vec[x][y]+=vec[x-1][y]
+vec[x][y]+=vec[x][y-1]
+vec[x][y]-=vec[x-1][y-1]
+
+
+
+Learning-> Missed 2071 B due to overcomplicating. Both approaches of precomputing bad ones and checking 
+for each i the square and keeping appending it in the array were valid. I was thinking along the correct lines 
+but the pressure and not being able to solve it quickly made me think that it was harder than it actually was.
+
+Think an approach whole way through before dismissing a problem as too hard.

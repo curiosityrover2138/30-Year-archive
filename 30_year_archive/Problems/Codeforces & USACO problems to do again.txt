@@ -1,0 +1,50 @@
+2046A
+2055C
+1934B
+1933D
+1935B
+2039C1
+2035C
+2034C
+1901B
+1904B
+1903B
+2034B
+1793 C
+1820 B 
+1742E
+https://codeforces.com/problemset/problem/1881/D
+https://codeforces.com/problemset/problem/1857/D
+https://codeforces.com/contest/1794/problem/C
+https://codeforces.com/problemset/problem/1775/B
+https://codeforces.com/problemset/problem/1676/G
+https://codeforces.com/problemset/problem/1459/B
+
+https://codeforces.com/contest/1498/problem/B
+
+https://codeforces.com/problemset/problem/1601/A
+https://codeforces.com/problemset/problem/1669/H
+
+https://codeforces.com/problemset/problem/1366/B
+
+https://usaco.org/index.php?page=viewproblem2&cpid=642-> Field reduction
+
+https://codeforces.com/contest/863/problem/B
+https://usaco.org/index.php?page=viewproblem2&cpid=667
+
+https://codeforces.com/contest/1209/problem/G1
+
+https://dmoj.ca/problem/ccc08s4
+
+https://usaco.org/index.php?page=viewproblem2&cpid=689#
+
+https://usaco.org/index.php?page=viewproblem2&cpid=916
+Do again
+
+https://usaco.org/index.php?page=viewproblem2&cpid=416
+
+https://codeforces.com/gym/104114/problem/N
+
+https://usaco.org/index.php?page=viewproblem2&cpid=1063
+
+https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G

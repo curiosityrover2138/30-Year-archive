@@ -1,5 +1,0 @@
-Learning-> Missed 2071 B due to overcomplicating. Both approaches of precomputing bad ones and checking 
-for each i the square and keeping appending it in the array were valid. I was thinking along the correct lines 
-but the pressure and not being able to solve it quickly made me think that it was harder than it actually was.
-
-Think an approach whole way through before dismissing a problem as too hard.

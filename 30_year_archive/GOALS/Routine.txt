@@ -1,0 +1,38 @@
+Gradatim Ferociter.   Train like Phelps or sleep. Nothing else. Flow existence                       
+=== Revise every 6 months (1/11/2025) === 
+
+1. Wakeup 6 AM 
+6:15-7:
+2. Exercise, jog and lift weights till 6:15-7
+7:30 - 9:30
+3. Codeforces/USACO 2 hours Silver or 1400-1600 level problems
+9:30 Bath, grooming, skincare 
+10:00:
+4. Office or off days guitar 1 hour 
+11:00:
+5. Codeforces/USACO 4 hours OR 2.5 hour office and 1.5 hour high intensity USACO based on time and work  
+Give 1 contest daily + 5 usaco sums atleast 
+1:30-2:
+  Lunch
+3:30-5:45:
+6. System Design+ Work
+6:15 - 9:00: 
+7. Guitar 
+9:15 
+Dinner
+8. Sleep at 10 PM 
+
+
+Always go to sleep and wakeup consistently. Also during contest days or days you cannot sleep at 10
+sleep between 1:30-3 PM but only once a week. Only give 1 contest a week.
+
+Health:
+1. Multivitamin + Codliver oil (Omega 3)
+2. Biotin for hair, nails etc
+3. Mgd3 for magnesium and vitamin d (take a break of 1 month after using for 1 month)
+4. Melatonin + Ashwagandha for sleep (cycle every 3 months)
+5. Calcium for 2 months + Vitamin K2 for 1 month + 1 month break -> Cycle
+6. Prebiotics and probiotics for gut health 
+
+
+For local ssh-add "/c/Users/U6070329/OneDrive - Clarivate Analytics/Desktop/Personal/.ssh/id_ed25519_personal"

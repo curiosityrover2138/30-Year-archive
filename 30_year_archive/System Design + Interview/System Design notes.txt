@@ -1,0 +1,572 @@
+Alex Xu
+
+First we focus on a single server setup 
+1. Users access the website through the domain name. Usually the DNS(Domain Name System) is a paid 
+service hosted by a third party(Godaddy offers a DNS service as part of its suite of services).
+DNS transforms human readable addresses into IP addresses. The browser sends the DNS query to a DNS resolver.
+2. IP address is returned to the web browser
+3. Once the IP address is obtained, HTTP requests are sent directly to the web server
+4. The server sends HTML pages or JSON response for rendering
+
+There can be 2 main sources, web apps and mobile apps
+Web apps use a combination of server side languages to handle business logic and client side languages for 
+presentation
+JSON is used for api response format.
+
+
+Vertical scaling has a hard limit and does not have failover and redundancy
+In horizontal scaling, a load balancer is the best technique to ensure failover and redundancy
+
+In order to support failover and redundancy for a single database, database replication is a simple idea 
+In its simplest form, database replication uses a master slave architecture
+
+The data is also replicated in multiple servers so that data loss doesn't happen
+
+If the master database goes down, a slave database will be promoted to the master. A new slave database
+will replace the old one for replication temporarily(even this may not be needed). In prod systems, 
+promoting a new master is complicated as data in a slave database might not be up to date. We need to
+run data recovery scripts to sync up the databases
+
+There are some other methods like multi-master and circular replication.
+
+In multi master architecture, all nodes have both read and write capabilities unlike where in single master
+only the master does the write while the slaves are read only
+Conflict resolution is done by LWW(Last Write Wins). The system maintains different versions of the data 
+to check which version is the authoritative one. Also in this specific business rules govern how different 
+conflicts will be handled
+
+Multimaster systems are common in cloud applications where availability and scalability are key 
+
+Circular replication is a replication system that can be used in multi master architecture among others. 
+Here if we think of nodes in a circle, data flows in a loop and data for node A is duplicated in node B, node B to node C, etc.
+Even here we can use LWW for resolving conflicts 
+ 
+Once the cache is full we can use any kind of cache eviction like LRU, LFU, etc.
+
+Since a CDN loads static content from a cache. Thus we can also use Dynamic Content Caching in CDNs 
+to make it even faster
+
+When caching in CDNs we must also configure how to cope with CDN failure. Most CDNs offer automatic 
+failover to origin. But that can make it incredibly slow, so there are different approaches like Multi CDN strategy, Origin Shields, Edge caching with redundancy, local caching,etc.
+
+
+Stateless web tier-> Is a design pattern where each request made by the client to the server is independent 
+and self contained, and the server doesn't store any prior information of the client 
+REST api is a stateless architecture. Every API request is independent and the server does not maintain any information between requests.
+In a serverless model like AWS Lambda, each function is stateless and processes a single request without maintaining user data
+
+Challenges-> Since the server doesn't remember previous interactions, clients may need to store some information 
+like user sessions or authentication tokens 
+
+On the other hand, the pattern where we store metadata from client requests is called stateful architecture.
+
+
+A stateless system is simpler, more robust and scalable.
+
+
+We can use services like geoDNS to geographically route requests.
+
+This allows us to have multi data centers for each geo location.
+
+For further scaling, we decouple different components of the system so that they can be scaled efficiently.
+
+Messaging queue is one step towards decoupling the queueing process to make it scalable
+
+All_Local_Code_and_Notes\System Design images\1st.png
+
+
+
+
+Stackoverflow and Spotify used only 1 database. The overall cost of vertical scaling is high as single high 
+performance servers are much more expensive
+
+Horizontal scaling is also known as sharding
+Sharding separates large databases into small easily managed parts called shards
+
+The most important factor to consider when implementing a sharding strategy is choosing a sharding key
+
+
+New challenges in sharding:
+1. Resharding data is needed when a single shard cannot handle /hold more data due to rapid growth.
+Certain shards might experience shard exhaustion faster due to uneven data distribution.
+Consistent hashing is a common technique used to solve this problem.
+2. Celebrity problem: What instagram faced with JB uploads.
+3. Join and Denormalization: Once a DB has been sharded across multiple servers, it is hard to perform Join
+operations across database shards. A common workaround is to denormalize the database so that the queries can 
+be performed in a single table.
+
+All_Local_Code_and_Notes\System Design images\2nd.png
+
+
+Scaling a system is an iterative process. Many fine tuning strategies will be needed to make it beyond 
+a certain number of users. Platforms like Google, FB, Insta, use a lot of optimization strategies for each 
+type of operation.
+
+Main strategies are:
+1. Keep web tier stateless
+2. Build redundancy at every tier.
+3. Cache data as much as possible
+4. Support multiple data centers
+5. Host static assets in CDNs
+6. Scale data tier by sharding
+7. Split data tiers into individual services
+8. Monitor systems and use automation tools.
+
+
+Create back of the envelope estimations to have a rough idea of systems. This will be the major thing 
+expected in interviews.
+
+
+Memory is fast but disk is slow 
+Avoid disk seek operations if possible 
+Simple compression algorithms are fast 
+Compress data before sending it over the internet if possible
+Data centers are usually in different regions and transferring data and taking data is expensive
+
+Back of the envelope estimation is all about the process. Simply estimate the number of 
+requests, data size, things you need to store or cache, among other things 
+
+Real world system design is extremely complicated, the interviews only try to simulate a meeting discussion
+
+The final design is less important than the work you put in the process
+Collaborate, work well under pressure and resolve ambiguity constructively.Ask good questions 
+
+Overengineering is a real disease. Always ask questions and don't focus on answers. Focus on the process.
+
+One of the most important skills in an engineer is to ask the important questions, understand and deal 
+with ambiguity and clarify requirements.
+If you are making your assumptions instead of getting data from the interviewer, right down the assumptions 
+
+
+First propose high level design, and get buy-in i.e. the interviewer should agree with your design
+
+Once you go into detail, keep collaborating with the interviewer. Give potential drawbacks of the design,
+discuss bottlenecks, and always give potential cases where it can fail. No design is perfect and since 
+its all dependent on use cases, the imperfections need to be clear as well.
+
+Discuss rate limiters, all apis use some form of rate limits.
+
+Rate limiters->
+
+1.Acurately limit excessive requests 
+2. Low latency-> A rate limiter shouldn't slow down HTTP response time
+3. Use as little memory as possible 
+4. Distributed-> Can be shared across multiple servers or processes.
+5. Exception handling-> Show clear exceptions to users when their requests are throttled.
+6. High fault tolerance
+
+We can implement a rate limiter either on the client side or server side 
+Generally speaking, client side is unreliable to enforce since client requests can be easily forged 
+
+We can create a rate limiter middleware, which throttles requests to API 
+All_Local_Code_and_Notes\System Design images\3rd.png
+
+Cloud microservices have become popular and the rate limiting is usually implemented in an API gateway 
+API Gateway is a fully managed service that supports rate limiting, SSL termination, authentication,
+IP whitelisting, servicing static content, etc.
+
+Evaluate your current programming language, cache service, etc. Make sure your programming language is
+efficient to support rate limiting on server side.
+
+Identify the rate limiting algorithm that fits your business needs. when you implement everything on the server 
+side you have full control of the algorithm, but it may change if you are using a third party gateway 
+
+
+Algorithms for rate limiting:
+1.Token bucket
+2. Leaking bucket 
+3. Fixed window counter 
+4. Sliding window log
+5. Sliding window counter 
+
+All_Local_Code_and_Notes\System Design images\4th.png -> Token bucket
+All_Local_Code_and_Notes\System Design images\5.png->    "
+
+A token bucket algo takes 2 params-> Bucket size and refill rate 
+
+It is usually necessary to have different buckets for different endpoints 
+
+The params might be difficult to tune properly.
+
+Leaking bucket algorithm->
+All_Local_Code_and_Notes\System Design images\6.png
+
+It is similar to a token bucket, except the requests are processed at a fixed rate
+Takes 2 params-> Bucket size and outflow rate 
+
+Cons-> A burst of traffic fills up the queue with old requests, and if they are not processed 
+in time,recent requests will be rate limited.
+
+Fixed window counter algorithm->
+
+The algorithm divides the timeline into fixed sized time windows and assign a counter for each window 
+
+Each request increments the counter by one 
+
+Once the counter reaches the predefined threshold, new requests are dropped until a new time window starts 
+All_Local_Code_and_Notes\System Design images\7.png
+
+
+The con for this is that a spike in traffic at the edges of a window, could cause more requests than the  
+allowed quota to go through
+
+All_Local_Code_and_Notes\System Design images\8.png
+Here the limit is 5, but in a 1 minute time frame 10 can go through
+
+
+Sliding window log algorithm->
+
+This fixes the issue of fixed window counter.
+
+The algorithm keeps track of request timestamps. The data is kept in cache in a sorted order like Redis 
+
+When a new request comes in, remove all the outdated timestamps. Add timestamp of the new request to the log 
+
+If the log size is same or lower than the allowed count, the request is accepted or it is rejected.
+All_Local_Code_and_Notes\System Design images\9.png
+
+
+
+Cons-> The algorithm can consume a lot of memory because even if a request is rejected, its timestamp
+might still be stored in the memory.
+
+Sliding window counter algorithm->
+
+Hybrid approach that combines the fixed window counter and a sliding window log.
+
+All_Local_Code_and_Notes\System Design images\10.png
+
+Number of requests in the rolling window is calculated
+
+Requests in current window+ (Requests in previous window * overlap percentage of rolling window and previous window)
+
+Since we need a counter to track how many requests are made by the same user, redis is a good rate limiting
+implementation choice 
+
+Rate limiting rules are generally in the config files and saved within a disk
+
+Rate limiters append specific HTTP headers to indicate the status of rate limiting
+THese aare:
+
+X-RateLimit-Limit
+X-RateLimit-Remaining
+X-RateLimit-RetryAfter
+Retry-After 
+
+All_Local_Code_and_Notes\System Design images\11.png
+
+Building a rate limiter that works in a single server environment is easy, but scaling it is a different story
+
+2 challenges are:
+-> Race Conditions
+-> Synchronization
+
+Locks are the most obvious solution to solve race conditions, but they will significantly slow down the system 
+
+Lua scripts and Sorted sets data structure in redis are the 2 commonly used strategies to solve this
+
+Redis allows us to run Lua scripts in an atomic fashion, meaning that once a script is invoked, it is 
+executed in a single uninterrupted operation
+
+-- Lua script for rate limiting EXAMPLE
+local key = KEYS[1]  -- Redis key (e.g., rate_limit:{user_id})
+local limit = tonumber(ARGV[1])  -- Rate limit (e.g., 100 requests)
+local window = tonumber(ARGV[2])  -- Time window (e.g., 60 seconds)
+
+-- Check the current request count
+local current = tonumber(redis.call('GET', key))
+
+if current and current >= limit then
+    -- If the current count is greater than or equal to the limit, reject the request
+    return 0  -- Indicating rate limit exceeded
+else
+    -- Increment the request count
+    if current then
+        redis.call('INCR', key)
+    else
+        redis.call('SET', key, 1)
+    end
+    -- Set the expiration time for the key (rate limit window)
+    redis.call('EXPIRE', key, window)
+    return 1  -- Indicating the request is allowed
+end
+
+
+Instead of Lua scripts, we can just use a sorted set to always check for each user key the requests, and only 
+append in the set if it can be appended. However, this can cause some performance issues for very large number 
+of users
+
+Multi data center setup is crucial for rate limiters as latency is high for users far away from the
+geographical region
+
+
+After setup of a rate limiter,it is important to gather analytics data to check whether the rate limiter is
+effective or not. Primarily we want to make sure the rate limiting is working as expected and the rules 
+aren't too strict.
+
+When desiging we can address other things like Hard vs Soft rate limiting, Rate limiting at different levels
+
+
+
+Consistent hashing:
+
+
+If we change the number of servers in normal hashing, all the keys would need to be remapped as 
+it is based on the number of servers. However in consistent hashing, only n/m keys need to be remapped where n is the number 
+of keys and m is the number of slots.
+
+In consistent hashing a blob is hashed, and then mapped to a circle
+
+F(x)%360
+
+Then this mapped value is assigned to the server in the nearest position clockwise. This can be determined
+by a binary search or linear search 
+
+Thus when a server fails, only the blobs assigned to the failed server need to be reassigned, hence n/m 
+
+
+All_Local_Code_and_Notes\System Design images\12.png
+
+
+Issues:
+
+1. Its impossible to keep the same size of partitions on the ring for all servers considering a server can
+be added or removed.
+2. It is possible to have a non uniform key distribution in the ring
+
+
+This can be solved using virtual nodes.
+
+We can create multiple virtual nodes for each server to make all the servers uniform in the circle.
+
+Consistent hashing is widely used in real world scenarios like:
+Partitioning component for Amazon Dynamo DB
+Data partitioning across the cluster in Apache Cassandra
+Discord chat applications
+Akamai CDN
+Maglev network load balancer
+
+
+Design a key value store:
+
+There is no perfect design for a key value store. Each design achieves a specific tradeoff balance between 
+read write and memory usage 
+
+Consistency and Availability are also 2 key aspects of the tradeoff 
+
+When designing a distributed system, it is vital to understand CAP theorem, Consistency Availability 
+Partition tolerance
+
+CAP theorem states that it is impossible for a distributed system to provide all 3.
+
+Thus we can design either CA, CP or AP systems but not CAP systems 
+
+Since network failure is unavoidable, a distributed system must tolerate network partition. Thus 
+a CA system cannot exist in real world applications.
+
+There are following core components and techniques used to build a key-value store:
+1. Data partition
+2. Data replication
+3. Consistency 
+4. Inconsistency resolution
+5. Handling failures
+6. System architecture diagram 
+7. Write path 
+8. Read path 
+
+Data partition:
+Simplest way to accomplish data partitioning is to use consistent hashing which is a specific form of 
+sharding.
+
+Using consistent hashing for partitioning has the following advantages:
+AUTOMATIC SCALING-> Servers can be added or removed automatically depending on the load 
+HETEROGENEITY-> The number of nodes for a server is proportional to the server capacity i.e. servers 
+with high capacity are assigned more virtual nodes 
+
+
+Data replication:
+Data replication is achieved by choosing the next N servers in the ring(where N is configurable) and 
+store copies of the data in all the N servers 
+With virtual nodes, the first N nodes on the ring may be owned by fewer than N physical servers. To avoid 
+this issue, we choose N unique servers and N is kept <= total no. of servers.
+
+Nodes in the same data centers may fail simultaneously, so to avoid failures during power outages, natural 
+disasters etc. we use N distinct data centers in distinct locations.
+
+
+
+
+Consistency:
+
+Quorum consensus can guarantee consistency for both read and write operations 
+N=no. of replicas
+
+W= A write quorum of size W. For a write operation to be considered as successful write operation must 
+be acknowledged from W replicas 
+R= Read quorum of size R. For a read operation to be considered successful read operation must wait 
+from atleast R replicas 
+
+A coordinator acts as a proxy between the client and the nodes 
+A consistency model defines a degree of data consistency and a wide degree of possible models exist:
+1. Strong consistency-> Any operation returns a value of the most up to date data and the data is always consistent
+2. Weak consistency-> Subsequent reads may not always give the most updated data 
+3. Eventual consistency-> This is a specific form of weak consistency. Given enough time, all updates 
+are propagated and all replicas are consistent.
+
+Strong consistency is usually achieved by forcing a replica to not accept new reads/writes until every 
+replica has agreed on current write. This approach is not ideal for highly available systems as it could 
+block new operations. Dynamo and Cassandra adopt eventual consistency, which is usually the best. 
+
+
+Inconsistency resolution: Versioning->
+
+Replication gives high availability but causes inconsistency among replicas.
+
+Versioning and vector clocks are used to resolve inconsistency issues 
+
+If 2 changes are performed simultaneously in 2 replicas of the same data, we will have 2 versions 
+even though the change was only supposed to be one 
+
+Now there is no clear way to resolve the conflict of the last 2 versions 
+
+Vector clock has a [server,version] pair associated with the data item. It can be used to check if 
+one version preceeds, succeeds or is in conflict with others 
+
+For each data item we have D([S1,V1],[S2,V2],[S3,V3],...,[Sn,Vn])
+
+If data item D is written on server S, we increment V for that S, else we create a new D([S,V])
+and replace the original with it 
+
+For eg.
+
+If I write D1, and the write is executed by S1 we created D1([S1,V1])
+If we modify D1 to D2, and write is executed by S1, the vector clock becomes D2([S1,V2])
+Another client reads the data D2, and changes it to D3, now the write is executed by S2 so vector clock 
+becomes D3([S1,V2],[S2,V1])
+
+This is how vector clocks work 
+
+Now if one client again reads the latest D2 and modifies it by writing it from S3 
+the vector clock becomes D3([S1,V2],[S3,V1])
+
+Now there is a conflict as both D3([S1,V2],[S2,V1]) and D3([S1,V2],[S3,V1]) cannot coexist simultaneously
+
+
+For failure detection in Distributed systems, it takes atleast 2 independent sources of information 
+to mark a server down 
+For failure communication, all to all multicasting is a brute force straightforward solution but ofc 
+inefficient. 
+
+Gossip protocol is more efficient.
+Here each node maintains a membership id, and heartbeat counter for all nodes 
+Each node periodically increments its own heartbeat counter and periodically sends its 
+heartbeat no. to a random set of nodes 
+As each node gets the heartbeat no. they update their membership key value pair with the correct no. 
+If a node has not been updated for a predefined time, it is considered offline 
+
+Sloppy Quorum -> Writing to any N healthy nodes instead of the strict replica set and later repairing 
+the actual replicas asynchronously (hinted handoff)
+
+Sloppy quorum is commonly used to handle failures gracefully in gossip protocol oriented distributed systems
+
+
+Since hinted handoff is used to handle temporary data failures, what if the replica is permanently 
+unavailable? To handle such a situation we implement an anti entropy protocol to keep the replicas in sync 
+
+A merkle tree is used for inconsistency detection and minimizing the amount of data transferred  
+
+Each server stores a tree with hashes. The tree is such that every non leaf node is labelled with the hash 
+of its child nodes 
+Hash trees allow efficient and secure verification of contents of large data structures 
+https://en.wikipedia.org/wiki/Merkle_tree
+
+
+Designing a key value store main considerations:
+
+1. Clients communicate with the key value store through simple APIs 
+2. A coordinator is a node that acts as a proxy between the client and the key value store 
+3. Nodes are distributed on a ring using consistent hashing 
+4. The system is completely decentralized so adding and removing nodes can be O(1)
+5. Data is replicated at multiple nodes 
+6. There is no single point of failure as every node has multiple responsibilities 
+
+Client gives the data which is saved to memory cache and the commit is saved to a commit log. 
+If the memory cache is full or reaches
+a predefined threshold, data is flushed to a disk that uses SSTable(which are sorted by key value pairs
+which enables binary search)
+
+The SSTable is also paired with Bloom Filters, Index files and summary tables for faster lookup 
+
+As multiple SSTables are accumulated Cassandra runs Compaction to merge SSTables, Discard overwritten 
+or deleted data and reduce lookup costs 
+
+A bloom filter is used to figure out which SSTable might contain the key. It doesn't give false negatives
+but only false positives. 
+
+Bloom filter works by hashing a value k times, and then setting all the bits to 1 found from the hash. Then 
+when we get the value to lookup it again hashes it k times and checks for the bits. If all the bits 
+are set, it is positive, else negative.
+The only reason it can return false positives is because of bits being set due to other elements or multiple 
+other elements. But it is a good first barrier to reduce time
+
+
+
+Design a Unique ID Generator in Distributed Systems:
+
+
+Characteristics:
+
+1. Ids must be unique and sortable 
+2. The id increments by time but not necessarily by 1. IDs created in the evening are larger than 
+those created in morning
+3. Ids only contain numerical value 
+4. 10k ids per second 
+5. Ids fit into 64 bit 
+
+Multi master replication:
+
+This approach uses the database's auto_increment feature. Instead of incrementing the next ID by 
+1, we increment it by k where k is the no. of database servers in use. 
+
+However, this is hard to scale with multiple data centers 
+
+
+UUID:
+This is another way of obtaining unique ids, as this has a very low collision rate. UUID is a 128 bit no. 
+
+
+Ticket servers:
+
+Flickr introduced a single server for distributed primary keys calling it the ticket server. 
+It is easy to implement but a single point of failure 
+
+Twitter snowflake approach:
+
+Twitter has its own UUID generation system called snowflake. 
+
+We divide the ids into multiple parts 
+sign bit, timestamp, data center id, machine id, sequence no. 
+
+Data center and machine id are chosen at the startup time 
+Timestamp and sequence no. is generated when the id generator is running 
+
+Timestamp is in milliseconds and twitter uses a twitter epoch time  to add to it inorder to  
+convert it to UTC. 
+
+If the timestamp is 41 bits (which it is in snowflake id), then the maximum timestamp is 2^41-1 millisecond which will be 
+about 69 years. After 69 years, they just need to change the epoch time or adopt other techniques. 
+
+Sequence no. is 12 bits  
+This field will be 0 unless more than 1 id is generated every millisecond 
+Thus a machine can support 4096 ids each millisecond 
+
+Snowflake approach supports all the use cases and is incredibly scalable 
+
+Clock synchronization is a big challenge in this system. However twitter handles it using Network time protocol 
+
+
+
+
+
+
+
