@@ -565,6 +565,54 @@ Snowflake approach supports all the use cases and is incredibly scalable
 Clock synchronization is a big challenge in this system. However twitter handles it using Network time protocol 
 
 
+URL Shortener:
+
+Ask clarifying questions 
+1. 100 million URLs are generated per day 
+2. URL is as short as possible 
+3. Shortened URLs can be a combination of characters and numbers 
+4. Shortened URLs cannot be deleted or updated 
+
+If 100 million urls, then per second we need about 1160 write operations 
+
+If we assume 10:1 read:write ratio, but in reality it is fine to assume 100:1 or 1000:1 or more 
+11600 reads 
+
+Database-> Atleast 365 billion  records 
+
+Average url length= 100 characters 
+
+Storage requirement =  365 billion*100 bytes*10= 365TB 
+
+A url shortener needs URL shortening i.e. a POST api and a GET api for redirecting 
+
+
+There is a difference between a 301 redirect and a 302 redirect 
+
+301 redirect means it is permanently moved, and 302 is temporary 
+
+In 301 redirect once redirected the browser caches it so additional requests don't reach the server, 
+however in 302 redirect every request will hit the server which is inefficient 
+
+However 302 redirect can be used when analytics is important, but requires better architecture to 
+balance the performance issue 
+
+The most obvious way is to use a hash table 
+Since we are using 62 characters in total 10 nos and 26 lowercase and 26 uppercase letters 
+
+The length we can keep is 7 as 62^7 is enough 
+
+Hash+Collision resolution function:
+
+We can use a well known hash function like SHA1 or CRC32
+
+The issue is SHA1 or  MD5 or even CRC32 which is shortest give long strings i.e. longer than 7 characters 
+
+One idea is to just to take the first 7 characters and store that, but that will lead to hash collisions.
+
+
+
+
 
 
 
