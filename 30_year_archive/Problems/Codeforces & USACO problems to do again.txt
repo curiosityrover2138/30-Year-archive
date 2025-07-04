@@ -60,3 +60,5 @@ https://usaco.org/index.php?page=viewproblem2&cpid=1324
 https://codeforces.com/problemset/problem/581/D
 
 https://usaco.org/index.php?page=viewproblem2&cpid=808
+
+https://codeforces.com/contest/1029/problem/C
