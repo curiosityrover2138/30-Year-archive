@@ -4,18 +4,35 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
-28/06 - 6/07: {M}
+
+
+
+05/07-11/07:
 FROM THIS WEEK ON, IT HAS TO BE PERFECT. THIS IS MY LAST CHANCE. OR I NEED TO DIE, I AM JUST IN THE WRONG GAME 
 
-1. Complete https://usaco.guide/silver/binary-search. Do 5 sums daily
-2. Jog 30 mins daily  + weights 2-10 mins a day 
-3. Eat fruits and on time and mostly clean 
-4. Bathe 
-5. Complete Passacaglia
-6. Give 1 virtual contest everyday. Div3 3 days and div 2 4 days
-7. Read and make notes of system design 2 hours a day 
-8. Get weight to 54
-9. Complete learning all the unsolved problems in bronze and reimplement from scratch
+
+1. Complete skipped sums in silver and bronze and learn 
+2. Finish https://usaco.guide/silver/sorting-custom?lang=cpp
+3. Bathe. 54 weight. Eat clean
+4. Give 1 virtual contest everyday. Start recording your contest performance and uploading to youtube atleast 5 times a day.
+Use my personal laptop .Think outloud. 
+5. Learn system design everyday 2 hours
+6. Jog 30 mins daily and weightlift atleast 10 sets 
+7. Practice guitar and record and refine 3-4 hours everyday atleast.
+
+
+
+28/06 - 6/07: {M}
+
+1. Complete https://usaco.guide/silver/binary-search. Do 5 sums daily X
+2. Jog 30 mins daily  + weights 2-10 mins a day X
+3. Eat fruits and on time and mostly clean X
+4. Bathe X
+5. Complete Passacaglia X
+6. Give 1 virtual contest everyday. Div3 3 days and div 2 4 days X
+7. Read and make notes of system design 2 hours a day X
+8. Get weight to 54 X
+9. Complete learning all the unsolved problems in bronze and reimplement from scratch X
 
 
 
@@ -80,6 +97,7 @@ I am not training like phelps and I need to. Or else it will never happen.
 Only do all daily tasks and then relax.
 Every hour is important. Focus on the high quality and quantity will take care of itself. But don't measure 
 progress in terms of time but keep time in mind.
+
 
 
 
