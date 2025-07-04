@@ -5,6 +5,8 @@ Aug 1 2025:
 4. Don't slack on work and do all the tasks in time 
 5. Be able to do 5 div 3 problems and 3 div 2 problems on average 
 6. Complete Alex Xu System design
+7. Start posting codeforces contests and system design things on youtube for practice and practice 
+writing blogs and design docs.
 
 Oct 1 2025:
 1. Complete USACO silver and gold.
