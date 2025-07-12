@@ -22,6 +22,10 @@
 just like how you would in a job
 22. AI assisted crime judgement, legal tool instead of authority
 23. Student productivity tool for students and teachers. JIRA+ Agile+ productivity suite
+24. Dating app with company matching people. Marriage as a service/Dating as a service . Not just stopping
+after dating/marriage. Doing everything and company taking responsibility for friendships and other stuff.
+25. Employ delivery boys for restaurants in each area. Dabbawala for each area.
+
 
 Write detailed ideas for each product as narratives VVIMP
 

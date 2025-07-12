@@ -62,3 +62,13 @@ https://codeforces.com/problemset/problem/581/D
 https://usaco.org/index.php?page=viewproblem2&cpid=808
 
 https://codeforces.com/contest/1029/problem/C
+
+https://codeforces.com/contest/1826/problem/D
+
+https://codeforces.com/contest/1291/problem/D
+
+https://atcoder.jp/contests/abc164/tasks/abc164_d
+
+https://codeforces.com/contest/978/problem/D
+
+https://codeforces.com/contest/1777/problem/C
