@@ -72,3 +72,7 @@ https://atcoder.jp/contests/abc164/tasks/abc164_d
 https://codeforces.com/contest/978/problem/D
 
 https://codeforces.com/contest/1777/problem/C
+
+https://usaco.org/index.php?page=viewproblem2&cpid=643
+
+https://usaco.org/index.php?page=viewproblem2&cpid=918

@@ -4,6 +4,35 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+14/07 - 20/07:
+
+1. Complete https://usaco.guide/silver/two-pointers?lang=cpp
+2. Complete https://usaco.guide/silver/greedy-sorting?lang=cpp
+3. Complete https://usaco.guide/silver/binary-search?lang=cpp
+4. Give contest everyday. Record and upload 2 (1 div 3 and 1 div 2) 
+5. Need to do 7-8 problems a day atleast from USACO i.e. both learn or do on my own 
+6. Weight 53. Bathe. Eat clean. Wash clothes on thursday
+7. Do system design 1 hour everyday from 6-7
+8. Jog 30 mins. Tabata 3 times a week. Guitar 3 hrs+ a day 
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+19
+
+20
+
 
 
 
@@ -13,12 +42,12 @@ FROM THIS WEEK ON, IT HAS TO BE PERFECT. THIS IS MY LAST CHANCE. OR I NEED TO DI
 
 1. Complete skipped sums in silver and bronze and learn 
 2. Finish https://usaco.guide/silver/sorting-custom?lang=cpp
-3. Bathe. 54 weight. Eat clean
+3. Bathe. 54 weight. Eat clean  ✓
 4. Give 1 virtual contest everyday. Start recording your contest performance and uploading to youtube atleast 5 times a week.
-Use my personal laptop .Think outloud. 
-5. Learn system design everyday 2 hours
+Use my personal laptop .Think outloud. ✓
+5. Learn system design everyday 2 hours ✓
 6. Jog 30 mins daily and weightlift atleast 10 sets 
-7. Practice guitar and record and refine 3-4 hours everyday atleast.
+7. Practice guitar and record and refine 3-4 hours everyday atleast.✓
 
 5
 20 mins jog need to do more. Didn't weightlift as well need to do that. 
@@ -67,10 +96,26 @@ Guitar 30 mins
 
 12
 Started jogging but couldn't. Will jog in afternoon. 
+20 mins jog 
+3 sets weightlifting 
+Contest did 4 sums 
+I am doing some work, but it is still way way less than what I should be doing and what I am capable of doing 
+PUSH HARDER.
+
 
 
 
 13
+21 mins jog 
+4 mins vo2 max jog (160 bpm). For vo2 max jogs the HR should be >=40 b per 15 sec just after it
+For even being able to make a dent in 30 years, I need 100 times more focus than the maximum I am capable of 
+for 30 years. Focus on the quality of the focus. Never think that time will correct bad quality, it won't. It will 
+just make you look even more foolish.
+
+3 sums codeforces 
+
+
+
 
 28/06 - 6/07: {M}
 

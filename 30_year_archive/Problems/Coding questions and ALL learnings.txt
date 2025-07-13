@@ -1,6 +1,26 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://usaco.org/index.php?page=viewproblem2&cpid=643
+
+Check the maximum that can be formed ending at or before i, also check the maximum window that can be 
+formed starting at or after i+1 
+
+int left=0;
+for(int right=0;right<n-1;right++){
+    while(vec[right]-vec[left]>k){
+        left++;
+    }
+    max_from_left[right]=right-left+1;
+    if(right>0){
+        max_from_left[right]=max(max_from_left[right],max_from_left[right-1]);
+    }
+}
+Same thing for max_from_right 
+
+Then we check all splits from 0 to n-1 
+If we want to check at n-1 there can be only one so we just take one group as an edge case 
+
 
 
 https://codeforces.com/contest/1777/problem/C

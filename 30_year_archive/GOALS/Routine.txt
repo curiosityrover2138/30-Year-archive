@@ -4,6 +4,10 @@ Gradatim Ferociter.   Train like Phelps or sleep. Nothing else. Flow existence
 1. Wakeup 6 AM 
 6:15-7:
 2. Exercise, jog and lift weights till 6:15-7
+Exercise:
+Jogging 35-40 mins daily 
+Tabata -> 20 sec 170+ bpm 10 sec rest 3-4 sets 3 days a week 
+Weights-> upper body workouts 15 mins daily
 7:30 - 9:30
 3. Codeforces/USACO 2 hours Silver or 1400-1600 level problems
 9:30 Bath, grooming, skincare 

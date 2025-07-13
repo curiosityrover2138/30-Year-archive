@@ -9,4 +9,4 @@ things you can do and tricks you can apply. Keep it simple
 
 5. Having problems with composite ideas. Need to practice composite problems more and not just simple problems 
 
-
+6. Never do if (tmp == ++mp.begin()). Never increment iterator. Always either use a copy or check separately .
