@@ -698,6 +698,37 @@ Since data is stored for 5 years we need 5*12*500=30 PB of storage
 13th image shows the architecture diagram
 
 
+The different parts of the crawler are as follows:
+
+Seed url -> A good seed url selection serves as a good starting point, but that is not really a 
+well agreed on philosophy. It is an open ended question with lots of answers 
+
+URL frontier-> Most modern web crawlers split the crawl state into 2, to be downloaded and already downloaded 
+URL frontier stores the urls to be downloaded in a FIFO queue 
+
+HTML downloader-> Downloads web pages from the urls provided by the frontier 
+
+DNS resolver-> Converts a URL to IP address 
+
+Content parser-> After a web page is downloaded, it must be parsed and validated. But content parsing is 
+resource intensive, so its asynchronously validated 
+
+Content seen?-> This is another component to make sure duplicate web pages are not stored separately 
+
+Content storage-> It is a storage system for storing HTML content. The choice of storage depends on 
+factors like data type, data size, access frequency, life span, etc. Both disk and memory are used with memory 
+as the cache and disk is obviously the slower storage system 
+
+URL extractor-> To avoid duplication url is not stored in full but in a trie structure 
+At scales like google's they use hashed tries  as even a trie can become unsustainable 
+
+
+URL filter-> Excludes certain types of content, file extensions, error links, urls in 
+blacklisted sites 
+
+
+
+
 
 
 
