@@ -610,7 +610,92 @@ The issue is SHA1 or  MD5 or even CRC32 which is shortest give long strings i.e.
 
 One idea is to just to take the first 7 characters and store that, but that will lead to hash collisions.
 
+To resolve collisions we can append a predefined string recursively until no collision is discovered 
+However the recursive function will be inefficient 
 
+A technique called bloom filters can be used. Bloom filters are probabilistic techniques to check if 
+the element exists or not. They are positive biased. Means that if the return positive, it may or may not be 
+there but if it returns negative it is definitely not there.
+
+Base 62 conversion is another common approach for URL shorteners 
+
+If we use Hash+collision resolution we will have fixed URL length but base 62 conversion will increase the 
+url as the size of the original url increases
+
+We will also use a hash table to cache the short urls generated so that we can return properly the ones 
+already generated 
+
+The flow of URL redirecting is as follows:
+
+1. A user clicks on a short URL link 
+2. The load balancer forwards the request to the correct web server
+3. If the short url is in the cache, it will just return it 
+4. Or it will check the DB where it is stored using bloom filters. If its not there means user requested wrong url  
+5. if it is found return the redirect to the correct website.
+
+A potential security concern is that one machine can send overwhelming number of urls for shortening 
+so we introduce rate limiter per IP address 
+
+We can also integrate analytics for the URL shortener to see how many users click on each url for better 
+insights 
+
+Designing a web crawler:
+
+A web crawler is also known as a robot or spider. It is widely used by search engines to discover new 
+or updated content on the web. 
+
+Web crawlers are used by Search enginers for a process called search engine indexing. Just making a website 
+isn't enough, we need to index it on any search engine so that it will be searchable. The crawler takes 
+metadata and website url so that it can show up in the search results. The relevancy of the search is 
+controlled by SEO. 
+
+Web crawlers are also used in web data mining and web data archiving
+
+Digimarc is a company that provides digital watermarks and utilizes web crawlers to monitor piracy 
+
+Basic algorithm for a web crawler:
+
+1. Given a set of URLs, download all the web pages addressed by the URLs 
+2. Extract URLs from these web pages 
+3. Add new URLs to the list of URLs to be downloaded. Go to step 1 and repeat 
+
+Some questions to ask:
+Q What is the main purpose of the web crawler? Is it used for search engine indexing, data mining or something else?
+A indexing
+
+Q How many pages does the crawler collect per month?
+A 1 billion 
+
+Q What content types are included? Only HTML or something like PDFs, images, etc?
+A HTML 
+
+Q Shall we consider newly added or newly edited web pages?
+A Yes 
+
+Q Do we need to store HTML pages crawled from the web?
+A Yes, upto 5 years 
+
+Q How do we handle web pages with duplicate content?
+A Web pages with duplicate content must be ignored 
+
+The main characteristics of a good web crawler are:
+
+1. Scalability-> Web has trillions of web pages, so it should be fast and scalable 
+2. Robustness-> It should handle all edge cases like viruses, broken links, etc 
+3. Politeness-> It shouldn't request a website multiple times or it will trigger alarms 
+4. Extensibility-> Any new feature should be easily extendable. If we want to add image support for the web 
+crawler, a system redesign shouldn't be needed 
+
+
+Back of the envelope estimation:
+
+1 billion web pages per month means 400 pages per second 
+peak = lets say 800
+Assume average web size is 500k 
+1 billion * 500 k = 500 TB storage per month 
+Since data is stored for 5 years we need 5*12*500=30 PB of storage 
+
+13th image shows the architecture diagram
 
 
 
