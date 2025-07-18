@@ -5,13 +5,14 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 ✓ or X
 
 14/07 - 20/07:
+{N}{M}
 
 1. Complete https://usaco.guide/silver/two-pointers?lang=cpp
 2. Complete https://usaco.guide/silver/greedy-sorting?lang=cpp
 3. Complete https://usaco.guide/silver/binary-search?lang=cpp
-4. Give contest everyday. Record and upload 2 (1 div 3 and 1 div 2) 
+4. Give contest everyday.
 5. Need to do 7-8 problems a day atleast from USACO i.e. both learn or do on my own 
-6. Weight 53. Bathe. Eat clean. Wash clothes on thursday
+6. Weight 53. Bathe. Eat clean.
 7. Do system design 1 hour everyday from 6-7
 8. Jog 30 mins. Tabata 3 times a week. Guitar 3 hrs+ a day 
 
@@ -31,17 +32,34 @@ Did 4 sets of tabata.
 10 mins warmup jog 
 1 set weights. Didn't do more because tabata was brutal even 2 mins and I cannot risk sleeping less.
 3 sums USACO 
+1.5 hours of system design 
+1.5 hours of guitar. 
+
+Decent day but can do more and push harder.
 
 
 
 
 16
+30 mins jogging 
+4 sets weights 
+1 sum 
+did lots of work. Again bs work keeps coming up. Need to go to office as well ffs.
+Guitar 1 hour 
+
 
 
 17
+Tabata 3 sets 
+Guitar 3:00 
+Nightfall and work and not losing weight ruined my mood. Will get back again tomorrow  
+
 
 
 18
+30 mins jog 
+2.5 weightlift sets couldn't do more. Need to train harder.
+
 
 19
 
@@ -52,7 +70,7 @@ Did 4 sets of tabata.
 
 05/07-13/07:
 FROM THIS WEEK ON, IT HAS TO BE PERFECT. THIS IS MY LAST CHANCE. OR I NEED TO DIE, I AM JUST IN THE WRONG GAME 
-{M}{M}
+{M}{M}{N}
 
 1. Complete skipped sums in silver and bronze and learn 
 2. Finish https://usaco.guide/silver/sorting-custom?lang=cpp
