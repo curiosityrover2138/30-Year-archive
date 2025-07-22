@@ -1,6 +1,25 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://usaco.org/index.php?page=viewproblem2&cpid=786
+
+Do coordinate compression, and then check one prefix and then remove all intervals and check the loss 
+
+
+
+https://codeforces.com/contest/1000/problem/C
+Use a map instead of an array. For each value see how many times it is occuring, and calculate for each value 
+1-n how many points satisfy by checking the range.
+
+https://codeforces.com/problemset/problem/814/C
+
+Just precompute for all 0 to n for all characters. My logic was correct,but precomputing solved the TLE issue 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=990
+
+Just check for each upper limit and use a priority queue to check others. I was able to do it with hint 
+but ideally it shouldn't have been required.
+
 https://usaco.org/index.php?page=viewproblem2&cpid=643
 
 Check the maximum that can be formed ending at or before i, also check the maximum window that can be 

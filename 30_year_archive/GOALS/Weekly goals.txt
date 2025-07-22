@@ -4,17 +4,72 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+21/07 - 27/07:
+
+1. Try to do atleast 1 normal problem a day without looking at editorial
+//Change-> I need to stop targetting number of problems and start targetting depth of learning.
+
+2. Practice USACO for 8 hours DEEP THINKING. 
+3. Get weight to 52.5. Bathe. Eat clean 
+4. Do system design 1 hour from 6-7 5 days
+5. Jog 30+ mins/Tabata. Weights. Guitar 3 hrs.
+6. Give 2 codeforces contests 
+7. Do 1 unsolved problem everyday from the list of problems to try again.
+8. Don't use editorial or AI. This was added later so will start from 22nd.
+If you cannot solve a problem, talk to yourself, explain to a rubber duck, look at 
+similar problems in the topic you have already solved, or try wild ideas. Like how Holmes solves a case. 
+Only if you cannot even think of anything after 1 week then look at editorial partially.
+
+
+
+21
+35 mins jog 
+Weights 1 set. Couldn't do more because of less sleep. Also diet is messing up weightlifting. Need to 
+stabilize weight first and then start weights more vigorously.
+Did 1 sum but used AI. But still finding it hard to keep fighting with hard problems. Need to develop deep concentration
+and resilience. Now the concentration isn't deep enough.
+I just need to look at editorial or AI only after being stuck on a problem for more than 1 week.
+Guitar 1 hour 
+
+
+
+
+
+
+22
+20 mins jog. Didn't do weights today, but again having bad day in this dept because of weightloss. 
+Tabata 4 times. Weight 1 set 
+Did some company work. Will start USACO now.
+Having difficulty because of hunger and following this diet. Will rectify it. Also am not seeing editorials 
+so thats a win. Will keep improving bit by bit.
+
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
 14/07 - 20/07:
 {N}{M}
 
-1. Complete https://usaco.guide/silver/two-pointers?lang=cpp
-2. Complete https://usaco.guide/silver/greedy-sorting?lang=cpp
-3. Complete https://usaco.guide/silver/binary-search?lang=cpp
-4. Give contest everyday.
-5. Need to do 7-8 problems a day atleast from USACO i.e. both learn or do on my own 
-6. Weight 53. Bathe. Eat clean.
-7. Do system design 1 hour everyday from 6-7
-8. Jog 30 mins. Tabata 3 times a week. Guitar 3 hrs+ a day 
+1. Complete https://usaco.guide/silver/two-pointers?lang=cpp ✓
+2. Complete https://usaco.guide/silver/greedy-sorting?lang=cpp ✓
+3. Complete https://usaco.guide/silver/binary-search?lang=cpp X
+4. Give contest everyday. X
+5. Need to do 7-8 problems a day atleast from USACO i.e. both learn or do on my own X
+6. Weight 53. Bathe. Eat clean. ✓
+7. Do system design 1 hour everyday from 6-7 X
+8. Jog 30 mins. Tabata 3 times a week. Guitar 3 hrs+ a day ✓
 
 14
 exercised 25 mins jog 
@@ -59,11 +114,24 @@ Nightfall and work and not losing weight ruined my mood. Will get back again tom
 18
 30 mins jog 
 2.5 weightlift sets couldn't do more. Need to train harder.
-
+Still not working in the routine as I wish I should. Need to train harder.
+There is improvement, but that doesn't count as long as I am not able to work exactly how intense I envision.
+Did 2 sums. Need to do much more. I CAN DO IT. COME ON.
 
 19
+33 mins jog 
+1 set weightlift, will do more.
+FOCUS ON QUALITY. My quality is still bad, I am getting distracted in 1 hour or less. I need to be 
+in much deeper flow.
+1 sum done. But stuck a lot more time. Will figure it out with more clarity tomorrow. NEED DEEPER FLOW.
 
 20
+12 mins jog 
+Tabata 3 rounds. Need to do 4 but having problems doing it after 1 day break.
+3 codeforces sums 4-5 hours .
+Guitar 1 hour 
+
+
 
 
 
