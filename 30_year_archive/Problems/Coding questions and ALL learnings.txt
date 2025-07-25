@@ -1,6 +1,14 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://codeforces.com/contest/862/problem/E
+
+Had the major idea and work by myself. Just a small thing regarding binary search checked with AI. But still 
+90% of the credit taking is fine. SHould have come up with the idea but was too tired of the sum. It was a simple 
+twosum like idea, to find the best -x instead of actual value. 
+
+This was actual work, and this is how its solved. One sum took 2-3 pages of thinking.
+
 https://usaco.org/index.php?page=viewproblem2&cpid=786
 
 Do coordinate compression, and then check one prefix and then remove all intervals and check the loss 

@@ -1,3 +1,13 @@
+
+https://codeforces.com/contest/862/problem/E
+
+One approach I am thinking of is binary searching on all values of b summations possible (as a will be the 
+only one changing) and then check the minimum as that function will be monotonic but the values will differ because 
+of the modulus.
+
+
 https://usaco.org/index.php?page=viewproblem2&cpid=787
 
 Not sure how to sort. 
+
+

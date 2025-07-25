@@ -1,21 +1,24 @@
 Aug 1 2025:
-1. complete USACO silver 
+1. complete USACO silver  HAD TO DELAY THIS SINCE FOCUSING ON QUALITY IS MORE IMPORTANT
+DOING SUMS BY MY OWN WITHOUT LOOKING AT ANY EDITORIAL OR AI.
 2. Start making projects in free time 
-3. Jog everyday and weight lift everyday. Play guitar atleast 3 hours everyday and be clean 
+3. Jog everyday and weight lift everyday. Play guitar atleast 3 hours everyday and be clean. Do laundry
 4. Don't slack on work and do all the tasks in time 
 5. Be able to do 5 div 3 problems and 3 div 2 problems on average 
 6. Complete Alex Xu System design
 7. Start posting codeforces contests and system design things and start writing serious stuff.
+8. Eat clean. Get weight to desired level.
 
 
 Oct 1 2025:
-1. Complete USACO silver and gold.
+1. Complete USACO silver and half of gold.
 2. Be decent at dp and be able to solve all the standard problems 
 3. Have 2 good projects on resume 
 4. Start applying to companies and jobs 
 5. Be able to do all Div 3 problems and about 4 div 2 problems on average
 6. Make notes and read System design blogs. Be able to do all the common interview problems 
 7. Know all the common framework and language questions asked in interviews
+8. Be clean. Bathe atleast 3 times a week and do laundry every week. Keep your surroundings clean.
 
 Dec 2025:
 1. Get to 1800 rating in Codeforces and be able to do 2000 problems 
