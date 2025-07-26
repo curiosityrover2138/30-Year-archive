@@ -86,3 +86,5 @@ https://codeforces.com/problemset/problem/814/C
 https://codeforces.com/contest/1000/problem/C
 
 https://usaco.org/index.php?page=viewproblem2&cpid=786
+
+https://www.codechef.com/problems/TRPTSTIC
