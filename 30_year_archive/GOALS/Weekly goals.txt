@@ -4,19 +4,53 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+
+
+28/07-3/08:
+
+1. Complete USACO bronze all undone sums 
+2. 8 hours of thinking for USACO in flow 
+3. 4 hours of guitar 
+4. Office atleast 4 times a week 
+5. Bathe 
+6. Wash clothes .
+7. Never eat outside food . Eat clean 
+8. Exercise 30 mins. Weights atleast 5 sets a day 
+9. System design 1 hour 
+10. Weight 51.5 kg 
+
+28
+
+
+29
+
+30
+
+31
+
+1
+
+2
+
+3
+
 21/07 - 27/07:
 {MP} to avoid {N}
 
-1. Try to do atleast 1 normal problem a day without looking at editorial
+Didn't do many things planned. But felt good as I removed a very important barrier, now I know how to 
+think about problems and hit that eureka moment.
+
+
+1. Try to do atleast 1 normal problem a day without looking at editorial ✓
 //Change-> I need to stop targetting number of problems and start targetting depth of learning.
 
-2. Practice USACO for 8 hours DEEP THINKING. 
-3. Get weight to 52.5. Bathe. Eat clean 
-4. Do system design 1 hour from 6-7 5 days
-5. Jog 30+ mins/Tabata. Weights. Guitar 3 hrs.
-6. Give 2 codeforces contests 
-7. Do 1 unsolved problem everyday from the list of problems to try again.
-8. Don't use editorial or AI. This was added later so will start from 22nd.
+2. Practice USACO for 8 hours DEEP THINKING. X
+3. Get weight to 52.5. Bathe. Eat clean ✓
+4. Do system design 1 hour from 6-7 5 days X
+5. Jog 30+ mins/Tabata. Weights. Guitar 3 hrs. ✓
+6. Give 2 codeforces contests X
+7. Do 1 unsolved problem everyday from the list of problems to try again. X
+8. Don't use editorial or AI. This was added later so will start from 22nd. ✓
 If you cannot solve a problem, talk to yourself, explain to a rubber duck, look at 
 similar problems in the topic you have already solved, or try wild ideas. Like how Holmes solves a case. 
 Only if you cannot even think of anything after 1 week then look at editorial partially.
@@ -82,6 +116,11 @@ Tabata 5 sets
 
 
 27
+3 sets of weights 
+jogging 30 mins 
+Tried sum but couldn't think of a good idea. But didn't try for the amount of time I would have liked 
+Need to try harder.
+
 
 14/07 - 20/07:
 {N}{M}
