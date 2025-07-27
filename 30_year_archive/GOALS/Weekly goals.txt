@@ -76,6 +76,8 @@ Everything else is secondary.
 
 26
 Tabata 5 sets 
+1 USACO silver.
+1 usaco bronze.
 
 
 
