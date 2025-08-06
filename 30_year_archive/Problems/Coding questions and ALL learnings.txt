@@ -1,6 +1,13 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://usaco.org/index.php?page=viewproblem2&cpid=941
+
+Was very close in getting it. The idea was to check for all pairs and all cows must have one, other or both 
+but not all at the same time i.e. one, other and both.
+
+Since for eg A, B and AB is an invalid configuration.
+
 https://codeforces.com/contest/862/problem/E
 
 Had the major idea and work by myself. Just a small thing regarding binary search checked with AI. But still 
