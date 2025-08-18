@@ -94,3 +94,9 @@ https://usaco.org/index.php?page=viewproblem2&cpid=941
 https://codeforces.com/problemset/problem/1624/D
 
 https://codeforces.com/problemset/problem/358/C
+
+https://cses.fi/problemset/task/2431/
+
+https://usaco.org/index.php?page=viewproblem2&cpid=1302
+
+https://usaco.org/index.php?page=viewproblem2&cpid=991

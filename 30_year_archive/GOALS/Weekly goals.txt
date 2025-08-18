@@ -4,17 +4,44 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+18/08- 24/08:
+1. USACO 8 hours deep work 
+2. Target completing 2 modules of Silver 
+3. 1 virtual contest. 
+4. Complete download feature. Complete the new mapping code 
+5. Wash clothes. Bathe 
+6. Exercise as normal. Guitar as normal. Skincare and rosemary as normal. 
+7. System design 1 hour 
+
+18
+
+
+19
+
+
+20
+
+21
+
+
+22
+
+23
+
+
+24
+
 11/08-17/08
 
-1. Try and complete all USACO bronze.
-2. Target 2 sums daily for USACO 
-3. USACO 8 hours daily.
-4. System design 1 hour 
-5. 1 contest weekly
-6. Wash clothes. Bathe atleast 3 times 
-7. Complete all work related tasks.
-8. Exercise as normal. Guitar as normal. Skincare and rosemary as normal.
-9. Music reading 30 mins a day.
+1. Try and complete all USACO bronze. ✓
+2. Target 2 sums daily for USACO Did 1 sum daily
+3. USACO 8 hours daily. ✓
+4. System design 1 hour X
+5. 1 contest weekly X
+6. Wash clothes. Bathe atleast 3 times  TOO COLD X
+7. Complete all work related tasks. ✓
+8. Exercise as normal. Guitar as normal. Skincare and rosemary as normal. ✓
+9. Music reading 30 mins a day.X
 
 11
 20 mins jog
@@ -28,21 +55,55 @@ Each stranger plays a role towards you reaching your convergence point. If they 
 
 
 12
-
+20 mins jog 
+weights 8 sets 
+stretching 
+Did 1 sum. Couldn't do more because of work.
+30 mins guitar. 
+Will learn how to manage BS work with my work.
 
 
 13
+20 mins jog 
+weights 10 sets 
+plank, stretch 
+Think in terms of grand worldy domination. You are destined for reaching the convergence point. Trust the powers 
+above. Krishna, Vishnu, Shiva, all is one.
+did 1 sum. Tried a lot with other sum but stuck in an edge case
+
 
 
 14
+20 mins jog
+weights 8 sets 
+plank, stretch 
+Stuck in a sum. I have to figure it out on my own or I will never learn Binary Search.
+Figured out a semi brute force solution, but getting TLE, the second condition is not monotonic, but need 
+to figure out a way to make it monotonic
+
 
 
 15
+20 mins jog 
+weights 5 sets 
+1 sum done. Another sum I was stuck on. 
+
 
 
 16
+Woke up a bit late, need to fix that. Sleep duration was fine.
+20 mins jog 
+weights 9 sets 
+1 sum done.
+
+
 
 17
+20 mins jog 
+In the next 3-4 years I need to think creatively, start thinking of businesses and products and basically 
+achieve the intensity of someone 19 year old in MIT or harvard.
+5 sets weights. 
+
 
 
 
