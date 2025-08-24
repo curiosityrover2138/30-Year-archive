@@ -1,6 +1,77 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://www.codechef.com/problems/TRPTSTIC
+
+Just need to note the 2d prefix sum technique 
+
+vector<vector<ll>> pref(N+1, vector<ll>(M+1, 0));
+        for (int i = 1; i <= N; i++) {
+            for (int j = 1; j <= M; j++) {
+                pref[i][j] = input[i-1][j-1] 
+                           + pref[i-1][j] 
+                           + pref[i][j-1] 
+                           - pref[i-1][j-1];
+            }
+        }
+
+
+To make a prefix sum array 
+
+and then 
+
+for (int i = 0; i < N; i++) {
+            for (int j = 0; j < M; j++) {
+                if (input[i][j] > 0) {
+                    ll r1 = max(0ll, i - mid);
+                    ll c1 = max(0ll, j - mid);
+                    ll r2 = min(N - 1, i + mid);
+                    ll c2 = min(M - 1, j + mid);
+
+                    // convert to 1-based indices
+                    r1++; c1++; r2++; c2++;
+
+                    ll count = pref[r2][c2]
+                             - pref[r1 - 1][c2]
+                             - pref[r2][c1 - 1]
+                             + pref[r1 - 1][c1 - 1];
+
+                    maxim_count = max(maxim_count, count);
+                }
+            }
+        }
+
+Made these 2 functions for simplicity 
+
+
+vector<vector<ll>> buildPrefixSum(const vector<vector<ll>> &arr) {
+    ll N = arr.size();
+    ll M = arr[0].size();
+    vector<vector<ll>> pref(N+1, vector<ll>(M+1, 0));
+
+    for (ll i = 1; i <= N; i++) {
+        for (ll j = 1; j <= M; j++) {
+            pref[i][j] = arr[i-1][j-1] 
+                       + pref[i-1][j] 
+                       + pref[i][j-1] 
+                       - pref[i-1][j-1];
+        }
+    }
+    return pref;
+}
+
+ll rectSum(const vector<vector<ll>> &pref, 
+                  ll r1, ll c1, ll r2, ll c2) {
+    // convert to 1-based for prefix
+    r1++; c1++; r2++; c2++;
+    return pref[r2][c2]
+         - pref[r1-1][c2]
+         - pref[r2][c1-1]
+         + pref[r1-1][c1-1];
+}
+
+
+
 https://usaco.org/index.php?page=viewproblem2&cpid=991
 Need to chunk jumps. My code did the same but it was not taking into account the chunking that would happen for 
 large values of N, because I wasn't testing it through large values. Only 1 optimization was needed and I was 

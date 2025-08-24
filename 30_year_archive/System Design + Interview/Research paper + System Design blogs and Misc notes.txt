@@ -1,3 +1,132 @@
+Scaling memcached at Facebook:
+
+While qualities like Fault tolerance, efficiency, consistency and performance are required at all levels, at  
+the scale of facebook some qualities require more effort than others to achieve 
+Read operations fetch data from a variety of data sources like MYSQL, HDFS and other backend Services 
+Memcached provides simple set of operationsi.e. GET,SET and DELETE 
+Memcache i.e. facebook's version is primarily used as a demand filled lookaside cache 
+Cached data is deleted instead of updated because deletes are idempotent 
+It is based on a master slave architecture, with replication 
+Read heavy workload of facebook and wide fanout are the main concerns when we have single cluster of servers 
+As it becomes necessary to scale to multiple frontend clusters, data replication is needed among those clusters 
+Colocated clusters are in regions and a master region provides a data stream to keep non master 
+regions up to date 
+2 major design goals:
+1. Any change must impact a user facing or operational issue 
+2. We treat the probability of reading transient stale data as a parameter to be tuned 
+(MY THOUGHTS: Basically its a practical tradeoff, stale data reads are inevitable, but the user experience 
+is on a spectrum which shouldn't go down more than needed)
+Either the latency of fetching cached data should be reduced or the load on servers in cases of cache misses 
+A single user request can result in hundreds of memcache requests. 
+They provision hundreds of memcached servers in a cluster to reduce load on databases and other services 
+Items are distributed across the memcached servers through consistent hashing
+
+All web servers communicate with every memcached server within a short period of time 
+This all to all communication pattern can cause incast congestion. This leads to packet loss, retransmissions 
+and high tail latency 
+
+Data replication can alleviate single server bottleneck but leads to significant memory inefficiencies 
+
+The memcache client (which runs on each web server) serves a range of functions including serialization, 
+compression, request routing, error handling and request batching. 
+
+The team structured their web application code to minimize the number of network round trips necessary to respond 
+to page requests.
+They constructed a DAG representing the dependencies between data. A webserver uses this DAG to maximize the number 
+of items fetched concurrently. On average these batches consist of 24 keys per request.
+
+Memcached servers do not communicate with each other. When appropriate they embedded the complexity of the system 
+into stateless clients rather than in memcached servers. 
+Clients use UDP and TCP to communicate with memcached servers
+
+Client logic is provided as two components: a library that can be embedded into applications or as a standalone 
+proxy named mcrouter. The team relies on UDP for get requests.
+
+[[[
+    DETOUR:
+    UDP stands for User Datagram protocol. TCP for Transmission Control.
+    TCP is connection oriented and is reliable as it guarantees delivery of packets in the 
+    same order they were sent. UDP is connectionless
+    and the packets may get lost or arrive out of order.
+    TCP establishes a connection using a 3 way handshake and maintains a state of each connection. However 
+    it is slower than UDP. 
+
+
+]]]
+
+Since UDP is connectionless, each thread in the webserver is allowed to directly communicate with memcached 
+servers, bypassing the mcrouter (which uses tcp). Mcrouter was made by Facebook and stands for memcacehd protocol router.
+It acts as a middleware between applications (clients) and memcached servers. 
+
+Again UDP is not used in mcrouter because of incast congestion. 
+
+The UDP implementation detects packets that are dropped or recieved out of order and it uses sequence numbers to 
+check that and then it treats them as errors on the client side. 
+But the error is not fixed. It is just flagged for eg so that if one image doesn't load in one story of the newsfeed 
+the story can be skipped from UI or shown in another infinite scroll iteration
+
+Under peak load it is observed that 0.25% requests are discarded. About 80% of these 0.25% are due to 
+late or dropped packets while 20% are due to out of order delivery. 
+
+For eg if its out of order, the feed text and image might mismatch, or something. SO it is skipped. 
+
+The standard deviation in latencies using TCP vs UDP was less than 1% and relying on UDP alone can  
+lead to 20% reduction in latency. 
+
+Memcache clients implement flow control mechanisms to limit incast congestion.
+
+
+Clients use a sliding window to control the number of outstanding requests 
+
+Similar to TCP's congestion control mechanism, the size of the sliding window grows upon a successful request 
+and shrinks when a request goes unanswered.
+
+[[[
+    DETOUR:
+    Little's law L=λ*W
+    Relates the average number of items in the system (L) with 
+    average arrival rate of items (lambda) and average time an item spends on the system (W)
+
+    Mathematically simple and obvious, but used in analysis a lot. Not sure why formalized as a law 
+
+]]]
+
+
+The facebook team introduced the mechanism of "Leases" to address 2 main problems 
+1. Stale sets- Occurs when a web server sets a value on the memcache that does not reflect the latest value 
+that should be cached. This can occur when concurrent updates in the memcache get reordered.   
+2. Thundering herds - Occurs when a specific key undergoes heavy read and write activity.  
+In a thundering herd, since the write activity invalidates the recently set values, many reads default to  hitting 
+the db.
+
+A memcached instance gives a lease to a client to set data back into the cache when that client experiences  a 
+cache miss. The lease is a 64 bit token bound to the specific key the client originally requested. 
+
+With the lease token, memcached can verify if the data should be stored and thus have only  1 write instead of 
+concurrent ones. Verification can fail if memcached has invalidated the lease token due to receiving a delete 
+request for the item.
+This also prevents stale sets in a manner similar to how load-link/store conditional operates
+
+[[[
+    DETOUR:
+
+    Load-Link/Store-conditional 
+
+    Its a pair of instructions used in multithreading to achieve synchronisation.
+    Load-Link returns the current value of a memory location while a subsequent store conditional to the same 
+    memory location will store a new value only when no updates have occured to the location since load-link. 
+
+    This implements a lock free, atomic, read-modify-write operation.
+
+
+]]]
+
+
+
+
+
+
+
 Google Spanner:
 
 Starting from paxos and Google spanner works on top of it. 

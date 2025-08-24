@@ -1,4 +1,7 @@
-Alex Xu
+==============================================================================================================================================================
+Alex Xu System Design
+==============================================================================================================================================================
+
 
 First we focus on a single server setup 
 1. Users access the website through the domain name. Usually the DNS(Domain Name System) is a paid 
@@ -725,6 +728,92 @@ At scales like google's they use hashed tries  as even a trie can become unsusta
 
 URL filter-> Excludes certain types of content, file extensions, error links, urls in 
 blacklisted sites 
+
+
+URL Seen-> A data structure that keeps track of urls seen before or already in the frontier. 
+
+URL storage-> For storing already visited URLs 
+
+Start again from chapter 9. Revise till now again. Also finish reading the book before making notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================================================================================
+Designing data intensive applications KLEPPMAN 
+==============================================================================================================================================================
+
+
+
+
+Reliability, Scalability and maintainability are the 3 main ideas we start with 
+We must make system easy to maintain because of the unreliablity of humans 
+
+Latency = waiting time =/= response time 
+
+It is best to use percentiles or medians(p50)  instead of averages  for understanding data load type or response times 
+
+
+
+High percentile of response times are known as tail latencies
+
+
+Map reduce consists of 2 functions Map and reduce, called repeatedly by the processor 
+
+THe number of times map is called or reduce is called depends on the specific use case. But 
+we map first, and then reduce . Basically dividing one operation into multiple.
+
+Map and Reduce both run in parallel, mapper is fully parallelized but Reduce is parallel by key. 
+The main drawback is it cannot be used if order of operations matters. The operations must be independent of 
+each other.
+
+MapReduce is fairly low level. High level languages like SQL can use MapReduce as a pipeline(even though it doesnt)
+
+Cypher has a built in query optimizer. It also supports indexes like SQL 
+
+In cypher queries, the number of joins is not fixed in advance. 
+
+Neo4j and other similar graph databases follow the property graph model.
+i.e. Alice-> knows-> Bob
+
+There is also the triple store model which is like (Alice,Knows,Bob) which will be 1 entry in the db 
+
+It is queried by SPARQL and not Cypher. 
+
+Written in the turtle notation or N3 notation 
+Semantic web-> The idea of making everything readable by machines as well as humans in all websites. 
+Will be the major factor next if we want to make AI the crawler and single source of knowledge.
+
+It will be one of the major ideas in the coming decades.
+
+Datalog is the foundation many other queries built upon. 
+It follows the structure predicate(subject,object)
+
+Datalog is a subset of Prolog. Just shows how the language evolved.
+
+
+
+
+
+
 
 
 

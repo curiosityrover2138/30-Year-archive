@@ -1,6 +1,134 @@
 1. Scaling memcached at facebook
 2. Google spanner 
+3. On the Criteria To Be Used in Decomposing Systems into Modules (1972), D.L. Parnas
+4. An Axiomatic Basis for Computer Programming (1969), C.A.R Hoare
+5.  Out of the Tar Pit (2006), B. Moseley, P. Marks
+6.  Why Functional Programming Matters (1990), J. Hughes
+7.  Time, Clocks, and the Ordering of Events in Distributed Systems (1978.) L. Lamport
+8.  A note on Distributed Computing (1994), J. Waldo, G. Wyant, A. Wollrath, S. Kendall
+9.  The Google File System (2003), Ghemawat S. et al.
+10.  Dynamo: Amazon’s Highly Available Key-value Store (2007), G. DeCandia et al.
+11.  Bigtable: A Distributed Storage System for Structured Data (2006), Chan F. et al.
+12.  A relational model of data for large shared data banks (1969), E. F. Codd
+13.  MapReduce Simplified Data Processing on Large Clusters (2004), J. Dean, S. Ghemawat 
+14. A Metrics Suite for Object-Oriented Design (1994), S. R. Chidamber
+15.  Kafka: A Distributed Messaging System for Log Processing (2011), Kreps J, et al.
+16.  Bitcoin: A Peer-to-Peer Electronic Cash System (2008), Satoshi Nakamoto 
+17.  What Every Programmer Should Know About Memory (2007), Urlich Repper.
+18.  The Anatomy of a Large-Scale Hypertextual Web Search Engine (1998), S. Brin, L. Page
 
+
+
+http://taggedwiki.zubiaga.org/new_content/43dff2eb010d9dacdbaa8593ad40a2e6#Distributed_computing
+
+https://highscalability.com/
+
+https://github.com/papers-we-love/papers-we-love
+
+In praise of empathic AI ✔️
+In-Memory Performance for Big Data
+AGILE: elastic distributed resource scaling for Infrastructure-as-a-Service
+Web-scale Job Scheduling
+Spanner: Google’s Globally-Distributed Database
+Optimizing Google’s Warehouse Scale Computers: The NUMA Experience
+F1: A Distributed SQL Database That Scales
+Classifying YouTube Channels: a Practical System
+Talking in Circles: Selective Sharing in Google+
+Megastore: Providing Scalable, Highly Available Storage for Interactive Services
+Tenzing: A SQL Implementation On The MapReduce Framework
+Dremel: Interactive Analysis of Web-Scale Datasets
+Pregel: A System for Large-Scale Graph Processing
+Web-Scale Extraction of Structured Data
+Leaper: A Learned Prefetcher for Cache Invalidation in LSM-tree based Storage Engines
+ScaleDB: A Scalable, Asynchronous In-Memory Database
+Segcache: a memory-efficient and scalable in-memory key-value cache for small objects
+Efficient Search Ranking in Social Networks
+Google News Personalization: Scalable Online Collaborative Filtering
+Challenges to Adopting Stronger Consistency at Scale
+RadixZip: Linear Time Compression of Token Streams
+Skip graphs
+The Bw-Tree: A B-tree for New Hardware Platforms
+Scaling Up All Pairs Similarity Search
+Detecting Near Duplicates for Web Crawling
+Indexing Dataspaces
+Query logs alone are not enough
+Simple Efficient Load Balancing Algorithms for Peer-to-Peer Systems
+Snapshot-Free, Transparent, and Robust Memory Reclamation for Lock-Free Data Structures
+The Chubby lock service for loosely-coupled distributed systems
+Bigtable: A Distributed Storage System for Structured Data
+On-the-fly Sharing for Streamed Aggregation
+MapReduce: Simplified Data Processing on Large Clusters
+How to break software
+Web Search for a Planet: The Google Cluster Architecture
+Amazon DynamoDB: A scalable, predictably performant, and fully managed NoSQL database service
+Amazon Redshift re-invented
+Scalable blocking for very large databases
+Firecracker: Lightweight virtualization for serverless applications
+Millions of tiny databases
+Amazon Redshift and the Case for Simpler Data Warehouses
+Amazon Aurora: Design considerations for high throughput cloud-native relational databases
+Near-duplicate Question Detection
+Striking the right chord: A comprehensive approach to Amazon Music search spell correction
+Stage: Query Execution Time Prediction in Amazon Redshift
+A flexible large-scale similar product identification system in e-commerce
+Intelligent Scaling in Amazon Redshift
+Serverless Runtime / Database Co-Design With Asynchronous I/O
+Predicate Caching: Query-Driven Secondary Indexing for Cloud DataWarehouses
+Query Attribute Recommendation at Amazon Search
+ROSE: Robust caches for Amazon product search
+The story of AWS Glue
+DecLog: Decentralized Logging in Non-Volatile Memory for Time Series Database Systems
+SILK: Preventing Latency Spikes in LSM Key-Value Stores
+Umbra: A Disk-Based System with In-Memory Performance
+Amazon MemoryDB: A fast and durable memory-first cloud database
+Take Out the TraChe: Maximizing (Tra)nsactional Ca(che) Hit Rate
+Distributed Transactions at Scale in Amazon DynamoDB
+TiDB: A Raft-based HTAP Database
+Kora: A Cloud-Native Event Streaming Platform For Kafka
+PolarDB-SCC: A Cloud-Native Database
+Epoxy: ACID Transactions Across Diverse Data Stores
+Scalable OLTP in the Cloud: What’s the BIG DEAL?
+BonsaiKV: Key-Value Store with Tiered and Heterogeneous Memory System
+Automated Unit Test Improvement using Large Language Models at Meta
+Designing Access Methods: The RUM Conjecture
+Probabilistic Counting Algorithms for Database Applications - Flajolet-Martin
+Cache-Efficient Top-k Aggregation over High Cardinality Large Datasets
+SIEVE - an Efficient Turn-Key Eviction Algorithm for Web Caches
+Vector Database: Storage and Retrieval Technique, Challenge
+Panda: Performance Debugging for Databases using LLM Agents
+Magnet: A scalable and performant shuffle architecture for Apache Spark
+ZIP: Lazy Imputation during Query Processing
+Anycast as a Load Balancing feature
+The Impact of Thread-Per-Core Architecture on Application Tail Latency
+TreeLine - An Update-In-Place Key-Value Store for Modern Storage
+Manu: A Cloud Native Vector Database Management System
+Parallelism-Optimizing Data Placement for Faster Data-Parallel Computations
+Faster sorting algorithms discovered using deep reinforcement learning
+A Relational Model of Data for Large Shared Data Banks
+Improving Language Understanding by Generative Pre-Training
+Language Models are Few-Shot Learners
+Attention Is All You Need
+Amazon DynamoDB A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service
+Dynamo Amazon’s Highly Available Key-value Store
+The Google File System
+Neural Machine Translation of Rare Words with Subword Units
+The Bloom Paradox: When not to Use a Bloom Filter
+The Deletable Bloom Filter
+Zanzibar - Google's Consistent, Global Authorization System
+Space-Time Trade-offs in Hash Coding with Allowable Errors
+Gorilla - A Fast, Scalable, In Memory Time Series Database
+Understanding BitTorrent - An Experimental Perspective
+Exploiting BitTorrent For Fun (But Not Profit)
+Rarest First and Choke Algorithms Are Enough
+Implementation of a BitTorrent client - B. Sc. Thesis
+Kademlia - a Peer-to-peer Information System based on XOR Metric
+Peer-to-peer networking with BitTorrent
+Free Riding in BitTorrent is Cheap
+Go To Statement Considered Harmful
+Bitcoin - A Peer-to-Peer Electronic Cash System
+Understanding Inverse Document Frequency On theoretical arguments for IDF
+MyRocks: LSM-Tree Database Storage Engine Serving Facebook's Social Graph
+Isolation Forest
 
  Tech Blogs (Engineering Blogs)
 📌 General System Design & Infra
@@ -85,3 +213,5 @@ MIT 6.824: Distributed Systems – https://pdos.csail.mit.edu/6.824/
 Stanford CS 244: Advanced Networking – Great for understanding infra/traffic.
 
 System Design Primer GitHub – https://github.com/donnemartin/system-design-primer
+
+

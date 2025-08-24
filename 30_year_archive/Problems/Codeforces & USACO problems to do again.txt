@@ -100,3 +100,7 @@ https://cses.fi/problemset/task/2431/
 https://usaco.org/index.php?page=viewproblem2&cpid=1302
 
 https://usaco.org/index.php?page=viewproblem2&cpid=991
+
+https://cses.fi/problemset/task/1164/
+
+https://cses.fi/problemset/task/2422
