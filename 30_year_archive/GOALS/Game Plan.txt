@@ -1,15 +1,4 @@
-Now- 15th August 2025
-1. Do atleast 5 USACO sums a day 
-2. Practice guitar atleast 3 hours a day 
-3. Give 1 virtual codeforces contest a day and record
-4. Do system design 2 hours a day and make notes and write code 
-5. Exercise everyday 
-6. Complete all your work tasks everyday in time 
-7. Put as much pressure on yourself as possible and endure.
-8. The main idea is to become as capable as a stanford graduate in 4-5 years. Then I can do 
-anything I put my mind into. Metaskills are the most needed.
-
-16th aug- 2nd October
+16th aug- 2nd December
 1. Keep doing USACO as before
 2. Keep giving contests as before and start giving real contests 
 2.5 Learn all the basic framework and language questions they ask in interviews
