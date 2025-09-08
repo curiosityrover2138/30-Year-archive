@@ -11,3 +11,8 @@ https://usaco.org/index.php?page=viewproblem2&cpid=787
 Not sure how to sort. 
 
 
+
+https://codeforces.com/gym/104002/problem/E
+
+I was close to thinking the right solution, but I didn't focus hard enough. 
+

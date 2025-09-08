@@ -1,6 +1,10 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://codeforces.com/gym/104002/problem/E
+
+Just use a min heap and remove the smallest whenever its even, because that will happen eitherway.
+
 https://www.codechef.com/problems/TRPTSTIC
 
 Just need to note the 2d prefix sum technique 

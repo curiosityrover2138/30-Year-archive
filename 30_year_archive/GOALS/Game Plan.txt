@@ -6,3 +6,7 @@
 4. Apply to 20 companies a day 
 5. Give interviews whenever scheduled.
 6. Learn from interviews and whatever they are asking and tweak your prep.
+
+Slight change in plans. Will keep preparing for interviews, but won't apply now because of promotion on the horizon 
+and potential for switching to full stack. Will just focus on completing USACO silver and gold, and 
+study system design + work on full stack and work about 4-5 hours on average.
