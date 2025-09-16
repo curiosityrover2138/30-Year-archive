@@ -1,3 +1,4 @@
+VINCERO
 Only focus on your weekly goals, monthly, and overarching goals and achieve them. Anything else is a distraction. Minimum 5 maximum 10. FLOW EXISTENCE
 Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can maintain this intensity 30 years will be enough for absolute world class stuff
 {M} twice a month without {P} to prevent {N}
@@ -5,14 +6,81 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 ✓ or X
 
 
+15/09-21/09:
+
+1. Complete entitlement manager change by 16th ✓
+2. Guitar practice 4 hours. 
+3. Exercise daily. Bathe twice a week. Wash clothes. 
+4. USACO 6 hours a day atleast. 
+5. System design 1 hour a day. 
+6. Make the state abbreviation change by 20th. ✓
+7. Atleast 80 sets of weights in the whole week.
+8. Atleast 150 mins of jog whole week. 
+9. Tabata 2 times.
+
+
+15
+Got up late. I need to fix my sleep and stop wasting even a second on reddit and shit. ENOUGH IS ENOUGH. I don't 
+even have the time to do this.
+
+Completed entitlement manager change 
+Couldn't have the energy to either exercise or do anything else. Will have to start from tomorrow as its getting 
+too bad now. I am constantly struggling with my misanthropy and just absolute hatred for everything. But I 
+have to compartmentalize and achieve what I need to. Or else I am incurring sin and no one but me will pay for it.
+
+Take your sins seriously or all you will have is immense regret on your deathbed. THat is one thing I cannot ever 
+feel.Comeon I have 50 years, I can do this. People have done it in far less WITH far less. My plan is solid. 
+Ruthless execution and immense flow state is all I need.
+Your life should be well lived.
+
+Being alive is a pain. But I will regret much more and be in much 
+more pain with an unfulfilled life and if I don't exhaust myself 
+completely than if I just die. I just cannot waste even 1 second of my life. I will always regret 
+it, and the pain is unbearable. That is the exact pain I am feeling now.
+
+16
+5 sets of weights done. 10 mins jog.
+Just think when I will be 87, will I be able to live if I don't work now????
+I am afraid to even think about it. I just need to be in flow existence and use guitar to extend my long term 
+stamina and keep doing that day in and day out.
+
+I have to understand that I am on a VERY VERY tight schedule. I need to do EVERYTHING I have ever wanted to do, 
+or else time will run out very very soon and soon I will be 80 and nothing to show for it.
+
+Did the state abbreviation change. 
+Did other changes in work and 1p tickets. 
+
+My work is my sacred calling. I NEED To do this.
+My calculations are correct. I am already working at a level of abstraction much higher than needed 
+for 60+ years. If I keep it by 45-60 years I would achieve more than what I desire. I can do this.
+
+Tried one sum but couldn't do it. Guitar about 30 mins. 
+ 
+
+Dont follow in other people's footsteps. Focus on flow and intensity in karma yoga and mastery of senses. you can get there 
+much sooner than you realize. Either your path will become short or you will become much faster.  Quality >> Quantity
+
+
+
+
+17
+
+18
+
+19
+
+20
+
+21
+
 8/09-14/09:
 
-1. Do all the work tickets on time and work about 3-4 hours daily on average
-2. Guitar practice 4 hours 
-3. Bathe.
-4. Do weights daily, jogging and tabata 
-5. USACO atleast 6 hours a day. 
-6. System design 1 hour 
+1. Do all the work tickets on time and work about 3-4 hours daily on average ✓
+2. Guitar practice 4 hours  ✓
+3. Bathe. X
+4. Do weights daily, jogging and tabata  ✓
+5. USACO atleast 6 hours a day.  X
+6. System design 1 hour  X
 
 
 
@@ -29,20 +97,79 @@ and soon the day is over.
 
 
 9
+I still think of myself as a child, and feel proud of small things. I don't need to. Hold yourself to 
+very high standards. And be an adult.
+
+Jog 10 mins. 
+Weights pending.
+
+Imp meetings to do. Will start after.
+Weights done. But couldn't do sums or anything much because of incredible amount of work pressure. 
+Will have to ruthlessly preserve my time and get up at 6 so I can atleast do 6 hours of USACO. 
+
+Guitar 1.5 hour
+
 
 
 10
+Absolutely horrible work pressure. I need to have high quality work and concentrate atleast 3-4 hours a day 
+just for work, or else it will backlog, and give me much more pressure than warranted.
+
+Couldn't sleep, or exercise properly. Will do this.
+Masturbated, but will do it once every 2 weeks now.And reduce the urge when in pressure.
+But was in flow state during work so thats a positive. Guitar 1 hour.
+
+Now just need to focus on getting my own work done as well instead of slaving away. Need to have good work 
+for 5 hours max, and then work on my own things.
 
 
 11
+Did work. Sleep is a bit disrupted will get back on track. 
+My life philosophy is to see everyday as training ground and only using external circumstances as a tool 
+to push to the limit, and not something to jump into and make the circumstances teach me. I CAN do that, but 
+its not long term oriented imo. The only risk is thinking I have time, which is remediable by these weekly goals 
+method.
 
+Did weights 5 sets. Will do a bit more before sleeping.
+
+Completed ALL the work pending, now I can relax and just work 2-3 hours per day consistently. If I dont do 
+it it will again pile up, but I cannot ever let this happen again in my life. The trick is to keep 
+fighting a bit everyday.
+
+Guitar 15 mins. Will do totally more from tomorrow since now I can relax. But just need to dedicate few hours 
+each day to work.
+
+In prod, or even in preprod if you are making a change, always check the feature from UI before and after change 
+to ensure it is same. This can prevent lots of idiotic mishaps. Also verify each and everything in data 
+very minutely. It boils down to working atleast 4-5 hours daily in order to prevent sloppy work. And be 
+very thorough. I am getting lucky, but if I don't do this, people will fight back.
+
+I really need to improve my quality of professional output. I took a bit too far in thinking no one else is doing 
+their job, which is fair, but even if someone does it 1-2 hours a day 5-8 people's work will pick up my mistakes. 
+All I need to do is work 3-4 hours a day consistently to avoid that.
 
 12
+Exercised a bit. I am now forgetting and getting complacent. I need to be hungry constantly, even 50 years 
+is too less time for me. I need to be intense af and extremely hard working.
+
+My logic is right, but facing WA issue. Anyways this week I was able to sort all the work issues and now 
+I am in extremely good shape. Just from tomorrow need to go again in michael phelps mode of training, I know 
+I am in the position to do that. COME ON. VINCERO.
+
 
 
 13
+Its ok, today got up late, and hence was unable to work. Also feeling a bit constipated. Will resolve this. And 
+will be able to start full force everything from tomorrow. Now from tomorrow the main goal would be to do work 
+consistently and do atleast 6 hours of usaco everyday. In the next 1-2 months I need to complete silver and be back on track.
+
+1 sum done
 
 14
+Got up late, hence couldn't do exercise. Will do in evening before sleeping around 6. Now will eat chicken and 
+work, and then will do that. Its fine. From tomorrow I can work around 10-12 hours. Today it can be given leeway. 
+Need to fix my sleep.
+
 
 
 01/09- 07/09
