@@ -108,3 +108,6 @@ https://cses.fi/problemset/task/2422
 https://usaco.org/index.php?page=viewproblem2&cpid=896
 
 https://codeforces.com/gym/104002/problem/E
+
+https://cses.fi/problemset/task/2422/
+

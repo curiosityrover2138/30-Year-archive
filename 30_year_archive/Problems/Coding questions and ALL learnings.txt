@@ -1,6 +1,34 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://cses.fi/problemset/task/2422/
+
+long long countLessEqual(long long x, long long n) {
+    long long count = 0;
+    for (long long i = 1; i <= n; i++) {
+        count += min(n, x / i);  // Number of elements <= x in row i
+    }
+    return count;
+}
+
+long long findMedian(long long n) {
+    long long k = (n * n + 1) / 2; // median position
+    long long lo = 1, hi = n * n;
+    while (lo < hi) {
+        long long mid = lo + (hi - lo) / 2;
+        if (countLessEqual(mid, n) < k)
+            lo = mid + 1;
+        else
+            hi = mid;
+    }
+    return lo;
+}
+
+
+Just basic counting checking for all numbers using binary search as median will have >=k numbers less than it.
+
+
+
 https://codeforces.com/gym/104002/problem/E
 
 Just use a min heap and remove the smallest whenever its even, because that will happen eitherway.
