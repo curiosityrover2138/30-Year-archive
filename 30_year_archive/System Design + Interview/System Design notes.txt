@@ -1,3 +1,68 @@
+===========================================================================================================================================================================
+ROADMAP + BASICS SYSTEM DESIGN 
+============================================================================================================================================================================
+
+What is system design-> Definining a system and the relationships between its components.
+Breaking down a problem into small steps and solving each part, ensuring optimization for given use case. 
+Its an iterative process that involves multiple rounds of designing, implementation etc. A system is never fully  
+designed. 
+
+Steps
+1. Understand the problem
+2. Identify the scope of the system 
+3. Analyze existing systems 
+4. Create a high level design 
+5. Refine the high level design 
+6. Document the design 
+7. Continuously monitor the design and change if new use cases arrive 
+
+A system is defined as scalable if it shows increase in performance proportional to the resources added. 
+If there is a PERFORMANCE problem-> It means system is slow for a single user 
+If there is SCALABILITY problem-> The system is fast for single user but slow for multiple.
+
+Latency-> Amount of time it takes for 1 request
+Throughput-> Amount of requests per unit of time it can process 
+
+Availability-> Uptime of system 
+Consistency-> All clients see the same data at same time 
+
+There is always a tradeoff between availability and consistency 
+Systems that prioritize high availability may sacrfice consistency and vice versa 
+
+There are 3 types of consistency-> Weak consistency, Eventual consistency (which is a form of weak consistency)
+and Strong consistency 
+
+CAP theorem-> A system can only support 2 of 3 i.e. Consistency, Availability and Partition Tolerance 
+
+Stock market systems for eg are CP based, facebook and twitter are AP based 
+
+Availability is often quantified by uptime i.e. 99.9% or 99.99% (also called 3 nine or 4 nine)
+
+If 2 components are present with availabiliy 99.9% and 99.9%
+The total availability becomes 1 - (1-0.999)*(1-0.999)=99.9999%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==============================================================================================================================================================
 Alex Xu System Design
 ==============================================================================================================================================================
