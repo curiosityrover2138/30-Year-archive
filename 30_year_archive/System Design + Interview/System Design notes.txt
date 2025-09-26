@@ -20,6 +20,7 @@ A system is defined as scalable if it shows increase in performance proportional
 If there is a PERFORMANCE problem-> It means system is slow for a single user 
 If there is SCALABILITY problem-> The system is fast for single user but slow for multiple.
 
+
 Latency-> Amount of time it takes for 1 request
 Throughput-> Amount of requests per unit of time it can process 
 
