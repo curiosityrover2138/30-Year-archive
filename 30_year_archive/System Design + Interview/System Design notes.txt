@@ -42,6 +42,17 @@ Availability is often quantified by uptime i.e. 99.9% or 99.99% (also called 3 n
 If 2 components are present with availabiliy 99.9% and 99.9%
 The total availability becomes 1 - (1-0.999)*(1-0.999)=99.9999%
 
+Failover systems-> In failover systems there is 1 system that is the main, and other on standby incase of  
+failover. This is known as active-passive failover 
+
+There are also active active failover systems. Needed when no downtime is acceptable.
+
+
+Replication is an availability pattern where multiple copies of the same data are needed for 
+retrieval from different locations. 
+2 main types of replication are master master replication and master slave replication 
+
+
 
 
 
