@@ -54,6 +54,57 @@ retrieval from different locations.
 
 
 
+A DNS translates a domain name to IP address 
+
+CDN-> Globally distributed network of proxy servers serving content from locations closer to the user.
+Generally static files, videos, etc are served from CDNs 
+
+There are 2 types of CDNs:
+
+1. Push CDN-> Receive new content whenever content changes occur in the server. 
+2. Pull CDN-> Grab new content from the server when the first user requests the content.  
+This results in a slower request unless the content is cached. 
+
+A TTL determines how long the content is cached. 
+Pull CDNs minimize storage space on the cdn, but can create redundant traffic if files expire and are pulled 
+before they have actually changed(it can keep pulling the same file)
+
+Sites with heavy traffic work well with pull CDNs.
+
+
+Microservices are a suite of independently deployable modular services. Each service runs a unique process  
+and communicates through a well defined lightweight mechanism to serve a business goal. 
+
+Pinterest for eg could have the following microservices:
+- user profile 
+- follower
+- feed 
+- search 
+- photo uploading
+
+Microservices ideally should be autonomous and specialized. One microservice going down shouldn't affect another. 
+
+
+The only disadvantage is microservices can add complexity in deployment and operations .
+
+
+Load balancers distribute incoming client requests to computing resources such as application servers and 
+databases. 
+In each case, the load balancer returns the response from the computing resource to the appropriate client. 
+
+
+Load balancers help in solving the single point of failure problem, and they also prevent requests from going to 
+unhealthy servers. 
+
+Loadbalancers can be implemented with hardware or software. Software like HAProxy is most common. 
+
+
+A load balancer can become performance bottleneck if it does not have enough resources or if its not configured
+properly. 
+
+A load balancer can also itself become a single point of failure. Multiple load balancers increase complexity 
+exponentially.
+
 
 
 

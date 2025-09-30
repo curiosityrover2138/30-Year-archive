@@ -1,6 +1,16 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://cses.fi/problemset/task/1682/
+
+When checking strong connectivity. We don't need to do bfs/dfs from all nodes. Just do from 1 node, and then 
+reverse the edges and check again from the same node. 
+Since if x can reach u and u can reach x, and it also means x can reach y because the first condition was successful 
+so u->x->y which means u can also reach y which means all nodes are possible. 
+
+This is the main idea behind kosaraju's algorithm
+ 
+
 https://cses.fi/problemset/task/2422/
 
 long long countLessEqual(long long x, long long n) {
