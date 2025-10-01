@@ -1,6 +1,8 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+
+
 https://cses.fi/problemset/task/1682/
 
 When checking strong connectivity. We don't need to do bfs/dfs from all nodes. Just do from 1 node, and then 
