@@ -1,12 +1,23 @@
-16th aug- 2nd December
-1. Keep doing USACO as before
-2. Keep giving contests as before and start giving real contests 
+Immediate goal: 
+Get to codeforces grandmaster by November 2026. Complete USACO platinum.
+Get to google by december 2026. 
+Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
+full stack developer. 
+Follow routine everyday perfectly.
+
+16th aug- 2nd Feb
+1. Keep doing USACO as before. Complete silver and gold.
+2. Keep giving virtual contests as before and start giving real contests 
 2.5 Learn all the basic framework and language questions they ask in interviews
 3. Do system design problem sums and complete all the major ideas 
-4. Apply to 20 companies a day 
-5. Give interviews whenever scheduled.
-6. Learn from interviews and whatever they are asking and tweak your prep.
+4. Give interviews whenever scheduled.
+5. Learn from interviews and whatever they are asking and tweak your prep.
 
 Slight change in plans. Will keep preparing for interviews, but won't apply now because of promotion on the horizon 
 and potential for switching to full stack. Will just focus on completing USACO silver and gold, and 
 study system design + work on full stack and work about 4-5 hours on average.
+
+As long as you have a job, keep doing USACO, Math olympiad problems, and keep getting better at your job, as well 
+as give interviews to get into better harder jobs. Only when you reach a senior level in jobs as well as can solve 
+USAMO and Codeforces GM problems, join startups and work on business ideas for creating your own companies.  
+

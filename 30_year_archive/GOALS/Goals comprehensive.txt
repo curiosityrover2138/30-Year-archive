@@ -5,11 +5,11 @@ in short term but hope for long term. 50 years is just a buffer, most achievemen
 happen in min 15 maximum 30. Think of it like, 10 years to 50 mill, 10 more years for 200 mill and 10 more years for 1 bill
 
 
-1. Get into Google/Microsoft as an SDEIII or Senior SDE google equivalent in 1-2 years. Endure as much pressure as possible
-This is the most important step. Or else everyone will decide my life for me.
+1. Get good at Competitive programming and mathematics with abstract thinking. Get a good enough job and into 
+google/microsoft if possible, but not so that it hampers your long term growth.
 -------Cross 10k hours of deep work 
 2. Become codeforces grandmaster and keep doing CF and CP as long as you are writing code atleast once in 6 months. 
-Try and get to LGM. 
+Try and get to LGM. Become good at IMO level problems, enough to crack INMO or IMO.
 3. Get good at guitar and electric guitar well enough to play mr crowley, wmggw and playing god flawlessly 
 and learn most songs in 1 week or less. Do this in 3 years. Study music theory from sheet music from 16-19th century for all keys and 
 keep learning that as well as improvisation and refinement of those ideas whole life.

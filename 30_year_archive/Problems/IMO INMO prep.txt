@@ -1,0 +1,26 @@
+======================================================================================
+AN EXCURSION IN MATHEMATICS 
+======================================================================================
+
+
+Bezout's theorem-> If a and b are any non zero integers, then gcd(a,b) exists and there exists 
+integers x0 and y0 such that gcd(a,b)= ax0 + by0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======================================================================
+PROBLEM PRIMER 
+=======================================================================
+
+Number theory:
+1. Just do the multiplication and recursively the answer comes as 142857
