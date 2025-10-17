@@ -14,6 +14,10 @@ Fermat's numbers-> Integers of the form (2)^(2^n) + 1
 
 Primes among the fermat numbers i.e. numbers which are both fermat numbers and primes are called fermat primes 
 
+Theorem-> Given any integers a and b with a=/=0 there exist unique integers q and r with b = qa+r and 
+0<=r<|a|. If a !| b then 0<r<|a| 
+  
+
 
 Completed till page 13. On page 14 exercises
 
