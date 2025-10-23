@@ -2,6 +2,22 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://usaco.org/index.php?page=viewproblem2&cpid=763
+
+Had nothing to do with priority queues and got into a detour. I should just stick to my intuition. 
+Also messed up the simple logic by just overthinking and getting distracted. I should trust myself more 
+and really observe things. It would have been possible if I had a clearer head. WIll do this again. It was 
+simple but good.
+
+https://atcoder.jp/contests/abc214/tasks/abc214_e
+
+Sort and then use a priority queue. This is a common trick used in many places. I was trying to do it directly 
+with a priority queue and hence wasn't getting a specific order. 
+
+Always remember this kind of tricks in priority queues. You shouldn't just push and pop in priority queues. 
+Do some preprocessing before pushing, or think of not pushing all elements and pushing only a particular kind 
+at once.
+
 
 https://cses.fi/problemset/task/1682/
 

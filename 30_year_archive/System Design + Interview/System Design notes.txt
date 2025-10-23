@@ -105,6 +105,81 @@ properly.
 A load balancer can also itself become a single point of failure. Multiple load balancers increase complexity 
 exponentially.
 
+Reverse proxy usually forwards requests and hides servers, which is helpful in providing security 
+Load balancer
+
+Solutions such as Nginx and HAProxy usually serve both 7 layer reverse proxy and load balancing. 
+
+
+There are 2 primary approaches to load balancing-> Dynamic load balancing takes into account 
+current state of each server and distributes load. Static load balancing sends an equal amount of requests 
+to each server, either in an order or at random.
+
+
+Layer 7 load balancers-> Layer 7 load balancers look at the application layer to decide how to distribute requests.
+
+
+Layer 4 load balancers look at the transport layer as the basis for deciding how to distribute client requests 
+across a group of servers 
+(There are 7 network layers defined in the OSI model)
+
+
+Load balancers also help with horizontal scaling as without load balancers even if we add more servers/instances 
+in parallel, nothing much will happen if the load balancer logic is bad or somehow most of the load is concentrated 
+on a single server. It is also easier to maintain than vertical scaling which requires specialized hardware more often than  
+not.
+
+Scaling horizontally introduces complexity which involves cloning servers. 
+Q: During horizontal scaling why should servers be stateless?
+
+A: If a server is stateful, it means it will temporarily have to store client data like profile picture,
+cached data, etc. 
+But this means that any subsequent requests from that user will have to be directed to that particular server
+and this means load balancers will face additional complexity which is not feasible. However if we store 
+the relevant data in client side, it won't be an issue. 
+
+The states are usually stored in session stores like redis (even that can be an issue if redis goes down), 
+We can never remove Single points of failure. We can only create more resilience. 
+
+
+Service discovery-> In modern cloud environments, we don't need to provide IPs and exact configurations 
+of each service. It works on the idea of service discovery where 1 service like microservice or APIs automatically 
+find and communicate with each other in a dynamic manner.
+
+This is because in cloud environments, services are often ephemeral. IPs and ports change quickly and frequently 
+
+Service discovery keeps a registry (like a telephone directory) of all the available instances and their locations 
+Whenever a service is started it registers itself with the registry 
+When any service needs to call another service, it just asks where it lives from the registry 
+
+The 2 main patterns used are:
+Client side discovery-> The client directly asks about which service is needed from the registry.
+The registry replies with the IP 
+The client then asks the service in the IP 
+Systems using this-> Netflix Eureka, Consul, Zookeeper
+
+Server side discovery-> The client makes a request to a load balancer 
+The load balancer then checks the registry 
+Then it calls the service 
+
+Systems-> Kubernetes service, AWS Elastic load balancer 
+
+Consul, Etcd and Zookeeper help find services by keeping a registry of names, addresses and ports. 
+Health checks verify service integrity and are done using HTTP endpoints. Both consul and etcd have a built in 
+key value store 
+
+Choosing the right database for the system is absolutely critical. Some of the reasons why its important to pick the 
+right database include:
+
+1. Performance -> Choosing database that is unsuitable will create performance bottlenecks. 
+2. Scalability-> Some databases are better suited for large quantity of data than others 
+3. Data modelling -> Different databases model data differently 
+4. Data integrity -> Different databases have different capabilities for maintaining data integrity and 
+can have different levels of data security 
+
+
+
+
 
 
 

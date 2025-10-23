@@ -15,16 +15,17 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 5. System design 20 hours 
 6. Bathe Good diet 
 7. Fix sleep 
-8. Start mapping and fix db issues for work. Also complete the 2 tickets for rb
-9. 10 sums from Excursion 5
+8. Start mapping and fix db issues for work. Also complete the 2 tickets for rb ✓
+9. 10 sums from Excursion 6
 10. Perfect routine.
+11. Give 1 atcoder beginner or Codeforces div3/div2 contest every alternate day. (Keep this every time)
 
 
 
 14
 No exercise 
 1 sum 
-Worked a lot
+Worked a lot for company. 
 
 
 15
@@ -44,18 +45,46 @@ Tried to do USACO problems but couldn't. Stuck in 1 problem from IMO
 
 17
 No exercise intentionally. Got up 2 hours late and won't do now to avoid messing up sleep further. 
+Worked company's job. Completed 2 tickets for RB. 
+1 excursion sum. 
+Tried 1 sum for USACO but wasn't able to do it. 
 
 
 18
+Sleep is fixed, but the timing is still BAD. I need to get up at 6.
+3 excursion sums 
+again stuck in 1 usaco problem. 
+1 hour guitar.
+
 
 19
+Again fucking suffering from constipation and timing of sleep is still bad. I cannot even 
+compromise on ANYTHING in my diet. I had protein but missed fiber, and even 1-2 days was enough to wreck it. 
+It needs to be absolutely perfect or I suffer immensely.
+1  sum usaco. 
+1 sum excursion. 
+
+
 
 
 20 
+2 sums usaco 
+1 hour guitar 
+
+
 
 21
+1 sum tried but couldn't do 
+1 hour guitar 
+system design 1 hour 
+
 
 22
+1 sum tried and did with help, should have done it totally myself. Need to keep pushing any blocker no matter 
+what.
+1 more sum tried but couldn't do much. Trying another one similar to understand the workflow 
+(Bubble sort round 1)
+system design 1 hour.
 
 
 23

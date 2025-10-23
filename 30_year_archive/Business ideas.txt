@@ -45,6 +45,22 @@ Will get local creators, news, what is going on, food spots, etc.
 39. Explicit chatbot hindi that don't refuse to do everything chatgpt or other models  do 
 40. Investing business earnings in youtube channel with mega kitchen and balanced diet.
 41. Huge demand in india's financial and hedge fund sector. I can do something code and AI related. 
+42. Employee productivity and score tracker app for employers.
+
+Expanding on this:
+
+what would it look like?
+1. dashboards for individual tracking 
+2. AI generated score for achievements 
+
+
+First step:
+Make a tool for resume scoring. Any resume uploaded gives a score of impact and estimate toughness of a project. 
+
+
+This is the first project I will make
+
+resume analyzer/ scorer.
 
 
 

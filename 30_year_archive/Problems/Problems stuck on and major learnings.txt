@@ -1,4 +1,11 @@
 
+When solving a particular problem of a particular topic, always keep the topic at the back of your head 
+but don't constrain yourself with it. It can be that the problem can be solved in many different "styles" 
+and you can use different data structures or logic to understand and achieve the solution. After that you 
+can go through the idea using the data structure or technique. But it will pass and you will improve much better  
+with this mindset. 
+
+
 https://codeforces.com/contest/862/problem/E
 
 One approach I am thinking of is binary searching on all values of b summations possible (as a will be the 

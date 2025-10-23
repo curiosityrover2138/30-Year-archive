@@ -114,3 +114,7 @@ https://cses.fi/problemset/task/1682/
 
 https://dmoj.ca/problem/acsl1p4 (easy but do again just to be sure)
 
+https://atcoder.jp/contests/abc214/tasks/abc214_e
+
+https://usaco.org/index.php?page=viewproblem2&cpid=763
+
