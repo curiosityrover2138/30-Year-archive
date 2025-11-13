@@ -5,20 +5,137 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+10/11-16/11 
+1. 30 USACO sums 
+2. Jogging 120 mins 
+3. Exercise 80 sets 13
+4. Great diet and grooming 
+5. 3 virtual contests. 1 real contest.
+6. Perfect wakeup and sleep. 
+7. Complete ASC mapping. Start physiciangroup mapping. 
+8. Complete payershare db change in preprod and dev. Complete ca360 year_four change DONE
+
+
+
+10
+Good diet and grooming. 
+Lots of work. 
+
+
+
+
+11
+6 sets of weights 
+decent wakeup and sleep.  
+Decent work. Need to do more usaco problems 
+Completed the ca360 and payershare changes in preprod 
+Did 1 leetcode sum for binary search but its not enough. Need to do USACO level problems. 
+
+
+
+12
+30 mins jog 
+1 set weight. Will do more in evening. 
+
+
+13
+
+14
+
+15
+
+16
+
+28/10-9/11
+
+1. 30 USACO sums 
+2. Exercise 150 sets 
+3. Jogging 220 mins 
+4. System design 30 hours 
+5. Great diet and Grooming ✓
+6. Haircut ✓
+7. Complete mapping physiciangroup and db changes. start asc mapping ✓
+8. Give 1 atcoder beginner or Codeforces div3/div2 contest every alternate day.
+
+28
+15 mins jog 
+Good diet, great grooming 
+Completed data ingestion for CA360. 
+
+
+29
+30 mins jog
+Decent diet , not much grooming 
+Guitar 30 mins 
+Work for national summary 
+
+
+30
+No exercise 
+decent work.
+guitar 30 mins 
+
+
+31
+30 mins jog 
+work and fixing issues. 
+guitar 30 mins 
+tried one sum
+
+
+1
+no exercise. WIll do it after weights arrive. 
+cannot concentrate here. Need to find a way to do so.
+
+2
+Exercise 30 mins 
+
+
+
+3
+No exercise 
+Tried 1 sum but coudlnt' 
+work 
+
+
+4
+Work 
+no exercise didn't get dumbbell 
+Couldn't even try 1 problem. Need to fucking concentrate. Also sick.
+Got a lot of work as well and get piled on by work to no end because of attrition in team.
+
+5
+SICK
+
+6
+SICK a bit. worked a bit
+
+7
+Worked exercise
+
+8
+
+9
+Good exercise after a long break. Cannot afford more breaks now. Need to be intense 
+in whatever environment I am. 
+
+
+
 
 14/10 - 25/10 
 
-1. Atleast 30 USACO sums 
-2. Guitar practice 40 hours 
-3. Exercise 90 sets
-4. Jogging 200 mins 
-5. System design 20 hours 
-6. Bathe Good diet 
-7. Fix sleep 
+1. Atleast 30 USACO sums --- Not 30 but satisfied with what I was able to do. Will push more in a while.
+2. Guitar practice 40 hours X
+3. Exercise 90 sets X
+4. Jogging 200 mins X
+5. System design 20 hours MEH X
+6. Bathe Good diet  ✓
+7. Fix sleep ✓
 8. Start mapping and fix db issues for work. Also complete the 2 tickets for rb ✓
-9. 10 sums from Excursion 6
-10. Perfect routine.
-11. Give 1 atcoder beginner or Codeforces div3/div2 contest every alternate day. (Keep this every time)
+9. 10 sums from Excursion ✓
+10. Perfect routine.✓
+11. Give 1 atcoder beginner or Codeforces div3/div2 contest every alternate day. (Keep this every time) X 
+Because of packing and moving. 
 
 
 
@@ -85,9 +202,15 @@ what.
 1 more sum tried but couldn't do much. Trying another one similar to understand the workflow 
 (Bubble sort round 1)
 system design 1 hour.
+1 hour guitar 
 
 
 23
+1 sum done that I was trying earlier i.e. bubble sort round 1 
+Tried round 2 but need to implement another approach  
+NOt much of anything else because of packing. This week has been a bit weird due to many other things, 
+will have to go with much more force and depth a bit later.
+3 sums excursion.
 
 
 24

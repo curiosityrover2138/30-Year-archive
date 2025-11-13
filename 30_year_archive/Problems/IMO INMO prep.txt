@@ -24,6 +24,17 @@ It can also be used to prove there are infinite primes (which can be proven thro
 
 Completed till page 13. On page 14 exercises
 
+Completed most exercises from 1.1 
+
+Congruence-> The integers a and b are said to be congruent modulo m (non zero) when a = b mod m 
+i.e. (a-b) mod m = 0 
+
+Also note a = b mod m is equivalent to b  = a mod m 
+
+if a = b mod m and b = c mod m then a = c mod m 
+
+
+Theorem-> Let F(x) be a polynomial with integral coefficients and a = b mod m then F(a) = F(b) mod m 
 
 
 
