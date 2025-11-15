@@ -118,3 +118,4 @@ https://atcoder.jp/contests/abc214/tasks/abc214_e
 
 https://usaco.org/index.php?page=viewproblem2&cpid=763
 
+https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=binary-search

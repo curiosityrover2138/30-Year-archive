@@ -5,15 +5,51 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+15/11-22/11
+
+1. Complete Binary Search 
+2. Complete Intro to bitwise operators 
+3. Do 4 sums from Custom comparators 
+4. Jogging 150 mins 
+5. Exercise total 70 sets 
+6. 3 atcoder beginner contests 
+7. Complete physiciangroup mapping. Complete ASC mapping. 
+8. Great diet , 3 hour+ guitar practice everyday (7-10), Great grooming, perfect wakeup and sleep 
+9. Buy specs 
+10. Follow routine exactly.
+
+
+15
+
+16
+
+
+17
+
+
+18
+
+19
+
+20
+
+21
+
+22
+
+
 10/11-16/11 
+
+FAILURE. However the routine was a bit better now and I just need to adjust my life with the home's life. 
+CAN DO IT.
 1. 30 USACO sums 
-2. Jogging 120 mins 
-3. Exercise 80 sets 13
-4. Great diet and grooming 
-5. 3 virtual contests. 1 real contest.
-6. Perfect wakeup and sleep. 
+2. Jogging 120 mins 60
+3. Exercise 80 sets 32
+4. Great diet and grooming ✓
+5. 3 virtual contests. 
+6. Perfect wakeup and sleep. ✓
 7. Complete ASC mapping. Start physiciangroup mapping. 
-8. Complete payershare db change in preprod and dev. Complete ca360 year_four change DONE
+8. Complete payershare db change in preprod and dev. Complete ca360 year_four change ✓
 
 
 
@@ -39,10 +75,21 @@ Did 1 leetcode sum for binary search but its not enough. Need to do USACO level 
 
 
 13
+12 sets weight 
+10 mins jog 
+
 
 14
+5 sets weights 
+30 mins jog
+WOrked a lot, also did some sums. Can do my whole routine as intensely as I want from tomorrow.
+Work is also messing shit up due to frequent shit meetings. 
+
+
 
 15
+8 sets weights 
+
 
 16
 

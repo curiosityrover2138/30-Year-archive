@@ -1,53 +1,17 @@
-Dec 1 2025:
-1. Complete USACO silver and half of gold.
-2. Be decent at dp and be able to solve all the standard problems 
-3. Have 2 good projects on resume 
-4. Start applying to companies and jobs 
-5. Be able to do all Div 3 problems and about 4 div 2 problems on average
-6. Make notes and read System design blogs. Be able to do all the common interview problems 
-7. Know all the common framework and language questions asked in interviews
-8. Be clean. Bathe atleast 3 times a week and do laundry every week. Keep your surroundings clean.
+Dec 30:
+1. Complete USACO silver, 30% of gold. 
+2. Have body fat percentage of ~25% visually 
+3. Exercise everyday. Give contests and have rating of around 1600-1800 
+4. Start doing projects.
+5. Be excellent at your job 
+6. Buy desks and zero in on other things need to buy in life.
 
-Jan 2025:
-1. Get to 1800 rating in Codeforces and be able to do 2000 problems 
-2. Run 20 loops comfortably around kadugodi tree park 
-3. Switch jobs 
-4. Buy an electric guitar 
-5. Have a rhr <70
-6. Be able to either run + walk or run 36 loops around kadugodi tree park
-7. Do all patterns from leetcode and google interview questions 
+Feb 30:
+1. Complete >80% of USACO gold 
+2. Have body fat percentage of 18-20% visually 
+3. Do everything as before 
+4. Do 2 projects. 
+5. Have codeforces rating atleast 1800
 
-Feb 2026:
-1. Enroll in swimming and do it 3 times a week for 1-1.5 hours each session  (optional)
-2. Learn freestyle in 2 months (optional)
-3. Build a PC with 27 inch monitor, 32 gb ram, 1tb ssd and upgradable components.
-4. Be able to do 80% of Codeforces Div 2 problems. 
-5. Complete half of USACO platinum and all the problems in other divisions that were skipped.
-
-
-
-2026 October:
-0. Keep giving codeforces contests. Complete USACO plat and rating should be 2100+
-1. Get into google/microsoft
-2. Buy and get decent at electric guitar 
-3. Have a great dressing sense 
-4. Have 18-20% body fat 
-5. Keep your surroundings clean and live in a good looking place
-6. Have resting  bpm of <65
-7. Be able to jog a 10 k in under 45 mins 
-8. Run a marathon in under 4 hours 
-9. Start thinking of business ideas and building mvps
-
-
-
-2027 December:
-0. Codeforces rating should be 2300
-1. Start your own company 
-
-2028 May:
-1. Start applying to Ycombinator
-
-2029 Oct:
-1. Get an idea or mvp to Y combinator. Try and find a cofounder (depends on the YC and startup goal)
 
 
