@@ -8,7 +8,7 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 29/12- 4/1/26
 1. Complete 2 USACO problems a day before 11 PM
 2. Login at 11 PM and work amazingly and productively 
-3. Complete 3 Neetcode problems medium/ 5 easy/ 2 hard per day with all techniques and understanding most ways of 
+3. Complete atleast 3 Neetcode problems medium/ 5 easy/ 2 hard per day with all techniques and understanding most ways of 
 doing the same problem atleast all multiple common ways
 4. System design 1 hour 
 5. Complete exercise before 9 PM 120 sets weekly and 120 mins jog weekly 
@@ -17,9 +17,18 @@ doing the same problem atleast all multiple common ways
 8. No sins. Complete all work in company before time.
 
 29
-
+Not much. No exercise. But calmed a bit as home is now proper. Now if anything bad happens I will leave the house 
+and go to bangalore. Or call the police. Nothing now can happen. Now all needs to be focused on work and dsa and  
+cp.
+Guitar practice 30 mins. 
 
 30
+TODO: Api & DB changes for payershare 
+      Payershare i.e. top payers logic change for reportbuilder
+      CA360 data ingestion 
+      Filling up blanks in description for reportbuilder fields. DONE
+
+
 
 
 31
