@@ -10,8 +10,7 @@ Follow routine everyday perfectly.
 2. Keep giving virtual contests as before and start giving real contests 
 2.5 Learn all the basic framework and language questions they ask in interviews
 3. Do system design problem sums and complete all the major ideas 
-4. Give interviews whenever scheduled.
-5. Learn from interviews and whatever they are asking and tweak your prep.
+4. Record yourself giving explanation. Both in english and hinglish. Make every explanation intuitive.
 
 Slight change in plans. Will keep preparing for interviews, but won't apply now because of promotion on the horizon 
 and potential for switching to full stack. Will just focus on completing USACO silver and gold, and 

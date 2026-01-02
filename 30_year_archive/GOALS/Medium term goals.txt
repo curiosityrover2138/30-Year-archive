@@ -1,17 +1,16 @@
-Dec 30:
-1. Complete USACO silver, 30% of gold. 
-2. Have body fat percentage of ~25% visually 
-3. Exercise everyday. Give contests and have rating of around 1600-1800 
-4. Start doing projects.
-5. Be excellent at your job 
-6. Buy desks and zero in on other things need to buy in life.
+Jan 30:
+1. Complete USACO silver 
+2. Complete Neetcode 50% sums and analyze everything in detail 
+3. Start recording your explanations. Give intuitive explanations and use youtube to develop personality.
+4. Get weight to 52
+5. Give 10 codeforces contests in total.
 
-Feb 30:
+April 30:
 1. Complete >80% of USACO gold 
 2. Have body fat percentage of 18-20% visually 
 3. Do everything as before 
 4. Do 2 projects. 
-5. Have codeforces rating atleast 1800
+5. Have codeforces rating atleast 1600
 
 
 
