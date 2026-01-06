@@ -2,6 +2,8 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+
+
 https://usaco.org/index.php?page=viewproblem2&cpid=763
 
 Had nothing to do with priority queues and got into a detour. I should just stick to my intuition. 

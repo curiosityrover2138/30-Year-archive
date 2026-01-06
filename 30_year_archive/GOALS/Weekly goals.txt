@@ -32,10 +32,17 @@ Did 3 questions from here. Will need to upsolve.
 Again did a bit of reddit. NEED TO CLOSE IT COMPLETELY. There is just no use. Any use of reddit that I feel 
 is useful is just my addiction speaking. I NEED TO IMPROVE MYSELF, or the future will be much harder.
 8 sets weights 
+1 neetcode question. Need to do usaco as well. Did the contest which was good but will upsolve from tomorrow. I Need LOTS 
+of work to get to where I want to be.
 
 
 
 5
+No reddit which was good 
+Worked decent amount.
+Need to do CA360 data ingestion.
+Need to totally block linkedin as well as other kind of media consumption. TOTALLY. My goal is much 
+deeper and more encompassing than most others can imagine.
 
 
 6
@@ -67,7 +74,7 @@ Guitar practice 30 mins.
 
 30
 TODO: Api & DB changes for payershare DONE
-      Payershare i.e. top payers logic change for reportbuilder 
+      Payershare i.e. top payers logic change for reportbuilder DONE
       CA360 data ingestion 
       Filling up blanks in description for reportbuilder fields. DONE
 
