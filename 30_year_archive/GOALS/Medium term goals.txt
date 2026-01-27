@@ -1,4 +1,5 @@
-Jan 30:
+Feb 28:
+Delayed a bit but have to lock in. Now my routine is clear as well.
 1. Complete USACO silver 
 2. Complete Neetcode 50% sums and analyze everything in detail 
 3. Start recording your explanations. Give intuitive explanations and use youtube to develop personality.
