@@ -1,3 +1,40 @@
+Time clocks and the ordering of events Lamport:
+
+The concept of time and before/after should be carefully examined in distributed systems, because we should 
+know exactly what event happened before and what after. Latency, network effects, and geographic restrictions 
+make it hard to sync everything within nanosecond accuracy.
+
+In distributed systems, it is sometimes impossible to say which event occured first.
+
+Time is hard to keep precisely, because even physical real clocks have drift, and don't keep exact time, which becomes 
+a problem in systems where we need precise time at all times.
+
+Leslie wants to define each process independtly like a sequence of events, and basically wants to define the ordering of 
+"happened before/after" without relying on physical clocks.
+
+A single process can be defined as a set of events with an a priori total ordering 
+
+A process cannot have X->X as its meaningless and Metaphysical. The -> relation is an irreflexive partial ordering. Some are concurrent 
+but everything else will have A->B or B->A. The essence is there are only 3 possibilities A=/=B and A->B or B->A or A and B are 
+concurrent.
+
+We can make a space time diagram that will be helpful. We don't care about which events COULD HAVE OCCURED, but only the order 
+of those that DID OCCUR.
+
+
+After this definition and the idea of causality in place. Lamport introduces Logical Clocks. 
+
+The abstract definition of a clock is just a way of assigning a number to an event.
+The definition of time should be based on the ORDER in which events occured, not in the actual time in which they occured 
+as that would need a global clock.
+
+For any 2 events A and B if A->B then C(A)<C(B) where C is the clock function 
+
+Either we have to find out that if A->B or B->A then we maintain that order. If not, we can just gurantee that 
+C(A)<C(B) for any 2 given A and B. C(B)<C(A) only if B->A but if not, then for all other cases we can do C(A)<C(B) and 
+schedule the tasks according to this time. 
+
+
 Scaling memcached at Facebook:
 
 While qualities like Fault tolerance, efficiency, consistency and performance are required at all levels, at  

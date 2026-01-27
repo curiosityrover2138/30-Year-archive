@@ -5,6 +5,46 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+27/01-7/02:
+Lots of fighting and home renovation work going on. Now everything is very much in my control. 
+NEED to have much more active involvement in home. Its my responsibility to make this house a great place to live.
+
+1. Complete Binary Search USACO 
+2. Do all the work tasks on time. Half the tasks should be done in first week of the sprint starting
+3. Complete 3 neetcode medium everyday 
+4. Start posting system design and DSA on linkedin.
+5. Read system design research papers everyday 
+6. Codeforces div3 every 2-3 days.
+7. No sins. Do every task of home regarding renovations, Safai and others.
+
+27
+Exercise 12 sets 
+Started reading time clocks 
+Work discussed starrocks architecture and worked on claims ingestion checks.
+
+28
+
+29
+
+30
+
+31
+
+1
+
+2
+
+3
+
+
+4
+
+5
+
+6
+
+7
+
 13/01 - 24/01:
 
 1. Complete Binary search USACO 
