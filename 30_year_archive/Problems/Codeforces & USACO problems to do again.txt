@@ -121,3 +121,5 @@ https://usaco.org/index.php?page=viewproblem2&cpid=763
 https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=binary-search
 
 https://codeforces.com/contest/1338/problem/A
+
+https://codeforces.com/problemset/problem/1117/C
