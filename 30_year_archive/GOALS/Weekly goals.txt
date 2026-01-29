@@ -9,7 +9,7 @@ Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. F
 Lots of fighting and home renovation work going on. Now everything is very much in my control. 
 NEED to have much more active involvement in home. Its my responsibility to make this house a great place to live.
 
-1. Complete Binary Search USACO 
+1. Complete Binary Search USACO.
 2. Do all the work tasks on time. Half the tasks should be done in first week of the sprint starting
 3. Complete 3 neetcode medium everyday 
 4. Start posting system design and DSA on linkedin.
@@ -23,6 +23,9 @@ Started reading time clocks
 Work discussed starrocks architecture and worked on claims ingestion checks.
 
 28
+Exercise 6 sets. 
+Got up early. Did all the routine.
+Codeforces div 3 did 3 sums.
 
 29
 

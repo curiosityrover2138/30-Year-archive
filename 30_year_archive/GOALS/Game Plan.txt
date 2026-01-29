@@ -1,9 +1,15 @@
 Immediate goal: 
-Get to codeforces grandmaster by November 2026. Complete USACO platinum.
-Get to google by december 2026. 
+Get to codeforces Candidate Master by November 2026. Complete till USACO platinum.
+Get to 30+ LPA by May 2027. 
 Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
 full stack developer. 
 Follow routine everyday perfectly.
+Renovate home and have a great place to work and live. Invest in long term things.
+
+***Had to change plans slightly because of family plans and other things. Will either switch by end of year with 
+WFH 18+ lpa or get to 30-35 lpa WFO or WFH whatever I can get by mid of next year. By then need to 
+make home a great place to be.
+
 
 16th aug- 22nd March 
 1. Keep doing USACO as before. Complete silver and gold.
@@ -12,8 +18,5 @@ Follow routine everyday perfectly.
 3. Do system design problem sums and complete all the major ideas 
 4. Record yourself giving explanation. Both in english and hinglish. Make every explanation intuitive.
 
-Slight change in plans. Will keep preparing for interviews, but won't apply now because of promotion on the horizon 
-and potential for switching to full stack. Will just focus on completing USACO silver and gold, and 
-study system design + work on full stack and work about 4-5 hours on average.
 
 
