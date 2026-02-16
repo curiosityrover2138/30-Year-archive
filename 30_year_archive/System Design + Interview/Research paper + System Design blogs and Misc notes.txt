@@ -1,3 +1,9 @@
+The part time parliament(paxos):
+
+In the paxos parliament, if each member maintains a ledger for entries, all ledgers need to be consistent
+Consistency is needed, but also all transactions should be recorded.
+
+
 Time clocks and the ordering of events Lamport:
 
 The concept of time and before/after should be carefully examined in distributed systems, because we should 
