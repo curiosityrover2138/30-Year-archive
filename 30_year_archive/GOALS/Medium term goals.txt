@@ -1,10 +1,12 @@
 Feb 28:
 Delayed a bit but have to lock in. Now my routine is clear as well.
+Tooth extracted so ruined 15-20 days.
 1. Complete USACO silver 
 2. Complete Neetcode 50% sums and analyze everything in detail 
 3. Start recording your explanations. Give intuitive explanations and use youtube to develop personality. (OPTIONAL)
-4. Get weight to 52
+4. Get weight to 52 DONE
 5. Give 10 codeforces contests in total.
+
 
 April 30:
 1. Complete >80% of USACO gold 
