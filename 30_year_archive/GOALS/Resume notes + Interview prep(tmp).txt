@@ -26,7 +26,7 @@ Tools : AWS (S3, Batch, EC2), Redis, Neo4j, RabbitMQ, Airflow, Git
 ACHIEVEMENTS
 • Scored 97.6 percentile in CAT (Common Admission Test), ranking among the top 2.4% of 200K+ candidates
 nationwide.
-• Solved 2000+ algorithmic problems across LeetCode and Codeforces. Specialist in Codeforces.
+• Solved 2000+ algorithmic problems across LeetCode and Codeforces.
 PROJECTS
 Real-Time Collaborative Whiteboard
 • Engineered a low-latency real-time collaboration system using WebSockets and Redis pub/sub, supporting 250+
