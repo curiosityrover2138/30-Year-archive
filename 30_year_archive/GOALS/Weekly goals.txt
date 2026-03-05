@@ -5,10 +5,78 @@ Intensity should be Daniel Day Lewis + Alex Honnhold + Grigori Perelman If I can
 Don't escape anything. FACE EVERYTHING, no matter how bad. It is never as bad. Failure to face things and improve is the only failure to exist.
 ✓ or X
 
+Do deep focus sessions of 1.5 hours. Consistency wins over intensity. This is already elite. Just follow it.
+Work - 1 min 4 max 
+Reading book- 1 max or 1/3 min(only when everything else is max) 
+Exercise - 1/2 i.e. 45 mins 
+Guitar - 1/2 min 2 max 
+Coding and USACO- 1 min 3 max 
+System design- 1/3 min 1 max 
+Don't do more than 2 things max in a day.
+
+
+
+1-15:
+
+1. Do 1 session of neetcode everyday
+2. Do 1 session system design everyday.
+3. No sins. Do all household tasks.
+4. Perfect routine. Start doing weights, exercise and diet. 
+5. Get stiches removed. DONE
+6. Research and prepare ALL resume points including SQL and product specific knowledge as much as possible. 
+7. Do work tasks perfectly. 
+8. Prepare for interviews and give interviews.
+9. Guitar atleast 1 session everyday.
+
+
+
+1
+Did 3 neetcode problems.
+Decent routine. Still a bit difficult to eat because of stiches being present. Will remove tomorrow.
+
+2
+Tried one problem. Container with most water. But couldn't progress beyond brute force. 
+Did it.
+Got stiches removed. Walked around 30 mins. 
+
+
+
+3
+Focusing on Learning as much as possible now.
+Be curious, be innovative, and LEARN as much as possible.
+Did 1 neetcode problem. Also focused on book reading, guitar and job tasks.
+
+
+
+4
+Read book. Got up on time. Did job tasks. Didn't start doing exercise yet. Weight 50.8
+
+
+
+
+5
+Changed QM api. Also will look tomorrow at VBC api. For ASC mapping they are giving permissions for the table. 
+Looked at the logic and I can do that change. Also Graviton instance I will setup on sunday and monday.
+
+
+6
+
+7
+
+
+
+
+
+
+
+
+
+
+
 
 16-28:
 
-1. Complete Binary Search USACO.
+1. Complete Binary Search USACO. PAUSED BECAUSE OF TOOTH ACHE. WIll complete Neetcode first. This is VERY HARD for me.
 2. Complete 3 neetcode medium everyday 
 3. Read system design research papers everyday 
 4. Codeforces div3 every 2-3 days. 

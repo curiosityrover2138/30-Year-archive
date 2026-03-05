@@ -4,11 +4,11 @@ Global canon:
 
 Top 100 Critically Evaluated Greatest Works of Literature (World Canon)
 Ancient & Classical (Pre–1000 AD)
-1. The Iliad – Homer
-2. The Odyssey – Homer
+1. The Iliad – Homer BOUGHT
+2. The Odyssey – Homer BOUGHT
 3. Mahabharata – Vyasa
 4. Ramayana – Valmiki
-5. The Aeneid – Virgil READING
+5. The Aeneid – Virgil DONE
 6. Oedipus Rex – Sophocles
 7. Antigone – Sophocles
 8. Agamemnon / Oresteia – Aeschylus
@@ -44,37 +44,37 @@ Shakespeare (Most Critically Celebrated Plays)
 34. Paradise Lost – John Milton
 35. Pensées – Blaise Pascal
 36. Candide – Voltaire
-37. Robinson Crusoe – Daniel Defoe
+37. Robinson Crusoe – Daniel Defoe BOUGHT
 38. Gulliver’s Travels – Jonathan Swift
 39. Tristram Shandy – Laurence Sterne
 19th Century (Peak of the Novel)
 40. War and Peace – Leo Tolstoy
 41. Anna Karenina – Leo Tolstoy
 42. Madame Bovary – Flaubert
-43. Crime and Punishment – Dostoevsky
+43. Crime and Punishment – Dostoevsky BOUGHT
 44. The Brothers Karamazov – Dostoevsky
 45. Moby-Dick – Herman Melville
-46. Middlemarch – George Eliot
+46. Middlemarch – George Eliot BOUGHT
 
-47. Great Expectations – Dickens
+47. Great Expectations – Dickens BOUGHT
 48. Les Misérables – Victor Hugo
 49. The Red and the Black – Stendhal
-50. Pride and Prejudice – Jane Austen
+50. Pride and Prejudice – Jane Austen BOUGHT
 51. The Scarlet Letter – Nathaniel Hawthorne
-52. Wuthering Heights – Emily Brontë
-53. Jane Eyre – Charlotte Brontë
+52. Wuthering Heights – Emily Brontë BOUGHT
+53. Jane Eyre – Charlotte Brontë BOUGHT
 54. Dead Souls – Nikolai Gogol
 55. Leaves of Grass – Walt Whitman
 56. The Poems of Emily Dickinson
 57. The Charterhouse of Parma – Stendhal
 Early 20th Century Modernism
-58. Ulysses – James Joyce
+58. Ulysses – James Joyce BOUGHT
 59. In Search of Lost Time – Marcel Proust
 60. The Trial – Franz Kafka DONE
 61. The Metamorphosis – Franz Kafka
 62. The Magic Mountain – Thomas Mann
-63. To the Lighthouse – Virginia Woolf
-64. Mrs Dalloway – Virginia Woolf
+63. To the Lighthouse – Virginia Woolf BOUGHT
+64. Mrs Dalloway – Virginia Woolf BOUGHT
 65. The Sound and the Fury – William Faulkner
 66. A Portrait of the Artist as a Young Man – Joyce
 67. The Waste Land – T.S. Eliot
@@ -268,7 +268,7 @@ Malcolm Lowry – Under the Volcano
 
 John Williams – Stoner
 
-Cormac McCarthy – Blood Meridian
+Cormac McCarthy – Blood Meridian BOUGHT
 
 Cormac McCarthy – Outer Dark
 
