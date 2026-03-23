@@ -1,23 +1,31 @@
 Gradatim Ferociter.   Train like Phelps or sleep. Nothing else. Flow existence                       
 === Revise every 6 months (1/11/2025) === 
 THIS IS THE BARE MINIMUM.
-1. Wakeup 6AM 
-2. Exercise (20 sets weight/ Jogging 40 mins) + Stretch 7:15 - 8
-3. USACO 2 problems 8:15 - 11:30
-4. Work 12-1:30
-5. Bathe, grooming 1:30-2
-6. Work 2:30-4
-7. USACO 4-6:30
-8. Guitar 6:30-10:30 
-9. Sleep  
-10. Perfect browsing and learning. Deep focus EVERYDAY. NO WASTAGE OF TIME and ATTENTION. 
+1. Wakeup 6 AM 
+2. Coffee and light snack
+3. USACO/Leetcode 1 session 
+4. Exercise 1/2 session 
+5. Bath/Grooming 
+6. Work 1 session 
+7. Lunch 
+8. Work 1 session 
+9. Guitar 1 session 
+10. Work 2 sessions or USACO 1 session as needed for the day 
+11. System design 1 session
+12. Reading book session
+13. Sleep 10 PM
 
-Do deep focus sessions of 1.5 hours. 
-Work - 2 min 4 max 
-Reading book- 1 
-Exercise - 1/2 i.e. 45 mins 
-Guitar - 1 min 2 max 
+Routine (FIXED FOR ALL TIME):
+Task----Focus Sessions
+Work - 1 min 4 max 
+Reading book- 1 max or 1/3 min(only when everything else is max) 
+Exercise - 1/6 i.e. 15 mins min. 1/2 max
+Guitar - 1/2 min 2 max 
 Coding and USACO- 1 min 3 max 
+System design/ Research paper/Learning for work- 1/2 min 1 max 
+
+Some days exercise in evening is fine. Just the overall routine should work. And the slots should be continuous and I 
+should satisfy the minimum requirements ALL days.
 
 Exercise: 
 1. Cardio Jogging 30-45 mins 

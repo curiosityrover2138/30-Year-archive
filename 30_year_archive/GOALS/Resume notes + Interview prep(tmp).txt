@@ -46,6 +46,7 @@ Starrocks vs Clickhouse
 Starrocks-> 
 
 
-
+Features more cost based optimization as compared to Clickhouse. So we chose this based 
+on cost optimization as well as flexibility
 
 
