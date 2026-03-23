@@ -1,6 +1,6 @@
 Immediate goal: 
 Get to codeforces Candidate Master by November 2026. Complete till USACO platinum.
-Get to 30+ LPA capability May 2027. 
+Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
 Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
 full stack developer. 
 Follow routine everyday perfectly.
@@ -8,14 +8,22 @@ Renovate home and have a great place to work and live. Invest in long term thing
 
 
 
+25march-30 May 
+1. A bit change in plans because of switch discussions 
+2. Do perfect sessions everyday and focused sessions 
+3. Complete Neetcode and USACO Silver 
+4. Start USACO gold.
+5. Have 3 work sessions, 1 usaco/leetcode session, 1 exercise session and guitar and reading sessions perfectly 
+everyday.
+
+
 
 
 16th aug- 22nd March 
-1. Keep doing USACO as before. Complete silver and gold.
+1. Keep doing USACO as before. Complete silver and gold. FAILED 
 2. Keep giving virtual contests as before and start giving real contests 
 2.5 Learn all the basic framework and language questions they ask in interviews
 3. Do system design problem sums and complete all the major ideas 
-4. Record yourself giving explanation. Both in english and hinglish. Make every explanation intuitive.
 
 
 
