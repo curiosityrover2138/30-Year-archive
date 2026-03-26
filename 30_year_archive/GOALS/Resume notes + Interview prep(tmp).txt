@@ -47,6 +47,26 @@ Starrocks->
 
 
 Features more cost based optimization as compared to Clickhouse. So we chose this based 
-on cost optimization as well as flexibility
+on cost optimization as well as flexibility in comparision.
+
+Healthbase frequently runs high cardinality aggregations during joins. 
+Starrocks supports both Shared nothing, and shared data architecture. But in starrocks 
+for healthbase, we use shared nothing architecture as it distributes data across nodes without issues.
+
+In healthbase, we do joins based on icd, cpt or hcpc codes. And there are around 14k cpt codes and 10k icd codes 
+and the combinations among them make the queries even more complicated. So we wanted an architecture that supports 
+high cardinality joins and aggregations without issues.
+
+In healthbase, aggregations often involve distinct counts, and sums of those counts for distinct patient id, claims id 
+or provider id.
+
+Tablets are stored in buckets.
+Each bucket is physically stored as one or more tablets.
+
+If replication number is 3, the tablet is replicated 3 times across nodes. 
+This makes starrocks very feasible for our workload, because we can just add or remove nodes based on data increase. And this 
+also saves us cost in different environments by using different replication factors.
+
+
 
 
