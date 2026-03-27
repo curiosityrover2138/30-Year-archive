@@ -1,19 +1,21 @@
 Gradatim Ferociter.   Train like Phelps or sleep. Nothing else. Flow existence                       
-=== Revise every 6 months (1/11/2025) === 
+=== Revise every 6 months (27/03/2026) === 
 THIS IS THE BARE MINIMUM.
-1. Wakeup 6 AM 
+1. Wakeup 7-7:30
 2. Coffee and light snack
 3. USACO/Leetcode 1 session 
-4. Exercise 1/2 session 
-5. Bath/Grooming 
-6. Work 1 session 
-7. Lunch 
-8. Work 1 session 
-9. Guitar 1 session 
-10. Work 2 sessions or USACO 1 session as needed for the day 
-11. System design 1 session
-12. Reading book session
-13. Sleep 10 PM
+4. Guitar 1 session 
+5. Work 1 session
+6. Bath/Grooming 
+7. Work 1 session 
+8. Lunch 
+9. Work 1 session 
+10. Exercise 1/2 session 
+11. Reading book 1/2 session.
+11. Work 1 session or USACO 1 session as needed for the day 
+12. System design 1 session or work 1 session as needed
+13. Reading book session
+14. Sleep 10:30-11:30 PM
 
 Routine (FIXED FOR ALL TIME):
 Task----Focus Sessions
