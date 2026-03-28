@@ -51,9 +51,22 @@ Theorem-> Let F(x) be a polynomial with integral coefficients and a = b mod m th
 
 
 
+
+
+
 =======================================================================
-PROBLEM PRIMER 
+PROBLEM PRIMER for olympiad
 =======================================================================
 
 Number theory:
 1. Just do the multiplication and recursively the answer comes as 142857
+2. DONE 
+3. DONE 
+4. DONE 
+5.
+6. 
+
+=========================================================================
+PROBLEM SOLVING STRATEGIES ENGELS
+=========================================================================
+
