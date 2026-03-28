@@ -19,11 +19,6 @@ everyday.
 
 
 
-16th aug- 22nd March 
-1. Keep doing USACO as before. Complete silver and gold. FAILED 
-2. Keep giving virtual contests as before and start giving real contests 
-2.5 Learn all the basic framework and language questions they ask in interviews
-3. Do system design problem sums and complete all the major ideas 
 
 
 
@@ -38,7 +33,7 @@ Deep domain knowledge in US healthcare & risk systems 1000
 
 Strong technical + system design foundation 1100
 
-Strong DSA and Codeforces rating. Good at Math. 1300 
+Strong DSA and Codeforces rating. Good at Math. 1360 
 
 Eagle-eye systems thinking + ambiguity handling 40
 
