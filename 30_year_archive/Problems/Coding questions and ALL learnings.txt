@@ -3,6 +3,11 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 
 
 
+https://codeforces.com/contest/782/problem/B
+
+
+
+
 
 https://usaco.org/index.php?page=viewproblem2&cpid=763
 
