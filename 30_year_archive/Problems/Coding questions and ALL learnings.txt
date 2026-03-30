@@ -5,6 +5,8 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 
 https://codeforces.com/contest/782/problem/B
 
+Just do binary search on time instead of position and check intervals. 
+
 
 
 
