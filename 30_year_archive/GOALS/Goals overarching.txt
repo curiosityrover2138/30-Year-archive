@@ -3,14 +3,19 @@ Sam Altman, Alexandr Wang, Larry Ellison, Jack Ma, Alex Karp, Grigori Perelman, 
 Prince, Adolf Hitler, Jeffery Dahmer, Seth Green, Demetrius Johnson, Bow Wow, Jimi Hendrix, Mickey Rooney,
 Paul Allen, Anil Agarwal, Sam Walton, Li Kashing, Vincent Van Gogh,RK Damani, Neville Naronha, 
 Luiz Andre Barozzo, Ozzy Osbourne, Howard Schultz, Alan Holdsworth, Steve Harvey, Bernard Arnault,
-Tom Cruise, Michelangelo.
+Tom Cruise, Michelangelo, Krishna, Shiva
+
+
+The people in the list and the archetypes are my inspiration and competition. Nothing else and no other benchmark 
+matters. In 10 years I need to be the personification of the collusion of these archetypes and spend 30 years 
+perfecting it. After that 20 years will just be the world catching up to it. I need to get to that in 30 years.
 
 Disclaimer: This list is to be taken as a whole. Not in isolation. 
             All are psychological archetypes in this framework.
 
-
 Good rule of thumb. Stay close to roles that directly impact revenue. If the tradeoff between domain change, time to catch up, and business impact is positive, then do it, or else don't. Choose roles that within 1 year you should be able to impact revenue
 Also try and get promoted to director within 8-10 years (2035). Join any company that helps you achieve that.
+
 
 
 
@@ -47,7 +52,7 @@ MOST IMPORTANT STEP
 4. Workout and have a great diet.
 5. Look good, dress good. BE CLEAN. Surroundings and YOUR STUFF clean.
 6. Read entrepreneurship books, focus on developing a great business acumen. Develop great product thinking.
-7. Get a job at FAANG.
+7. Get a job at FAANG or equivalent
 8. Make yourself good enough so that it is worth sharing. 
 9. Run and build endurance to complete 20 km runs in 2 hours. Start from 45 min HIIT jogs and ramp up.
 10. Be totally yourself. Never be afraid or hesistant.
@@ -165,36 +170,6 @@ Trust the process. Always be aware of the bigger picture and never do anything t
 
 https://ali-ibrahim137.github.io/competitive/programming/2020/08/23/Stress-Testing.html
 
-- If you did not solve, did not try a lot of ideas, and did not use the editorial: you did not improve.
-- If you did not solve, did not try a lot of ideas, and did use the editorial: you did not improve.
-- If you did not solve, did try a lot of ideas, and did not use the editorial: you did not improve.
-- If you did not solve, did try a lot of ideas, and did use the editorial: **you did improve but very less.**
-- If you did solve, did not try a lot of ideas, and did not use the editorial: you did not improve.
-- If you did solve, did not try a lot of ideas, and did use the editorial: you did not improve.
-- If you did solve, did try a lot of ideas, and did not use the editorial: **you did improve.**
-- If you did solve, did try a lot of ideas, and did use the editorial: **you did improve.**
-
-Approximate rating graph (questions that challenge you)-> 1,000 questions-> 1800
-                                                2,500 questions-> 2100
-                                                 4,000 questions-> 2250
-                                                 6,000 questions-> 2350
-                                                 7,500 questions-> 2400
-	                                              10,000 questions-> 2550
-	                                              15,000 questions-> 2700
-	                                              25,000+ questions + challenging yourself immensely + having high level of concepts clear + tried many different ways for each problem -> 3000+ 
-
-Focus on not only solving problems but solving them fast.
-
-1st target For 1500-> Solve 90% of <1500 in under 40 mins with 1000-1200 in under 20 mins
-Figure out the whole logic and ideally mathematically prove at least somewhat that your solution is true before 
-writing any code
-
-
-
-Solve all CSES problem sets of Searching, Sorting DP and intro graph and know the pattern inside out
-
-It is fine to spend 1-2 hours on a particular problem. You won't know the solution instantly. The key is to get good at patterns to reduce it to 30-45 mins per problem.
-
 
 
 
@@ -251,4 +226,3 @@ Use youtube to document your life, keep external pressure, and force yourself to
 
 Just use youtube as a proxy of whatever you are improving on. That is the eye of the society, even though its 
 flawed, being public forces you to improve quicker. Share your work, but don't share yourself.
-
