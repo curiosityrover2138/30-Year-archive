@@ -2,6 +2,13 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://codeforces.com/contest/1244/problem/E
+Binary search 2 times. One on diff and one on the minimum value that can be. If lesser > greater then we go left or 
+go right. Just the number matters, not the intervals. If lesser is greater than greater, it means the less ones 
+are restricting, or else the bigger ones are restricting. We can simply use them to go, instead of depending 
+on individual diff sums. 
+
+
 
 https://codeforces.com/contest/782/problem/B
 
