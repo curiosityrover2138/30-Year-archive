@@ -23,7 +23,7 @@ This is the routine. Order can be changed if my work timings change drastically.
 29/3 - 5/3 
 
 1. Do 1 neetcode session everyday. Complete 10 problems 
-2. 7 USACO problems from Binary search 
+2. 7 USACO problems.
 3. Complete atleast 3 tasks from work list. Do atleast 2 work sessions on work day 
 4. Guitar 1 session everyday 
 5. 2 virtual contests and upsolve.
