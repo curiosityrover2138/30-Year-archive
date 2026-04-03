@@ -145,9 +145,6 @@ Goal -> Should be doing 100 sums a month atleast.
 3. Assign goal(s), and work towards it with a single minded focus
 
 
-800-1100-> Can comfortably do the sums, but have to do it under 10-15 mins
-
-
 Don't let the problem and the test cases fool you. Happened twice, won't let it happen ever again.
 
 You are just flustered, uncomfortable and miserable because your brain is not accustomed to new things. Once it becomes accustomed, it will become the new happier normal.

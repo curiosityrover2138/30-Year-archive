@@ -25,7 +25,7 @@ This is the routine. Order can be changed if my work timings change drastically.
 1. Do 1 neetcode session everyday. Complete 10 problems 
 2. 7 USACO problems.
 3. Complete atleast 3 tasks from work list. Do atleast 2 work sessions on work day 
-4. Guitar 1 session everyday 
+4. Guitar 1 session everyday  ALMOST DONE 
 5. 2 virtual contests and upsolve.
 6. Exercise and perfect routine everyday.
 7. Don't waste a second online and in idiotic things. Sleep if you want to rest, but dont EVER waste time.
@@ -75,8 +75,30 @@ Will do more as I am more satisfied with my work of the day.
 
 
 2
+Woke up on time. 
+Tried one sum but stuck again. Trying graph now. 
+Aiming to complete all the normal and easy sums in USACO silver, before jumping to gold. 
+5 sets of work 
+Lots of work today. Will be able to do more USACO and shit next 3 days.
+Tried 1 usaco sum but wasn't able to do it.
+Didn't do exercise yet. will do before sleeping. 
+1/2 session guitar.
+
+
 
 3
+Woke up on time. Again stuck in the bfs/dfs 
+Diet was good. 
+Cheesy solution threw me off as I was expecting something provable.
+For silver easy/ Normal-> 1.5 hours of thinking -> solution 
+Hard-> 3 hours-> solution 
+Gold -> double that of silver. 
+No need to give too much thought. And even then don't fixate on solutions you miss. Competitive programming 
+has everything, cheesy solutions you will miss, and obvious things that don't feel obvious. Key is to keep learning 
+and solving as much problems and encountering challenges. I didn't miss something obvious, I just wasn't looking for it. 
+
+
+
 
 4
 
