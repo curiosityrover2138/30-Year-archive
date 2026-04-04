@@ -102,6 +102,13 @@ Had good diet, lots of protein.
 4
 Didn't wake up on time on purpose 
 Goals today: 1 book, 1 USACO, Exercise 20+ sets, Guitar 1
+Exercise done 6 sets today. Will do 14 more. 
+Stuck in a usaco problem. 
+10 sets done now 
+total 16
+Tried a lot but getting TLE and WA for the sum. I am very close though. So I will try tomorrow again for 1.5-3 hours 
+if I cannot do it will just see part of the solution, implement and move on. 
+
 
 
 5
