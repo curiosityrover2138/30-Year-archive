@@ -1,3 +1,40 @@
+
+=========================================================================
+PROBLEM SOLVING STRATEGIES ENGELS
+=========================================================================
+
+Invariant principle
+Basically I need to formalize any particular thing that is unchanging, and prove that its unchanging. 
+Once its done, use that to formalize something that will result from that. 
+
+Problems:
+
+1. Sum of 1,2...4n-1 = ((4n-1)*(4n))/2
+
+This is an even number. 
+If we remove 2 elements and replace it by their difference 
+
+S-a-b+|a-b|
+
+If a>b the S-a-b+a-b = S-2b 
+
+If a<b then S -a-b+b-a = S-2a 
+
+S-2a or S-2b both are even 
+So any result will be even 
+
+Hence at the end even number remains 
+
+
+2. 
+
+
+
+
+
+
+
+
 ======================================================================================
 AN EXCURSION IN MATHEMATICS 
 ======================================================================================
@@ -71,8 +108,3 @@ Number theory:
 4. DONE 
 5.
 6. 
-
-=========================================================================
-PROBLEM SOLVING STRATEGIES ENGELS
-=========================================================================
-
