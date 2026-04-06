@@ -8,7 +8,7 @@ Work - 1 min 4 max
 Reading book- 1 max or 1/3 min(only when everything else is max) 
 Exercise - 1/6 i.e. 15 mins min. 1/2 max
 Guitar - 1/2 min 2 max 
-Coding and USACO- 1 min 3 max 
+Coding/USACO/Math- 1 min 3 max 
 System design/ Research paper/Learning for work- 1/2 min 1 max 
 
 Don't do more than 2 things max in a day.
@@ -22,11 +22,16 @@ This is the routine. Order can be changed if my work timings change drastically.
 2. 8 USACO problems 
 3. 2 virtual contests.
 4. 10 problems from neetcode 
-5. Perfect routine. Atleast 2 work sessions, 1 coding, 1 guitar and 1/2 exercise 
+5. Perfect routine. Atleast 2 work sessions, 1 coding/math, 1 guitar and 1/2 exercise 
 6. Never waste any time 
-
+7. Read approximately 500 pages from books. 
 
 5
+Didn't wake up on time on purpose
+Book reading 15 mins 
+Lots of house work 
+1 math from problem solving strategies. But not even that. 
+
 
 
 6
@@ -150,11 +155,7 @@ if I cannot do it will just see part of the solution, implement and move on.
 
 
 
-5
 
-Didn't wake up on time on purpose
-Book reading 15 mins 
-Lots of house work 
 
 
 

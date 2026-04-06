@@ -10,7 +10,7 @@ Renovate home and have a great place to work and live. Invest in long term thing
 
 
 25march-30 July 
-1. A bit change in plans because of switch discussions 
+1. A bit change in plans because of switch discussions
 2. Do perfect sessions everyday and focused sessions 
 3. Complete Neetcode and USACO Silver 
 4. Start USACO gold.
