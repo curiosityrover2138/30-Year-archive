@@ -34,6 +34,7 @@ For the first one, I think the invariant becomes the change. It always will chan
 For second one. I am not sure what the invariant here is. 
 Maybe its the same thing, but how do I know which element can become less than 1/root 3
 
+a^2+b^2+c^2= x^2 is the equation of a sphere. That is the invariant here.
 
 
 3. Here the wording is confusing. It means flip not repaint. 
@@ -58,6 +59,17 @@ I understood the sum, but proof writing was amazing for this. I need to think th
 5. For equal numbers we reduce the sum by 0 or 2, for unequal digits we keep it same 
 
 We are doing all changes simultaneously 
+
+6. All 3 numbers change their parity in each step. If 1 has a different parity than other 2, then it will remain. 
+Or else one chip of one color won't be the one that remains. 
+
+7. the sum has to be 0 mod 3 which is the invariant.
+
+8. Algorithm-> As soon as 1 or more values in a column =1 then for those rows we double. And then do ops on the column again 
+For each step we are either making parity of odds as even or reducing everything by 1. This way, we can make all numbers in a 
+column equal. Then reducing everything to zero is trivial.
+
+
 
 
 
