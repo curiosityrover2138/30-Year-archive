@@ -58,6 +58,7 @@ Good things overall. Didn't do exercise on purpose. Will do 20+ sets tomorrow 10
 
 8
 Wokeup on time. 
+45 mins of work. 45 mins of thinking for USACO problems but couldn't execute the BFS, struggling with the min max idea 
 
 
 9
