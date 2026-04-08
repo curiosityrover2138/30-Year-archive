@@ -2,6 +2,14 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://usaco.org/index.php?page=viewproblem2&cpid=992
+
+Do a binary search on the width possible, and if for only THAT width, check everything using dfs.
+I was trying to do it with the widths already given and trying to find the optimum path which lead to lots of complications
+The whole approach was wrong. For things like this its fine to see solution. Now I should ideally just look at hints 
+from the solution and still implement on my own. For this I didn't because I was tired with it, but will do this from now on.
+
+
 https://csacademy.com/contest/archive/task/bfs-dfs
 Cheesy solution. Just connect 1 to all nodes guaranteeing bfs, and then adjacent nodes to guarantee dfs
 

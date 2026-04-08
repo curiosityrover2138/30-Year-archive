@@ -1,19 +1,10 @@
-Feb 28:
-Delayed a bit but have to lock in. Now my routine is clear as well.
-Tooth extracted so ruined 15-20 days.
-1. Complete USACO silver 
-2. Complete Neetcode 50% sums and analyze everything in detail 
-3. Start recording your explanations. Give intuitive explanations and use youtube to develop personality. (OPTIONAL)
-4. Get weight to 52 DONE
-5. Give 10 codeforces contests in total.
-
-
-April 30:
-1. Complete >80% of USACO gold 
-2. Have body fat percentage of 18-20% visually 
-3. Do everything as before 
-4. Do 2 projects. 
-5. Have codeforces rating atleast 1600
+Aug 30:
+1. Complete USACO silver
+2. Complete >50% of USACO gold 
+3. Have body fat percentage of 15-16% visually 
+4. Do everything as before and have perfect routine.
+5. Have 2-3 work sessions daily.
+6. Have codeforces rating atleast 1600
 
 
 

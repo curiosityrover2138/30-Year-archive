@@ -123,3 +123,9 @@ https://leetcode.com/problems/longest-increasing-subsequence/description/?envTyp
 https://codeforces.com/contest/1338/problem/A
 
 https://codeforces.com/problemset/problem/1117/C
+
+https://usaco.org/index.php?page=viewproblem2&cpid=992
+
+https://codeforces.com/contest/2179/problem/D
+
+https://codeforces.com/contest/2179/problem/E

@@ -18,9 +18,9 @@ This is the routine. Order can be changed if my work timings change drastically.
 
 5/4- 13/4
 
-1. Do 5 problems from problem solving strategies Engels 
-2. 8 USACO problems 
-3. 2 virtual contests.
+1. Do 5 problems from problem solving strategies Engels 3
+2. 8 USACO problems 3
+3. 2 virtual contests. 1
 4. 10 problems from neetcode 
 5. Perfect routine. Atleast 2 work sessions, 1 coding/math, 1 guitar and 1/2 exercise 
 6. Never waste any time 
@@ -59,6 +59,19 @@ Good things overall. Didn't do exercise on purpose. Will do 20+ sets tomorrow 10
 8
 Wokeup on time. 
 45 mins of work. 45 mins of thinking for USACO problems but couldn't execute the BFS, struggling with the min max idea 
+Giving https://codeforces.com/contest/2171/countdown today. Will upsolve as well.
+I just need to stop being so lazy. I can get extremely lazy and I need to lock in and focus hard, and work extremely extremely 
+hard. I am very close to the 8-9 year old phelps intensity. I need to get that ASAP.
+1 hour of contest. It was very bad, getting stuck at c1 and couldn't concentrate on a simple problem. I just lack the 
+habit. I need to build that. Will give contest everyday.
+I need to focus on contests more, and give probably atleast 4-5 a week.
+https://codeforces.com/contestRegistration/2179/virtual/true
+Will give this as well today 
+Did till C, can definitely concentrate and do more. But today tired, so won't attempt more. Will focus on work now. 
+I need to get to atleast 3 contests weekly. By next week I should get to 2-3 full contests weekly with analysis 
+and full concentration for all contests till the timer goes to 0.
+
+
 
 
 9
