@@ -1,3 +1,15 @@
+25march-30 July 
+1. A bit change in plans because of switch discussions
+2. Do perfect sessions everyday and focused sessions 
+3. Complete Neetcode and USACO Silver 
+4. Start USACO gold.
+5. Have 3 work sessions atleast on work days, 1 usaco/leetcode/maths session, 1 exercise session and guitar and reading sessions perfectly 
+everyday.
+6. Complete 50 problems from problem solving stratgies engels. 
+
+
+
+
 Aug 30:
 1. Complete USACO silver
 2. Complete >50% of USACO gold 
@@ -7,4 +19,13 @@ Aug 30:
 6. Have codeforces rating atleast 1600
 
 
+
+Immediate goal: 
+Get to codeforces Candidate Master by May 2027 (Got delayed due to WFH and company switch that came unexpectedly). Complete till USACO platinum.
+Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
+Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
+Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
+full stack developer. 
+Follow routine everyday perfectly.
+Renovate home and have a great place to work and live. Invest in long term things.
 

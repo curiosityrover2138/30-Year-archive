@@ -1,35 +1,18 @@
-Immediate goal: 
-Get to codeforces Candidate Master by November 2026. Complete till USACO platinum.
-Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
-Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
-Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
-full stack developer. 
-Follow routine everyday perfectly.
-Renovate home and have a great place to work and live. Invest in long term things.
-
-
-
-25march-30 July 
-1. A bit change in plans because of switch discussions
-2. Do perfect sessions everyday and focused sessions 
-3. Complete Neetcode and USACO Silver 
-4. Start USACO gold.
-5. Have 3 work sessions, 1 usaco/leetcode/maths session, 1 exercise session and guitar and reading sessions perfectly 
-everyday.
-6. Complete 50 problems from problem solving stratgies engels. 
-
-
-
-
-
-
-
 I want to solve hard problems and become domain thinker+ engineer and the eagle eyed view on things, 
 and solve systems level ambiguous problems that make huge revenue. Don't just solve great technical problems, 
 position yourself as the great technical person who can execute ambiguous things.
 
+Immediate plan:
 
-Skills needed(with ELO):
+Get AS GOOD AS POSSIBLE in DSA, CP and Mathematics 
+Do guitar everyday and set ambitious goals and achieve them 
+Dive deep into your domain at work and become domain expert. 
+Complete your book list.
+Focus on fitness everyday. 
+In 4 years be AT PAR with an MIT undergrad in execution, depth, work intensity, work output and intelligence.
+
+
+Skills needed at work(with ELO):
 
 Deep domain knowledge in US healthcare & risk systems 1000
 
@@ -41,21 +24,5 @@ Eagle-eye systems thinking + ambiguity handling 40
 
 Communication and influence skills 800
 
-Optional client exposure to understand incentives 0
-
-
-Steps:
-Scan the system → locate where money flows or leaks
-
-Talk to domain experts → identify pain points and risk areas
-
-Dive into the data → verify assumptions and spot gaps
-
-Prototype impact → show potential revenue or risk improvements
-
-Define the problem fully → outline trade-offs, constraints, and second-order effects
-
-Delegate implementation → focus on design, decisions, and outcomes. Slowly develop this so this CAN be done 
-in 3-4 years and I can implement "MOST" of it, but I am not the best implementer, a junior can be the better one 
-for a small part,But I am at par with a MIT undergrad.
+Client exposure to understand incentives 0
 
