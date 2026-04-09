@@ -70,7 +70,10 @@ For each step we are either making parity of odds as even or reducing everything
 column equal. Then reducing everything to zero is trivial.
 
 
+9. 10^6 has 1 which is 1 more than number of sums that will have 2. So it will be x+1 compared to x. So answer will be more 1s 
+than 2s 
 
+10.
 
 
 
