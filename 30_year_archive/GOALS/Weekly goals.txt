@@ -134,7 +134,7 @@ intensity. I CAN DO THIS.
 
 
 11
-Goal: 2 USACO 
+Goal: 2 USACO sessions 
 Upsolve from https://codeforces.com/contest/2123/problem/C 
 Run 45 mins 
 Work 1 session 
