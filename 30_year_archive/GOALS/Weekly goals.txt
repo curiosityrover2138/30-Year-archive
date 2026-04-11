@@ -18,13 +18,13 @@ This is the routine. Order can be changed if my work timings change drastically.
 
 5/4- 13/4
 
-1. Do 5 problems from problem solving strategies Engels 5
+1. Do 5 problems from problem solving strategies Engels DONE 
 2. 8 USACO problems 3
-3. 2 virtual contests. 1 DONE, did 4 out of this. Will upsolve 2 tomorrow. 
+3. 2 virtual contests. DONE 
 4. 10 problems from neetcode 
-5. Perfect routine. Atleast 2 work sessions, 1 coding/math, 1 guitar and 1/2 exercise 
-6. Never waste any time 
-7. Read approximately 500 pages from books. 
+5. Perfect routine. Atleast 2 work sessions, 1 coding/math, 1 guitar and 1/2 exercise DONE 
+6. Never waste any time DONE 
+7. Read approximately 500 pages from books. DONE 
 
 5
 Didn't wake up on time on purpose
@@ -134,15 +134,39 @@ intensity. I CAN DO THIS.
 
 
 11
-Goal: 2 USACO sessions 
+Goal: 2 USACO sessions 1
 Upsolve from https://codeforces.com/contest/2123/problem/C 
-Run 45 mins 
+Run 45 mins Not needed
 Work 1 session 
 Book 1/2 and Guitar 1
+1 USACO done.
+Binary search done.
+
+Now its much better than before. But still motivation dips, I am still getting slightly distracted by online things, and 
+slightly the time is being wasted. I need 0 wastage of movement. I will need to be much more resilient and keep going 
+even when I am satisfied to squeeze as much out of the day as possible. Will take a bit slow today, finish my book, 
+and do guitar and exercise. Tomorrow will do 3 USACO problems and compensate. Will see what the outcome is. 
+Completed things fall apart. 
+Now getting very happy, but still I need to ruthlessly cut down distractions, have ZERO wasted movement, and 
+keep going for more even when I am getting happy and slightly satisfied with daily tasks.
+
+
+
+
 12
+Goal: 3 USACO sessions 
+5 Neetcode problems 
+Work 1 session
+Weights: 25 sets 
+Book 1 session Guitar 1 session 
+
 
 
 13
+Goal: 2 USACO sessions 
+5 Neetcode problems 
+Walk 45 mins  
+Book 1 session Guitar 1 session 
 
 
 
