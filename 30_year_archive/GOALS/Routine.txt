@@ -11,7 +11,6 @@ THIS IS THE BARE MINIMUM.
 8. Lunch 
 9. Work 1 session 
 10. Exercise 1/2 session 
-11. Reading book 1/2 session.
 11. Work 1 session or USACO 1 session as needed for the day 
 12. System design 1 session or work 1 session as needed
 13. Reading book session

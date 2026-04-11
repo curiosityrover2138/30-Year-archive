@@ -12,7 +12,7 @@ Coding/USACO/Math- 1 min 3 max
 System design/ Research paper/Learning for work- 1/2 min 1 max 
 
 Don't do more than 2 things max in a day.
-6-7:30 AM wakeup-> Reading-> Exercise-> Coding-> Work-> Learning-> Guitar-> Sleep
+6-7:30 AM wakeup->Coding-> Work-> Exercise-> Learning-> Guitar->Book reading-> Sleep
 This is the routine. Order can be changed if my work timings change drastically.
 
 
@@ -138,7 +138,8 @@ Goal: 2 USACO sessions 1
 Upsolve from https://codeforces.com/contest/2123/problem/C 
 Run 45 mins Not needed
 Work 1 session 
-Book 1/2 and Guitar 1
+Book 1/2 DONE
+Guitar 1 DONE
 1 USACO done.
 Binary search done.
 
