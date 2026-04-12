@@ -548,58 +548,114 @@ Finnegans Wake: A Skeleton Key – Campbell and Robinson
 
 Hindi Literature:
 
-Kabir ke Dohe
-Sur Sagar
-Padmavat
-Bijak
-Andher Nagari
-Bharat Durdasha
-Godaan
-Gaban
-Karmabhoomi
-Sevasadan
-Mansarovar
-Kamayani
-Anamika
-Yama
-Pallav
-Shekhar Ek Jeevani
-Nadi ke Dweep
-Gunahon Ka Devta
-Aadha Gaon
-Raag Darbari
-Tamas
-Maila Anchal
-Jhansi Ki Rani
-Kurukshetra
-Rashmirathi
-Joothan
-Murdahiya
-Aapka Bunty
-Mitro Marjani
-Zindaginama
-Kitne Pakistan
-Kashi Ka Assi
-Mujhe Chand Chahiye
-Ek Chadar Maili Si
-Usne Kaha Tha
-Parinde
-Dedh Inch Upar
-Andha Yug
-Ashadh Ka Ek Din
-Lal Teen Ki Chhat READING 
-Ve din 
-Ek chithda sukh
-Mahabhoj
-Hindi Sahitya Ka Itihas
-Aalochana
-Suraj Ka Satvan Ghoda
-Tyagpatra
-Apne Apne Ajnabi
-Alag Alag Vaitarni
-Vakil Sahib
-Ek Kahani Yeh Bhi
-Ghazal Saptak
+1. Bhakti + Medieval Foundations (1–12)
+Bijak — Kabir
+Kabir ke Dohe (Sangrah) — Kabir
+Ramcharitmanas — Tulsidas
+Vinay Patrika — Tulsidas
+Sur Sagar — Surdas
+Padmavat — Malik Muhammad Jayasi
+Sakhi Granth — Rahim
+Dohe (Rahim) — Rahim
+Mirabai Padavali — Mirabai
+Ghazals (selected) — Mirza Ghalib
+Diwan-e-Ghalib (selection) — Mirza Ghalib
+Amir Khusro ke geet — Amir Khusro
+2. Renaissance / Early Modern Hindi (13–22)
+Andher Nagari — Bharatendu Harishchandra
+Bharat Durdasha — Bharatendu Harishchandra
+Devdas (early version) — Devaki Nandan Khatri
+Chandrakanta — Devaki Nandan Khatri
+Saraswati magazine essays — Mahavir Prasad Dwivedi
+Dwivedi Yug essays — Mahavir Prasad Dwivedi
+Raskhan Rachnavali — Raskhan
+Prem Sagur (early prose) — Lallu Lal
+Shivprasad Mishra Rudra stories — Shivprasad Mishra 'Rudra'
+Hindi Navjagaran writings — Bharatendu Harishchandra
+3. Chhayavaad (23–38)
+Kamayani — Jaishankar Prasad
+Skandagupta (play) — Jaishankar Prasad
+Ansu — Jaishankar Prasad
+Nirala Kavita Sangrah — Suryakant Tripathi Nirala
+Saroj Smriti — Suryakant Tripathi Nirala
+Geet Govind (Hindi adaptation) — Jayadeva
+Yama — Mahadevi Verma
+Neerja — Mahadevi Verma
+Pallav — Sumitranandan Pant
+Gunjan — Sumitranandan Pant
+Agyeya Kavita Sangrah — Agyeya
+Hari Ghass Par Kshan Bhar — Agyeya
+Makhanlal Chaturvedi Kavya — Makhanlal Chaturvedi
+Nirala Rachnawali (poetry) — Suryakant Tripathi Nirala
+Pant Rachnawali — Sumitranandan Pant
+Prasad Natak Sangrah — Jaishankar Prasad
+4. Premchand & Social Realism Core (39–56)
+Godaan — Premchand
+Gaban — Premchand
+Sevasadan — Premchand
+Karmabhoomi — Premchand
+Nirmala — Premchand
+Poos Ki Raat (stories) — Premchand
+Kafan (stories) — Premchand
+Rangbhoomi — Premchand
+Maila Anchal — Phanishwar Nath Renu
+Parati Parikatha — Phanishwar Nath Renu
+Aadha Gaon — Rahi Masoom Raza
+Tamas — Bhisham Sahni
+Kitne Pakistan — Kamleshwar
+Raag Darbari — Shivprasad Singh
+Aapka Bunty — Mannu Bhandari
+Ek Chadar Maili Si — Rajinder Singh Bedi
+Mitro Marjani — Krishna Sobti
+Zindaginama — Krishna Sobti
+5. Modernism / Existential Hindi (57–72)
+Shekhar Ek Jeevani — Agyeya
+Nadi ke Dweep — Agyeya
+Gunahon Ka Devta — Dharamvir Bharati
+Suraj Ka Satvan Ghoda — Dharamvir Bharati
+Rashmirathi - Dinkar 
+Parinde — Nirmal Verma
+Malwa Express — Nirmal Verma
+Ek Kahani Yeh Bhi — Rajendra Yadav
+Ukhde Hue Log — Rajendra Yadav
+Mrityu Aur Mrityu — Gyanranjan
+Kisi Aur Din — Nirmal Verma
+Agnileekha — Mohan Rakesh
+Ashadh Ka Ek Din — Mohan Rakesh
+Adhe Adhure — Mohan Rakesh
+Kamleshwar stories — Kamleshwar
+Shamsher Kavita — Shamsher Bahadur Singh
+Muktibodh Kavita — Muktibodh
+6. Dalit / Subaltern Hindi (73–82)
+Joothan — Omprakash Valmiki
+Murdahiya — Tulsi Ram
+Apne Apne Ajnabi — Tulsi Ram
+Surajpal Chauhan stories — Suraj Pal Chauhan
+Tiraskar — Mohan Das Naimishray
+Dalit Sahitya (essays) — Kanwal Bharti
+Ajay Navaria stories — Ajay Navaria
+Anya Kahaniyan — Omprakash Valmiki
+Safdar Hashmi plays — Safdar Hashmi
+Jan Natya Manch works — Safdar Hashmi
+7. Contemporary + Postmodern Hindi (83–100)
+Naukar Ki Kameez — Vinod Kumar Shukla
+Deewar Mein Ek Khidki Rehti Thi — Vinod Kumar Shukla
+Blue Is Like Blue — Vinod Kumar Shukla
+Ret Samadhi (Tomb of Sand) — Geetanjali Shree
+Mai — Geetanjali Shree
+Kahi Isuri Phool — Alka Saraogi
+Uttam Katha — Uday Prakash
+Peeli Chhatri Wali Ladki — Uday Prakash
+Samar Gatha — Maitreyi Pushpa
+Kashi Ka Assi — Kashinath Singh
+Aastha Ka Bhanwar — Kashinath Singh
+Agyeya essays — Agyeya
+Nirmal Verma essays — Nirmal Verma
+Usha Priyamvada stories — Usha Priyamvada
+Mridula Garg works — Mridula Garg
+Shivmurti stories — Shivmurti
+Sanjeev stories — Sanjeev
+Pankaj Bisht works — Pankaj Bisht
 
 
 
