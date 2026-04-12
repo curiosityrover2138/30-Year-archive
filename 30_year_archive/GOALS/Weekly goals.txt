@@ -157,10 +157,17 @@ keep going for more even when I am getting happy and slightly satisfied with dai
 12
 Goal: 3 USACO sessions 
 5 Neetcode problems 
-Work 1 session
 Weights: 25 sets 
 Book 1 session Guitar 1 session 
 Woke up on time. 
+Tried 1 USACO sum but stuck in it
+Did 1 session but still stuck.
+Book 2 sessions 
+Focused but couldn't do more beyond
+5 sets of weight. Couldn't do more because of tiredness. Need to think of a way to balance everything better and have more 
+motivation. Getting too angry at little things, and letting my focus drift. USACO and Work and Guitar are the 3 most important 
+things. Books and Exercise will suffer a bit, but diet shouldnt at all, and exercise should correct itself in the whole week.
+I can do this. From tomorrow will focus better on USACO and Work and Guitar.
 
 
 
@@ -169,7 +176,9 @@ Woke up on time.
 Goal: 2 USACO sessions 
 5 Neetcode problems 
 Walk 45 mins  
+Work 2 sessions
 Book 1 session Guitar 1 session 
+
 
 
 
