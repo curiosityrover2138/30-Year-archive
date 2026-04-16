@@ -2,6 +2,35 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://codeforces.com/contest/2008/problem/E
+
+for(int i=0;i<str.size();i++){
+    int odd_count_maxim=0, even_count_maxim=0;
+
+    for(int j=0;j<26;j++){ 
+
+        int even_left = (i > 0 ? even_pref[j][i] : 0);
+        int odd_left  = (i > 0 ? odd_pref[j][i] : 0);
+
+        int even_right = even_pref[j][str.size()] - even_pref[j][i+1];
+        int odd_right  = odd_pref[j][str.size()] - odd_pref[j][i+1];
+
+        int even_count_for_this = even_left + odd_right;
+        int odd_count_for_this  = odd_left + even_right;
+
+        even_count_maxim = max(even_count_maxim, even_count_for_this);
+        odd_count_maxim  = max(odd_count_maxim, odd_count_for_this);
+    }
+
+I was doing correct calculations. But subtle bugs just messed it up. My whole approach was correct, so its more about
+writing ability. But the logic was correct. I just need to be mindful of these subtle bugs and have faith in my math 
+and fix the bugs first. 
+
+ALMOST DONE. But I just need to do fully by myself. Keep learning and improving. Even with this 1 simple sum I feel so good 
+that I got it. 
+
+
+
 https://usaco.org/index.php?page=viewproblem2&cpid=992
 
 Do a binary search on the width possible, and if for only THAT width, check everything using dfs.

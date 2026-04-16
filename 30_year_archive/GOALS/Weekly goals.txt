@@ -81,20 +81,45 @@ routine.
 
 
 16
-Goal: Watch one opera, wakeup on time. 3 neetcode. 3 usaco sessions. 2 work sessions. 15 exercise sets 
-Guitar 1 session. 
+Goal: Watch one opera, wakeup on time. 3 neetcode. 3 usaco sessions. 15 exercise sets 
+Guitar 1 session.  1 book reading
+1/2 book reading done. 15 mins USACO session. Need to do a lot more, not able to lock in because of fatigue 
+and mental problems of not being able to wakeup due to dreams. Need to solve this issue. Mostly the solution 
+seems to be full focus in the limited time I have and teaching each second as sacred and something I cannot waste.
+
+1 session neetcode. 2 done. Can do improvements on their solutions. But apart from that nothing much. 
+15 sets weight. 
+1 session USACO. Stuck in a sum for prefix sums. 
+https://codeforces.com/contest/2008/problem/E
+Did it. The whole logic was correct. It was just annoying one off errors.
+1 session USACO. 1/2 neetcode. If I focus on 2 full sessions, I will be either 95% close to most problems in USACO silver 
+or just do atleast 1 problem. I CAN do it. The key is to learn and not repeat same mistake and keep thinking hard. This 
+is what improves you. Not getting the green tick. 
+
 
 
 17
+2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions, try and do atleast 3 sums total.
+1 math session
+15 exercise 1 session. Guitar 1 session. 1 book
 
 
 18
+2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions, try and do atleast 3 sums total.
+1 math session
+15 exercise 1 session. Guitar 1 session. 1 book
 
 
 19
+2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions, try and do atleast 3 sums total.
+1 math session
+15 exercise 1 session. Guitar 1 session. 1 book
 
 
 20
+2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions, try and do atleast 3 sums total.
+1 math session
+15 exercise 1 session. Guitar 1 session. 1 book
 
 21
 
