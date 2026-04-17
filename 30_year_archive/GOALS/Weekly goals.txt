@@ -102,6 +102,12 @@ is what improves you. Not getting the green tick.
 2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions, try and do atleast 3 sums total.
 1 math session
 15 exercise 1 session. Guitar 1 session. 1 book
+Wokeup on time. 1 session of USACO. 1 problem learnt but didn't do. Will try more and aim to do it myself. I knew the pattern 
+but didn't know how to implement it. Learnt it now, will apply it.
+No work task today. Not doing it because I am struggling to finish USACO first which is more important. 
+stuck in one problem. https://codeforces.com/contest/1826/problem/D
+
+
 
 
 18
