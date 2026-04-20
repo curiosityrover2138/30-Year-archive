@@ -19,15 +19,16 @@ This is the routine. Order can be changed if my work timings change drastically.
 14/4- 25/4
 
 1. 20 problem solving strategies problems 
-2. 14 USACO problems positively. 2 USACO sessions daily and 3 on weekends 
-3. 4 virtual contests 
+2. 14 USACO problems positively. 2 USACO sessions daily and 3 on weekends . 4 DONE 
+3. 4 virtual contests 2 
 4. 20 neetcode problems 
 5. 6 tasks from work pending tasks list. 
 6. Guitar 1 session a day atleast. Half session at 10 AM 
 7. Book reading 1 session a day 
 8. Perfect routine. No time wastes. 2+ Work sessions, 2+ coding/math, 1 guitar and 1/2 exercise everyday. Book reading 
 can be done in middle of work or on small breaks.
-9. jog everyday for 1 hour. 30 mins 2 sessions.  
+9. Walk for 2 hours while reading book daily. 
+10.Weight target 51.2 
 
 
 14
@@ -166,7 +167,9 @@ Now I am not facing much issues due to motivation, or self sabotage. Haven't don
 20
 2 Work sessions. Do atleast 2 tasks pending from the list. 1 neetcode session. 3 USACO sessions (1 contest + analysis), try and do atleast 3 sums total.
 1 math session
-15 exercise 1 session. Guitar 1 session. 1 book
+15 exercise 1 session. Guitar 1 session. 1 book.
+Do more sets as well as find a way to inculcate walk and run into your routine as well. 
+
 
 21
 

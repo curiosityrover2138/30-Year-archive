@@ -6,17 +6,17 @@ Top 100 Critically Evaluated Greatest Works of Literature (World Canon)
 Ancient & Classical (Pre–1000 AD)
 1. The Iliad – Homer READING
 2. The Odyssey – Homer BOUGHT
-3. Mahabharata – Vyasa
-4. Ramayana – Valmiki
+3. Mahabharata – Vyasa AUDIOBOOK
+4. Ramayana – Valmiki AUDIOBOOK
 5. The Aeneid – Virgil DONE
 6. Oedipus Rex – Sophocles
 7. Antigone – Sophocles
 8. Agamemnon / Oresteia – Aeschylus
 9. Metamorphoses – Ovid
-10. The Book of Job – Hebrew Bible
+10. The Book of Job – Hebrew Bible AUDIOBOOK LISTENING
 11. Tao Te Ching – Laozi
 12. Zhuangzi – Zhuang Zhou
-13. Epic of Gilgamesh – Mesopotamia
+13. Epic of Gilgamesh – Mesopotamia AUDIOBOOK
 14. Analects – Confucius
 15. The Histories – Herodotus
 Early Asian Masterworks
@@ -25,21 +25,21 @@ Early Asian Masterworks
 18. Romance of the Three Kingdoms – Luo Guanzhong
 19. Journey to the West – Wu Cheng’en
 20. Water Margin – Shi Nai’an
-21. Shakuntala – Kalidasa
+21. Shakuntala – Kalidasa AUDIOBOOK
 Medieval to Renaissance
 22. Divine Comedy – Dante
 23. Decameron – Boccaccio
 24. The Canterbury Tales – Chaucer
 25. Shahnameh – Ferdowsi
-26. One Thousand and One Nights – Classical Arabic compilation
+26. One Thousand and One Nights – Classical Arabic compilation AUDIOBOOK
 27. The Tale of the Heike – Anonymous
-28. Don Quixote – Cervantes
+28. Don Quixote – Cervantes AUDIOBOOK
 Shakespeare (Most Critically Celebrated Plays)
-29. Hamlet 
-30. King Lear
+29. Hamlet AUDIOBOOK
+30. King Lear AUDIOBOOK
 31. Macbeth DONE
-32. Othello
-33. The Tempest
+32. Othello AUDIOBOOK
+33. The Tempest AUDIOBOOK
 17th–18th Century European Foundations
 34. Paradise Lost – John Milton
 35. Pensées – Blaise Pascal
@@ -549,7 +549,7 @@ Difference and Repetition – Gilles Deleuze
 Of Grammatology – Jacques Derrida
 Anti‑Oedipus – Deleuze and Guattari
 Finnegans Wake: A Skeleton Key – Campbell and Robinson
-A history of philosophy will durant READING 
+story of philosophy will durant READING  audobook https://www.youtube.com/watch?v=5SmZQLxE98Y&list=PLez3PPtnpncTnkugVq0M5_-NPsrRq3aLo&index=4
 Roger scruton 
 Derek Parfit 
 
