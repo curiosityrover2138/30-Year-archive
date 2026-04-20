@@ -13,6 +13,12 @@ Solved 1 USACO. https://usaco.org/index.php?page=viewproblem2&cpid=645
 Did it myself, but I need to make my implementation better so that i can implement without any help under pressure, as well 
 as I need to implement abstract functions that are being reused. I need to have implemetation skills so that I can do it under 
 pressure without any help.
+2 sets weight. Need to do more.
+Walking 1 hour. Didn't do more because it was not needed. Slept because of low caloric diet. 
+15 sets weight.
+2nd tried USACO but couldn't progress much.
+
+1 session of work. Apart from that didn't do much. Guitar and book are remaining for today.
 
 
 21
