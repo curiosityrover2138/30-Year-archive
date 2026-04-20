@@ -162,6 +162,8 @@ today.
 1 USACO is fine. No work session as well, but decent, will do more work sessions and USACO from tomorrow. Now routine is also god 
 and intensity is at par with 8 year old phelps. Just need to iron out somethings and get privacy for my tasks. Thats it.
 Now I am not facing much issues due to motivation, or self sabotage. Haven't done reddit, or other things.
+Exercise 16 sets 
+Book reading 2 sessions
 
   
 20
@@ -169,6 +171,12 @@ Now I am not facing much issues due to motivation, or self sabotage. Haven't don
 1 math session
 15 exercise 1 session. Guitar 1 session. 1 book.
 Do more sets as well as find a way to inculcate walk and run into your routine as well. 
+
+Woke up on time.
+Solved 1 USACO. https://usaco.org/index.php?page=viewproblem2&cpid=645
+Did it myself, but I need to make my implementation better so that i can implement without any help under pressure, as well 
+as I need to implement abstract functions that are being reused. I need to have implemetation skills so that I can do it under 
+pressure without any help.
 
 
 21

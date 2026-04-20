@@ -131,3 +131,5 @@ https://usaco.org/index.php?page=viewproblem2&cpid=992
 https://codeforces.com/contest/2179/problem/D
 
 https://codeforces.com/contest/2179/problem/E
+
+https://usaco.org/index.php?page=viewproblem2&cpid=645 -> Reimplement again. Ideas were fine. Implementation is weakness.
