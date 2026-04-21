@@ -33,7 +33,7 @@ Medieval to Renaissance
 25. Shahnameh – Ferdowsi
 26. One Thousand and One Nights – Classical Arabic compilation AUDIOBOOK
 27. The Tale of the Heike – Anonymous
-28. Don Quixote – Cervantes AUDIOBOOK LISTENING
+28. Don Quixote – Cervantes BOUGHT
 Shakespeare (Most Critically Celebrated Plays)
 29. Hamlet AUDIOBOOK
 30. King Lear AUDIOBOOK
@@ -48,8 +48,8 @@ Shakespeare (Most Critically Celebrated Plays)
 38. Gulliver’s Travels – Jonathan Swift
 39. Tristram Shandy – Laurence Sterne
 19th Century (Peak of the Novel)
-40. War and Peace – Leo Tolstoy
-41. Anna Karenina – Leo Tolstoy
+40. War and Peace – Leo Tolstoy BOUGHT
+41. Anna Karenina – Leo Tolstoy BOUGHT
 42. Madame Bovary – Flaubert
 43. Crime and Punishment – Dostoevsky BOUGHT
 44. The Brothers Karamazov – Dostoevsky
@@ -119,6 +119,7 @@ US & UK 20th Century Critical Giants
 Late/Postmodern Works with Strong Academic Standing
 100. If on a Winter’s Night a Traveler – Italo Calvino
 101. Death of Ivan Ilych- Tolstoy DONE
+
 Avante garde/ Experimental works:
 
 Finnegan's wake 
@@ -455,7 +456,6 @@ Meditations – Marcus Aurelius
 Confessions – Augustine
 City of God – Augustine
 Muqaddimah – Ibn Khaldun
-2. Religion, Theology, Metaphysics
 Summa Theologica – Thomas Aquinas
 Guide for the Perplexed – Maimonides
 The Interior Castle – Teresa of Ávila
@@ -466,7 +466,7 @@ Two Treatises of Government – John Locke
 The Spirit of the Laws – Montesquieu
 The Social Contract – Jean‑Jacques Rousseau
 Reflections on the Revolution in France – Edmund Burke
-3. The Scientific Revolution
+
 On the Revolutions of the Heavenly Spheres – Copernicus
 Dialogue Concerning the Two Chief World Systems – Galileo
 Principia Mathematica – Isaac Newton
@@ -477,7 +477,7 @@ Meditations on First Philosophy – René Descartes
 An Enquiry Concerning Human Understanding – David Hume
 Critique of Pure Reason – Immanuel Kant
 Phenomenology of Spirit – Hegel
-4. Economics, Capitalism, Industry, Society
+
 The Wealth of Nations – Adam Smith
 The Theory of Moral Sentiments – Adam Smith
 Democracy in America – Alexis de Tocqueville
@@ -488,7 +488,7 @@ The Protestant Ethic and the Spirit of Capitalism – Max Weber
 The Great Transformation – Karl Polanyi
 The General Theory of Employment, Interest and Money – John Maynard Keynes
 Capitalism, Socialism and Democracy – Joseph Schumpeter
-5. Human Nature, Evolution, Psychology
+
 On the Origin of Species – Charles Darwin
 The Descent of Man – Charles Darwin
 The Expression of the Emotions in Man and Animals – Charles Darwin
@@ -499,7 +499,7 @@ The Hero with a Thousand Faces – Joseph Campbell
 The Structure of Scientific Revolutions – Thomas Kuhn
 The Selfish Gene – Richard Dawkins
 Gödel, Escher, Bach – Douglas Hofstadter
-6. History, War, Power, Empire
+
 The Decline and Fall of the Roman Empire – Edward Gibbon
 The Second World War – Winston Churchill
 The Guns of August – Barbara Tuchman
@@ -510,7 +510,7 @@ The Wretched of the Earth – Frantz Fanon
 Discipline and Punish – Michel Foucault
 The History of Sexuality, Vol. 1 – Michel Foucault
 Imagined Communities – Benedict Anderson
-7. Language, Culture, Anthropology
+
 Tristes Tropiques – Claude Lévi‑Strauss
 The Golden Bough – James Frazer
 The Interpretation of Cultures – Clifford Geertz
@@ -521,7 +521,7 @@ A Room of One’s Own – Virginia Woolf
 Silent Spring – Rachel Carson
 The Feminine Mystique – Betty Friedan
 Pedagogy of the Oppressed – Paulo Freire
-8. Modernity, Technology, Information, The Present
+
 The Society of the Spectacle – Guy Debord
 Simulacra and Simulation – Jean Baudrillard
 Understanding Media – Marshall McLuhan
@@ -532,7 +532,7 @@ Being and Time – Martin Heidegger
 Tractatus Logico‑Philosophicus – Ludwig Wittgenstein
 Philosophical Investigations – Ludwig Wittgenstein
 A Brief History of Time – Stephen Hawking
-9. Big Histories and Synthesis
+
 The Outline of History – H. G. Wells
 The Story of Civilization – Will and Ariel Durant
 The Open Society and Its Enemies – Karl Popper
@@ -543,7 +543,7 @@ The Better Angels of Our Nature – Steven Pinker
 The Beginning of Infinity – David Deutsch
 Cosmos – Carl Sagan
 The Denial of Death – Ernest Becker
-10. Frontier / Experimental / Difficult Non‑Fiction
+
 Being and Nothingness – Jean‑Paul Sartre
 Difference and Repetition – Gilles Deleuze
 Of Grammatology – Jacques Derrida
