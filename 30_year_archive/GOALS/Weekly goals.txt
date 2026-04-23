@@ -1,12 +1,14 @@
 20/4-26/4
 
-1. 10 USACO problems. 1 done
+1. 10 USACO problems. 2 done
 2. 2 virtual contests with FULL upsolve and analysis.
 3. Walk for 1 hour while reading book/listening to audiobook daily. (reduced it to have consistency and patience)
 4. Weight target 51.1
 5. 6 tasks from work list. 
 6. Perfect routine. Perfect exercise and guitar. No social media. No distractions. 
-7. Have a diet of <1200 cal everyday
+7. Have a diet of <1500 cal everyday and activity >2 hours total walking/running + weights. 15 sets weights daily or 
+30 sets every alternate day.
+
 
 20
 Woke up on time.
@@ -41,10 +43,34 @@ things in the daily. Patience and Consistency is a better alternative instead of
 
 
 22
-Wokeup on time. No bhujia or other things. Need to diet extremely clean and below 1200 cal in the daily.
+Wokeup on time. No bhujia or other things. Need to diet extremely clean and below 1200 cal daily.
+Tried the USACO https://codeforces.com/problemset/problem/632/C but still stuck. 
+Exercise target: 15 sets weight. Will increase it to 30 in one day and then alternate it with jogging. 
+8 sets weight done. Will do more in evening. 
+15 sets total done. 
+1 hour walk.
+Just need to focus a bit more on USACO, and waste a bit less time. Now some time around 3-4 hours per day is being wasted, and also 
+efficiency in work tasks for eg can be better. But apart from that everything is good.
+
+USACO wasn't able to do, will try again tomorrow. Today remaining. Book and Guitar
+Book reading fine. But guitar only 20 mins. Need to do more, and get more time. I need to keep guitar and books on standby 
+and do 45 min sessions whenever possible.
 
 
 23
+Task: Same exercise, USACO and 1 contest. Work 1 task. Guitar 1 session. Book 1 session. 
+Find more time for guitar and book by doing it during small downtimes. 
+Always be in a flow state. I can still maximize it almost by 5-6 hours.
+https://codeforces.com/problemset/problem/632/C
+This solution was very simple but not simple to arrive and slightly hacky. Required very deep knowledge of how custom operators 
+are working. Will keep this in mind.
+USACO 1 done. 
+
+Calories => 500 bhujia oreo coffee + 100 banana =600
+
+
+
+
 
 
 24

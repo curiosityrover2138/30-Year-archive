@@ -2,6 +2,16 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://codeforces.com/problemset/problem/632/C
+
+bool customCompare(const string &a, const string &b) 
+    return (a+b)<(b+a);
+    
+
+    Sorting can be done using this comparision 
+    
+    Basically the idea of sorting using the concatenation is same as concatenating and sorting, as everything is transitive.
+
 https://usaco.org/index.php?page=viewproblem2&cpid=645
 
 Had all the right ideas of precomputation using prefix suffix as well as dividing it into 2 halves using x and y 
@@ -11,8 +21,6 @@ Bug was with a small thing. Reimplement it and use abstraction for reused ideas.
 
 https://atcoder.jp/contests/abc164/tasks/abc164_d
 
-string s;
-    cin >> s;
 
     int num = 0, n = s.size(), pow = 1;
     int count[2019]{1};
@@ -25,7 +33,7 @@ string s;
     for (int i = 0; i < 2019; i++) {
         ans += (long long)count[i] * (count[i] - 1) / 2;
     }
-    cout << ans << endl;
+    
 
     Rolling modulus of everything. This is the idea. I knew the basic logic but I didn't know how to implement. Will try again this later. 
     Learn this pattern. Very useful.
