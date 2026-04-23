@@ -1,0 +1,12 @@
+https://codeforces.com/contest/2184
+
+Heavy on topics I wasn't comfortable with for eg number theory, recursion etc. Bad contest.
+
+
+Will upsolve and list all solutions here.
+
+https://codeforces.com/contest/2184/problem/C
+Recursion with memoization
+https://codeforces.com/contest/2184/problem/D
+
+Upsolve from here in 1-2 days.
