@@ -10,3 +10,7 @@ Recursion with memoization
 https://codeforces.com/contest/2184/problem/D
 
 Upsolve from here in 1-2 days.
+Done. Nothing much to upsolve as the topics are from late silver and early gold. The sums themselves aren't that hard
+but the topics are hard, but  
+its fine for me now to just give contests instead of understanding all problems. When I do the topics, it will be much clearer.
+
