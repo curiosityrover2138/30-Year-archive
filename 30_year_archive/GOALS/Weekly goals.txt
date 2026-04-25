@@ -133,7 +133,10 @@ or hard problems at work.
 25
 Trying https://codeforces.com/problemset/problem/1472/E but stuck 
 Had some issues with sleeping due to nisa and other things. 
-
+Stuck even after trying for 1 hour. 
+https://codeforces.com/problemset/problem/1472/E Way too hard. Couldn't have thought about it even if I tried.
+Prefix sums + sorting + binary search.
+But still I was able to progress decently based on what I was thinking. I had thought of binary search 
 
 26
 Contest day
