@@ -1,10 +1,15 @@
 20/4-26/4
 
-1. 10 USACO problems. 3 done
-2. 2 virtual contests with FULL upsolve and analysis.
+1. 10 USACO problems. 5 done. AM able to do, but can struggle more in the hard ones. ANd move on quickly 
+after struggling and come back to them again later. Will do from next week.
+2. 2 virtual contests with FULL upsolve and analysis. 1 done. Cannot really upsolve on the topics 
+i haven't really done from USACO since it becomes lots of extra work. Focus on USACO majorly. Now contests are 
+for practice of the mindset mainly, and just rehashing what I already know. But don't learn new things from contest yet.
+That I will focus on problems where I have done the USACO module for. The ones I leave will keep decreasing as I get to usaco 
+gold first half.
 3. Walk for 1 hour while reading book/listening to audiobook daily. (reduced it to have consistency and patience)
 4. Weight target 51.1 now 51.6 with slight food. Not sure what it will be totally empty 
-5. 6 tasks from work list. 1 done 
+5. 6 tasks from work list. 5 done 
 6. Perfect routine. Perfect exercise and guitar. No social media. No distractions. 
 7. Have a diet of <1500 cal everyday and activity >2 hours total walking/running + weights. 15 sets weights daily or 
 30 sets every alternate day.
@@ -137,6 +142,12 @@ Stuck even after trying for 1 hour.
 https://codeforces.com/problemset/problem/1472/E Way too hard. Couldn't have thought about it even if I tried.
 Prefix sums + sorting + binary search.
 But still I was able to progress decently based on what I was thinking. I had thought of binary search 
+These kinds of problems I won't be able to do without giving lots of contests. I know everything individually but synthesis 
+comes later. Its fine. I am keeping silver problems on standby anyways till I complete gold. So it will work out once i
+reach mid-late gold.
+From next week will also focus on completing USACO bronze all sums I have left. And also aim to complete Silver by doing 
+all the normal problems from all sections and understanding all the theory. Now in graph. Still 5 sections are remaining.
+
 
 26
 Contest day
