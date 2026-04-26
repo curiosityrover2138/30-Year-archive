@@ -1,3 +1,46 @@
+27/4-3/5
+
+1. 12 USACO problems.
+2. Start Bronze USACO problems left and complete as much as possible.
+3. 3 problems from codeforces/usaco problems to do again list 
+4. 3 contests and full upsolve. 
+5. Complete 5 tasks from work list and give KT everyday.
+6. Perfect routine, perfect guitar and perfect exercise.
+7. Weight target 50.6
+8. 60 sets of weights total in week. 
+
+
+27
+
+
+
+
+
+28
+
+
+
+29
+
+
+
+30
+
+
+
+
+
+
+1
+
+
+
+2
+
+
+3
+
+
 20/4-26/4
 
 1. 10 USACO problems. 5 done. AM able to do, but can struggle more in the hard ones. ANd move on quickly 
@@ -7,12 +50,12 @@ i haven't really done from USACO since it becomes lots of extra work. Focus on U
 for practice of the mindset mainly, and just rehashing what I already know. But don't learn new things from contest yet.
 That I will focus on problems where I have done the USACO module for. The ones I leave will keep decreasing as I get to usaco 
 gold first half.
-3. Walk for 1 hour while reading book/listening to audiobook daily. (reduced it to have consistency and patience)
-4. Weight target 51.1 now 51.6 with slight food. Not sure what it will be totally empty 
+3. Walk for 1 hour while reading book/listening to audiobook daily. (reduced it to have consistency and patience) DONE
+4. Weight target 51.1 now 51.6 with slight food. Not sure what it will be totally empty DECENT 
 5. 6 tasks from work list. 5 done 
-6. Perfect routine. Perfect exercise and guitar. No social media. No distractions. 
+6. Perfect routine. Perfect exercise and guitar. No social media. No distractions. ALMOST DONE
 7. Have a diet of <1500 cal everyday and activity >2 hours total walking/running + weights. 15 sets weights daily or 
-30 sets every alternate day.
+30 sets every alternate day. DONE but weights CAN BE IMPROVED A BIT. 
 
 
 20
@@ -155,6 +198,24 @@ From tomorrow will track weekly weights so that my muscle mass doesn't reduce al
 
 26
 Contest day
+Do 1 contest and upsolve and do 2 USACO problems today or atleast try your best to.
+https://usaco.org/index.php?page=viewproblem2&cpid=1304
+Stuck in this, need to ensure I can do it fully myself. Its just bfs/dfs with pruning, and best state check. I can definitely 
+do this. I have to just implement it the best way I am comfortable doing.
+
+Stuck in USACO. Not able to work because sleep is improper. Just feeling miserable. Need to stop talking to clankers and work 
+furiously. Its fine, atleast I am trying earnestly which wasn't happening before. Now I just need to increase efficiency .
+Didn't do contest, but will do 3 next week to compensate. ALso its not THAT useful now anyways till I complete the otpics. I just 
+need to try and get to 2 USACO sums a day. That will be the sweet spot. 
+
+Won't sleep at daytime. Will do a bit more books and guitar. Will again furiously do it tomorrow as I am able to sleep properly.
+It will WORK. I WILL FORCE IT TO.
+1 hour of walk. 1 session of book. 
+I need to force myself and try much harder, and much more furiously. Be a warrior. The point of life is very clear to me, I just 
+have to embrace the bleakness, and just keep working. There is happiness, but it is only at the end of sunday when I have already 
+worked 100 hours that week. Thats the only satisfaction that exists.
+
+
 
 
 14/4- 19/4
