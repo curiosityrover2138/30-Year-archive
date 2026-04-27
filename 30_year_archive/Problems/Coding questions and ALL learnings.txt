@@ -2,6 +2,40 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://usaco.org/index.php?page=viewproblem2&cpid=1304
+
+Precomputing as well as only doing bfs on the flights available. Also I can precompute by the layovers and sort the 
+flights by decreasing of r so that it is easy to check.
+for (ll c = 1; c <= N; c++) {
+        for (auto &f : flights_base[c]) {
+            ll r, d, s;
+            tie(r, d, s) = f;
+            flights[c].push_back({r - layovers[c], d, s});
+        }
+
+        // sort in decreasing order (reverse=True in Python)
+        sort(flights[c].begin(), flights[c].end(), greater<>());
+    }
+
+while (qid < (ll)q.size()) {
+        ll r, d, s;
+        tie(r, d, s) = q[qid];
+
+        // relax
+        if (s < time[d]) {
+            time[d] = s;
+
+            // add newly available flights
+            while (idx[d] < (ll)flights[d].size() &&
+                   get<0>(flights[d][idx[d]]) >= s) {
+                q.push_back(flights[d][idx[d]]);
+                idx[d]++;
+            }
+        }
+
+        qid++;
+    }
+
 https://codeforces.com/problemset/problem/632/C
 
 bool customCompare(const string &a, const string &b) 
