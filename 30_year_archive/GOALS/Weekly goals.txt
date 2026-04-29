@@ -1,14 +1,14 @@
 27/4-3/5
 
-1. 12 USACO problems.
-2. Start Bronze USACO problems left and complete as much as possible.
+1. 12 USACO problems. 2
+2. Start Bronze USACO problems left and complete as much as possible. 1
 3. 3 problems from codeforces/usaco problems to do again list 
 4. 3 contests and full upsolve. 
 5. Complete 5 tasks from work list and give KT everyday.
 6. Perfect routine, perfect guitar and perfect exercise.
 7. Weight target 50.6
-8. 60 sets of weights total in week. 
-9. 600 pages of book in the week.
+8. 60 sets of weights total in week. 6
+9. 600 pages of book in the week. 100
 
 
 27
@@ -27,10 +27,24 @@ on weight. Also didn't do weights today. Its fine 60 sets I will be able to achi
 
 
 28
+Wokeup on time. 
 
+Did 1 usaco bronze and read book 45 mins.
+Book 30 mins more.
+6 sets weights. 45 mins walk.
+Didn't do more today since I ate less.
+Had a bit more food. Also did guitar 20 mins. 
+I am having difficulty doing guitar more because of waning interest in classical and rising interest in electrical + 
+getting tired by 7-8 PM 
+Need to solve both problems because the interest issue is just temporary and the tiredness issue is due to routine.
+Will take the guitar problem on priority from next week, and see to it that I achieve the weekly targets. This week the 
+targets to be achieved are in the goals. Apart from that guitar I can keep a sensible amount as much as possible, without 
+sabotaging my current weekly goals. 
 
 
 29
+Wokeup on time.
+Started on USACO sum but stuck. Need to try much harder.
 
 
 
