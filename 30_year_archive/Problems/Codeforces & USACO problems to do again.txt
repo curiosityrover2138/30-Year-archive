@@ -137,3 +137,5 @@ https://usaco.org/index.php?page=viewproblem2&cpid=645 -> Reimplement again. Ide
 https://codeforces.com/problemset/problem/632/C
 
 https://usaco.org/index.php?page=viewproblem2&cpid=1304
+
+https://usaco.org/index.php?page=viewproblem2&cpid=1159

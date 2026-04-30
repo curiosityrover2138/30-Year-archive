@@ -45,10 +45,20 @@ sabotaging my current weekly goals.
 29
 Wokeup on time.
 Started on USACO sum but stuck. Need to try much harder.
-
+1.2 hours walk. Good diet. 1 hour book. 
+10 sets weight. I need to be able to do 15 from tomorrow, and need to get to the point where I can do 15 everyday. I ate less 
+today so 10 is passable, but 15 needs to be the target.
+No guitar but book reading was good. Can do much better in both these. 
 
 
 30
+Wokeup on time. Did some chores of the house.
+Did https://usaco.org/index.php?page=viewproblem2&cpid=1159
+Was doing binary search and overcomplicating it, but binary search is invalid on differences since it is not monotonic. 
+But still the implementation was great from my end, and with only slight help and mostly coming up with the full logic 
+myself was able to do it.
+Still will do it again later to keep this in mind.
+
 
 
 

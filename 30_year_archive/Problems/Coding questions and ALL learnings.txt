@@ -2,6 +2,12 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://usaco.org/index.php?page=viewproblem2&cpid=1159
+Had the correct idea, but was doing binary search on the greater or lesser ones but the diff between elements is not monotonic 
+so it was failing, ultimately corrected it and got AC.
+Also needed 2 pointer approach to get minimum diff instead of binary search.
+
+
 https://usaco.org/index.php?page=viewproblem2&cpid=1304
 
 Precomputing as well as only doing bfs on the flights available. Also I can precompute by the layovers and sort the 
