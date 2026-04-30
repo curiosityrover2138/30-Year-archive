@@ -7,7 +7,7 @@
 5. Complete 5 tasks from work list and give KT everyday.
 6. Perfect routine, perfect guitar and perfect exercise.
 7. Weight target 50.6
-8. 60 sets of weights total in week. 6
+8. 60 sets of weights total in week. 16
 9. 600 pages of book in the week. 100
 
 
@@ -60,7 +60,15 @@ myself was able to do it.
 Still will do it again later to keep this in mind.
 
 
+I am able to figure out MOST of the solution, but missing 1-2 edge cases and not able to debug. I need to be exhaustive 
+and have much more resilience towards getting total AC, and not just think of a problem as done. This will only come through 
+practice and patience, not from just banging my head on the wall. I also need to take AS MUCH AS POSSIBLE from a problem. For 
+now with most problems its fine, but I need to get to hte point that I can finish my list of problems and do any problem 
+next time I encounter and complete my todo again list. That will ensure I have crossed this threshold. However i am still in 
+much better shape than I was. 
 
+Ate a lot today (junk like bhujia oreo etc). Calories exceeded a bit today. Will eat less from tomorrow. Today was around 
+2500
 
 
 
