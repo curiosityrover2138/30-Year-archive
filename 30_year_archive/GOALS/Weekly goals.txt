@@ -3,8 +3,9 @@
 1. 12 USACO problems. 5
 2. Start Bronze USACO problems left and complete as much as possible. 3
 3. 3 problems from codeforces/usaco problems to do again list 
-4. 3 contests and full upsolve. 
-5. Complete 5 tasks from work list and give KT everyday.
+4. 3 contests and full upsolve.  Cannot do. Maybe I could have done if I went full force from Monday. Will do that from next week.
+This week will accept the failure but do 2 contests full upsolve.
+5. Complete 5 tasks from work list and give KT everyday. 3 tasks done.
 6. Perfect routine, perfect guitar and perfect exercise.
 7. Weight target 50.6
 8. 60 sets of weights total in week. 20
@@ -89,6 +90,11 @@ ANYONE. Learn on your own and struggle on your own on things that actually matte
 For things that require thinknig, think on your own. For things that require doing and knowing, learn and do.
 1 USACO bronze DONE.
 
+https://codeforces.com/contestRegistration/1702/virtual/true
+Do this 
+
+https://codeforces.com/contest/1702/problem/C
+From here make a 2 hour timer and do the rest of the problems. I am getting very very hungry. 
 
 
 
