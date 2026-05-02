@@ -1,14 +1,13 @@
 27/4-3/5
 
-1. 12 USACO problems. 5
-2. Start Bronze USACO problems left and complete as much as possible. 3
-3. 3 problems from codeforces/usaco problems to do again list 
-4. 3 contests and full upsolve.  Cannot do. Maybe I could have done if I went full force from Monday. Will do that from next week.
-This week will accept the failure but do 2 contests full upsolve.
+1. 12 USACO problems. 6
+2. Start Bronze USACO problems left and complete as much as possible. 3 DONE
+3. 3 problems from codeforces/usaco problems to do again list NOT DONE
+4. 3 contests and full upsolve.  NOT DONE. Need to do Monday, Wed and Fri as delayed it and messed up.
 5. Complete 5 tasks from work list and give KT everyday. 3 tasks done.
-6. Perfect routine, perfect guitar and perfect exercise.
+6. Perfect routine, perfect guitar and perfect exercise. DECENT 
 7. Weight target 50.6
-8. 60 sets of weights total in week. 31
+8. 60 sets of weights total in week. 3
 9. 600 pages of book in the week. 300
 
 
@@ -110,9 +109,16 @@ Wokeup on time. Didn't sleep THAT much, but still its fine. Slightly less, but w
 will compensate on another day. No napping unless I am fainting or there is a big task.
 Today:  https://codeforces.com/contest/1702/problem/C upsolve from here and see all solutions of this contest.
 1 USACO problem. done
-60 pages of book. 40 done.
-20 sets of weight. 10 +10 
-1/2 session guitar. 
+60 pages of book. 100 done.
+20 sets of weight. 10 +10 14 done, will complete all tomorrow.
+1/2 session guitar. Can't do it. Need to find a way to integrate book reading properly and from next week will focus on guitar more 
+like 14-15 hours per week and then increasing it to 30.
+I still feel bad but if I do guitar today it will kill the flow of other things and make me nothing with an ambition of all.
+Will do 1.5 hours guitar tomorrow. Also need to be consistent as missing something leads to a cascading effect. 1 missed hour 
+in the morning or 3 days ago means much greater pressure for the future. I need to keep this in mind. Need to work hard so that 
+my future self thanks me.
+This has been a major learning this week. Even though i achieved some goals, I need to go full force from the beginning of the week  
+itself. DON'T DELAY ANYTHING.
 
 1 USACO bronze done. 
 I am doing much better than before. But still the ratio of  flow vs nonflow is around 1:3 throught the day. Need to reduce the 
@@ -121,6 +127,8 @@ I am unable to give contest now because I delayed it and now its very hard. Tomo
 today. Also I am eating less so everything is much harder.
 From next week will give contests Monday, Wednesday and Friday and upsolve in same day.
 During contest days will attempt 1 problem, or else attempt 2 per day USACO. contest from 9-11:30 AM.
+
+14 sets weight.
 
 
 
