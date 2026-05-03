@@ -1,6 +1,6 @@
 4/5 - 10/5
 1. 7 problems from USACO training 
-2. 5 problems from USACO silver 
+2. 5 problems from USACO guide silver 
 3. 4 problems from to again list. 
 4. 3 contests + full upsolve
 5. 5 tasks from work list and give KT 
