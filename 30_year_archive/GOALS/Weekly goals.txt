@@ -1,13 +1,50 @@
+4/5 - 10/5
+1. 7 problems from USACO training 
+2. 5 problems from USACO silver 
+3. 4 problems from to again list. 
+4. 3 contests + full upsolve
+5. 5 tasks from work list and give KT 
+6. 20 hours of guitar full week. Try 3 hours daily.
+7. Complete Don Quixote.
+8. 65 sets weight.
+9. Get weight to 51 Kg. Have calories <1500 daily. 
+
+
+4
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+
+10
+
+
+
+
+
 27/4-3/5
 
-1. 12 USACO problems. 6
+1. 12 USACO problems. DONE
 2. Start Bronze USACO problems left and complete as much as possible. 3 DONE
 3. 3 problems from codeforces/usaco problems to do again list NOT DONE
 4. 3 contests and full upsolve.  NOT DONE. Need to do Monday, Wed and Fri as delayed it and messed up.
-5. Complete 5 tasks from work list and give KT everyday. 3 tasks done.
+5. Complete 5 tasks from work list and give KT everyday. DONE
 6. Perfect routine, perfect guitar and perfect exercise. DECENT 
-7. Weight target 50.6
-8. 60 sets of weights total in week. 45
+7. Weight target 50.6 NOT DONE
+8. 60 sets of weights total in week. 51
 9. 600 pages of book in the week. 300. Can do 350 maximum, that is the limit I think. I need to do 50 pages a day at max.
 
 
@@ -140,7 +177,8 @@ Walk 1.5 hours. Exercise 16 sets
 From today have a very restricted diet. Have the BARE minimum it requires to work, and eat on time, but NEVER have more 
 than 400 calories in a meal. 
 150 pages of don quixote 40 done.
-Guitar 1 session.
+Guitar 1 session. Won't be able to do. Again I am having difficulty with guitar. From tomorrow will do it in regime.
+
 1 set USACO done but no problem.
 I am deriving much more pleasure from solving USACO problems than giving contests as they involve topics 
 i haven't really finished. Focus more on solving, but give contests 3 a week still and keep in mind the topics encountered 
@@ -156,6 +194,11 @@ https://usaco.training/usacoprob2?a=jkUWjYT0Myj&S=gift1 DONE.
 2 done from USACO training. 
 Now I am able to get pleasure and actual output from USACO problems. I just need to increase efficiency both of learning 
 and thinking.
+
+Was able to do 3 sums and was able to progress very quickly and easily beyond the sum I was stuck on in USACO training.
+Now from tomorrow will do more USACO training sums and aim to complete this and silver.
+6 sets weights
+
 
 
 
