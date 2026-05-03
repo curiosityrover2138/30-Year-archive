@@ -2,6 +2,9 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+https://cses.fi/problemset/task/3175/
+Do a recursion and backtracking. I was trying to construct a solution which is not a good idea.
+
 https://usaco.org/index.php?page=viewproblem2&cpid=1159
 Had the correct idea, but was doing binary search on the greater or lesser ones but the diff between elements is not monotonic 
 so it was failing, ultimately corrected it and got AC.

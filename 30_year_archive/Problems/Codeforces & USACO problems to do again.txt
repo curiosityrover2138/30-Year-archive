@@ -141,3 +141,5 @@ https://usaco.org/index.php?page=viewproblem2&cpid=1304
 https://usaco.org/index.php?page=viewproblem2&cpid=1159
 
 https://usaco.org/index.php?page=viewproblem2&cpid=1035
+
+https://cses.fi/problemset/task/3175/

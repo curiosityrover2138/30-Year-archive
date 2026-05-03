@@ -148,6 +148,10 @@ and the ideas learnt. I am not willing to do contest today, but still from next 
 make contests my learning ground as well. Its fine to not finish this, because solving USACO is the MAIN GOAL.
 
 
+https://usaco.training/
+I also need to finish this in the upcoming 2-3 weeks to make myself ready for most of silver problems.
+
+
 20/4-26/4
 
 1. 10 USACO problems. 5 done. AM able to do, but can struggle more in the hard ones. ANd move on quickly 
