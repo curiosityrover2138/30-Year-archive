@@ -1,7 +1,7 @@
 25march-30 July 
 1. A bit change in plans because of switch discussions
 2. Do perfect sessions everyday and focused sessions 
-3. Complete Neetcode and USACO Silver 
+3. Complete https://usaco.training/ and USACO Silver atleast 70%+
 4. Start USACO gold.
 5. Have 3 work sessions atleast on work days, 1 usaco/leetcode/maths session, 1 exercise session and guitar and reading sessions perfectly 
 everyday.
