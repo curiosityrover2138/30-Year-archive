@@ -135,12 +135,16 @@ During contest days will attempt 1 problem, or else attempt 2 per day USACO. con
 
 
 3
-Today: 3 USACO sets. Old contest upsolve.
+Today: 2 USACO problems.
 Walk 1.5 hours. Exercise 16 sets 
 From today have a very restricted diet. Have the BARE minimum it requires to work, and eat on time, but NEVER have more 
 than 400 calories in a meal. 
 Guitar 1 session.
-
+1 set USACO done but no problem.
+I am deriving much more pleasure from solving USACO problems than giving contests as they involve topics 
+i haven't really finished. Focus more on solving, but give contests 3 a week still and keep in mind the topics encountered 
+and the ideas learnt. I am not willing to do contest today, but still from next week I will do it fully and 
+make contests my learning ground as well. Its fine to not finish this, because solving USACO is the MAIN GOAL.
 
 
 20/4-26/4
