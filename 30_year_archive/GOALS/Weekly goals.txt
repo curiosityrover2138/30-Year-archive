@@ -2,7 +2,7 @@
 1. 7 problems from USACO training 3
 2. 5 problems from USACO guide silver 
 3. 4 problems from to again list. 
-4. 3 contests + full upsolve. Tuesday, Thursday, Saturday Not doing contests. Its bad for me.
+4. 3 contests + full upsolve. Tuesday, Thursday, Saturday Not doing contests. NOT DONE. WON"T DO. Its bad for me.
 and not at all helpful now. I need to complete silver asap and then will do contests 1 a week and after gold will increase it to 
 4-5. Only then will it be helpful. ANything else is idiotic and feels like just implementation without studying.
 5. 5 tasks from work list and give KT 
