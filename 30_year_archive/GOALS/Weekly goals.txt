@@ -1,10 +1,12 @@
 4/5 - 10/5
-1. 7 problems from USACO training 1
+1. 7 problems from USACO training 3
 2. 5 problems from USACO guide silver 
 3. 4 problems from to again list. 
-4. 3 contests + full upsolve. Tuesday, Thursday, Saturday
+4. 3 contests + full upsolve. Tuesday, Thursday, Saturday Not doing contests. Its bad for me.
+and not at all helpful now. I need to complete silver asap and then will do contests 1 a week and after gold will increase it to 
+4-5. Only then will it be helpful. ANything else is idiotic and feels like just implementation without studying.
 5. 5 tasks from work list and give KT 
-6. 20 hours of guitar full week. Try 3 hours daily.
+6. 20 hours of guitar full week. Try 3 hours daily. 1 done
 7. 250-300 pages of don quixote as comprehension and enjoyment is suffering if I do more. Do 30 pages per sitting 
 for any book and do 2 sittings per day. Start: 575 Now: 613
 7.5 Complete Brave new world. DONE. Not worth reading fully but extracted everything I wanted.
@@ -45,6 +47,11 @@ Wokeup on time.
 Contest day Give contest from 10-12
 A bit delayed to give contest. Will give it today. 
 https://codeforces.com/contest/2132/countdown Giving today 
+I am not at all finding any pleasure from giving contest. I will just keep doing USACO training, and finish asap till gold.
+After that will give ONLY CONTESTS like 4-5 a week and i will just start with div 2. It just seems like a waste of time and 
+like giving exams while studying a subject midway. Its not at all pleasurable. Will remove contests totally, and maybe give 1 serious 
+one a week after I complete silver. For now I am deriving much more pleasure just being stuck in USACO problems and gridning 
+one after hours and implementing a huge one for hours.
 
 
 
