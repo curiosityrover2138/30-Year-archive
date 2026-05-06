@@ -71,7 +71,7 @@ Wakeup on time.
 
 Today: Do 3-4 USACO training, guitar 3 hours, 15-20 sets weights, don quixote 50+ pages and do the new process for 
 top payers data so that it is clearly run and executed well.
-major task done for work. Made a new process for payershare refresh.
+major task done for work. Made a new process for top payers refresh.
 
 WOn't be able to walk today. Will eat very less to compensate. Also will do weights.
 
