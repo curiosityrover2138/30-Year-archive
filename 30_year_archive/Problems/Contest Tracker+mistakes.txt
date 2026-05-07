@@ -14,3 +14,96 @@ Done. Nothing much to upsolve as the topics are from late silver and early gold.
 but the topics are hard, but  
 its fine for me now to just give contests instead of understanding all problems. When I do the topics, it will be much clearer.
 
+
+
+
+
+
+
+
+
+Game plan for each contest and problem:
+
+Brainstorm many possible algorithms - then pick the stupidest that works!
+DO THE MATH! (space & time complexity, and plug in actual expected and worst case numbers)
+Try to break the algorithm - use special (degenerate?) test cases
+Order the problems: shortest job first, in terms of your effort 
+(shortest to longest: done it before, easy, unfamiliar, hard)
+
+
+
+Finalize algorithm
+Create test data for tricky cases
+Write data structures
+Code the input routine and test it (write extra output routines to show data?)
+Code the output routine and test it
+Stepwise refinement: write comments outlining the program logic
+Fill in code and debug one section at a time
+Get it working & verify correctness (use trivial test cases)
+Try to break the code - use special cases for code correctness
+Optimize progressively - only as much as needed, and keep all versions (use hard test cases to figure out actual runtime)
+
+
+
+Have a plan for what to do when various (foreseeable!) things go wrong; imagine 
+problems you might have and figure out how you want to react. The central question is: 
+"When do you spend more time debugging a program, and when do you cut your losses and move on?". Consider these issues:
+
+How long have you spent debugging it already?
+What type of bug do you seem to have?
+Is your algorithm wrong?
+Do you data structures need to be changed?
+Do you have any clue about what's going wrong?
+A short amount (20 mins) of debugging is better than switching to anything else; but 
+you might be able to solve another from scratch in 45 mins.
+When do you go back to a problem you've abandoned previously?
+When do you spend more time optimizing a program, and when do you switch?
+Consider from here out - forget prior effort, focus on the future: how 
+can you get the most points in the next hour with what you have?
+Have a checklist to use before turning in your solutions:
+
+Code freeze five minutes before end of contest?
+Turn asserts off.
+Turn off debugging output.
+
+
+
+
+Brute force it when you can
+KISS: Simple is smart!
+Hint: focus on limits (specified in problem statement)
+Waste memory when it makes your life easier (if you can get away with it)
+Don't delete your extra debugging output, comment it out
+Optimize progressively, and only as much as needed
+Keep all working versions!
+Code to debug:
+whitespace is good,
+use meaningful variable names,
+don't reuse variables,
+stepwise refinement,
+COMMENT BEFORE CODE.
+Avoid pointers if you can
+Avoid dynamic memory like the plague: statically allocate everything.
+Try not to use floating point; if you have to, put tolerances in everywhere (never test equality)
+Comments on comments:
+Not long prose, just brief notes
+Explain high-level functionality: ++i; /* increase the value of i by */ is worse than useless
+Explain code trickery
+Delimit & document functional sections
+As if to someone intelligent who knows the problem, but not the code
+Anything you had to think about
+Anything you looked at even once saying, "now what does that do again?"
+Always comment order of array indices
+Keep a log of your performance in each contest: successes, mistakes, 
+and what you could have done better; use this to rewrite and improve your game plan!
+
+
+Decomposition (The Hardest Thing At Programming Contests)
+While there are fewer than 20 basic algorithms used in contest problems, 
+the challenge of combination problems that require a combination of two 
+algorithms for solution is daunting. Try to separate the cues from different
+parts of the problem so that you can combine one algorithm with a 
+loop or with another algorithm to solve different parts of the problem 
+independently. Note that sometimes you can use the same algorithm twice 
+on different (independent!) parts of your data to significantly 
+improve your running time.
