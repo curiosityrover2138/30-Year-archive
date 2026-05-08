@@ -3,12 +3,12 @@ Gradatim Ferociter.  Train like Phelps or sleep. Nothing else. Flow existence. V
 THIS IS THE BARE MINIMUM.
 1. Wakeup 6-7:30 MAX
 2. Coffee and light snack
-3. USACO/Leetcode 1-2 sessions
-4. Work 1 session
+3. USACO/Leetcode 2 sessions non negotiable
+4. Work 1 session/ Book 1 session if work is less
 5. Bath/Grooming 
-6. Work 1 session 
+6. Work 1 session + Guitar 45 mins if workis less 
 7. Lunch 
-8. Work 1 session 
+8. Work 1 session + guitar 45 mins if work is less
 9. Exercise 1/2 session 
 10. Work 1 session or USACO 1 session as needed for the day 
 11. System design 1 session or work 1 session as needed
@@ -17,6 +17,9 @@ THIS IS THE BARE MINIMUM.
 14. Sleep 10:30-11:30 PM
 If work beyond 8, then reduce book reading time first, guitar second, and try and compensate for that in 
 morning of next day or weekend. 
+This routine is a floor, not a ceiling. At work time squeeze anything you want. Even USACO if needed. 
+But do whatever you want otherwise. Guitar and Book are needed only when you are missing the minimum. If not then 
+its fine to defer slightly, just don't miss the weekly goals.
 
 Do deep focus sessions of 1.5 hours. Consistency wins over intensity. This is already elite. Just follow it.
 Minimums are non negotiable and BARE MINIMUM. That I can and should achieve everyday. Effort matters, not outcome.
