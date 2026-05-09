@@ -5,7 +5,7 @@ Global canon:
 Top 100 Critically Evaluated Greatest Works of Literature (World Canon)
 Ancient & Classical (Pre–1000 AD)
 1. The Iliad – Homer DONE
-2. The Odyssey – Homer BOUGHT
+2. The Odyssey – Homer READING 
 3. Mahabharata – Vyasa
 4. Ramayana – Valmiki
 5. The Aeneid – Virgil DONE
@@ -68,7 +68,7 @@ Shakespeare (Most Critically Celebrated Plays)
 56. The Poems of Emily Dickinson
 57. The Charterhouse of Parma – Stendhal
 Early 20th Century Modernism
-58. Ulysses – James Joyce BOUGHT
+58. Ulysses – James Joyce READING 
 59. In Search of Lost Time – Marcel Proust
 60. The Trial – Franz Kafka DONE
 61. The Metamorphosis – Franz Kafka
