@@ -6,6 +6,10 @@ Solution:
 4. Exercise frontload in first half of the week to complete MOST of the target.
 5. Eat a good amount of dinner. SHould be your biggest meal.
 6. Don't sleep in day unless sleep is <6 hours that day.
+7. Do all other things except USACO while in work hours depending on the pending tasks at work.
+8. At work always keep a priority list of things, and be very intelligent about working with DEEP flow.
+9. Try and avoid veyr quick context switches, and when clock starts don't leave until the clock is done and you have reached a 
+checkpoint in any task you were doing.
 
 
 
