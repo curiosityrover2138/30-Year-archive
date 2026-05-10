@@ -1,4 +1,14 @@
 4/5 - 10/5
+Solution: 
+1. "Day" doesn't start until 10 AM. Don't check anything before 10 AM. Just focus on coffee and USACO from 6-10
+2. Do guitar and book 1/2 or 1 session atleast 1 before 3 AM to alleviate some stress. 
+3. Work in 1 session blocks.
+4. Exercise frontload in first half of the week to complete MOST of the target.
+5. Eat a good amount of dinner. SHould be your biggest meal.
+6. Don't sleep in day unless sleep is <6 hours that day.
+
+
+
 LEARNING-> Need to go full force but also find 
 time to rest a bit during the day. I am getting a bit stressed juggling multiple things 
 as well as doing small things and context switching that is not visible in this sheet.
