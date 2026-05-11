@@ -18,7 +18,9 @@ as well and have around 1200-1500 in the day.
 Didn't wake up on time today. Because sleep was a bit messed by sleepign yesterday during the day.
 Its fine, its nothing major. I will just not read book today because yesterday was enough and read 1 chapter of ulysses which 
 is a lot to take in anyways.
-
+https://usaco.training/usacoprob2?a=Pv3I6ZwoCyY&S=wormhole
+I am not making cases. Need to make cases for each N and see what the answer can be for each, and only then will I understand the
+full calculation.
 
 
 
