@@ -21,9 +21,11 @@ is a lot to take in anyways.
 https://usaco.training/usacoprob2?a=Pv3I6ZwoCyY&S=wormhole
 I am not making cases. Need to make cases for each N and see what the answer can be for each, and only then will I understand the
 full calculation.
-2 sets weight. Cannot do USACO tried with 1 set. Will try more tomorrow. TOday very tired.
+5 sets weight. Cannot do USACO tried with 1 set. Will try more tomorrow. TOday very tired.
 Only work remaining is guitar, and exercise today. From tomorrow will do with full intensity.
 
+Always relax and chill. Don't rush anything. And don't depend on others for any work you want to do. People are just 
+a numbers game, and about getting good at anticipating the human mind. Nothing else.
 
 
 12
