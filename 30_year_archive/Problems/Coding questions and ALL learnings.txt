@@ -1,6 +1,103 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://usaco.training/usacoprob2?a=B9p7M3um1rm&S=wormhole
+Simple logic but extremely tough to implement for me. 
+Just keep it very simple through loops. My thinking isn't clear. But its fine, I will make it clear.
+
+
+int N;
+vector<pair<int,int>> holes;
+int partner[12]; // partner[i] = j means wormhole i is paired with j
+
+// Returns the next wormhole Bessie hits after exiting wormhole idx
+// (she exits at holes[partner[idx]], walks right)
+int walk_right(int idx) {
+    int px = holes[partner[idx]].first;
+    int py = holes[partner[idx]].second;
+    int best = -1, bestx = INT_MAX;
+    for (int i = 0; i < N; i++) {
+        if (holes[i].second == py && holes[i].first > px) {
+            if (holes[i].first < bestx) {
+                bestx = holes[i].first;
+                best = i;
+            }
+        }
+    }
+    return best; // -1 if she walks off the map
+}
+
+bool has_cycle() {
+    // Try starting Bessie just to the left of each wormhole
+    // (simulates her walking into that wormhole first)
+    for (int start = 0; start < N; start++) {
+        // Simulate entering wormhole 'start'
+        int visited[12] = {};
+        int cur = start;
+        while (cur != -1) {
+            if (visited[cur]) return true; // cycle!
+            visited[cur] = 1;
+            cur = walk_right(cur); // exit partner[cur], walk to next hole
+        }
+    }
+    return false;
+}
+
+int ans = 0;
+
+void generate(int first_unused) {
+    // Find next unpaired wormhole
+    while (first_unused < N && partner[first_unused] != -1)
+        first_unused++;
+    
+    if (first_unused == N) {
+        // Complete pairing — check for cycle
+        if (has_cycle()) ans++;
+        return;
+    }
+    
+    for (int j = first_unused + 1; j < N; j++) {
+        if (partner[j] == -1) {
+            partner[first_unused] = j;
+            partner[j] = first_unused;
+            generate(first_unused + 1);
+            partner[first_unused] = -1;
+            partner[j] = -1;
+        }
+    }
+}
+
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    setIO(TASK);
+
+
+    cin >> N;
+    holes.resize(N);
+    for (int i = 0; i < N; i++)
+        cin >> holes[i].first >> holes[i].second;
+    
+    memset(partner, -1, sizeof(partner));
+    generate(0);
+    
+    cout << ans << endl;
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
 
 https://cses.fi/problemset/task/3175/
 Do a recursion and backtracking. I was trying to construct a solution which is not a good idea.
