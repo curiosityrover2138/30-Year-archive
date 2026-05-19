@@ -66,8 +66,8 @@ it will become easier
 
 18
 Walk 1 hour
-Target <800
-Calories:  breakfast- 340 lunch- 500 dinner- 2000
+Target <800 FAILED
+Calories:  breakfast- 340 lunch- 500 dinner- 2000 4000 total.
 Didn't wake up on time. Lots of grief due to recent events and other things. Its fine. I have coping strategies now, 
 and they should work. I can be more intense than before or atleast I think so. Changed weekly goals a bit and will achieve 
 them as much as possible now. Need to jsut be extremely intense and atleast get 90%+ of all my goals and ALL goals that 
@@ -89,7 +89,9 @@ Exercise 13 sets
 19
 Walk 1 hour
 Target <1200
-Calories:  breakfast- lunch- dinner-
+Calories:  breakfast- 150 lunch- dinner-
+Wokeup on time.
+
 
 
 20
