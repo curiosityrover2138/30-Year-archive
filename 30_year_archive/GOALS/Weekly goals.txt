@@ -9,7 +9,9 @@
 7. Give KTs. Perfect routine and perfect work tasks.
 8. Great diet. Get weight to 50.2 kg.
 9. Relax on sunday evening.
-10. Get sim of airtel with same number. Get cleaning done from dental hospital.
+10. Get sim of airtel with same number CANNOT DO 
+because of plan not porting. Need to wait for plan to expire. Will enable 
+wifi calling meanwhile and always keep wifi on for my phone. Get cleaning done from dental hospital.
 11. Eat 3 times a day. Eat a bit more and walk more. Like eat 1500-1600 calories and walk around 1.5 hours.
 Eat as healthy as possible. Try one fruit a day and pumpkin seeds and chia seeds everyday, alongwith decent home 
 cooked food and chicken and protein shake and lots of protein.
@@ -116,6 +118,9 @@ Calories:  breakfast- lunch- dinner-
 Woke up late, because slept late. Need to fix this. Its fine, didn't sleep in the afternoon so this is happening. Need to sleep 
 around 10:30-11 max.
 Urgent: GUitar 4-5 hours,exercise 15 sets and USACO. Everything else will wait.
+https://usaco.training/usacoprob2?a=CriFuhxyLp0&S=numtri
+Did the brute force but its getting TLE. Need to maybe do bfs?
+
 
 
 
