@@ -1,6 +1,59 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+
+https://usaco.training/usacoprob2?a=XxjXuyzRscp&S=pprime
+
+const int N = 1e8;
+
+bitset<(N >> 1) + 1> prime;
+
+Use bitset, and optimize using even length palindrome trick and odd sieve of erastothenes
+
+    prime.set();
+
+    // 1 is not prime
+    prime[0] = 0;
+
+    // odd-only sieve
+    for(ll i = 3; i * i <= N; i += 2){
+
+        if(prime[i >> 1]){
+
+            for(ll j = i * i; j <= N; j += (i << 1)){
+                prime[j >> 1] = 0;
+            }
+
+        }
+    }
+
+    // handle 2 separately
+    if(a <= 2 && b >= 2)
+        cout << 2 << '\n';
+
+    // start from odd
+    if(a % 2 == 0)
+        a++;
+
+    for(ll i = a; i <= b; i += 2){
+
+        // skip even digit lengths except 11
+        if(i != 11){
+            if(
+                (i >= 10 && i <= 99) ||
+                (i >= 1000 && i <= 9999) ||
+                (i >= 100000 && i <= 999999) ||
+                (i >= 10000000 && i <= 99999999)
+            ){
+                continue;
+            }
+        }
+
+        if(prime[i >> 1] && is_palindrome(i)){
+            cout << i << '\n';
+        }
+    }
+
 https://usaco.training/usacoprob2?a=A2UTjPvrC5n&S=numtri
 
 Use memoization alongwith managing all transitions. Its the most basic DP problem, just didn't expect to encounter DP 
