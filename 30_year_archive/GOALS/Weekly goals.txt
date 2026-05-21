@@ -4,10 +4,10 @@
 2. USACO training 4 hours daily. Try to do 12 sums. 2 done
 3. USACO silver 5 sums. 
 4. Guitar 20 hours. Try 3-4 daily. 0
-5. Exercise 100 sets 40
-6. Finish Don quixote DONE. Complete crime and punishment 100 pages.
-7. Give KTs. Perfect routine and perfect work tasks.
-8. Great diet. Get weight to 50.2 kg.
+5. Exercise 100 sets 55
+6. Finish Don quixote DONE. Complete crime and punishment 100 pages. 25 done.
+7. Give KTs DONE. Perfect routine and perfect work tasks.
+8. Great diet. Get weight to 50.2 kg. curr->51.7 when stomach is filled up. Will be around 50.7 otherwise.
 9. Relax on sunday evening.
 10. Get sim of airtel with same number CANNOT DO 
 because of plan not porting. Need to wait for plan to expire. Will enable 
@@ -114,21 +114,29 @@ but I should really focus on getting better, and then electric will be much more
 20
 Walk 1 hour
 Target <800
-Calories:  breakfast- lunch- dinner-
+Calories:  breakfast-300 lunch- 400 dinner- 800
 Woke up late, because slept late. Need to fix this. Its fine, didn't sleep in the afternoon so this is happening. Need to sleep 
 around 10:30-11 max.
 Urgent: GUitar 4-5 hours,exercise 15 sets and USACO. Everything else will wait.
 https://usaco.training/usacoprob2?a=CriFuhxyLp0&S=numtri
 Did the brute force but its getting TLE. Need to maybe do bfs?
+Decent days are going now, but I cna do much more intense. Its around 7-8 yoe phelps now when I am 
+on but sometimes decreasing it for no reason. I need to increase it 
+extremely well. I CAN do it. Need to be EXTREMELY INTENSE, from the moment I Wake up.
 
-
-
+30 mins guitar. Will do more tomorrow. Decent.
+Exercise 15 sets.
+<800 calories are becoming very very restrictive. Need to eat a bit more and exercise more.
 
 
 21
 Walk 1 hour
 Target <1200
 Calories:  breakfast- lunch- dinner-
+
+Wokeup on time.
+
+
 
 22
 Walk 1 hour
