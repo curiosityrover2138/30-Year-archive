@@ -4,7 +4,7 @@
 2. USACO training 4 hours daily. Try to do 12 sums. 4 done
 3. USACO silver 5 sums. 
 4. Guitar 20 hours. Try 3-4 daily. 1/2
-5. Exercise 100 sets 65
+5. Exercise 100 sets 68
 6. Finish Don quixote DONE. Complete crime and punishment 100 pages. 25 done.
 7. Give KTs DONE. Perfect routine and perfect work tasks.
 8. Great diet. Get weight to 50.2 kg. curr->51.7 when stomach is filled up. Will be around 50.7 otherwise.
@@ -132,14 +132,18 @@ Exercise 15 sets.
 21
 Walk 1 hour
 Target <1200
-Calories:  breakfast- 300 with protein shake lunch-600 dinner-
+Calories:  breakfast- 300 with protein shake lunch-600 dinner-400
+Walk 30 mins
 Today need guitar 5-6 hours.
 Wokeup on time.
 Did 1 USACO. Changed it to memoization and it worked.
 https://usaco.training/usacoprob2?a=5ticHX1TWll&S=pprime
 Brute force is fine. But primes check we can do probably with slight precomputation and bitset.
 2 USACO done.
-10 sets weight.
+13 sets weight.
+Guitar 2 hours.
+Will do 8 hours next 3 days and it will be fine. After that will try and do 3-4 hours per day.
+Book did a few pages, Will do 30-40 more before sleeping.
 
 
 
