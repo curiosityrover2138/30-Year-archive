@@ -1,7 +1,7 @@
 15/5 - 24/5
 
 1. Finish ALL work list tasks. Major being the NPI-CCN new mapping process and ASC 
-2. USACO training 4 hours daily. Try to do 12 sums. 2 done
+2. USACO training 4 hours daily. Try to do 12 sums. 4 done
 3. USACO silver 5 sums. 
 4. Guitar 20 hours. Try 3-4 daily. 1/2
 5. Exercise 100 sets 55
@@ -138,6 +138,7 @@ Wokeup on time.
 Did 1 USACO. Changed it to memoization and it worked.
 https://usaco.training/usacoprob2?a=5ticHX1TWll&S=pprime
 Brute force is fine. But primes check we can do probably with slight precomputation or some other trick.
+2 USACO done.
 
 
 
