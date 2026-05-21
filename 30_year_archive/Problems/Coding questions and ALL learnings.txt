@@ -1,6 +1,12 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://usaco.training/usacoprob2?a=A2UTjPvrC5n&S=numtri
+
+Use memoization alongwith managing all transitions. Its the most basic DP problem, just didn't expect to encounter DP 
+so early.
+
+
 https://usaco.training/usacoprob2?a=B9p7M3um1rm&S=wormhole
 Simple logic but extremely tough to implement for me. 
 Just keep it very simple through loops. My thinking isn't clear. But its fine, I will make it clear.

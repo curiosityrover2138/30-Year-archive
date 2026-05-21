@@ -3,7 +3,7 @@
 1. Finish ALL work list tasks. Major being the NPI-CCN new mapping process and ASC 
 2. USACO training 4 hours daily. Try to do 12 sums. 2 done
 3. USACO silver 5 sums. 
-4. Guitar 20 hours. Try 3-4 daily. 0
+4. Guitar 20 hours. Try 3-4 daily. 1/2
 5. Exercise 100 sets 55
 6. Finish Don quixote DONE. Complete crime and punishment 100 pages. 25 done.
 7. Give KTs DONE. Perfect routine and perfect work tasks.
@@ -133,8 +133,10 @@ Exercise 15 sets.
 Walk 1 hour
 Target <1200
 Calories:  breakfast- lunch- dinner-
-
+Today need guitar 5-6 hours.
 Wokeup on time.
+Did 1 USACO. Changed it to memoization and it worked.
+
 
 
 
