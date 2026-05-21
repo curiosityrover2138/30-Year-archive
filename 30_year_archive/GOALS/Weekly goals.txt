@@ -132,10 +132,12 @@ Exercise 15 sets.
 21
 Walk 1 hour
 Target <1200
-Calories:  breakfast- lunch- dinner-
+Calories:  breakfast- 300 with protein shake lunch- dinner-
 Today need guitar 5-6 hours.
 Wokeup on time.
 Did 1 USACO. Changed it to memoization and it worked.
+https://usaco.training/usacoprob2?a=5ticHX1TWll&S=pprime
+Brute force is fine. But primes check we can do probably with slight precomputation or some other trick.
 
 
 
