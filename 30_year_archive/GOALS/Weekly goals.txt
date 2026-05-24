@@ -39,9 +39,10 @@ Work: Time-> 0 Progress -> 0
 
 
 24
-Breakfast-200+300(eggs) Lunch-  Dinner-
+Breakfast-200+300(eggs) = 500  Lunch- 400  Dinner-
 Wokeup on time, put peanuts out.
-Today goals: 2 sessions guitar, 1 session book, 2 sessions USACO, 1 session work, 10-15 sets exercise, perfect diet 
+Today goals: 2 sessions guitar, 1 session book, 2 sessions USACO, 1 session work, 10-15 sets exercise, perfect diet NOT DONE. 
+Have some predictable inefficiencies, will solve them tomorrow.
 Focus on basics and solving issues, but don't plan everything from day 1. Nothing is guaranteed. Intelligence is in navigating 
 things on demand, not planning outright.
 30 mins of USACO. Will need to do more, extremely intensely. 
@@ -64,8 +65,8 @@ Summary of the day:
 CP/USACO: Time-> 1/2 Progress -> 1 easy
 Book: Time-> 1  Progress -> page 48 currently of Paradise Lost
 Guitar: Time-> Progress ->
-Exercise: Time-> Progress ->
-Work: Time-> Progress ->
+Exercise: Time-> 0 Progress -> 4 sets didn't do much will do tomorrow to be more efficient
+Work: Time-> 0 Progress -> 0  didn't do much due to predictable inefficiencies do tomorrow to be more efficient
 
 
 
@@ -73,7 +74,7 @@ Work: Time-> Progress ->
 
 25
 Breakfast- Lunch-  Dinner-
-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work, 20+ exercise sets.
 
 Summary of the day:
 
