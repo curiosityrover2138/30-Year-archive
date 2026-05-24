@@ -129,6 +129,8 @@ Book: Time-> Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> Progress ->
 Work: Time-> Progress ->
+
+
 30
 Breakfast- Lunch-  Dinner-
 
@@ -140,6 +142,8 @@ Book: Time-> Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> Progress ->
 Work: Time-> Progress ->
+
+
 31
 Breakfast- Lunch-  Dinner-
 
