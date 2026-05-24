@@ -14,14 +14,19 @@ Post on youtube. I NEED a public brand and for a CEO that is invaluable. Once yo
 recording USACO explanations and posting on youtube. Always refine your videos and edit things for reach. And do live streams 
 as well. But keep it as YOUR NAME, and your brand. Slowly also post guitar videos and book reviews and just opinions.
 
+Become a generalist in engineering and do everything that engineers understand but 
+a staff engineer or senior one MAY IMPROVE and see it as decent but inefficient
+
+And develop domain knowledge so that staff engineer or senior sdes have no 
+idea what I am doing with business and have no interest in it
 
 Skills needed at work(with ELO):
 
-Deep domain knowledge in US healthcare & risk systems 1000
+VERY Deep domain knowledge in US healthcare & risk systems 1000
 
-Strong technical + system design foundation 1100
+Decently Strong technical + system design foundation 1100
 
-Strong DSA and Codeforces rating. Good at Math. 1360 
+VERY Strong DSA and Codeforces rating. Good at Math. 1360 
 
 Eagle-eye systems thinking + ambiguity handling 40
 
