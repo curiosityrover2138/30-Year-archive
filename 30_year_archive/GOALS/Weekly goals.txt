@@ -28,15 +28,44 @@ Book did 1 session. Guitar did 5 mins, not really in the mood to do more today, 
 due to not sleeping after relaxing. Also walked for 45 mins. Its fine today was very chill, will be able to go intense from 
 tomorrow. Read paradise lost and Naruto today. 2 sets weight. 
 
+Summary of the day:
+
+CP/USACO: Time-> 0 Progress -> 0
+Book: Time-> 1 Progress -> book 1 of paradise lost done
+Guitar: Time-> 0 Progress -> 0
+Exercise: Time-> 0 Progress -> 2 sets 
+Work: Time-> 0 Progress -> 0
+
 
 
 24
-Breakfast-200 Lunch-  Dinner-
+Breakfast-200+300(eggs) Lunch-  Dinner-
 Wokeup on time, put peanuts out.
 Today goals: 2 sessions guitar, 1 session book, 2 sessions USACO, 1 session work, 10-15 sets exercise, perfect diet 
 Focus on basics and solving issues, but don't plan everything from day 1. Nothing is guaranteed. Intelligence is in navigating 
 things on demand, not planning outright.
 30 mins of USACO. Will need to do more, extremely intensely. 
+
+45 mins of paradise lost done. Very complicated, will need to reread again.
+currently doing flood fill and graph theory problems. Will do from both usaco.training and guide.
+
+1 USACO done.
+Cannot do more USACO today, tired and getting irritated now. Slightly failed, but will do more intensely from tomorrow 
+morning, because morning is the only thing that I should do USACO/CP, if I miss morning, I should do it in weekends and 
+cover next morning. 
+Or else if I keep within 12-9 I will struggle a lot at work.
+
+ALso don't sleep in day. 6 hours of sleep is fine, just make up for the sleep by sleeping early friday, saturday 
+and sunday night. 
+
+
+Summary of the day:
+
+CP/USACO: Time-> 1/2 Progress -> 1 easy
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
 
 
 
@@ -45,21 +74,83 @@ things on demand, not planning outright.
 25
 Breakfast- Lunch-  Dinner-
 
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
+
 26
 Breakfast- Lunch-  Dinner-
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
 
 27
 Breakfast- Lunch-  Dinner-
 
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
+
 28
 Breakfast- Lunch-  Dinner-
 
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
+
 29
 Breakfast- Lunch-  Dinner-
+
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
 30
 Breakfast- Lunch-  Dinner-
+
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
 31
 Breakfast- Lunch-  Dinner-
+
+
+Summary of the day:
+
+CP/USACO: Time-> Progress ->
+Book: Time-> Progress ->
+Guitar: Time-> Progress ->
+Exercise: Time-> Progress ->
+Work: Time-> Progress ->
 
 
 15/5 - 24/5
