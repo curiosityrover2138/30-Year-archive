@@ -28,7 +28,6 @@ Book did 1 session. Guitar did 5 mins, not really in the mood to do more today, 
 due to not sleeping after relaxing. Also walked for 45 mins. Its fine today was very chill, will be able to go intense from 
 tomorrow. Read paradise lost and Naruto today. 2 sets weight. 
 
-Summary of the day:
 
 CP/USACO: Time-> 0 Progress -> 0
 Book: Time-> 1 Progress -> book 1 of paradise lost done
@@ -39,7 +38,7 @@ Work: Time-> 0 Progress -> 0
 
 
 24
-Breakfast-200+300(eggs) = 500  Lunch- 400  Dinner-
+Breakfast-200+300(eggs) = 500  Lunch- 400  Dinner- 600
 Wokeup on time, put peanuts out.
 Today goals: 2 sessions guitar, 1 session book, 2 sessions USACO, 1 session work, 10-15 sets exercise, perfect diet NOT DONE. 
 Have some predictable inefficiencies, will solve them tomorrow.
@@ -60,7 +59,6 @@ ALso don't sleep in day. 6 hours of sleep is fine, just make up for the sleep by
 and sunday night. 
 
 
-Summary of the day:
 
 CP/USACO: Time-> 1/2 Progress -> 1 easy
 Book: Time-> 1  Progress -> page 48 currently of Paradise Lost
@@ -76,13 +74,15 @@ be very intense tomorrow and see what happens. Just starting of the day I need t
 force and only then will I be able to get to a decent place by evening and do guitar and 
 book.
 
+had a bit more than needed in food, will restrict tomorrow a lot and see the minimum I can eat 
+
+
 
 
 25
 Breakfast- Lunch-  Dinner-
 Goal: 2 USACO, 2 guitar, 1 book, 3 work, 20+ exercise sets.
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -93,7 +93,6 @@ Work: Time-> Progress ->
 26
 Breakfast- Lunch-  Dinner-
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -105,7 +104,6 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -117,7 +115,6 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -129,7 +126,6 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -142,7 +138,6 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -155,7 +150,6 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 
 
-Summary of the day:
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
