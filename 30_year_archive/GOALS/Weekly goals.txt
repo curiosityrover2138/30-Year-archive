@@ -120,6 +120,7 @@ get 70% progress by thursday. I need to go all in and put immense pressure on my
 26
 Breakfast- Lunch-  Dinner-
 Goal: 2 USACO, 3 guitar, 1 book, 3 work Exercise 30+ sets
+Protein >50 g
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -144,6 +145,7 @@ Work: Time-> Progress ->
 
 Breakfast- Lunch-  Dinner-
 Goal: 2 USACO, 3 guitar, 1 book, 3 work, 10+ exercise sets.
+Protein >50 g
 
 
 CP/USACO: Time-> Progress ->
@@ -171,6 +173,7 @@ Work: Time-> Progress ->
 
 Breakfast- Lunch-  Dinner-
 Goal: 2 USACO, 3 guitar, 1 book, 3 work, 30+ exercise
+Protein >50 g
 
 
 CP/USACO: Time-> Progress ->
@@ -196,6 +199,8 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 Goal: 2 USACO, 4 guitar, 1 book, 3 work, 10+ exercise sets.
 
+Protein >50 g
+
 
 
 CP/USACO: Time-> Progress ->
@@ -220,6 +225,7 @@ Work: Time-> Progress ->
 Breakfast- Lunch-  Dinner-
 Goal: 4 USACO, 2 guitar, 1 book,
 
+Protein >50 g
 
 
 CP/USACO: Time-> Progress ->
@@ -250,7 +256,7 @@ Work: Time-> Progress ->
 
 Breakfast- Lunch-  Dinner-
 Goal: 4 USACO, 2 guitar, 1 book
-
+Protein >50 g
 
 
 CP/USACO: Time-> Progress ->
