@@ -9,7 +9,7 @@ focus but not really be intense on output YET. Ramp your capabilities first and 
 5. Track calories perfectly, never have >1500 calories. Have perfect protein >60 g daily. Always overestimate calories.
 6. Have 1 half day off 23rd evening, and 30th evening and relax. Destroy all weekly goals and slowly ramp up instead of aiming big and 
 failing. Treat each second as very important and achieve perfect focus during the focus periods.
-7. Guitar 22 hours total.
+7. Guitar 22 hours total. 1.5
 8. Read paradise lost, manga, comics.
 9. Try and finish Standchen atleast >80%
 10. Give KTs at work.
@@ -98,13 +98,16 @@ Will do other things and see. I will do everything else except usaco today, and 
 sunday morning.
 
 A bit happy that I regulated my mood properly. But I NEED to be MUCH MORE INTENSE. Not getting the desired intensity. 
-Also need to dial in diet or else its causing extreme weakness. Will do 1 more session of work and guitar and books today.
+Also need to dial in diet or else its causing extreme weakness.
 
 Book: Time->1 Progress -> very hard getting to book 2 of paradise lost. a bit stuck.
-Guitar: Time-> Progress ->
+Guitar: Time-> 1/2 Progress -> 1/3 remaining major parts practice 
 Exercise: Time-> 0 Progress -> Failure. Will need to do a lot tomorrow.
-Work: Time-> 2 session Progress -> did half of api work for feedback form and other things. also did clinical lab change in 
-dev and preprod.
+Work: Time-> 3 session Progress -> did half of api work for feedback form and other things. also did clinical lab change in 
+dev and preprod. Also did KT.
+
+From tomorrow will be extremely intense, need to be intense in first half of the week and then mellow down in second half and 
+get 70% progress by thursday. I need to go all in and put immense pressure on myself. That is the only way to improve.
 
 
 
@@ -116,7 +119,7 @@ dev and preprod.
 
 26
 Breakfast- Lunch-  Dinner-
-Goal: 2 USACO, 2 guitar, 1 book, 3 work Exercise 30+ sets
+Goal: 2 USACO, 3 guitar, 1 book, 3 work Exercise 30+ sets
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -140,7 +143,7 @@ Work: Time-> Progress ->
 
 
 Breakfast- Lunch-  Dinner-
-Goal: 2 USACO, 2 guitar, 1 book, 3 work, 30+ exercise sets.
+Goal: 2 USACO, 3 guitar, 1 book, 3 work, 10+ exercise sets.
 
 
 CP/USACO: Time-> Progress ->
@@ -167,7 +170,7 @@ Work: Time-> Progress ->
 28
 
 Breakfast- Lunch-  Dinner-
-Goal: 2 USACO, 2 guitar, 1 book, 3 work, 10+ exercise
+Goal: 2 USACO, 3 guitar, 1 book, 3 work, 30+ exercise
 
 
 CP/USACO: Time-> Progress ->
@@ -191,7 +194,7 @@ Work: Time-> Progress ->
 
 
 Breakfast- Lunch-  Dinner-
-Goal: 2 USACO, 2 guitar, 1 book, 3 work, 10+ exercise sets.
+Goal: 2 USACO, 4 guitar, 1 book, 3 work, 10+ exercise sets.
 
 
 
@@ -246,7 +249,7 @@ Work: Time-> Progress ->
 
 
 Breakfast- Lunch-  Dinner-
-Goal: 4 USACO, 2 guitar, 1 book, 10+
+Goal: 4 USACO, 2 guitar, 1 book
 
 
 
