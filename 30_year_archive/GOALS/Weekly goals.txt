@@ -94,7 +94,7 @@ Work: Time-> Progress ->
 
 26
 Breakfast- Lunch-  Dinner-
-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work
 
 CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
@@ -104,7 +104,7 @@ Work: Time-> Progress ->
 
 27
 Breakfast- Lunch-  Dinner-
-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work, 20+ exercise sets.
 
 
 CP/USACO: Time-> Progress ->
@@ -115,7 +115,7 @@ Work: Time-> Progress ->
 
 28
 Breakfast- Lunch-  Dinner-
-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work, 10+ exercise
 
 
 CP/USACO: Time-> Progress ->
@@ -126,6 +126,7 @@ Work: Time-> Progress ->
 
 29
 Breakfast- Lunch-  Dinner-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work, 20+ exercise sets.
 
 
 
@@ -138,6 +139,7 @@ Work: Time-> Progress ->
 
 30
 Breakfast- Lunch-  Dinner-
+Goal: 2 USACO, 2 guitar, 1 book, 3 work, 10+
 
 
 
