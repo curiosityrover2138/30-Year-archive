@@ -126,7 +126,9 @@ Protein >50 g
 unable to solve USACO and getting intrusive thoughts. Need to discipline myself and try extremely hard in things I am not 
 able to do.Its not about getting the tick, but learning new things.
 
-CP/USACO: Time-> Progress ->
+CP/USACO: Time-> 1 Progress -> stuck in a problem. Need to sketch out brute force first and only then optimize.
+Will do 1 more by 4 PM 
+
 Book: Time-> Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> Progress ->
