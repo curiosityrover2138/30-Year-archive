@@ -136,7 +136,9 @@ Will do 1 more by 4 PM
 Book: Time-> Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> 50 mins Progress -> 22
-Work: Time-> Progress ->
+Work: Time-> 3 sessions Progress -> KT and NPI CCN automation work. Will need to do more, because its getting  
+exhausting. Also worked on feedback form API. Everyone is irritating me now and its extremely stressful. Will just 
+get it over with and work 3 days from tomorrow and get away with this toxicity.
 
 
 
