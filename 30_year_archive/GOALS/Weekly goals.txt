@@ -135,7 +135,7 @@ Will do 1 more by 4 PM
 
 Book: Time-> Progress ->
 Guitar: Time-> Progress ->
-Exercise: Time-> 40 mins Progress -> 17.5
+Exercise: Time-> 40 mins Progress -> 19
 Work: Time-> Progress ->
 
 
