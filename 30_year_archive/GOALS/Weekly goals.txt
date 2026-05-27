@@ -178,7 +178,7 @@ CP/USACO: Time-> Progress ->
 Book: Time-> Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> Progress ->
-Work: Time-> Progress ->
+Work: Time-> 1 Progress -> All work done. Just need to give KT on ASC and push ASC to prod by EOD.
 
 
 
