@@ -14,7 +14,7 @@ failing. Treat each second as very important and achieve perfect focus during th
 9. Try and finish Standchen atleast >80%
 10. Give KTs at work.
 11. Current weight 51.7-52.2. Target by sunday 50.9-51.4. Always take the maximum weight as weight.
-12. Weights 80 total. Do 25-30 alternate days. Walk when not lifting for 1 hour. for 3-4 days of week. 2
+12. Weights 80 total. Do 25-30 alternate days. Walk when not lifting for 1 hour. for 3-4 days of week. 25
 13. Start putting peanuts out for crows everyday at 6:30 AM.
 
 23
@@ -163,7 +163,7 @@ Now will only drink no more than 1 moka pot coffee in morning before 12.
 
 
 Breakfast- 200 Lunch-  Dinner-
-Goal: 2 USACO, 3 guitar, 1 book, 3 work, 10+ exercise sets.
+Goal: 2 USACO, 3 guitar, 1 book, 3 work,
 Protein >50 g
 wokeup a bit late at 7:30, peanuts for crows wasn't done. I need to get this work shit out of the way today itself >80% 
 so that the rest of the week i can do what I want. Its mentally taxing because I don't want to.
@@ -171,11 +171,14 @@ Not doing those huge code changes I was thinking of, because if it doesn't work,
 The old code is working as expected for an npi pointed out by carissa, so will let that handle the mappings and 
 just tell them to do code changes based on what you want to map.
 Huge burden is lifted now. Now just need to do basic things, and put ASC on prod by EOD and then I will be done.
+i am not doing relaxation, but also not really able to work intensely. I will complete guitar first today, then give KT and then 
+USACO 
+Need to bathe as well asap.
 
 
 
 CP/USACO: Time-> Progress ->
-Book: Time-> Progress ->
+Book: Time-> 1 Progress ->
 Guitar: Time-> Progress ->
 Exercise: Time-> Progress ->
 Work: Time-> 1 Progress -> All work done. Just need to give KT on mapping and ASC and push ASC to prod by EOD.
