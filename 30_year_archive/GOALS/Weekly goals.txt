@@ -180,7 +180,7 @@ Perfected coffee as well. Very happy. Now guitar and USACO need to manage. Will 
 
 
 CP/USACO: Time-> 0 Progress -> Bad, getting tired and unable to do much. WIll have to make up for it.
-Book: Time-> 1 Progress -> Again started book 1 of paradise lost, read monster as well
+Book: Time-> 1 Progress -> Again started book 1 of paradise lost, read monster and ulysses as well
 Guitar: Time-> 10 mins Progress ->just revision
 Exercise: Time-> 10 mins Progress -> 5
 Work: Time-> 1 Progress -> All work done. Just need to give KT on mapping and ASC and push ASC to prod by EOD.
