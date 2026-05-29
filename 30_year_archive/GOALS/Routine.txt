@@ -72,3 +72,14 @@ Health:
 
 
 For local ssh-add "/c/Users/U6070329/OneDrive - Clarivate Analytics/Desktop/Personal/.ssh/id_ed25519_personal"
+
+Record each day:
+
+Format:
+Breakfast- Lunch- Dinner- 
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress ->
+Work: Sessions-> Progress ->
