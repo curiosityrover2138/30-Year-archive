@@ -18,10 +18,10 @@ to train work like routine), Book 1-2, skincare before sleeping and good sleep. 
 
 30
 Breakfast- 800 Lunch- 1000 Dinner- 0
-goal: 2-3 usaco, 2+ guitar, exercise 25+ sets, book 1
+goal: 2-3 usaco, 2+ guitar, exercise 25+ sets, book 1 FAILURE OF A DAY
 CP/USACO: Sessions-> 2 sessions but still stuck in https://codeforces.com/contest/1365/problem/D Progress -> stuck
 Book: Sessions-> 1 Progress -> Completed book 1 and 2
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 0 Progress -> 0
 Exercise: Sessions->0 Progress ->0
 Work: Sessions-> NA because work is done Progress -> NA
 
