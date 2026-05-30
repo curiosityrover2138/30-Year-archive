@@ -3,9 +3,10 @@
 1. USACO training 7-11 everyday 
 2. USACO silver 6+ sums 
 3. USACO training 3+ sums
-4. Exercise 150 sets 
-5. Perfect diet <1500  calorie. Good protein. Fruits and nuts and chia seed everyday
-6. Weight 49.5 - 50.5 target curr- fluctuating a lot  around 50.7- 52.2
+4. Exercise 150 sets 8
+5. Perfect diet <1500  calorie. Good protein(>50g daily). Fruits and nuts and chia seed everyday
+6. Target Weight 49 - 50.5  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
+maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg per week.
 7. Complete till book 4 of paradise lost. Also continue manga and ulysses.
 8. Guitar 30 hours total. 3-4 hours a day 
 9. Finish standchen >90%
@@ -17,12 +18,12 @@ to train work like routine), Book 1-2, skincare before sleeping and good sleep. 
 14. Go to dental hospital and get teeth checked if possible.
 
 30
-Breakfast- 800 Lunch- 1000 Dinner- 0
+Breakfast- 800 Lunch- 1000 Dinner- 600
 goal: 2-3 usaco, 2+ guitar, exercise 25+ sets, book 1 FAILURE OF A DAY
 CP/USACO: Sessions-> 2 sessions but still stuck in https://codeforces.com/contest/1365/problem/D Progress -> stuck
 Book: Sessions-> 1 Progress -> Completed book 1 and 2
 Guitar: Sessions-> 0 Progress -> 0
-Exercise: Sessions->0 Progress ->0
+Exercise: Sessions->1 Progress ->8 sets
 Work: Sessions-> NA because work is done Progress -> NA
 
 For some days diet is a bit awry. Will eat very less from now and see. I got a bit complacent because the weight had reduced 
@@ -35,14 +36,14 @@ Also I am having issues with my routine and goals very much, but I NEED to go in
 Or if I dont do it, my goals will go into total waste. I NEED TO LOCK IN. Only if I do 30 years plan will make sense. I CANNOT 
 make this a catalog of failures of a common man. THIS PROJECT NEEDS TO BE A TRIUMPH.
 
-
+Absolute shit diet for last 3-4 days. Need to fix and reduce weight in priority.
 
 
 
 
 31
 Breakfast- Lunch- Dinner- 
-
+Target: 500 calories 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
@@ -335,7 +336,7 @@ Work: Time-> 1 Progress -> All work done. Just need to give KT on mapping and AS
 
 28
 
-Breakfast- 800 Lunch- 500 Dinner-
+Breakfast- 800 Lunch- 500 Dinner-800
 Goal: 2 USACO, 3 guitar, 1 book, 15+ exercise
 Protein >50 g
 
@@ -376,7 +377,7 @@ intensity, or else it will become impossible. I CAN DO IT.
 29
 
 
-Breakfast- 600 Lunch- 1200  Dinner-
+Breakfast- 600 Lunch- 1200  Dinner-1000
 Goal: 3 USACO, 4 guitar, 1 book, 20+ exercise sets.
 
 Protein >50 g
@@ -415,51 +416,6 @@ Work: Time-> Progress ->
 
 
 
-30th
-
-
-Breakfast- Lunch-  Dinner-
-Goal: 4 USACO, 5 guitar, 1 book, 30 sets exercise
-
-Protein >50 g
-
-
-CP/USACO: Time-> Progress ->
-Book: Time-> Progress ->
-Guitar: Time-> Progress ->
-Exercise: Time-> Progress ->
-Work: Time-> Progress ->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31st
-
-
-
-Breakfast- Lunch-  Dinner-
-Goal: 4 USACO, 4 guitar, 1 book
-Protein >50 g
-
-
-CP/USACO: Time-> Progress ->
-Book: Time-> Progress ->
-Guitar: Time-> Progress ->
-Exercise: Time-> Progress ->
-Work: Time-> Progress ->
 
 
 
