@@ -3,9 +3,9 @@
 1. USACO training 7-11 everyday 
 2. USACO silver 6+ sums 
 3. USACO training 3+ sums
-4. Exercise 150 sets 8
+4. Exercise 150 sets 29
 5. Perfect diet <1500  calorie. Good protein(>50g daily). Fruits and nuts and chia seed everyday
-6. Target Weight 49 - 50.5  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
+6. Target Weight 49 - 51  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
 maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg per week.
 7. Complete till book 4 of paradise lost. Also continue manga and ulysses.
 8. Guitar 30 hours total. 3-4 hours a day 
@@ -15,7 +15,7 @@ maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg p
 to train work like routine), Book 1-2, skincare before sleeping and good sleep. This is perfect routine.
 12. Give back laptop on 5th June.
 13. Setup new laptop for company work and Github link of this project.
-14. Go to dental hospital and get teeth checked if possible.
+14. Go to dental hospital and get teeth checked if possible.NOT NEEDED
 
 30
 Breakfast- 800 Lunch- 1000 Dinner- 600
@@ -42,13 +42,20 @@ Absolute shit diet for last 3-4 days. Need to fix and reduce weight in priority.
 
 
 31
-Breakfast- Lunch- Dinner- 
-Target: 500 calories 
-CP/USACO: Sessions-> Progress ->
+Breakfast- 200 Lunch-450 Dinner- 
+Target: 800 calories , 3 USACO, 3 guitar, 1 book, 25+ exercise set (1/2 session)
+
+CP/USACO: Sessions-> 3 Progress -> Still stuck in the same problem. Need to make cases and think hard.
+Came up with one potential way to do it. But still stuck. Its not working
+
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Exercise: Sessions->1/2 Progress ->21
+Work: Sessions-> 0Progress -> NA
+
+I am now doing bit better, but still I HAVE to get perfect days. Its nowhere close even when I try my hardest. I NEED 
+to try harder, especially the quality of focus in USACO, work and guitar. I need to improve myself a lot. I also need to
+not stress at all, and just take it as what I need to do with a calm mind.
 
 1
 Breakfast- Lunch- Dinner- 
