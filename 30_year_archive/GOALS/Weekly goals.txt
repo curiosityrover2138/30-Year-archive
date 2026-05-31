@@ -3,7 +3,7 @@
 1. USACO training 7-11 everyday 
 2. USACO silver 6+ sums 
 3. USACO training 3+ sums
-4. Exercise 150 sets 30
+4. Exercise 150 sets 35
 5. Perfect diet <1500  calorie. Good protein(>50g daily). Fruits and nuts and chia seed everyday
 6. Target Weight 49 - 51  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
 maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg per week.
@@ -50,7 +50,7 @@ Came up with one potential way to do it. But still stuck. Its not working
 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions->1/2 Progress ->22
+Exercise: Sessions->1/2 Progress ->27
 Work: Sessions-> 0Progress -> NA
 
 I am now doing bit better, but still I HAVE to get perfect days. Its nowhere close even when I try my hardest. I NEED 
