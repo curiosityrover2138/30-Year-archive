@@ -76,11 +76,14 @@ increase intensity or reduce diet. But its fine. I will be able to control and g
 
 
 CP/USACO: Sessions-> 1 Progress -> Still stuck. IDK what is wrong with me.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions-> 0Progress ->0
+Guitar: Sessions->0 Progress ->0
 Exercise: Sessions-> Progress -> 10 sets
 Walk: 4 hours
 Curr weight-> 50.9
+
+Lots of energy went today in walking and trying for USACO and exercise. Will make it better from tomorrow as well as reduce it 
+slightly if weight is reducing and on track. However with my deficit I should be on track to lose 4 kg in this month.
 
 2
 Breakfast- Lunch- Dinner- 
