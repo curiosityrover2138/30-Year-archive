@@ -3,12 +3,12 @@
 1. USACO training 7-11 everyday 
 2. USACO silver 6+ sums 
 3. USACO training 3+ sums
-4. Exercise 150 sets 37
+4. Exercise 120 sets 47 till now. Reduced it a bit so that it doesn't cause injuries and losing weight doesn't become a full time job.
 5. Perfect diet <1500  calorie. Good protein(>50g daily). Fruits and nuts and chia seed everyday
 6. Target Weight 49 - 51  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
 maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg per week.
 7. Complete till book 4 of paradise lost. Also continue manga and ulysses.
-8. Guitar 30 hours total. 3-4 hours a day 
+8. Guitar 30 hours total. 3-4 hours a day  1
 9. Finish standchen >90%
 10. Perfect coffee routine as well. Have everyday, but pace it well to avoid hit and future gastritis.
 11. Have perfect day atleast 5 days. 2-3 USACO, 2-3 guitar, 3+ work bandwidth (and if not work, do system design 
@@ -16,7 +16,7 @@ to train work like routine), Book 1-2, skincare before sleeping and good sleep. 
 12. Give back laptop on 5th June.
 13. Setup new laptop for company work and Github link of this project.
 14. Go to dental hospital and get teeth checked if possible.NOT NEEDED
-15. Walk 30 hours total 0.5
+15. Walk 20 hours total 4.5
 16. Make papa serve ALL my food to give him an estimate of how much I am eating.
 
 30
@@ -64,14 +64,23 @@ calories a day so that I can afford it. I NEED to do everything this week. Only 
 or not. I NEED to succeed.
 
 1
-Breakfast- Lunch- Dinner- 
+Breakfast-700 Lunch- 400 Dinner- 
+Walk: -600
+Wokeup on time, walked 1.5 hrs. Need to do a lot more, and lose around 1.5-2 kgs this week.
+Still I am getting distracted for around 30 mins to 1 hour of each day, and just browsing BS online. I NEED TO STOP THIS 
+COMPLETELY. It has reduced by a lot, but even this intensity for 50 years is not enough to get to billionaire level. I JUST NEED 
+TO BECOME THE BEST. Its not possible with these idiotic things, because none of what I am doing serves my goals.
+Reduced walk a bit, I won't go full on this week because I need data first and see how much my weight is getting reduced 
+with 20 hours walk, decently reduced diet, and increase exercise. Need to have data first, and then will either 
+increase intensity or reduce diet. But its fine. I will be able to control and get to my ideal weight in 3 weeks.
 
-CP/USACO: Sessions-> Progress ->
+
+CP/USACO: Sessions-> 1 Progress -> Still stuck. IDK what is wrong with me.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
-
+Exercise: Sessions-> Progress -> 10 sets
+Walk: 4 hours
+Curr weight-> 50.9
 
 2
 Breakfast- Lunch- Dinner- 
