@@ -96,7 +96,7 @@ of just keeping to increase the complexity.
 CP/USACO: Sessions->1 Progress -> 1done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> 2
 Work: Sessions-> Progress ->
 Weight: 50.55
 
