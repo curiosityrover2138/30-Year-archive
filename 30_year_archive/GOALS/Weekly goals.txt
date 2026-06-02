@@ -98,7 +98,10 @@ CP/USACO: Sessions->1 Progress -> 1done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 5
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress -> HUGE AMOUNT OF BOGUS WORK. Idek why this keeps happening to me. I NEED to plan ahead 
+and just smoothen out my weekly goals. Or else i will keep getting pulled into useless fires. Also in new company 
+I will proactively work a lot, or else the backlog and cascading effects of work makes the upcoming weeks much harder and 
+pressure prone than it needs to be. Slight pressure everyday beats lots of pressure in 1 week.
 Weight: 50.55
 
 
