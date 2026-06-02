@@ -1,6 +1,12 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+https://codeforces.com/contest/1365/problem/D
+
+Very easy solution. That is what I was thinking but didn't implement because I went in a detour with a very hard and 
+tangential idea. Just surround bad people with walls and then see if all good people are reachable or not. If bad and 
+good are adjacent then it will be impossible.
+
 
 https://usaco.training/usacoprob2?a=XxjXuyzRscp&S=pprime
 
