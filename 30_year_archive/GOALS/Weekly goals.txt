@@ -3,21 +3,21 @@
 1. USACO training 7-11 everyday 
 2. USACO silver 6+ sums 
 3. USACO training 3+ sums
-4. Exercise 120 sets 60 till now. Reduced it a bit so that it doesn't cause injuries and losing weight doesn't become a full time job.
+4. Exercise 100 sets 60 till now. Reduced it a bit so that it doesn't cause injuries and losing weight doesn't become a full time job.
 5. Perfect diet <1500  calorie. Good protein(>50g daily). Fruits and nuts and chia seed everyday
 6. Target Weight 49 - 51  curr- fluctuating a lot  around 50.7- 52.2. Need to reduce a lot in this week and see the 
 maximum I can do. The next 2 weeks I need to do INTENSE DIET and decrease 1 kg per week.
 7. Complete till book 4 of paradise lost. Also continue manga and ulysses.
 8. Guitar 15 hours total. 3-4 hours a day  1 Reduced a bit to increase it to 20 slowly.
 9. Finish standchen >90%
-10. Perfect coffee routine as well. Have everyday, but pace it well to avoid hit and future gastritis.
+10. Perfect coffee routine as well. Have everyday, but pace it well to avoid hit and future gastritis. DONE
 11. Have perfect day atleast 5 days. 2-3 USACO, 2-3 guitar, 3+ work bandwidth (and if not work, do system design 
 to train work like routine), Book 1-2, skincare before sleeping and good sleep. This is perfect routine.
 12. Give back laptop on 5th June.
 13. Setup new laptop for company work and Github link of this project.
 14. Go to dental hospital and get teeth checked if possible.NOT NEEDED
 15. Walk 20 hours total 5
-16. Make papa serve ALL my food to give him an estimate of how much I am eating.
+16. Make papa serve ALL my food to give him an estimate of how much I am eating. DONE
 
 30
 Breakfast- 800 Lunch- 1000 Dinner- 600
@@ -87,7 +87,7 @@ Lots of energy went today in walking and trying for USACO and exercise. Will mak
 slightly if weight is reducing and on track. However with my deficit I should be on track to lose 4 kg in this month.
 
 2
-Breakfast- 300 Lunch-500 Dinner- 
+Breakfast- 300 Lunch-500 Dinner- 700
 Will walk a bit less, because other things are suffering. Need to check laptop shipment as well. Always a hassle.
 was an easy sum https://codeforces.com/contest/1365/problem/D. I need to stop getting too complicated ideas, and stop 
 myself and think "this is too complicated, I need to think something simpler". Most of the times it will strike me instead 
@@ -98,18 +98,24 @@ CP/USACO: Sessions->1 Progress -> 1done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 11
-Work: Sessions->3 Progress -> HUGE AMOUNT OF BOGUS WORK. Idek why this keeps happening to me. I NEED to plan ahead 
-and just smoothen out my weekly goals. Or else i will keep getting pulled into useless fires. Also in new company 
-I will proactively work a lot, or else the backlog and cascading effects of work makes the upcoming weeks much harder and 
-pressure prone than it needs to be. Slight pressure everyday beats lots of pressure in 1 week.
+Work: Sessions-> 3 Progress -> Lots of BS work came my way. Its fine. I need to handle things.
 Weight: 50.55
 Walk: 1/2 hour 
+
+From next week will have a smoother routine. Today lots of sink in time like getting laptop, setting things 
+up etc. I just need to furiously protect what I want to do and simply execute. I also need to have 
+mellow goals and only when done just ramp it up a bit. I also need to avoid wasting even 10 mins because 
+10 mins become 30, then 60 then 120. I am still wasting a lot of time, I need to avoid wasting any.
+
+Also have 2 priority tasks of the week and 2 not so priority, and then switch things up week by week.
+I CAN do this. I am very close. Now everything in my life is proper which wasnt even close 10-12 months ago .
+Now its just extreme intensity and no excuses.
 
 3
 Breakfast- Lunch- Dinner- 
 Wokeup a bit early. Sleep is getting fragmented because of idiotic behavior from sisters. Need to 
 correct that ASAP. I will again have to fight with them for a basic right of quiet during sleep and peace.
-
+Recovery needs to be proper. I need to sleep whenever I can get time.
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
