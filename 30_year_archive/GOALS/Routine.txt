@@ -87,7 +87,7 @@ For local ssh-add "/c/Users/U6070329/OneDrive - Clarivate Analytics/Desktop/Pers
 Record each day:
 
 Format:
-Breakfast- Lunch- Dinner- 
+Breakfast- Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
