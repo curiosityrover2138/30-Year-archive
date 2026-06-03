@@ -57,7 +57,17 @@ Exercise:
 5. Body weight exercises-> Pushups, planks, situps, crunches, and stretches.
 
 Rotate these things on a weekly basis.
+IMP:
 
+Diet: 
+
+1. Have protein shake 2 times a day. 1 with lunch and 1 with dinner
+2. For breakfast only coffee and pumpkin seeds and OCCASSIONALLY bhujia or oreos but only when weight is fine.
+3. Workout 20+ sets total daily. For reducing weight, walk 1.5-2 hours daily.
+4. Lunch: protein shake, chia seeds with yogurt, 1 apple/2 banana and eggs will be always there. If lunch is some good sabji
+that is high in protein have it, or else push the carbs to night.
+5. Each meal should be around 800 calorie total.
+6. Walk for 2 hours when reducing weight, and adjust night calories if sleep is getting affected.
  
 
 
@@ -69,6 +79,7 @@ Health:
 4. Melatonin + Ashwagandha for sleep (cycle every 3 months)
 5. Calcium for 2 months  + 1 month break -> Cycle
 6. Prebiotics and probiotics for gut health 
+
 
 
 For local ssh-add "/c/Users/U6070329/OneDrive - Clarivate Analytics/Desktop/Personal/.ssh/id_ed25519_personal"
