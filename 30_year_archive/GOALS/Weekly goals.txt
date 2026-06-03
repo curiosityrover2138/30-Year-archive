@@ -2,11 +2,11 @@
 
 0. Return laptop 5th June. Go to dental hospital.
 1. Have diet of >60 g protein a day. Don't overrely on protein shakes. Follow the diet as close as possible. 
-2. Walk 15 hours total.
+2. Walk 800 minuts total. Jog slightly intense (140-160 BPM) 100 minutes
 3. Target weight 48.6-50.6 kg 
 4. USACO 6 sums. 7-11 daily. USACO training 4 sums  
 5. Track calories everyday. Don't exceed more than 1700 daily. Have most calories in lunch and dinner. Have light breakfast. 
-6. Weights 30 sets every alternate day or 15 daily. Do it slowly over 1 hour-1.5 hours.
+6. Weights 30 sets every alternate day or 15 daily. Do it slowly over 1 hour-1.5 hours. Total >120
 7. Guitar >15 hours. 
 8. Have excellent sleep. If quality degrades focus on diet and reducing walks. 
 9. Paradise lost is very hard and not really worth to read just to check a box. Start with odyssey and continue ulysses and 
@@ -29,7 +29,7 @@ Slept a bit. Have good quality sleep so that stress is low and chances of hair l
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 6 sets
+Exercise: Sessions-> Progress -> 6 sets Walk 40 mins
 Work: Sessions-> 0Progress ->nA
 
 
