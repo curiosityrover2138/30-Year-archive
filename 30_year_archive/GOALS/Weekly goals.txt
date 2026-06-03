@@ -2,7 +2,7 @@
 
 0. Return laptop 5th June. Go to dental hospital.
 1. Have diet of >60 g protein a day. Don't overrely on protein shakes. Follow the diet as close as possible. 
-2. Walk 800 minuts total. Jog slightly intense (140-160 BPM) 100 minutes
+2. Walk 800 minutes total. Jog slightly intense (140-160 BPM) 100 minutes
 3. Target weight 48.6-50.6 kg 
 4. USACO 6 sums. 7-11 daily. USACO training 4 sums  
 5. Track calories everyday. Don't exceed more than 1700 daily. Have most calories in lunch and dinner. Have light breakfast. 
@@ -34,7 +34,7 @@ decrease bit by bit to check the weight reduction, muscle loss and other things.
 CP/USACO: Sessions->0 Progress -> NA
 Book: Sessions-> 1 Progress ->1/2 of book 3
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 8 sets Walk 40 mins
+Exercise: Sessions-> Progress -> 8 sets Walk 50 mins
 Work: Sessions-> 0Progress ->nA
 
 
