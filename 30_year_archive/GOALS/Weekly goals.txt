@@ -63,7 +63,7 @@ Weight: 51.00
 
 5
 
-Breakfast-20 Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-5
 
 CP/USACO: Sessions->1 Progress -> did 1 usaco training problem.
 Book: Sessions-> Progress ->
