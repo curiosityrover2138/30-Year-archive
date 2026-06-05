@@ -19,6 +19,7 @@ per day (total 45 hours from 8 to 14).
 11. Have good hygiene, good routine and adhere to all the skincare perfectly. Relax around 1 hour before bed to ensure great sleep.
 12. Relax on 14th evening. After that write everything down and judge whetjher you accomplished all goals or not. Don't keep checking 
 everyday.Also tkae average of weights across all days and see the trend, it should fall in the range mentioned.
+13. Fix sleep hygiene, only sleep anytime between 9pm to 6 AM. And track everything.
 
 
 3
@@ -69,6 +70,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
@@ -81,7 +83,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-
+Sleep:
 
 7
 Breakfast- Lunch- Dinner-  Protein-
@@ -91,7 +93,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-
+Sleep:
 
 8
 Breakfast- Lunch- Dinner-  Protein-
@@ -101,7 +103,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-
+Sleep:
 
 
 9
@@ -112,6 +114,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
@@ -123,6 +126,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
@@ -134,7 +138,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-
+Sleep:
 
 
 
@@ -146,6 +150,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
@@ -158,6 +163,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
@@ -170,6 +176,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
+Sleep:
 
 
 
