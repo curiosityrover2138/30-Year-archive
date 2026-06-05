@@ -69,7 +69,7 @@ Breakfast-400 Lunch-900 Dinner-  Protein-10. Reducing because of slight constipa
 CP/USACO: Sessions->1 Progress -> did 1 usaco training problem.
 Book: Sessions->1/2  Progress -> completed book 3
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions->0 Progress -> NA. not needed today as some calories were burned.
 Work: Sessions-> 0 Progress -> NA
 Sleep: 4.5 hrs(napped 30 mins 10-10:30. Will need to stop napping slowly)
 Weight: 51.00
