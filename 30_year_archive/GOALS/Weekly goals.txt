@@ -64,10 +64,10 @@ Weight: 51.00
 
 5
 
-Breakfast-400 Lunch-900 Dinner-  Protein-10. Reducing because of slight constipation.
+Breakfast-400 Lunch-1000 Dinner-  Protein-10. Reducing because of slight constipation.
 
 CP/USACO: Sessions->1 Progress -> did 1 usaco training problem.
-Book: Sessions->1/2  Progress -> completed book 3
+Book: Sessions->1  Progress -> completed book 3
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->0 Progress -> NA. not needed today as some calories were burned.
 Work: Sessions-> 0 Progress -> NA
