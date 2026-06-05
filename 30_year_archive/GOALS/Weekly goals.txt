@@ -2,7 +2,7 @@
 THEME of the week: 
 New amazing work in company, Great Diet and exercise, Decent USACO, Decent guitar, subpar book reading.
 
-0. Return laptop 5th June. Go to dental hospital.
+0. Return laptop 5th June DONE. Go to dental hospital.
 1. Have diet of >60 g protein a day. Don't overrely on protein shakes. Follow the diet as close as possible. 
 2. Walk 800 minutes total. Jog slightly intense (140-160 BPM) 100 minutes
 3. Target weight 48.6-50.6 kg 
@@ -66,12 +66,13 @@ Weight: 51.00
 Breakfast-400 Lunch- Dinner-  Protein-5
 
 CP/USACO: Sessions->1 Progress -> did 1 usaco training problem.
-Book: Sessions-> Progress ->
+Book: Sessions->1/2  Progress -> completed book 3
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions-> 0Progress -> NA
 Sleep: 4.5 hrs(napped 30 mins 10-10:30. Will need to stop napping slowly)
 Weight: 51.00
+Returned laptop today.
 
 
 
