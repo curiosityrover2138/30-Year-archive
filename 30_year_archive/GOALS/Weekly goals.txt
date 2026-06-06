@@ -68,7 +68,7 @@ Breakfast-400 Lunch-1000 Dinner-150  Protein-10. fix slight constipation.
 
 CP/USACO: Sessions->1 Progress -> 1 usaco training done.
 Book: Sessions->1  Progress -> done book 3
-Guitar: Session 0.75 session Progress -> Repetition. Tired.
+Guitar: Session 0.75(1hr) session Progress -> Repetition. Tired.
 Exercise: Sessions->1/2 Progress -> 60 mins walk. fix sleep.
 Work: Sessions-> 0 Progress -> NA
 Sleep: 4.5 hrs(nap 30 mins 10-10:30. stop slowly)
