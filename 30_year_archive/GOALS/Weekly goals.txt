@@ -64,7 +64,7 @@ Weight: 51.00
 
 5
 
-Breakfast-400 Lunch-1000 Dinner-  Protein-10. fix slight constipation.
+Breakfast-400 Lunch-1000 Dinner-150  Protein-10. fix slight constipation.
 
 CP/USACO: Sessions->1 Progress -> 1 usaco training done.
 Book: Sessions->1  Progress -> done book 3
