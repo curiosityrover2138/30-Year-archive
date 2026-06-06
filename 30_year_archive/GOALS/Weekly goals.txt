@@ -85,7 +85,7 @@ CP/USACO: Sessions->30 mins Progress -> 1 ut done.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions->0 Progress -> NA
+Work: Sessions->1 Progress -> laptop setup.
 Sleep: 7 . Relaxed. Train restraint ASAP.
 
 7
