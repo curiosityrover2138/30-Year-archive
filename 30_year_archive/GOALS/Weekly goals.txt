@@ -79,7 +79,7 @@ Returned laptop.
 
 6
 
-Breakfast-300 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch-500 Dinner-  Protein-10
 
 CP/USACO: Sessions->30 mins Progress -> 1 ut done.
 Book: Sessions-> 1/2 Progress ->book 4.2
