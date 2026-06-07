@@ -90,7 +90,7 @@ Work: Sessions->1 Progress -> laptop setup.
 Sleep: 7 . "Relaxed". Train restraint ASAP.
 
 7
-Breakfast-30(coffee) Lunch-600 Dinner-  Protein-10
+Breakfast-30(coffee) Lunch-400 Dinner-  Protein-10
 
 CP/USACO: Sessions-> 1 Progress -> stuck in usaco training. need deep focus.
 Book: Sessions->0 Progress -> NA
