@@ -93,7 +93,7 @@ Sleep: 7 . "Relaxed". Train restraint ASAP.
 Breakfast-30(coffee) Lunch-600 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> stuck in usaco training. need deep focus.
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress -> NA
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> walk 45 mins+ 6 sets
 Work: Sessions->1 Progress -> setup.
