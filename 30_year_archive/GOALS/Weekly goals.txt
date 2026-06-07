@@ -90,12 +90,12 @@ Work: Sessions->1 Progress -> laptop setup.
 Sleep: 7 . "Relaxed". Train restraint ASAP.
 
 7
-Breakfast-10 Lunch-900 Dinner-  Protein-15
+Breakfast-10 Lunch-1000(500+500 approx) Dinner-  Protein-15
 
 CP/USACO: Sessions-> 1 Progress -> stuck in usaco training. need deep focus.
 Book: Sessions->0 Progress -> NA
 Guitar: Sessions->30 mins Progress -> just repetition.
-Exercise: Sessions-> Progress -> walk 1 hr 10 sets
+Exercise: Sessions-> Progress -> walk 1.5 hr 12 sets
 Work: Sessions->1 Progress -> setup.
 Sleep: 8 hrs. Train total restraint. Still remaining.
 Weight: 50.65
