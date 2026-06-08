@@ -105,25 +105,25 @@ Sleep: 8 hrs. Train total restraint. Still remaining.
 Weight: 50.65
 
 8
-Breakfast- 150 Lunch- Dinner-  Protein-
+Breakfast- 150 Lunch- Dinner-  Protein-(target: 1200 cal, 40g protein)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:7 hrs. fine.
 
 
 9
-Breakfast- Lunch- Dinner-  Protein- (target: 1200 cal, 40g protein)
+Breakfast- Lunch- Dinner-  Protein- 
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep: 7 hrs. fine.
+Sleep: 
 
 
 
