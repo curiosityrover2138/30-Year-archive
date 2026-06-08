@@ -116,14 +116,14 @@ Sleep:
 
 
 9
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast- Lunch- Dinner-  Protein- (target: 1200 cal, 40g protein)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 7 hrs. fine.
 
 
 
