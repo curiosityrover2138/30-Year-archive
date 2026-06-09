@@ -118,13 +118,13 @@ Sleep:7 hrs. fine.
 
 
 9
-Breakfast-220 Lunch- Dinner-  Protein- 
+Breakfast-220 Lunch-450 Dinner-  Protein- 10
 
 CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Exercise: Sessions-> Progress ->40 mins walk. Weights will do tomorrow, as today still working a good amount
+Work: Sessions-> 5 Progress ->HR tasks and learnings
 Sleep: 7 hrs
 
 
