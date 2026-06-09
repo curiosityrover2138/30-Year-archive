@@ -120,7 +120,7 @@ Sleep:7 hrs. fine.
 9
 Breakfast- Lunch- Dinner-  Protein- 
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
