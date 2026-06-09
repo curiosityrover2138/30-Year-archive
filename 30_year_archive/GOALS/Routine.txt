@@ -1,20 +1,19 @@
 Gradatim Ferociter.  Train like Phelps or sleep. Nothing else. Flow existence. VINCERO                     
-=== Revise every 6 months (24/04/2026) === 
+=== Revise every 6 months (9/06/2026) === 
 THIS IS THE BARE MINIMUM.
 1. Wakeup 6-7:30 MAX
 2. Coffee and light snack
 3. USACO/Leetcode 2 sessions non negotiable
-4. Work 1 session/ Book 1 session if work is less
+4. Guitar 1 session/ Work 1 session ONLY if its TOO MUCH
 5. Bath/Grooming 
-6. Work 1 session + Guitar 45 mins if workis less 
+6. Work 1-2 session
 7. Lunch 
-8. Work 1 session + guitar 45 mins if work is less
+8. Work 1-2 session
 9. Exercise 1/2 session 
-10. Work 1 session or USACO 1 session as needed for the day 
+10. Work 1 session or Guitar 1/2 if possible
 11. System design 1 session or work 1 session as needed
-12. Guitar 1 session.
-13. Reading book session
-14. Sleep 10:30-11:30 PM
+12. Reading book session
+13. Sleep 10:30-11:30 PM
 If work beyond 8, then reduce book reading time first, guitar second, and try and compensate for that in 
 morning of next day or weekend. 
 This routine is a floor, not a ceiling. At work time squeeze anything you want. Even USACO if needed. 
@@ -37,7 +36,8 @@ Chia seed, Protein shake and chicken fried or roasted are
 my primary food. Everything else is additional calories which I need to take into account.
 
 Don't do more than 2 things max in a day.
-6-7:30 AM wakeup->Coding-> Work-> Exercise-> Learning-> Guitar->Book reading-> Sleep
+6-7:30 AM wakeup->Coding->Guitar-> Work-> Exercise-> Learning->Book reading-> Sleep
+Changing a bit because of new job
 Infuse work, exercise, guitar and book reading. But keep coding separate and try another day with intense focus if the 
 current day is unsuccessful. Atleast do 45 min blocks for any activity and try 1.5 hours if possible. For work 
 always do 1.5 hour blocks. Everything apart from coding is fluid. Work hard when there is payoff. Also focus on flow as 
