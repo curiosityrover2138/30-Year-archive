@@ -118,7 +118,7 @@ Sleep:7 hrs. fine.
 
 
 9
-Breakfast-200 Lunch- Dinner-  Protein- 
+Breakfast-220 Lunch- Dinner-  Protein- 
 
 CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
 Book: Sessions-> Progress ->
