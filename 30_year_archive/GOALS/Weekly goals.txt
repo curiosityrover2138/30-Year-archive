@@ -124,7 +124,7 @@ CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->40 mins walk. Weights will do tomorrow, as today still working a good amount
-Work: Sessions-> 5 Progress ->HR tasks and learnings
+Work: Sessions-> 6 Progress ->HR tasks and learnings
 Sleep: 7 hrs
 
 
