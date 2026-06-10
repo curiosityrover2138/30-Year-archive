@@ -132,7 +132,7 @@ Sleep: 7 hrs
 10
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress -> 1 done ut
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
