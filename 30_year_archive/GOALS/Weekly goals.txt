@@ -121,10 +121,10 @@ Sleep:7 hrs. fine.
 Breakfast-220 Lunch-450 Dinner-  Protein- 10
 
 CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
+Guitar: Sessions-> 0Progress ->0
 Exercise: Sessions-> Progress ->40 mins walk. Weights will do tomorrow, as today still working a good amount
-Work: Sessions-> 6 Progress ->HR tasks and learnings
+Work: Sessions-> 6 Progress ->HR tasks and learnings with corey
 Sleep: 7 hrs
 
 
@@ -137,7 +137,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:5. wired. fix cycle by building debt.
 
 
 
