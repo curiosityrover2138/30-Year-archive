@@ -130,14 +130,14 @@ Sleep: 7 hrs
 
 
 10
-Breakfast-300 Lunch- Dinner-  Protein-15
+Breakfast-300 Lunch-500 Dinner-  Protein-15
 
 CP/USACO: Sessions-> 1 Progress -> 1 done ut
 Book: Sessions-> Progress ->
 Guitar: Sessions->1/2 Progress ->repetition. mornign session is great. will keep that. also will target much more in weekends
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
-Sleep:5. wired. fix cycle by building debt.
+Exercise: Sessions-> 0 Progress ->0
+Work: Sessions->5 Progress -> learning, kt sessions,etc
+Sleep:5+1. wired. fix cycle by building debt. slept a bit @4-5
 weight: 51.00
 
 
