@@ -118,7 +118,7 @@ Sleep:7 hrs. fine.
 
 
 9
-Breakfast-220 Lunch-450 Dinner-  Protein- 10
+Breakfast-220 Lunch-450 Dinner-600  Protein- 15
 
 CP/USACO: Sessions->1 Progress ->still stuck. will try brute force
 Book: Sessions->0 Progress ->0
@@ -130,7 +130,7 @@ Sleep: 7 hrs
 
 
 10
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
@@ -138,6 +138,7 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:5. wired. fix cycle by building debt.
+weight: 51.00
 
 
 
