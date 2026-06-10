@@ -134,7 +134,7 @@ Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> 1 done ut
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1/2 Progress ->repetition. mornign session is great. will keep that. also will target much more in weekends
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:5. wired. fix cycle by building debt.
