@@ -143,13 +143,13 @@ weight: 51.00
 
 
 11
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->usaco.training is down. did some basic things
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions->6 Progress -> learning, notes and KTs
 Sleep:6.5 fragmented. fix this. wont sleep in day to build debt
 
 
