@@ -130,7 +130,7 @@ Sleep: 7 hrs
 
 
 10
-Breakfast-300 Lunch-500 Dinner-500  Protein-45
+Breakfast-300 Lunch-500 Dinner-600  Protein-50
 
 CP/USACO: Sessions-> 1 Progress -> 1 done ut
 Book: Sessions-> 1 Progress -> manga
@@ -145,12 +145,12 @@ weight: 51.00
 11
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions->1 Progress -> 1done ut
+CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:6.5 fragmented. fix this.
 
 
 
