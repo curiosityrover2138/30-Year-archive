@@ -150,7 +150,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions->6 Progress -> learning, notes and KTs
-Sleep:6.5 fragmented. fix this. wont sleep in day to build debt
+Sleep:6.5 fragmented. fix this. wont sleep in day to build debt. Restraint missing. Let them choose
 
 
 
