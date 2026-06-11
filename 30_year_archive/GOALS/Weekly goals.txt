@@ -147,7 +147,8 @@ Breakfast-200 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->usaco.training is down. did some basic things. bad. need to be able to do usaco.guide as well
 Book: Sessions->0 Progress ->0
-Guitar: Sessions-> Progress -> didnt' do morning session. need to find way.
+Guitar: Sessions-> Progress -> didnt' do morning session. need to find way. also will need to sit with guitar and book 
+whenever i get a chance. Now I need to find a way to do everything in a day. Its hard but possible. Practice makes perfect.
 Exercise: Sessions->0 Progress ->0(feeling sick, need to do this from tomorrow)
 Work: Sessions->6 Progress -> learning, notes and KTs
 Sleep:6.5+1 fragmented. fix this. wont sleep in day to build debt(slept a bit, sick). Restraint missing. Let them choose
