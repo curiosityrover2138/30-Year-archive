@@ -150,7 +150,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:6.5 fragmented. fix this.
+Sleep:6.5 fragmented. fix this. wont sleep in day to build debt
 
 
 
