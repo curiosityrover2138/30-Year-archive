@@ -269,10 +269,13 @@ Sleep:6.5+1 fragmented. fix this. wont sleep in day to build debt(slept a bit, s
 
 
 12
-Breakfast-500 Lunch-400 Dinner-500  Protein-20
+Breakfast-500 Lunch-400 Dinner-800  Protein-20
 got slightly sick. Will be able to do more guitar and everything else from next week. This week I slightly underestimated 
 the company work. But I know how to manage it now. I will never make the mistake of underestimation and always keep buffer for work and USACO. Make weekly goals by giving a bit more buffer, and leeway, and aim to destroy the weekly goals first
 before ramping up.
+Maybe maintainance today. Will resume diet again tomorrow.
+
+Also relax at night before sleeping
 CP/USACO: Sessions->1 Progress -> stuck in 1 sum
 Book: Sessions->1/2 Progress ->odyssey
 Guitar: Sessions->0 Progress -> Will figure this out, and do in sync with work
