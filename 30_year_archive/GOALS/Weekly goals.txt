@@ -156,13 +156,13 @@ Sleep:6.5+1 fragmented. fix this. wont sleep in day to build debt(slept a bit, s
 
 
 12
-Breakfast-500 Lunch- Dinner-  Protein-
+Breakfast-500 Lunch-400 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress -> stuck in 1 sum
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions-> 5 Progress -> kt and documentation
 Sleep:6.5. Have greater duration.
 
 
