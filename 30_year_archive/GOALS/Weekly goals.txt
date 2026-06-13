@@ -16,7 +16,7 @@ Relax and take into account work pressure.
 13
 Breakfast-200 Lunch- 600 Dinner-  Protein-
 
-CP/USACO: Sessions-> 1 Progress -> stuck in 1 sum. will try more ways before looking at solution.
+CP/USACO: Sessions-> 2 Progress -> stuck in 1 sum. will try more ways before looking at solution.
 Book: Sessions-> 1 Progress ->ulysses chapter 5
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
