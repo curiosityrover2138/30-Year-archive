@@ -19,8 +19,8 @@ Breakfast-200 Lunch- 800 Dinner-  Protein-
 CP/USACO: Sessions-> 2 Progress -> stuck in 1 sum. will try more ways before looking at solution.
 Book: Sessions-> 1 Progress ->ulysses chapter 5
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Exercise: Sessions->0 Progress ->0 do tomorrow
+Work: Sessions->3 Progress ->going through KT+ notes
 Sleep:8. relaxed. fine.
 
 
