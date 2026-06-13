@@ -14,7 +14,7 @@ Relax and take into account work pressure.
 10. Destroy this routine and accomplish EVERYTHING.
 
 13
-Breakfast-200 Lunch- 400 Dinner-  Protein-
+Breakfast-200 Lunch- 600 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> stuck in 1 sum. will try more ways before looking at solution.
 Book: Sessions-> 1 Progress ->ulysses chapter 5
