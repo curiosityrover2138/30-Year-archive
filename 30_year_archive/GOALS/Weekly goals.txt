@@ -29,7 +29,7 @@ Sleep:8. relaxed. fine.
 Breakfast-600 Lunch-700 Dinner-400  Protein-20 slightly more because sick. do lesser in other days
 
 CP/USACO: Sessions-> 2 Progress ->still stuck. harder than expected.
-Book: Sessions->2 Progress ->odyssey
+Book: Sessions->2 Progress ->odyssey+manga
 Guitar: Sessions->0 Progress -> do in morning
 Exercise: Sessions-> 0 Progress ->0 do from 5:15-5:45
 Work: Sessions->2 Progress -> kt+wiki research & notes
