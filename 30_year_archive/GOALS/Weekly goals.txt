@@ -22,19 +22,19 @@ Guitar: Sessions->30 mins Progress -> will try carcassi etude alongwith standche
 Exercise: Sessions->0 Progress ->0 do tomorrow
 Work: Sessions->3 Progress ->going through KT+ notes
 Sleep:8. relaxed. fine.
-weight: 49.8
+
 
 
 14
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-600 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress ->still stuck. harder than expected.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:8. fine.
-
+weight: 49.8
 
 15
 Breakfast- Lunch- Dinner-  Protein-
