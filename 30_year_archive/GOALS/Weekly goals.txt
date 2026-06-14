@@ -26,15 +26,18 @@ Sleep:8. relaxed. fine.
 
 
 14
-Breakfast-600 Lunch-700 Dinner-  Protein-
+Breakfast-600 Lunch-700 Dinner-  Protein-20
 
-CP/USACO: Sessions-> 1 Progress ->still stuck. harder than expected.
+CP/USACO: Sessions-> 2 Progress ->still stuck. harder than expected.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions->1 Progress -> kt
-Sleep:8. fine.
+Exercise: Sessions-> 0 Progress ->0
+Work: Sessions->2 Progress -> kt+wiki research & notes
+Sleep:8+3. fine. fixed sleep debt. wont sleep at daytime again. 
 weight: 49.8
+need to be more intense, and calm. I am doing it rn, but nowhere near what I need. Also plan long term, be fine with 
+feeling stupid. Don't compete with others, there will be lots of people always who know more and are better at what they do.
+The goal is to be best at What MY AIM is, not to outcompete everyone. Make your own brand.
 
 15
 Breakfast- Lunch- Dinner-  Protein-
