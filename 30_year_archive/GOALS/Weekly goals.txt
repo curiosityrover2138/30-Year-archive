@@ -32,7 +32,7 @@ CP/USACO: Sessions-> 1 Progress ->still stuck. harder than expected.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions->1 Progress -> kt
 Sleep:8. fine.
 weight: 49.8
 
