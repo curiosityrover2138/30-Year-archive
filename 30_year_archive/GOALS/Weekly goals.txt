@@ -44,7 +44,7 @@ CP/USACO: Sessions->1 Progress ->no progress. sick, having difficulty.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions->3 Progress -> notes+meetings
+Work: Sessions->5 Progress -> notes+meetings
 Sleep:7. restraint is missing.verybad.
 
 
