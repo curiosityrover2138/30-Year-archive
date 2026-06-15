@@ -43,7 +43,7 @@ Breakfast-200 Lunch-900(sher e punjab) Dinner-900(chop planned)  Protein-20
 CP/USACO: Sessions->1 Progress ->no progress. sick, having difficulty.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions->2 Progress ->walk 1 hour+ 4sets weight
+Exercise: Sessions->2 Progress ->walk 1 hour+ 10 sets weight
 Work: Sessions->5 Progress -> notes+meetings
 Sleep:7. restraint is missing.verybad.
 
