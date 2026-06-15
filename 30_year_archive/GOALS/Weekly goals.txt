@@ -38,9 +38,9 @@ weight: 49.8
 Make your own brand
 
 15
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->no progress. sick, having difficulty.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
