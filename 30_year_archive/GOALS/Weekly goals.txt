@@ -50,7 +50,7 @@ Sleep:7. restraint is missing.verybad.
 
 
 16
-Breakfast-400 Lunch-600 Dinner-  Protein-
+Breakfast-400 Lunch-600 Dinner-700  Protein-15
 
 CP/USACO: Sessions->2 Progress -> 2 ut done
 Book: Sessions-> 1 Progress -> book 7 done+manga
