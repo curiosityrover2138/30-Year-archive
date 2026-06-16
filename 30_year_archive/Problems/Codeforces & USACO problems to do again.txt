@@ -145,3 +145,4 @@ https://usaco.org/index.php?page=viewproblem2&cpid=1035
 https://cses.fi/problemset/task/3175/
 
 https://codeforces.com/contest/1365/problem/D
+https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=holstein-> Implement yourself
