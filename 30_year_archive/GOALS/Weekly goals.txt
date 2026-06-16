@@ -50,14 +50,14 @@ Sleep:7. restraint is missing.verybad.
 
 
 16
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> *goal 25-30 weights*
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:9. good. wokeup late. was tired.
 
 
 17
