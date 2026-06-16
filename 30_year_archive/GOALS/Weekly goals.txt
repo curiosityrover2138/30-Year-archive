@@ -56,7 +56,7 @@ CP/USACO: Sessions->2 Progress -> 2 ut done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> *goal 25-30 weights*
-Work: Sessions-> Progress ->
+Work: Sessions->4 Progress -> documentation + going through dbs
 Sleep:9. good. wokeup late. was tired.
 
 
