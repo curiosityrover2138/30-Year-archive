@@ -53,7 +53,7 @@ Sleep:7. restraint is missing.verybad.
 Breakfast-400 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->2 Progress -> 2 ut done
-Book: Sessions-> Progress ->
+Book: Sessions-> 1 Progress -> book 7 done
 Guitar: Sessions-> Progress -> create privacy & guard the time
 Exercise: Sessions-> Progress -> *goal 25-30 weights*
 Work: Sessions->4 Progress -> documentation + going through dbs and data
