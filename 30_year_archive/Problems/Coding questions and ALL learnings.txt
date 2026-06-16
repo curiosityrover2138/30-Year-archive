@@ -1,6 +1,12 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+
+https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=holstein
+Did this but used LLM to code it. Solution of bitmasks and simulation was mine. Just I wasn't 100% sure how to code it.
+will do it again once bitmasks is clearer.
+
+
 https://codeforces.com/contest/1365/problem/D
 
 Very easy solution. That is what I was thinking but didn't implement because I went in a detour with a very hard and 
