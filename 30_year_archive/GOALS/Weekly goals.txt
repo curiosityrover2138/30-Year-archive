@@ -65,7 +65,7 @@ Sleep:9. good. wokeup late. was tired.
 17
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress -> read through DP
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
