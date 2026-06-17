@@ -69,8 +69,8 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
-Sleep:
+Work: Sessions->5  Progress -> corey assignment + discussions & documentations
+Sleep:5 hours. will make up in coming days. due to work.
 Weight: 50.1
 
 18
