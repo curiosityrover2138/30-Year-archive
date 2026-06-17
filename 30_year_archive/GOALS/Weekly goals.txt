@@ -63,7 +63,7 @@ Sleep:9. good. wokeup late. was tired.
 
 
 17
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-0 Lunch-600 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> read through DP
 Book: Sessions-> Progress ->
