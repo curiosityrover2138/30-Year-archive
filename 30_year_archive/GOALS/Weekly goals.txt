@@ -66,9 +66,9 @@ Sleep:9. good. wokeup late. was tired.
 Breakfast-0 Lunch-600 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> read through DP
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress -> 0
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> 1 hour walk.
 Work: Sessions->5  Progress -> corey assignment + discussions & documentations + meetings
 Sleep:5 hours. will make up in coming days. due to work.
 Weight: 50.1
