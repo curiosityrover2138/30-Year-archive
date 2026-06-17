@@ -71,6 +71,7 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:
+Weight: 50.1
 
 18
 Breakfast- Lunch- Dinner-  Protein-
