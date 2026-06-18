@@ -74,7 +74,7 @@ Sleep:5 hours. will make up in coming days. due to work.
 Weight: 50.1
 
 18
-Breakfast-500 Lunch-600 Dinner-  Protein-
+Breakfast-500 Lunch-600 Dinner- 800 Protein-10
 
 CP/USACO: Sessions->1 Progress -> mainly reading and looking at problem. Didn't make progress
 Book: Sessions-> 1 Progress -> book 8 completed
