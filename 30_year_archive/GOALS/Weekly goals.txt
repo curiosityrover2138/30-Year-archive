@@ -63,7 +63,7 @@ Sleep:9. good. wokeup late. was tired.
 
 
 17
-Breakfast-0 Lunch-600 Dinner-600  Protein-15
+Breakfast-0 Lunch-600 Dinner-800  Protein-15
 
 CP/USACO: Sessions-> 1 Progress -> read through DP
 Book: Sessions->0 Progress -> 0
@@ -74,7 +74,7 @@ Sleep:5 hours. will make up in coming days. due to work.
 Weight: 50.1
 
 18
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-500 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
