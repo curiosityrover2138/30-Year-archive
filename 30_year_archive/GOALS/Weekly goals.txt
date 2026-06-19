@@ -86,7 +86,7 @@ Sleep:8. Restraint needed. will adjust in the year overall.
 
 
 19
-Breakfast-900 Lunch- Dinner-  Protein-
+Breakfast-800 Lunch-400 Dinner-  Protein-
 
 CP/USACO: Sessions->0 Progress -> couldnt do DP
 Book: Sessions-> Progress ->
