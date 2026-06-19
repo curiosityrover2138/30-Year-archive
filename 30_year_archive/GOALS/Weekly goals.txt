@@ -6,11 +6,13 @@ Relax and take into account work pressure.
 2. USACO 3 sums. Usaco training 4 sums.
 3. Walk 200 mins. Run 60 mins
 4. Guitar 11 hours.
-5. Perfect routine.(downgrading relaxation to once every 2 weeks,facing issues if quicker)
-6. Make great notes, architecture. Great work overall. Give reverse KT.
-7. Weight 48-50. 40-50 g protein daily. good fiber.
-8. Till book 7 of odyssey. Read ulysses and manga as well.
+5. Perfect routine.(downgrading relaxation to once every 2 weeks,facing issues if quicker) DONE.
+6. Make great notes, architecture. Great work overall. Give reverse KT. DONE.
+7. Weight 48-50. 40-50 g protein daily. good fiber. DECENT. IMPROVE THIS.
+8. Till book 7 of odyssey. Read ulysses and manga as well. DONE
 9. 60 sets weight total. Good sleep hygiene. Less than 1600 cal diet overall taking walk/run into account.
+Let diet hit a bit greater than maintainance this week just to see how much my 
+peak eating capacity is, and calibrating diet. Will again do next 3-4 weeks of 1200-1400 to lose 2-3 kgs.
 10. Destroy this routine and accomplish EVERYTHING.
 11. Alternate between running and weights. Either run 45 mins/walk briskly 1.5-2 hours, or do 25-30 sets weight.
 
@@ -86,7 +88,7 @@ Sleep:8. Restraint needed. will adjust in the year overall.
 
 
 19
-Breakfast-800 Lunch-400 Dinner-  Protein-
+Breakfast-800 Lunch-400 Dinner-900  Protein-20
 
 CP/USACO: Sessions->0 Progress -> couldnt do DP
 Book: Sessions-> Progress ->
