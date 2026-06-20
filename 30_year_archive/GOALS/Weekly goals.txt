@@ -18,7 +18,7 @@ exercise,protein & fiber.
 Breakfast-200 Lunch-450 Dinner-  Protein-
 
 CP/USACO: Sessions->2 Progress -> stuck in dp sum. read through theory.
-Book: Sessions-> Progress ->
+Book: Sessions->1/2 Progress -> book 10.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> 0 Progress -> 0 .
 Work: Sessions-> 3 Progress -> Documenting all staging procedures (16/28 done)
