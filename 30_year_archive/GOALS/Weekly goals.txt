@@ -15,12 +15,12 @@ exercise,protein & fiber.
 
 
 20
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-450 Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->2 Progress -> stuck in dp sum. read through theory.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> 0 Progress -> 0 .
 Work: Sessions-> 3 Progress -> Documenting all staging procedures (16/28 done)
 Sleep: 8. Restraint is very important now. Its getting too much.
 
