@@ -21,7 +21,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions-> 3 Progress -> Documenting all staging procedures (14/28 done)
 Sleep: 8. Restraint is very important now. Its getting too much.
 
 
