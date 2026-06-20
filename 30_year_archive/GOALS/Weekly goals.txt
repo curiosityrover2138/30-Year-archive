@@ -22,7 +22,7 @@ Book: Sessions->1/2 Progress -> book 10.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> 0 Progress -> 0 .
 Work: Sessions-> 3 Progress -> Documenting all staging procedures (16/28 done)
-Sleep: 8. Restraint very important. DO IT.
+Sleep: 8+1. Restraint very important. DO IT. Stop napping in day.
 
 
 21
