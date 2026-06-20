@@ -16,7 +16,7 @@ exercise,protein & fiber.
 
 
 20
-Breakfast-200 Lunch-450 Dinner-  Protein-
+Breakfast-200 Lunch-450 Dinner-800  Protein-50
 
 CP/USACO: Sessions->2 Progress -> read through theory. 1 done.
 Book: Sessions->1/2 Progress -> book 10.
