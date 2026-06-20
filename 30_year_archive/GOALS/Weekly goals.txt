@@ -20,7 +20,7 @@ Breakfast-200 Lunch-450 Dinner-  Protein-
 
 CP/USACO: Sessions->2 Progress -> stuck in dp sum. read through theory.
 Book: Sessions->1/2 Progress -> book 10.
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->0. Its fine. A bit slow and relaxed today. Will go intense and achieve this from tomorrow.
 Exercise: Sessions-> 0 Progress -> 0 .
 Work: Sessions-> 3 Progress -> Documenting all staging procedures (16/28 done)
 Sleep: 8+1. Restraint very important. DO IT. Stop napping in day.
