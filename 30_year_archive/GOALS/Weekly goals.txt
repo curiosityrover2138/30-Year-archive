@@ -16,7 +16,7 @@ exercise,protein & fiber.
 
 
 20
-Breakfast-200 Lunch-450 Dinner-800  Protein-50
+Breakfast-200 Lunch-450 Dinner-800  Protein-55
 
 CP/USACO: Sessions->2 Progress -> read through theory. 1 done.
 Book: Sessions->1/2 Progress -> book 10.
@@ -34,7 +34,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 8.5 hours. Good restraint. Relaxed. Won't for next 2 weeks.
 
 
 
