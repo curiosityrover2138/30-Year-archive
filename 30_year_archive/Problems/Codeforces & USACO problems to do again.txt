@@ -149,3 +149,5 @@ https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=holstein-> Implement yourself
 
 https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=hamming-> See again implementation. Bit operations need to be more 
 comfortable doing.
+
+https://usaco.training/usacoprob2?a=UdGaZG3amTh&S=subset IMPLEMENT again. Need to master DP.
