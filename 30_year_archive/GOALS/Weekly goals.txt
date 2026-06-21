@@ -33,7 +33,7 @@ CP/USACO: Sessions->1 Progress ->1 sum done.doing great. just don't use llm's fo
 Book: Sessions->1/2 Progress -> book 11 done.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress -> documentation of staging procedures 28/28 done
 Sleep: 8.5 hours. Good restraint. Relaxed. Won't for next 2 weeks.
 
 
