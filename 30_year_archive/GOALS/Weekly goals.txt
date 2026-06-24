@@ -72,7 +72,8 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8. good restraint. keep this up.
+weight: 50.2
 
 
 25
