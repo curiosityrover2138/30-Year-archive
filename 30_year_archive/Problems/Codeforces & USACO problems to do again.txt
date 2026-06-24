@@ -147,6 +147,8 @@ https://cses.fi/problemset/task/3175/
 https://codeforces.com/contest/1365/problem/D
 https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=holstein-> Implement yourself
 
+https://usaco.training/usacoprob2?a=r8v7vMZXc5j&S=lamps -> Use bitmask approach instead of simulation
+
 https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=hamming-> See again implementation. Bit operations need to be more 
 comfortable doing.
 
