@@ -71,7 +71,7 @@ CP/USACO: Sessions->1 Progress -> 1 ut. used llm minimally. need to stop using i
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions-> 4 Progress -> documentation+Kt
 Sleep:8. good restraint. keep this up.
 weight: 50.2
 
