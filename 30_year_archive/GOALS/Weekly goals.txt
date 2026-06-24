@@ -70,7 +70,6 @@ Breakfast-350 Lunch-400 Dinner- 700 Protein-20
 CP/USACO: Sessions->1 Progress -> 1 ut. used llm minimally. need to stop using it totally. frustrating but thats how you learn. focus on learning. not ticking off. it will be hard, but DO IT.
 Book: Sessions->0 Progress ->0
 Guitar: Sessions-> 0 Progress -> 0 
-
 Exercise: Sessions->1/2 Progress ->10 sets weight
 Work: Sessions-> 4 Progress -> documentation+Kt
 Sleep:8. good restraint. keep this up.
@@ -78,7 +77,8 @@ weight: 50.2
 
 Today unexpectedly got fiber and tv connection. So went haywire and relaxed a lot. Will complete exercise, guitar, documentation goals in next 3 days by going intense. Work will be a bit less maybe but will atleast complete USACO ,
 guitar and exercise. These are important ones. Will adjust work a bit later. Also for work there is not much
-except documentation.
+except documentation. Still I need to go intense, and have stretches of intense and chill in a week so I can train myself
+for 100% intensity.
 
 
 
