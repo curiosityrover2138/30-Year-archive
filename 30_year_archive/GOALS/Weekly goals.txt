@@ -69,7 +69,7 @@ Breakfast-350 Lunch-400 Dinner- 700 Protein-20
 
 CP/USACO: Sessions->1 Progress -> 1 ut. used llm minimally. need to stop using it totally. frustrating but thats how you learn. focus on learning. not ticking off. it will be hard, but DO IT.
 Book: Sessions->0 Progress ->0
-Guitar: Sessions-> 0 Progress -> 0 
+Guitar: Sessions-> 1 Progress -> 1:30 mins etude practice 
 Exercise: Sessions->1/2 Progress ->10 sets weight
 Work: Sessions-> 4 Progress -> documentation+Kt
 Sleep:8. good restraint. keep this up.
