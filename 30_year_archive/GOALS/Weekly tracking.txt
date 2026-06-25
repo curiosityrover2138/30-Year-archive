@@ -86,10 +86,10 @@ for 100% intensity.
 Breakfast-350 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1  Progress -> 1 done. be more intense and honest
-Book: Sessions-> Progress ->
+Book: Sessions->1/2 Progress -> manga
 Guitar: Sessions->2 Progress -> etude 80% done
 Exercise: Sessions->1 Progress ->20 sets weight+1 hour walk
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress -> kt + documentation + discussions
 Sleep:7. wokeup slightly late. fix. restraint keep it up
 
 Goal: guitar 4 sessions, work 3, cp 2, exercise 20 sets, run 30 mins
