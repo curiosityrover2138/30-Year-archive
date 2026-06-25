@@ -85,7 +85,7 @@ for 100% intensity.
 25
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1  Progress -> 1 done. Slight help. But easy dp. Can do it again.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
