@@ -87,7 +87,7 @@ Breakfast-350 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1  Progress -> 1 done. be more intense and honest
 Book: Sessions-> Progress ->
-Guitar: Sessions->1 Progress ->
+Guitar: Sessions->2 Progress -> etude 80% done
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:7. wokeup slightly late. fix. restraint keep it up
