@@ -4,22 +4,25 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 https://usaco.training/usacoprob2?a=nn4zQSELcbt&S=prefix
 
 DP can be constructed for each primitive length by checking all and marking anything that works 
-int n = actual.size();
-    vector<bool> dp(n + 1, false);
-    dp[0] = true;
-
-    for (int i = 0; i <= n; i++) {
-        if (!dp[i]) continue;
-
-        for (auto &p : primitives) {
-            int len = p.size();
-
-            if (i + len <= n && actual.compare(i, len, p) == 0) {
-                dp[i + len] = true;
+//written by me
+vector<bool> dp(actual.size()+1,false);
+    dp[0]=true;
+    for(int i=0;i<=actual.size();i++){
+        if(!dp[i]) continue;
+        for(auto itr: primitives){
+            int x=itr.size();
+            if(actual.compare(i,x,itr)==0){
+                dp[i+x]=true;
             }
         }
     }
-
+    int ans2=0;
+    for(int i=actual.size();i>-1;i--){
+        if(dp[i]){
+            ans2=i;
+            break;
+        }
+    }
 
 https://usaco.training/usacoprob2?a=kRmmB13aI2d&S=hamming
 Did it, but still can implement it fully myself. Idea is correct. Binaries I need to be more comfortable with.
