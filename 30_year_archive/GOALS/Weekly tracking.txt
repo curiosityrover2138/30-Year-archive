@@ -107,7 +107,7 @@ Breakfast- Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> Progress -> (aim for 3 sessions)
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep: 8. more restraint. revisit plan.
