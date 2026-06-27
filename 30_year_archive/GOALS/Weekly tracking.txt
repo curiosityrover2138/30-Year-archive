@@ -22,7 +22,7 @@ CP/USACO: Sessions->1 Progress ->stuck.
 Book: Sessions->1 Progress ->book 16.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
+Work: Sessions->2 Progress ->went through salesforce. need to understand pullthrough.
 Sleep: 8. wakeup @ 7.30. fix.
 
 
