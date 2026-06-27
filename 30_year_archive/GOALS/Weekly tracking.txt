@@ -16,14 +16,15 @@ Theme: Train extreme intensity. Achieve things early. Great work, Great USACO, t
 
 
 27
-Breakfast-500 Lunch- Dinner-  Protein-
+Breakfast-600 Lunch-400 Dinner-  Protein-
 
-CP/USACO: Sessions->1 Progress ->stuck.
+CP/USACO: Sessions->1 Progress ->stuck.wasted-2 hrs
 Book: Sessions->1 Progress ->book 16.
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> 1 hr walk (-200)
 Work: Sessions->2 Progress ->went through salesforce. need to understand pullthrough.
-Sleep: 8. wakeup @ 7.30. fix.
+Sleep: 8+1.5 hr nap. wakeup @ 7.30. fix both.
+be more intense.
 
 
 28
