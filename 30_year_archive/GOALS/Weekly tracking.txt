@@ -19,7 +19,7 @@ Theme: Train extreme intensity. Achieve things early. Great work, Great USACO, t
 Breakfast-500 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->stuck.
-Book: Sessions-> Progress ->
+Book: Sessions->1 Progress ->book 16.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
