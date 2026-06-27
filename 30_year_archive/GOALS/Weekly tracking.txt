@@ -16,15 +16,16 @@ Theme: Train extreme intensity. Achieve things early. Great work, Great USACO, t
 
 
 27
-Breakfast-600 Lunch-400 Dinner-  Protein-
+Breakfast-600 Lunch-400 Dinner- 500 Protein-20
 
 CP/USACO: Sessions->1 Progress ->stuck.wasted-2 hrs
 Book: Sessions->1 Progress ->book 16.
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 1 Progress ->1.5 hr.
 Exercise: Sessions-> Progress -> 1 hr walk (-200)
 Work: Sessions->2 Progress ->went through salesforce. need to understand pullthrough.
 Sleep: 8+1.5 hr nap. wakeup @ 7.30. fix both.
-be more intense.
+
+be more intense. need to train till 10-11 yr old phelps.
 
 
 28
