@@ -37,7 +37,7 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep: 6. 7:30 wakeup. fix ASAP
-
+Weight: 50.00
 
 29
 Breakfast- Lunch- Dinner-  Protein-
