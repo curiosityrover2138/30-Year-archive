@@ -31,7 +31,7 @@ be more intense. need to train till 10-11 yr old phelps.
 28
 Breakfast-250 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> 1 Progress ->still stuck @ dp.
+CP/USACO: Sessions-> 2 Progress ->still stuck @ 2d dp.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
