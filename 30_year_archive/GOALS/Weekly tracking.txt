@@ -36,7 +36,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 6. 7:30 wakeup. fix ASAP
 
 
 29
