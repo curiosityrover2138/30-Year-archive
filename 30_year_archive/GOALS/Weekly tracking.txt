@@ -46,7 +46,7 @@ Breakfast-200 Lunch-400 Dinner-  Protein-
 CP/USACO: Sessions->2 Progress -> 1 done. 40% help.
 Book: Sessions->3 Progress ->odyssey completed. Started Naked Lunch.
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->1 hour walk(-200
+Exercise: Sessions-> Progress ->1 hour walk(-200)
 Work: Sessions->2 Progress -> basic things+ research
 Sleep:7. fine.
 
