@@ -1,6 +1,11 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+
+https://usaco.training/usacoprob2?a=2ZJXEXnD6oV&S=nocows
+we use dp to combine left subtree and right subtree for all possibilities of n and height. base cases are 1,1=1 and rest everything is zero.
+Use multiplication when combining independent choices; use addition when choosing between alternatives.
+
 https://usaco.training/usacoprob2?a=nn4zQSELcbt&S=prefix
 
 DP can be constructed for each primitive length by checking all and marking anything that works 
