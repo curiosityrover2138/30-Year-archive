@@ -4,6 +4,7 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 
 https://usaco.training/usacoprob2?a=2ZJXEXnD6oV&S=nocows
 we use dp to combine left subtree and right subtree for all possibilities of n and height. base cases are 1,1=1 and rest everything is zero.
+Check for all kinds of left and right subtrees with all combinations of height and node number.
 Use multiplication when combining independent choices; use addition when choosing between alternatives.
 
 https://usaco.training/usacoprob2?a=nn4zQSELcbt&S=prefix
