@@ -4,6 +4,8 @@
 1935B
 2039C1
 2035C
+
+https://usaco.training/usacoprob2?a=2ZJXEXnD6oV&S=nocows IMP. Do it totally yourself.
 2034C
 1901B
 1904B
