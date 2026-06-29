@@ -43,7 +43,7 @@ Weight: 50.00
 29
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions->2 Progress -> 1 done. Slight help.
+CP/USACO: Sessions->2 Progress -> 1 done. 40% help.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
