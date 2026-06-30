@@ -53,7 +53,7 @@ late sleep today due to fifa.
 
 
 30
-Breakfast-400 Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-20
 
 CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
 Book: Sessions->1 Progress ->started anna karenina
