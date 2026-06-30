@@ -23,7 +23,7 @@ Keep this goal. Adjust slightly in and within days. Reduce context switches.
 
 
 30
-Breakfast-400 Lunch-500 Dinner-  Protein-20
+Breakfast-400 Lunch-500 Dinner-500  Protein-60
 
 CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
 Book: Sessions->3 Progress ->started anna karenina
