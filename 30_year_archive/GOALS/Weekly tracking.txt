@@ -11,9 +11,9 @@ Theme: Train extreme intensity. Achieve things early. Great work, Great USACO, t
 7. Run 80 mins. Walk 200 mins
 7.5 Alternate weights and cardio days
 8. Diet <1500 cal. Good fibre. Protein >50 g almost daily(2 days slack fine)
-9. Book 10 hrs. Complete odyssey.
+9. Book 10 hrs. Complete odyssey. DONE
 10. Relax on 4th 
-11. Clean bathroom
+11. Clean bathroom DONE
 
 
 27
@@ -53,7 +53,7 @@ late sleep today due to fifa.
 
 
 30
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
 Book: Sessions->1 Progress ->started anna karenina
