@@ -55,7 +55,7 @@ late sleep today due to fifa.
 30
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
