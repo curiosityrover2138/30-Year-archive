@@ -1,4 +1,4 @@
-1/7 - 12/7
+30/6 - 12/7
 Theme: Keep hobbies enjoyable. Push hard on work and USACO. Slowly train guitar skills to handle more. Find something you enjoy in guitar. Work 6-9 USACO 1-3, guitar 0.5-1, book 0-1 exercise 1.
 Keep this goal. Adjust slightly. Reduce context switches.
 Relax a bit on hobbies. They are not the main goal. Either do book or guitar more a day. If one is more reduce other. Don't pressurize yourself with hobbies. Keep focus on work and USACO
@@ -20,7 +20,15 @@ for MOST of the day. Only take up 1 hobby per day MOSTLY, or divide small time b
 14. Don't work more than 12 hours a day INCLUDING hobbies. 
 
 
+30
+Breakfast-400 Lunch-500 Dinner-  Protein-20
 
+CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
+Book: Sessions->1 Progress ->started anna karenina
+Guitar: Sessions-> 15 mins. Progress -> Just practice
+Exercise: Sessions-> 0 Progress ->0 
+Work: Sessions->3 Progress -> formulary drilldown+ research
+Sleep:8. 7:30 wakeup due to fifa.
 
 1
 Breakfast- Lunch- Dinner-  Protein-
@@ -231,14 +239,7 @@ late sleep today due to fifa.
 
 
 30
-Breakfast-400 Lunch- Dinner-  Protein-20
 
-CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
-Book: Sessions->1 Progress ->started anna karenina
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions->3 Progress -> formulary drilldown+ research
-Sleep:8. 7:30 wakeup due to fifa.
 
 
 
