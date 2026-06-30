@@ -24,7 +24,7 @@ for MOST of the day. Only take up 1 hobby per day MOSTLY, or divide small time b
 Breakfast-400 Lunch-500 Dinner-  Protein-20
 
 CP/USACO: Sessions->2 Progress -> stuck, but trying recursion.
-Book: Sessions->1 Progress ->started anna karenina
+Book: Sessions->3 Progress ->started anna karenina
 Guitar: Sessions-> 15 mins. Progress -> Just practice
 Exercise: Sessions-> 0 Progress ->0 
 Work: Sessions->3 Progress -> formulary drilldown+ research
