@@ -39,7 +39,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
-Work: Sessions-> 1 Progress -> completed corey's assignment, will give next to tirath.
+Work: Sessions-> 1 Progress -> completed corey's assignment, will give other one to tirath.
 Sleep:8. 7:30 wakeup.
 
 
