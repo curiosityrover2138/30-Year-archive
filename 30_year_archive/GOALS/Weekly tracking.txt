@@ -4,7 +4,7 @@ Theme: Keep hobbies enjoyable. Push hard on work and USACO. Slowly train guitar 
 Keep this goal. Adjust slightly in and within days. Reduce context switches.
 
 
-1. Relax on 4th
+1. Relax on 4th. DONE on 2nd.
 2. Guitar 16 hr. Find a great project. Be consistent (1-3 hrs a day inching to 4-5 on weekends). Train to inch towards 30. 11-12 hrs a week.
 3. Weights 70 sets. Alternate with walk. 15-20 a day
 4. Work 27 sessions per week
@@ -41,7 +41,7 @@ Guitar: Sessions->0 Progress -> 0  won't do today. From tomorrow need to find ne
 Exercise: Sessions-> 1/2 Progress -> 40 mins walk. Increase more
 Work: Sessions-> 6 Progress -> completed corey's assignment,discussed other with Tirath and resolved doubts
 Sleep:8. 7:30 wakeup.
-
+Weight: 50.00
 
 
 2
@@ -52,7 +52,9 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:3. Fix this by naps+better sleep other days.
+restrict protein at night and bloating heavy foods.
+relaxed today itself because of trip restrictions. 
 
 
 3
