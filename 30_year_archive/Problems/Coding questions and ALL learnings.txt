@@ -11,6 +11,8 @@ https://usaco.training/usacoprob2?a=nn4zQSELcbt&S=prefix
 
 DP can be constructed for each primitive length by checking all and marking anything that works 
 //written by me
+
+This kind of 2 loop pattern is also a recurring motif in dp. keep this in mind.
 vector<bool> dp(actual.size()+1,false);
     dp[0]=true;
     for(int i=0;i<=actual.size();i++){
