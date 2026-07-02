@@ -45,16 +45,16 @@ Weight: 50.00
 
 
 2
-Breakfast-200 Lunch- 1000 Dinner-  Protein-15 .
+Breakfast-200 Lunch- 1000 Dinner-100  Protein-15 .
 Will eat very less dinner.
 Very tired. Failed on a lot of things
 
 CP/USACO: Sessions-> 0 Progress ->0
-Book: Sessions-> 0 Progress ->0
-Guitar: Sessions->0 Progress ->0
+Book: Sessions-> 1 Progress ->ak continuation
+Guitar: Sessions->30 mins Progress ->started carcassi etude
 Exercise: Sessions->0 Progress ->0
 Work: Sessions->5 Progress -> found how to use AI properly. Research + Documentation
-Sleep:3. Fix this with naps+better sleep other days. Also learn to push through to achieve the goals of the day/week.
+Sleep:3+1 nap. Fix this with naps+better sleep other days. Also learn to push through to achieve the goals of the day/week.
 restrict protein at night and bloating heavy foods.
 
 
