@@ -45,14 +45,14 @@ Weight: 50.00
 
 
 2
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:3. Fix this by naps+better sleep other days.
+Sleep:3. Fix this with naps+better sleep other days. Also learn to push through to achieve the goals of the day/week.
 restrict protein at night and bloating heavy foods.
 relaxed today itself because of trip restrictions. 
 
