@@ -69,7 +69,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:2. Due to trip. Get some extra sleep in the week to make up. Disabled 6:00 alarm for 2 days.
 
 
 4
