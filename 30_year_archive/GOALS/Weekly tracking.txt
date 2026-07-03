@@ -62,10 +62,10 @@ relaxed today itself because of trip restrictions.
 
 
 3
-Breakfast-700 Lunch- Dinner-  Protein-
+Breakfast-700 Lunch- 600 Dinner-  Protein-30
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->Ulysses + ak
+CP/USACO: Sessions-> 0Progress ->
+Book: Sessions-> 4 Progress ->Ulysses + ak
 Guitar: Sessions-> Progress ->0 mayapur  
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->0 mayapur
