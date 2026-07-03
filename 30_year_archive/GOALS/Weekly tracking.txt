@@ -62,12 +62,12 @@ relaxed today itself because of trip restrictions.
 
 
 3
-Breakfast-700 Lunch- 600 Dinner-  Protein-30
+Breakfast-700 Lunch- 600 Dinner-  Protein-55
 
-CP/USACO: Sessions-> 0Progress ->
+CP/USACO: Sessions-> 0Progress ->0
 Book: Sessions-> 4 Progress ->Ulysses + ak
 Guitar: Sessions-> Progress ->0 mayapur  
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> Progress ->2 hr walk
 Work: Sessions-> Progress ->0 mayapur
 Sleep:2. Due to trip. Get some extra sleep in the week to make up. Disabled 6:00 alarm for 2 days.
 
