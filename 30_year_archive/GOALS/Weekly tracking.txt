@@ -75,19 +75,20 @@ had lots of food today to test and dtaste. from todmorrowwill restrict like <120
 
 
 4
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast- Lunch- Dinner-  Protein- total 1500 cal
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
-Sleep:
+CP/USACO: Sessions-> 0 Progress ->
+Book: Sessions->4 Progress ->
+Guitar: Sessions->0 Progress ->
+Exercise: Sessions-> Progress -> 1.5 hr walk
+Work: Sessions->0 Progress ->0
+Sleep:6 hr
 
 
 
 5
-Breakfast- Lunch- Dinner-  Protein-
+back from mayapur
+Breakfast-150 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
@@ -95,6 +96,8 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->
 Work: Sessions-> Progress ->
 Sleep:
+weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity and decrease diet, aiming for 15% bf in 2 months (september).
+
 
 
 6
