@@ -87,7 +87,7 @@ Breakfast-300 Lunch-400 Dinner-200(coffee)  Protein-
 
 CP/USACO: Sessions->0 Progress ->0
 Book: Sessions->2 Progress ->page 150
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 1/2 Progress -> carcassi started properly.
 Exercise: Sessions-> Progress ->2 hr walk,5 mins run
 Work: Sessions->0 Progress ->0
 Sleep: 6+1 hr nap.
