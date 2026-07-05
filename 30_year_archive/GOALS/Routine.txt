@@ -1,7 +1,9 @@
 Gradatim Ferociter.  Train like Phelps or sleep. Nothing else. Flow existence. VINCERO                     
 === Revise every 6 months (9/06/2026) === 
 THIS IS THE BARE MINIMUM.
+
 1. Wakeup 6-7:30 MAX
+1.5 Run 45 mins (if running day). Outside on weekends
 2. Coffee and light snack
 3. USACO/Leetcode 2 sessions non negotiable
 4. Guitar 1 session/ Work 1 session ONLY if its TOO MUCH
@@ -9,11 +11,12 @@ THIS IS THE BARE MINIMUM.
 6. Work 1-2 session
 7. Lunch 
 8. Work 1-2 session
-9. Exercise 1/2 session 
+9. Exercise 1/2 session (4-4:30) / Work during run days.
 10. Work 1 session or Guitar 1/2 if possible
 11. System design 1 session or work 1 session as needed
 12. Reading book session
 13. Sleep 10:30-11:30 PM
+
 Weekend increase guitar and usaco by 2 and book by 1. Keep work as and when needed or rest.
 
 If work beyond 8, then reduce book reading time first, guitar second, and try and compensate for that in 
@@ -22,13 +25,17 @@ This routine is a floor, not a ceiling. At work time squeeze anything you want. 
 But do whatever you want otherwise. Guitar and Book are needed only when you are missing the minimum. If not then 
 its fine to defer slightly, just don't miss the weekly goals.
 
+
+Run will be in garage shuttle runs or outside. Try outside on weekends as much as possible.
+
+
 Do deep focus sessions of 1.5 hours. Consistency wins over intensity. This is already elite. Just follow it.
 Minimums are non negotiable and BARE MINIMUM. That I can and should achieve everyday. Effort matters, not outcome.
 Routine (FIXED FOR ALL TIME):
 Task----Focus Sessions
 Work - 1 min 4 max 
 Reading book- 1 max or 1/3 min(only when everything else is max) 
-Exercise - 1/6 i.e. 15 mins min. 1/2 max
+Exercise - 1/6 i.e. 15 mins min. 1/2 max. Include runs.
 Guitar - 1/2 min 2 max 
 Coding/USACO/Math- 1 min 3 max 
 System design/ Research paper/Learning for work- 1/2 min 1 max 
@@ -39,6 +46,9 @@ my primary food. Everything else is additional calories which I need to take int
 
 Don't do more than 2 things max in a day.
 6-7:30 AM wakeup->Coding->Guitar-> Work-> Exercise-> Learning->Book reading-> Sleep
+OR
+6 Wakeup-> Run(45 mins Shuttle in garage)-> Coding-> Guitar->Work->Learning->Book reading->sleep.
+
 Changing a bit because of new job
 Infuse work, exercise, guitar and book reading. But keep coding separate and try another day with intense focus if the 
 current day is unsuccessful. Atleast do 45 min blocks for any activity and try 1.5 hours if possible. For work 
@@ -52,8 +62,8 @@ and reading squeeze as many time slots of 45 mins or 1.5 hours if you can afford
 as much free time anywhere in these 2 activities.
 
 Exercise: 
-1. Cardio Jogging 30-45 mins 
-2. Brisk walking 45 mins 
+1. Cardio Jogging 30-45 mins . Run outside 2-3 times a week.
+2. Brisk walking 45 mins
 3. Weights -> Rows, lunges, squats, Biceps, triceps, Shoulders, Chest 
 4. Tabata 2 times a week 
 5. Body weight exercises-> Pushups, planks, situps, crunches, and stretches.
