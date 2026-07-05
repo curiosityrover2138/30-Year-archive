@@ -18,6 +18,11 @@ THIS IS THE BARE MINIMUM.
 13. Sleep 10:30-11:30 PM
 
 
+Option A
+6:00–7:30 AM Wakeup → Coding → Guitar → Work → Exercise → Learning → Reading → Sleep
+Option B (when running)
+6:00 AM Wakeup → 45 min Run → Coding → Guitar → Work → Learning → Reading → Sleep
+
 
 Do deep focus sessions of 1.5 hours. Consistency wins over intensity. This is already elite. Just follow it.
 Minimums are non negotiable and BARE MINIMUM. That I can and should achieve everyday. Effort matters, not outcome.
@@ -40,6 +45,6 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
