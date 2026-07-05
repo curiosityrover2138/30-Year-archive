@@ -16,7 +16,8 @@ Keep this goal. Adjust slightly in and within days. Reduce context switches.
 10. Do all home tasks. Clean bathroom. Relax at home. TV/FIFA, entertainment, etc. Talk to sisters. Don't pressurize yourself needlessly. 
 11. Coffee everyday.
 
-Note: sleep will be affected for 8-10 days this month due to fifa + mayapur. Accept and adjust. Learn to take some pressure, and then adjust on other days + with some naps.
+Note: sleep will be affected for 8-10 days this month due to fifa + mayapur. Accept and adjust. Learn to take some pressure, and then adjust on other days + with some naps. Wakeup at 7:30 for some days
+and sleep early and nap a bit more to recover. 
 
 
 30
@@ -79,7 +80,7 @@ Book: Sessions->4 Progress ->
 Guitar: Sessions->0 Progress ->
 Exercise: Sessions-> Progress -> 1.5 hr walk
 Work: Sessions->0 Progress ->0
-Sleep:6 hr
+Sleep:6+1 hr
 
 
 
@@ -92,7 +93,7 @@ Book: Sessions->2 Progress ->page 150
 Guitar: Sessions-> 1/2 Progress -> carcassi started properly.
 Exercise: Sessions-> Progress ->2 hr walk,5 mins run
 Work: Sessions->0 Progress ->0
-Sleep: 6+1 hr nap.
+Sleep: 6+2 hr nap.
 weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity and decrease diet, aiming for 15% bf in 2 months (september).
 
 
@@ -116,7 +117,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 
 
 
 8
