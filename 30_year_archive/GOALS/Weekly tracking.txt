@@ -88,14 +88,14 @@ Sleep:6 hr
 
 5
 back from mayapur
-Breakfast-150 Lunch- Dinner-  Protein-
+Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+CP/USACO: Sessions->0 Progress ->0
+Book: Sessions->2 Progress ->page 138
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->
-Work: Sessions-> Progress ->
-Sleep:
+Exercise: Sessions-> Progress ->1 hr walk
+Work: Sessions->0 Progress ->0
+Sleep: 6+1 hr nap.
 weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity and decrease diet, aiming for 15% bf in 2 months (september).
 
 
