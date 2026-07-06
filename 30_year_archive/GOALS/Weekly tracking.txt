@@ -104,9 +104,9 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (wokeup at 1:30-4 for fifa)
+Sleep: (wokeup at 1:30-4 for fifa) 5
 
 
 7
