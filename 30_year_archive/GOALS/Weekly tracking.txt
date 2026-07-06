@@ -101,7 +101,7 @@ weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity a
 6
 Breakfast- 200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->1 ut. easy
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
