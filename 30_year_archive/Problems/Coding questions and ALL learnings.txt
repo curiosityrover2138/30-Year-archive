@@ -2,6 +2,17 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+coin change pattern dp.
+
+
+dp[0]=1;
+    for(ll i=0;i<v;i++){
+        for(ll j=vec[i];j<=n;j++){
+            dp[j]+=dp[j-vec[i]];
+        }
+
+    }
+
 https://usaco.training/usacoprob2?a=2ZJXEXnD6oV&S=nocows
 we use dp to combine left subtree and right subtree for all possibilities of n and height. base cases are 1,1=1 and rest everything is zero.
 Check for all kinds of left and right subtrees with all combinations of height and node number.
