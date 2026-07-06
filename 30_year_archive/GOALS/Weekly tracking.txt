@@ -105,7 +105,7 @@ CP/USACO: Sessions->1 Progress ->1 ut. easy
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions->1  Progress -> 12/74 messaging doc rn
+Work: Sessions->4  Progress -> 14/74 messaging doc rn
 Sleep: (wokeup at 1:30-4 for fifa) 5
 
 
