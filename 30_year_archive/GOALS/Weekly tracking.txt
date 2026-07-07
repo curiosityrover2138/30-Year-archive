@@ -102,7 +102,7 @@ weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity a
 Breakfast- 250 Lunch-400 Dinner-500  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 ut. easy
-Book: Sessions-> Progress ->
+Book: Sessions-> 1/2 Progress -> page 160
 Guitar: Sessions->1 Progress ->carcassi practice
 Exercise: Sessions-> 0 Progress ->0 Running Day: N  (Y/N)
 Work: Sessions->5  Progress -> 14/74 messaging doc rn
@@ -113,12 +113,12 @@ and just play a trump card to try and defeat you.
 
 
 7
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast- 200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1  Progress -> stuck in 1 sum.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep: fifa 12-3 sleep 7 hrs
 
