@@ -120,7 +120,7 @@ Book: Sessions->1/2 Progress -> page 190
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 2 sets weight Running Day: N (Y/N)
 Work: Sessions->3 Progress -> doc+assignment
-Sleep: fifa 12-3 sleep 7 hrs
+Sleep: fifa 12-3 sleep 7 hrs+ 1 hr nap
 
 
 8
