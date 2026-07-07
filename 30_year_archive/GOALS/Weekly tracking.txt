@@ -120,7 +120,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep: fifa 12-3
+Sleep: fifa 12-3 sleep 7 hrs
 
 
 8
