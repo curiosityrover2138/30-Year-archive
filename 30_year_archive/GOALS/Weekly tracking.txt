@@ -99,7 +99,7 @@ weight: 50.95. Need to reduce 1 kg by next week. Also aim to increase activity a
 
 
 6
-Breakfast- 250 Lunch-400 Dinner-500  Protein-
+Breakfast- 250 Lunch-400 Dinner-500  Protein-50
 
 CP/USACO: Sessions->1 Progress ->1 ut. easy
 Book: Sessions-> 1/2 Progress -> page 160
