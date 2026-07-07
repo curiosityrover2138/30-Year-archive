@@ -113,12 +113,12 @@ and just play a trump card to try and defeat you.
 
 
 7
-Breakfast- 200 Lunch- Dinner-  Protein-
+Breakfast- 200 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1  Progress -> stuck in 1 sum.
 Book: Sessions->1/2 Progress -> page 190
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 2 sets weight Running Day: N (Y/N)
+Exercise: Sessions-> Progress -> 5 sets weight Running Day: N (Y/N)
 Work: Sessions->3 Progress -> doc+assignment
 Sleep: fifa 12-3 sleep 7 hrs+ 1 hr nap
 
