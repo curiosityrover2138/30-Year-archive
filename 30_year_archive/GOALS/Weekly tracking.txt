@@ -125,13 +125,13 @@ Sleep: fifa 12-3 sleep 7 hrs+ 1 hr nap
 Got derailed due to my own mistake and anger issues. Will be able to follow much more intensity from tomorrow.
 
 8
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+CP/USACO: Sessions->1  Progress -> still stuck. But I know its dfs, need to implement.
+Book: Sessions->1/2 Progress -> naked lunch+anna karenina
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->5 Progress -> assignment
 Sleep: fifa 10-12. 7 hrs.
 
 
