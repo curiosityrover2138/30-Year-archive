@@ -130,9 +130,9 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
-Sleep: fifa 10-12.
+Sleep: fifa 10-12. 7 hrs.
 
 
 
