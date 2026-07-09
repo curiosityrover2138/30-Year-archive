@@ -139,13 +139,13 @@ Relaxed today as well. Need restraint. Will delay it by 1 week to inculcate disc
 
 
 9
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-700 Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+CP/USACO: Sessions-> 0 Progress ->0 not having much time due to work and household tasks
+Book: Sessions->1 Progress ->naked lunch mostly
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> 6 Progress -> same, doc + research + assignments
+Exercise: Sessions-> Progress -> 10 sets weight Running Day: N (Y/N)
+Work: Sessions-> 7 Progress -> same, doc + research + assignments
 Sleep: 7 hrs
 
 
