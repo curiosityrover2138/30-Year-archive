@@ -154,8 +154,8 @@ Breakfast- 200 Lunch-700 Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> stuck in bfs sum. Need to write the whole thing myself
 Book: Sessions-> 2 Progress -> page 300
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 0. Couldn't exercise. slept.Running Day: Y  (Y/N)
+Guitar: Sessions-> 0 Progress -> 0 couldn't focus much. because ruined a lot due to visit. Now from tomorrow I will do 3-4 hours on weekends and other on weekdays. Will exceed 10 this week, and then aim for more.
+Exercise: Sessions-> Progress -> 0. Couldn't exercise. slept.Running Day: Y  (Y/N). Need to start going outside as well few days a week. 
 Work: Sessions->5 Progress -> documentation and going through procedures
 Sleep: 7 +1 nap. Stop napping.
 
