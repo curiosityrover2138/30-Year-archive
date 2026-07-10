@@ -150,7 +150,7 @@ Sleep: 7 hrs
 
 
 10
-Breakfast- 200 Lunch-500 Dinner-  Protein-
+Breakfast- 200 Lunch-700 Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> stuck in bfs sum. Need to write the whole thing myself
 Book: Sessions-> 1/2 Progress -> ak
