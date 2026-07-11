@@ -165,7 +165,7 @@ Sleep: 7 +1 nap. Stop napping.
 11
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->0 Progress ->0. bad need to make morning routine perfect. if that gets missed usaco suffers.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
