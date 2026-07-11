@@ -26,7 +26,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
