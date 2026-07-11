@@ -165,14 +165,14 @@ Sleep: 7 +1 nap. Stop napping.
 
 
 11
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-500 Dinner-  Protein-50
 
 CP/USACO: Sessions->0 Progress ->0. bad need to make morning routine perfect. if that gets missed usaco suffers. 
-Book: Sessions-> Progress ->
+Book: Sessions->2 Progress -> ak
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
 Work: Sessions->3 Progress -> documentation
-Sleep: 7 hr. wokeup late due to fifa. need more restraint.
+Sleep: 7 hr + 1 hr nap. wokeup late due to fifa. need more restraint.
 Between stimulus and response there is a space. In that space is our power to choose our response.
 
 Pause before acting. Think what you are going to do. And see if it fits your 10 year plan.
