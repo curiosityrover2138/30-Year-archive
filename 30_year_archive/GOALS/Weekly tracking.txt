@@ -37,7 +37,7 @@ Breakfast- 200 Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> 10 mins run Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep:5. relaxed as well. Need total restraint now. Amazing progress though.
 
