@@ -24,7 +24,7 @@ Be lax and don't take pressure. Fulfill all duties at work. Watch fifa and relax
 Breakfast-300 Lunch-700 Dinner-500 snacks  Protein-40
 
 CP/USACO: Sessions->1/2 Progress ->stuck. got up too late due to fifa. focus more.
-Book: Sessions-> 1 Progress ->370
+Book: Sessions-> 1 Progress ->340
 Guitar: Sessions->1/2 Progress -> 45 mins
 Exercise: Sessions->1 Progress ->10 sets weight Running Day: N (Y/N)
 Work: Sessions-> 1/2 Progress -> documentation. do more from tomorrow. bad day due to messed up sleep.
@@ -32,10 +32,10 @@ Sleep: 7 hrs
 
 
 13
-Breakfast- 200 Lunch-700 Dinner-  Protein-
+Breakfast- 200 Lunch-700 Dinner-  Protein-30
 
 CP/USACO: Sessions->1/2 Progress -> still stuck. focus more and be better.
-Book: Sessions-> Progress ->
+Book: Sessions->1 Progress -> 395
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 10 mins run 1 hr walk Running Day: Y (Y/N)
 Work: Sessions->3 Progress -> documentation+emails
