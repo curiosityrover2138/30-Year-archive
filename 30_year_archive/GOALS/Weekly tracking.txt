@@ -49,9 +49,9 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:4. protein+getting up at night+naps is messing up sleep long term. Sleep should be absolutely perfect 8 hours. Fix this ASAP. Or else everything will slowly crumble.
 
 
 15
