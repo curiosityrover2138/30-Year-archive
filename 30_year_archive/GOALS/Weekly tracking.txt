@@ -49,7 +49,7 @@ Breakfast-200 Lunch- Dinner-  Protein-
 CP/USACO: Sessions->1 Progress -> struggling and stuck. But doing slightly better. Need to try much harder and be more desperate. Solve fully yourself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress -> 10 sets weight Running Day: N  (Y/N)
 Work: Sessions->3 Progress -> docs+ticketbooking
 Sleep:4. protein+getting up at night+naps is messing up sleep long term. Sleep should be absolutely perfect 8 hours. Fix this ASAP. Or else everything will slowly crumble.
 
