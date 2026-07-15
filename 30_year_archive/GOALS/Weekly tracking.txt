@@ -63,7 +63,7 @@ CP/USACO: Sessions->1/2 Progress -> Focus only on implementing controlling compa
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->15 mins run. more in evening. Running Day: Y  (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->6 Progress -> assignment by glen/corey. Very tough. Need to update various things.
 Sleep: 7 hrs.
 weight: 49.75
 
