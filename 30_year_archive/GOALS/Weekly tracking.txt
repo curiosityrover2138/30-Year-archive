@@ -56,15 +56,15 @@ Sleep:4+2. protein+getting up at night+naps is messing up sleep long term. Sleep
 
 15
 
-Breakfast-20 Lunch-1000 Dinner-  Protein-
+Breakfast-20 Lunch-1000 Dinner-200  Protein-50
 
 CP/USACO: Sessions->1/2 Progress -> Focus only on implementing controlling companies; it's the day's highest-priority task. Ignore distractions, work intensely now, and revisit it this afternoon/evening if needed.
 
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->0 Progress ->0 swamped with work. will do tomorrow. Could have done if I was omre intense, so will need to train that.
 Exercise: Sessions-> Progress ->15 mins run. more in evening. Running Day: Y  (Y/N)
 Work: Sessions->6 Progress -> assignment by glen/corey. Very tough. Need to update various things.
-Sleep: 7 hrs.
+Sleep: 7+2 nap. Need to stop having nap
 weight: 49.75
 
 
