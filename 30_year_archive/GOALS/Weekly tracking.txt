@@ -56,14 +56,15 @@ Sleep:4+2. protein+getting up at night+naps is messing up sleep long term. Sleep
 
 15
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-20 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
+Exercise: Sessions-> Progress ->15 mins run. more in evening. Running Day: Y  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 7 hrs.
+weight: 49.75
 
 
 
