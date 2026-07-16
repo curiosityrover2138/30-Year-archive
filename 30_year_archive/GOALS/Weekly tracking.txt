@@ -17,7 +17,7 @@ Do the task for that day. Just track why a day was missed and adjust if it happe
 
 16
 
-Breakfast-100 Lunch-700 Dinner-  Protein-20
+Breakfast-100 Lunch-700 Dinner-500  Protein-20
 
 CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
 Book: Sessions->0 Progress -> very less 1 chapter of ak
