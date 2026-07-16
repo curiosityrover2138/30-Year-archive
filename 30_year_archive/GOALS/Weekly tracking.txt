@@ -1,3 +1,142 @@
+
+16/7 - 24/7
+
+Theme: Get USACO and Guitar on line, continue great work, and fix problems from previous unfinished session. Finish this totally, and learn from failure. Don't try and cover previous day issues. Each day is new.
+Do the task for that day. Just track why a day was missed and adjust if it happens, but work with all your life to meet this. Get a good ramp up and learning phase now.
+
+1. Usaco training 1 session everyday. 5 problems. 2 contests + upsolve (https://codeforces.com/contests registered for Codeforces Round 1111 (Div. 2)(18/7) and add another when available)
+2. Guitar 11 hrs. 1 session everyday, non negotiable. Never miss a day.
+3. Work 4 sessions everyday.
+4. Track everything very honestly.
+5. Total restraint. Relax on 24th. Perfect routine.
+6. Book 300 pages(optional but good to have)
+7. Run 1.5 hrs. Weights 50 sets. Walk 3 hrs. 15+ on weights day. Alternate.
+8. Great diet. GOod protein. Focus very hard.
+9. Nayana's laptop, other misc tasks. Do all other tasks perfectly, relax a bit. Fix sleep cycle.
+
+
+16
+
+Breakfast-100 Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Work: Sessions->5 Progress -> kft load+documentation
+Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
+
+
+17
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+18
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+19
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+20
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+21
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+22
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+23
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+24
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+
+
+
+
+
+
+
+
 12/7 - 18/7 
 
 Theme: Start executing perfect week and deep work. Improve USACO & Guitar. Train so that guitar can go to 20-30 hrs per week. Keep book good and 
@@ -76,16 +215,7 @@ weight: 49.75
 
 
 
-16
 
-Breakfast-100 Lunch- Dinner-  Protein-
-
-CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions->5 Progress -> kft load+documentation
-Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 
 17
