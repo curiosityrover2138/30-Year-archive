@@ -56,7 +56,7 @@ Sleep:4+2. protein+getting up at night+naps is messing up sleep long term. Sleep
 
 15
 
-Breakfast-20 Lunch-1000 Dinner-250  Protein-50
+Breakfast-20 Lunch-1000 Dinner-250+600(hungry at night)  Protein-60
 
 CP/USACO: Sessions->1/2 Progress -> Focus only on implementing controlling companies; it's the day's highest-priority task. Ignore distractions, work intensely now, and revisit it this afternoon/evening if needed.
 
@@ -79,7 +79,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 
 17
