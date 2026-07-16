@@ -72,13 +72,13 @@ weight: 49.75
 
 16
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-0 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> Progress -> need to sync with work
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Work: Sessions->5 Progress -> kft load+documentation
 Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 
