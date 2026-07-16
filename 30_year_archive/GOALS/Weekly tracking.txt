@@ -72,7 +72,7 @@ weight: 49.75
 
 16
 
-Breakfast-0 Lunch- Dinner-  Protein-
+Breakfast-100 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
 Book: Sessions-> Progress ->
