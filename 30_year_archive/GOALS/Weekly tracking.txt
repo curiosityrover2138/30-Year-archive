@@ -17,12 +17,12 @@ Do the task for that day. Just track why a day was missed and adjust if it happe
 
 16
 
-Breakfast-100 Lunch- Dinner-  Protein-
+Breakfast-100 Lunch-700 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress -> 10 sets weight Running Day: N  (Y/N)
 Work: Sessions->4 Progress -> kft load+documentation
 Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
