@@ -23,7 +23,7 @@ CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less an
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions->5 Progress -> kft load+documentation
+Work: Sessions->4 Progress -> kft load+documentation
 Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 
