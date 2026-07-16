@@ -5,13 +5,13 @@ THIS IS THE BARE MINIMUM.
 1. Wakeup 6-7:30 MAX
 1.5 Run 45 mins (if running day). Outside on weekends
 2. Coffee and light snack
-3. USACO/Leetcode 2 sessions non negotiable
+3. USACO/Leetcode 1 session non negotiable (3 on weekends)
 4. Guitar 1 session/ Work 1 session ONLY if its TOO MUCH
 5. Bath/Grooming 
 6. Work 1-2 session
 7. Lunch 
 8. Work 1-2 session
-9. Exercise 1/2 session (4-4:30) / Work during run days.
+9. Exercise 1/2 session (4-4:45) / Work during run days.
 10. Work 1 session or Guitar 1/2 if possible
 11. System design 1 session or work 1 session as needed
 12. Reading book session
