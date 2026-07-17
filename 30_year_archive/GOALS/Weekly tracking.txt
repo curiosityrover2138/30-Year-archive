@@ -21,9 +21,9 @@ Breakfast-100 Lunch-700 Dinner-500  Protein-20
 
 CP/USACO: Sessions->1 Progress -> 1 done. SOME HELP. Still. Need to take less and less and slowly learn enough.
 Book: Sessions->0 Progress -> very less 1 chapter of ak
-Guitar: Sessions->1 hour Progress ->good. can do better than this. 
+Guitar: Sessions->1/2 Progress ->good. can do better than this. 
 Exercise: Sessions-> Progress -> 10 sets weight Running Day: N  (Y/N)
-Work: Sessions->5 Progress -> kft load+documentation
+Work: Sessions->3 Progress -> kft load+documentation
 Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 
@@ -33,9 +33,9 @@ Breakfast-350 Lunch- 500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress -> theory. Stuck in 1 sum.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1/2 Progress ->1 hr. carcassi practice. decent. can do better.
 Exercise: Sessions-> Progress -> 20 mins jog Running Day: Y (Y/N)
-Work: Sessions->1 Progress -> Documentation
+Work: Sessions->1 (2hr)Progress -> Documentation
 Sleep: 8 hrs. waking up without cognition. Need to fix it. Not sure how
 
 Learning: IMP Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
