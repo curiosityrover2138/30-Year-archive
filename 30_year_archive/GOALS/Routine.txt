@@ -18,6 +18,9 @@ THIS IS THE BARE MINIMUM.
 13. Sleep 10:30-11:30 PM
 
 
+Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
+If work is intense, sleep later and wakup at 7:30.
+
 Option A
 6:00–7:30 AM Wakeup → Coding → Guitar → Work → Exercise → Learning → Reading → Sleep
 Option B (when running)
