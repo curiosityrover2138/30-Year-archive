@@ -36,7 +36,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 8 hrs. waking up without cognition. Need to fix it. Not sure how
 
 
 
