@@ -31,7 +31,7 @@ Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 17
 
-Breakfast-350 Lunch- 600 Dinner-600  Protein-
+Breakfast-350 Lunch- 500 Dinner-700  Protein-
 
 CP/USACO: Sessions->1 Progress -> theory. Stuck in 1 sum.
 Book: Sessions->1 Progress -> manga+ak few pages
