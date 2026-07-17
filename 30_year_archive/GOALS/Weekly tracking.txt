@@ -29,13 +29,13 @@ Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 17
 
-Breakfast-350 Lunch- Dinner-  Protein-
+Breakfast-350 Lunch- 500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress -> theory. Stuck in 1 sum.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 20 mins jog Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->1 Progress -> Documentation
 Sleep: 8 hrs. waking up without cognition. Need to fix it. Not sure how
 
 Learning: IMP Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
