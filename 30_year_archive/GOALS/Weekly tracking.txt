@@ -31,7 +31,7 @@ Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 Breakfast-350 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress -> theory. Stuck in 1 sum.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 20 mins jog Running Day: Y (Y/N)
