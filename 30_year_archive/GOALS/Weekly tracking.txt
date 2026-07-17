@@ -29,7 +29,7 @@ Sleep:5. No nap today. Fix sleep cycle ASAP perfectly.
 
 17
 
-Breakfast-20 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
