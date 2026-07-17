@@ -37,6 +37,9 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
 Sleep: 8 hrs. waking up without cognition. Need to fix it. Not sure how
+Learning: IMP Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
+If work is intense, sleep later and wakup at 7:30.
+This happened yesterday because of half day schedule change. Never anymore.
 
 
 
