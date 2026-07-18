@@ -13,6 +13,8 @@ Try to break the algorithm - use special (degenerate?) test cases
 Order the problems: shortest job first, in terms of your effort 
 (shortest to longest: done it before, easy, unfamiliar, hard)
 
+NEVER USE AI.
+
 
 
 Finalize algorithm
