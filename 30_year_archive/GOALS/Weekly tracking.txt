@@ -51,8 +51,9 @@ This happened yesterday because of half day schedule change. Never anymore.
 
 Breakfast-450 Lunch-900 Dinner-100  Protein-50
 
-CP/USACO: Sessions-> Progress -> 1 ut sum.
-Book: Sessions-> 0 Progress ->0
+CP/USACO: Sessions->1 Progress -> 1 ut sum. Tried contest. Not working out, will need to sleep on afternoon to be able to do contests at 8 PM. Will see in the next one.
+
+Book: Sessions-> 0 Progress ->0 
 Guitar: Sessions->0  Progress ->0
 Exercise: Sessions-> 0 Progress ->0 Running Day: NA (Y/N) Will skip today
 Work: Sessions-> 0 Progress ->0 will skip today
