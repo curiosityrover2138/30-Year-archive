@@ -53,8 +53,8 @@ Breakfast-450 Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> Progress ->
+Exercise: Sessions-> 0 Progress ->0 Running Day: NA (Y/N) Will skip today
+Work: Sessions-> 0 Progress ->0 will skip today
 Sleep: 7. fragmented sleep at night MAYBE the main reason behind reduced motivation at morning. 7:30 wakeup today. Need to fix this
 Relaxed as well. Keep monitoring this. Don't do it much more than needed. Average once a week is ideal.
 
