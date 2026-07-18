@@ -11,6 +11,7 @@ THIS IS THE BARE MINIMUM.
 6. Work 1-2 session
 7. Lunch 
 8. Work 1-2 session
+8.5. Nap if giving contest at 8:05 PM.
 9. Exercise 1/2 session (4-5) / Work during run days.
 10. Work 1 session or Guitar 1/2 if possible
 11. System design 1 session or work 1 session as needed
@@ -20,6 +21,7 @@ THIS IS THE BARE MINIMUM.
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
 If work is intense, sleep later and wakup at 7:30.
+Give at MOST 2 contests a week.
 
 Option A
 6:00–7:30 AM Wakeup → Coding → Guitar → Work → Exercise → Learning → Reading → Sleep
