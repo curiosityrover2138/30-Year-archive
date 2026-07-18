@@ -48,11 +48,11 @@ This happened yesterday because of half day schedule change. Never anymore.
 
 18
 
-Breakfast-450 Lunch- Dinner-  Protein-
+Breakfast-450 Lunch-900 Dinner-100  Protein-50
 
 CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions-> 0 Progress ->0
+Guitar: Sessions->0  Progress ->0
 Exercise: Sessions-> 0 Progress ->0 Running Day: NA (Y/N) Will skip today
 Work: Sessions-> 0 Progress ->0 will skip today
 Sleep: 7. fragmented sleep at night MAYBE the main reason behind reduced motivation at morning. 7:30 wakeup today. Need to fix this
@@ -60,6 +60,8 @@ Relaxed as well. Keep monitoring this. Don't do it much more than needed. Averag
 
 Note: Today will not be ideal because of laptop buying task which is important. Will give 1 contest and probably try and do exercise and guitar and book once I am back depending on the time.
 Learning: Waking up before 8 is fine, but don't force a 6 am wakeup if sleep is late. Prioritize deep sleep and if you do wakeup adjust with naps. If till 8 sleep is not done, then nap before 3
+
+Update: Bought laptop for nayana
 
 
 
