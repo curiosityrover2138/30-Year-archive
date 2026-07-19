@@ -72,11 +72,11 @@ Update: Bought laptop for nayana
 
 Breakfast-400 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress -> stuck in bfs implementation. decent otherwise.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->0
 Sleep: 8. Decently good. Make restraint better.
 weight: 49.2
 
