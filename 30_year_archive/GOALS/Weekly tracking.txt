@@ -70,7 +70,7 @@ Update: Bought laptop for nayana
 
 19
 
-Breakfast-400 Lunch-400 Dinner-  Protein-
+Breakfast-400 Lunch-400 Dinner-500  Protein-5
 
 CP/USACO: Sessions->1 Progress -> stuck in bfs implementation. decent otherwise.
 Book: Sessions-> Progress ->
