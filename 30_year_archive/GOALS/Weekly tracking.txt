@@ -75,7 +75,7 @@ Breakfast-400 Lunch-400 Dinner-  Protein-
 CP/USACO: Sessions->1 Progress -> stuck in bfs implementation. decent otherwise.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 30 mins walk Running Day: Y (Y/N)
+Exercise: Sessions-> Progress ->10 sets weight+ 30 mins walk Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep: 8. Decently good. Make restraint better.
 weight: 49.2
