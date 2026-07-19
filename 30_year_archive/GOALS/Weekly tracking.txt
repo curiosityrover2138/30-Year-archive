@@ -53,7 +53,7 @@ Breakfast-450 Lunch-900 Dinner-100  Protein-50
 
 CP/USACO: Sessions->1 Progress -> 1 ut sum. Tried contest. Not working out, will need to sleep on afternoon to be able to do contests at 8 PM. Will see in the next one.
 
-Book: Sessions-> 0 Progress ->0 
+Book: Sessions-> 1/2 Progress ->some ak
 Guitar: Sessions->0  Progress ->0
 Exercise: Sessions-> 0 Progress ->0 Running Day: NA (Y/N) Will skip today
 Work: Sessions-> 0 Progress ->0 will skip today
@@ -69,14 +69,14 @@ Update: Bought laptop for nayana
 
 19
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 8. Decently good. Make restraint better.
 
 
 
