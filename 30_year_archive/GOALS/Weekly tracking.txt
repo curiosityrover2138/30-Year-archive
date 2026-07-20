@@ -103,7 +103,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N) (do 15+ sets today)
-Work: Sessions-> Progress ->
+Work: Sessions->1/4 Progress -> Just looking at codebase, and meetings
 Sleep:8. got good sleep. but wokeup @ 8:30. Getting very tired so needed some sleep. Need to optimize this at a realistic pace.
 
 
