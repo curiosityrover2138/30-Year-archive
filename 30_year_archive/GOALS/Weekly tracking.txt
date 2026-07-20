@@ -102,14 +102,17 @@ Breakfast-200 Lunch-500 Dinner-  Protein-
 CP/USACO: Sessions-> 1 Progress ->1 ut. some help but did the whole thing myself.
 Missed reading 1 line, or else would have done it fully myself.
 Learning-> Read problem statement very carefully. When getting WA, reread problem statement line by line very slowly as a first step.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N) (do 15+ sets today)
+Book: Sessions-> 0 Progress ->0
+Guitar: Sessions->0 Progress ->0
+Exercise: Sessions->0 Progress -> 0 Running Day: N  (Y/N) (do 15+ sets today)
 Work: Sessions->1/2 Progress -> Just looking at codebase, and meetings
 Sleep:8. got good sleep. but wokeup @ 8:30. Getting very tired so needed some sleep. Need to optimize this at a realistic pace.
 
 Note: Don't know wtf is happening in life. House got flooded because of a minor rainshower. Need to work on fixing 
-drainiage now.
+drainage now.
+
+WTF is happening, Unable to do again anything today. Need to ensure that from tomorrow each day is perfect. Will make each and every step needed to do that.
+Check periodically the drainage pipe of neighbours. They opened it purposefully flooding our whole garage and house.
 
 
 
