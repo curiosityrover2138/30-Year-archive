@@ -101,6 +101,7 @@ Breakfast-200 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress ->1 ut. some help but did the whole thing myself.
 Missed reading 1 line, or else would have done it fully myself.
+Learning-> Read problem statement very carefully. When getting WA, reread problem statement line by line very slowly as a first step.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N) (do 15+ sets today)
