@@ -97,13 +97,13 @@ apologize. Keep it simple. Always apologize. There are always landmines around. 
 
 20
 
-Breakfast-200 Lunch-500 Dinner-  Protein-
+Breakfast-200 Lunch-500 Dinner-300  Protein-15
 
 CP/USACO: Sessions-> 1 Progress ->1 ut. some help but did the whole thing myself.
 Missed reading 1 line, or else would have done it fully myself.
 Learning-> Read problem statement very carefully. When getting WA, reread problem statement line by line very slowly as a first step.
 Book: Sessions-> 0 Progress ->0
-Guitar: Sessions->0 Progress ->0
+Guitar: Sessions->0 Progress ->10 mins
 Exercise: Sessions->0 Progress -> 0 Running Day: N  (Y/N) (do 15+ sets today)
 Work: Sessions->1/2 Progress -> Just looking at codebase, and meetings
 Sleep:8. got good sleep. but wokeup @ 8:30. Getting very tired so needed some sleep. Need to optimize this at a realistic pace.
