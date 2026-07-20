@@ -99,7 +99,7 @@ apologize. Keep it simple. Always apologize. There are always landmines around. 
 
 Breakfast-200 Lunch-500 Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress ->1 ut. some help but did the whole thing myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N) (do 15+ sets today)
