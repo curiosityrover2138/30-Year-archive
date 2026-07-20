@@ -97,7 +97,7 @@ apologize. Keep it simple. Always apologize. There are always landmines around. 
 
 20
 
-Breakfast-20 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
