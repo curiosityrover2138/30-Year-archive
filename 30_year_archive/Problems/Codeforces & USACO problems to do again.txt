@@ -10,6 +10,8 @@ https://usaco.training/usacoprob2?a=2ZJXEXnD6oV&S=nocows IMP. Do it totally your
 https://usaco.training/usacoprob2?a=jgN9nl5i2m9&S=money IMP pattern used. Remember the pattern.
 
 https://usaco.training/usacoprob2?a=x9dK2XmZjKQ&S=concom IMP pattern
+
+https://usaco.training/usacoprob2?a=aDA4GBkwSnn&S=maze1 -> Figure out the trick
 2034C
 1901B
 1904B
