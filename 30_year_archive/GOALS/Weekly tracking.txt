@@ -97,14 +97,14 @@ apologize. Keep it simple. Always apologize. There are always landmines around. 
 
 20
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-20 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N) (do 15+ sets today)
 Work: Sessions-> Progress ->
-Sleep:8. got good sleep. but wokeup @ 8:30. Getting very tired so need some sleep. Need to optimize this at a realistic pace.
+Sleep:8. got good sleep. but wokeup @ 8:30. Getting very tired so needed some sleep. Need to optimize this at a realistic pace.
 
 
 
