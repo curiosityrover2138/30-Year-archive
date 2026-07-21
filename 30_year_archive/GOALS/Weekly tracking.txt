@@ -120,7 +120,7 @@ Check periodically the drainage pipe of neighbours. They opened it purposefully 
 
 Breakfast-400 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress -> started one sum. going through it.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
