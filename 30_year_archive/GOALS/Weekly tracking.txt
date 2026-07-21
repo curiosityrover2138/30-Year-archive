@@ -118,7 +118,7 @@ Check periodically the drainage pipe of neighbours. They opened it purposefully 
 
 21
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
