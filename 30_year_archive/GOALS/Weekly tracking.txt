@@ -140,7 +140,7 @@ Sleep:
 
 
 
-16/7 - 24/7
+16/7 - 21/7
 
 Theme: Get USACO and Guitar fixed asap, continue great work, and fix problems from previous unfinished session. Finish this totally, and learn from failure. Don't try and cover previous day issues. Each day is new.
 Do the task for that day. Just track why a day was missed and adjust if it happens, but work with all your life to meet goals for the day. Get a good ramp up in this learning phase.
@@ -156,10 +156,10 @@ Don't care what anyone is saying, just calmly return to your work.
 This week only 1 was available so give virtual contest on 23rd.
 2. Guitar 11 hrs. 1 session everyday, non negotiable. Never miss a day. FAILED
 3. Work 3 sessions everyday. Finish docs of all messaging procedures and do assignments and other misc tasks (IN PROGRESS). Join meetings and consult with glen whenever needed. DONE
-4. Track everything very honestly.
+4. Track everything very honestly. DONE
 5. Total restraint. Relax on 19th(done 18th). Try and not use stimulus (or minimally). Perfect routine. Perfect grooming. DECENT
 6. Book 300 pages(optional but good to have) NOT DONE
-7. Run 1.5 hrs. Weights 50 sets. Walk 3 hrs. 15+ on weights day. Alternate. DECMNT
+7. Run 1.5 hrs. Weights 50 sets. Walk 3 hrs. 15+ on weights day. Alternate. NOT DONE
 8. Great diet. Good protein. Focus very hard. Track weight. GOOD
 9. Nayana's laptop, other misc tasks. Do all other tasks perfectly, relax a bit. Fix sleep cycle.  DONE
 10. MISC: setup work bank acc.  DONE
@@ -270,7 +270,7 @@ Breakfast-400 Lunch- 800 Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> started one sum. going through it.
 Book: Sessions->0 Progress ->0
-Guitar: Sessions->0 Progress ->0
+Guitar: Sessions->1/2 Progress ->practiced what I learnt. Nothing much.
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
 Work: Sessions-> 2 Progress -> figured out biogen scripts for zurzuvae.
 Sleep: 6 hrs. Decent. Nightmare to fix in this chaos. Will nap a bit maybe.
