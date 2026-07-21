@@ -266,13 +266,13 @@ Check periodically the drainage pipe of neighbours. They opened it purposefully 
 
 21
 
-Breakfast-400 Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- 800 Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> started one sum. going through it.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
+Guitar: Sessions->0 Progress ->0
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions-> 2 Progress -> figured out biogen scripts for zurzuvae.
 Sleep: 6 hrs. Decent. Nightmare to fix in this chaos. Will nap a bit maybe.
 
 Life is becoming so chaotic. I want peace, and I am always unable to get it. Need to manufacture it and protect it. Just idiotic issues keep happening, but I need to be calm and solve them. If I lose my cool I suffer twice.
