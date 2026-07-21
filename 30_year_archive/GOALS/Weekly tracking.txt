@@ -123,9 +123,11 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 6 hrs. Decent. Nightmare to fix in this chaos. Will nap a bit maybe.
+
+Life is becoming so chaos full. I want peace, and I am always unable to get it. Need to manufacture it and protect it. Just idiotic issues keep happening, but I need to be calm and solve them. If I lose my cool I suffer twice.
 
 
 
