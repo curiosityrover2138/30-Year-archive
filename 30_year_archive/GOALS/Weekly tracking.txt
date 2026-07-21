@@ -2,13 +2,13 @@
 
 Theme: Be invincible, don't let idiots ruin anything. Perfect routine. Great guitar and work. USACO, Work and Guitar are absolutely high priority items. Be strong, and handle everything whatever a day throws at you, and come out having done 1 usaco, 1 guitar, 3 work sessions at the very least. Exercise and book if time permits. Keep good diet and routine as a baseline for basic functioning.
 
-1. USACO 1 session everyday. 2 on weekends. 10 UT problems. 3 contests.
+1. USACO 1 session everyday. 2 on weekends. 6+ UT problems. 3 contests.
 2. Guitar 1 session everyday. 18 hours.
 3. Work 3 sessions everyday. Finish documentation of messaging procedures. Document assignments by Glen/Corey.
 4. Track everything very honestly.
 5. Perfect diet. Good protein.
 6. Exercise 60 sets. Run 4 hours. Walk 3 hours. Alternate.
-7. Relax. Get weight to 48.5. Show good restraint.
+7. Relax on 27th. Get weight to 48.5. Show good restraint.
 8. Apologize, Accomodate, Remove, Focus. Always be calm, never let other people drag you into being an emotional animal.
 Always keep the landmine of people around me in mind. Don't trigger it. Avoid any movement.
 9. Complete Anna Karenina (good to have)
@@ -22,7 +22,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
