@@ -18,13 +18,13 @@ Always keep the landmine of people around me in mind. Don't trigger it. Avoid an
 
 22
 
-Breakfast-830 Lunch- Dinner-  Protein-
+Breakfast-830-200(walk) Lunch-400 Dinner-  Protein- 
 
 CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still stuck
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> 1.5 Progress -> Debugged issue as given by Glen for load procedure and fixed it
+Exercise: Sessions->1/2 Progress -> 1 hour walk. Running Day: Y (Y/N)
+Work: Sessions-> 2 Progress -> Debugged issue as given by Glen for load procedure and fixed it
 Sleep: 8 hrs. good.
 
 23
