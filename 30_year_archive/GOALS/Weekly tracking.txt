@@ -24,7 +24,7 @@ CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> 1 Progress -> Debugged issue as given by Glen for load procedure
+Work: Sessions-> 1.5 Progress -> Debugged issue as given by Glen for load procedure and fixed it
 Sleep: 8 hrs. good.
 
 23
