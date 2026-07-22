@@ -22,7 +22,7 @@ Breakfast-830-200(walk) Lunch-400 Dinner-  Protein-
 
 CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still stuck
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1/2 Progress -> 1 deep hour good progress
 Exercise: Sessions->1/2 Progress -> 1 hour walk. Running Day: Y (Y/N)
 Work: Sessions-> 3 Progress -> Debugged issue as given by Glen for load procedure and fixed it
 Sleep: 8 hrs. good.
