@@ -20,7 +20,7 @@ Always keep the landmine of people around me in mind. Don't trigger it. Avoid an
 
 Breakfast-230 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still stuck
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
