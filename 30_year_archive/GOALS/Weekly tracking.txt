@@ -21,7 +21,7 @@ Always keep the landmine of people around me in mind. Don't trigger it. Avoid an
 Breakfast-830-200(walk) Lunch-400 Dinner-  Protein- 
 
 CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still stuck
-Book: Sessions-> Progress ->
+Book: Sessions->1/4 Progress -> some ak. 
 Guitar: Sessions->1/2 Progress -> 1 deep hour good progress (Good but try and get guitar completed by 6 PM or else it becomes too late and motivation drops. Do 1-1.5 hour before 12 ideally after intense USACO 2-3 hours in the morning. If USACO gets delayed so will guitar) 
 Exercise: Sessions->1/2 Progress -> 1 hour walk. Running Day: Y (Y/N)
 Work: Sessions-> 3 Progress -> Debugged issue as given by Glen for load procedure and fixed it
