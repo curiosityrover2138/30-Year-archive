@@ -8,8 +8,8 @@ happen in min 15 maximum 30. Think of it like, 10 years to 50 mill, 10 more year
 1. Get good at Competitive programming and mathematics with abstract thinking. Get a good enough job and into 
 google/microsoft if possible, but not so that it hampers your long term growth by switching domains.
 Stay in Healthcare analytics and develop deep expertise in ambiguous problems. Do work that moves money 
-and solves ambiguous problems. Start posting on youtube of what you do and build a brand online. THis is the first CEO training 
-ground.
+and solves ambiguous problems. Start posting on youtube of what you do and build a brand online(good to have). THis is the first CEO training 
+ground. Don't think of "ideal" or "minimum" effort, the more intense you can be, the better. Aim for maximum possible, not minimum viable.
 -------Cross 10k hours of deep work 
 2. Become codeforces grandmaster and keep doing CF and CP as long as you are writing code atleast once in 6 months. 
 Try and get to LGM. Become good at IMO level problems, enough to crack INMO or IMO. Get to director level in any company that 
