@@ -29,7 +29,9 @@ Sleep: 8 hrs. good.
 
 23
 
-Breakfast-20 Lunch-1200 Dinner-  Protein-
+Breakfast-20 Lunch-1200+600 Dinner-  Protein-
+
+lots of food in these 2 -3 days. Need to cut back drastically and get 1 kg down in the next 10-15 days, also move a lot more.
 
 CP/USACO: Sessions->1/2 Progress -> (Contest today. Pause UT) https://codeforces.com/contestRegistration/2244/virtual/true.
 was only able to do 1. Couldn't concentrate much. Will try again from next contest. Need to concentrate fully. These are easy problems. But I don't have practice so i mess up. Need to concentrate fully. Only after 
