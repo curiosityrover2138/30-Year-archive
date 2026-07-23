@@ -18,7 +18,7 @@ Always keep the landmine of people around me in mind. Don't trigger it. Avoid an
 
 22
 
-Breakfast-830-200(walk) Lunch-400 Dinner-500  Protein- 
+Breakfast-830-200(walk) Lunch-400 Dinner-500  Protein- 15
 
 CP/USACO: Sessions-> 1 Progress -> good progress on dijkstra problem. but still stuck
 Book: Sessions->1/4 Progress -> some ak. 
