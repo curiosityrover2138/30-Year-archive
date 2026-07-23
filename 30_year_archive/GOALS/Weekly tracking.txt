@@ -29,14 +29,15 @@ Sleep: 8 hrs. good.
 
 23
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-20 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 6. Tried having coffee after 5. It won't work. Have coffee only once or twice before 12. Also slowly fix this. It won't get fixed instantly, since I have stopped napping in day now. But slowly fix sleep duration.
+Sleep quality was excellent.
 
 
 
