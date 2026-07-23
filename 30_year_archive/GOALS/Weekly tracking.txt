@@ -29,7 +29,7 @@ Sleep: 8 hrs. good.
 
 23
 
-Breakfast-20 Lunch- Dinner-  Protein-
+Breakfast-20 Lunch-1200 Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> (Contest today. Pause UT) https://codeforces.com/contestRegistration/2244/virtual/true.
 was only able to do 1. Couldn't concentrate much. Will try again from next contest. Need to concentrate fully. These are easy problems. But I don't have practice so i mess up. Need to concentrate fully. Only after 
@@ -40,7 +40,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
-Sleep: 6. Tried having coffee after 5. It won't work. Have coffee only once or twice before 12. Also slowly fix this. It won't get fixed instantly, since I have stopped napping in day now. But slowly fix sleep duration.
+Sleep: 6+1.5 nap. Tried having coffee after 5. It won't work. Have coffee only once or twice before 12. Also slowly fix this. It won't get fixed instantly, since I have stopped napping in day now. But slowly fix sleep duration.
 Sleep quality was excellent.
 
 
