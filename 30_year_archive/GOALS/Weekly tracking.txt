@@ -31,8 +31,8 @@ Sleep: 8 hrs. good.
 
 Breakfast-20 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> (Contest today. Pause UT) https://codeforces.com/contestRegistration/2244/virtual/true.
-facing error at 8 AM. Will try again at 9. if still error will do UT.
+CP/USACO: Sessions->1/2 Progress -> (Contest today. Pause UT) https://codeforces.com/contestRegistration/2244/virtual/true.
+was only able to do 1. Couldn't concentrate much. Will try again from next contest.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
