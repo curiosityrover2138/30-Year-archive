@@ -1,6 +1,8 @@
 Note: Got delayed a bit because of book goals, job switch and home tasks. Struggled with balancing a bit. But found my rhythm. Also devised strategies for relaxing. Now it will be showtime.
+Also struggled with home issues, and making time for guitar. Now have figured out the perfect personality and sessions. 1 USACO, 1 guitar, 3 work is the ideal mix for me. Once that is done for the day I can do book
+and squeeze exercise. Now its just about implementation and minor improvements everyday.
 
-Sep 2026:
+Nov 2026: 
 
 1. Complete Usaco training.
 2. Complete USACO silver >70%
@@ -11,14 +13,9 @@ Sep 2026:
 7. Don't let work interrupt or mess with anything. Keep routine robust and flexible so that you can average out a good week no matter what.
 
 
-Dec 2026:
-1. Complete USACO gold 
-2. Get CF rating >1500
-
-
 
 Immediate goal: 
-Get to codeforces Candidate Master by May 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
+Get to codeforces Candidate Master by Dec 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
 Complete till USACO platinum.
 Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
 Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
