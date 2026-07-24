@@ -32,7 +32,7 @@ Sleep: 8 hrs. good.
 
 23
 
-Breakfast-20 Lunch-1200+600 Dinner-300  Protein-
+Breakfast-20 Lunch-1200+600 Dinner-300  Protein- 10
 
 lots of food in these 2 -3 days. Need to cut back drastically and get 1 kg down in the next 10-15 days, also move a lot more.
 
@@ -61,9 +61,9 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
+Exercise: Sessions-> Progress -> 18 mins jog Running Day: Y  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 7 hrs. good quality.
 
 25
 
