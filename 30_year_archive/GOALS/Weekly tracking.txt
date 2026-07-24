@@ -64,7 +64,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 18 mins jog Running Day: Y  (Y/N)
 Work: Sessions->3 Progress -> assignment+running procedures+meeting
-Sleep: 7 hrs. good quality.
+Sleep: 7 hrs+1 nap. good quality.
 
 25
 
