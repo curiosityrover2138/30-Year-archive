@@ -139,6 +139,8 @@ https://codeforces.com/contest/2179/problem/D
 
 https://codeforces.com/contest/2179/problem/E
 
+https://usaco.training/usacoprob2?a=v4FSzHildvL&S=cowtour
+
 https://usaco.org/index.php?page=viewproblem2&cpid=645 -> Reimplement again. Ideas were fine. Implementation is weakness.
 
 https://codeforces.com/problemset/problem/632/C
