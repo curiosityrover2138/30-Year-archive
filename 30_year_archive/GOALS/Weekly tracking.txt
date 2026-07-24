@@ -5,7 +5,7 @@ and come out having done 1 usaco, 1 guitar, 3 work sessions at the very least. E
 
 Learning: Don't run on fumes or else you will binge eat. Eat a bit, then sit for cognitively demanding work. And eat filling good food. If you want to satisfy cravings, eat no more than a handful of the item.
 
-1. USACO 1 session everyday. 2 on weekends. 6+ UT problems. 3 contests/virtual (23rd,27th, 31st).
+1. USACO 1 session everyday. 2 on weekends. 3+ UT problems. 3 contests/virtual (23rd,27th, 31st).
 2. Guitar 1 session everyday. 18 hours.
 3. Work 3 sessions weekdays. 1 or 0 on weekend. Finish documentation of messaging procedures. Document assignments by Glen/Corey.
 4. Track everything very honestly.
