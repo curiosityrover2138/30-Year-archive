@@ -1,4 +1,4 @@
-22/7  - 31/7
+22/7  - 2/8
 
 Theme: Be invincible, don't let idiots ruin anything. Perfect routine. Great guitar and work. USACO, Work and Guitar are absolutely high priority items. Be strong, and handle everything whatever a day throws at you, 
 and come out having done 1 usaco, 1 guitar, 3 work sessions at the very least. Exercise and book if time permits. Keep good diet and routine as a baseline for basic functioning.
@@ -6,12 +6,12 @@ and come out having done 1 usaco, 1 guitar, 3 work sessions at the very least. E
 Learning: Don't run on fumes or else you will binge eat. Eat a bit, then sit for cognitively demanding work. And eat filling good food. If you want to satisfy cravings, eat no more than a handful of the item.
 
 1. USACO 1 session everyday. 2 on weekends. 3+ UT problems. 3 contests/virtual (23rd,27th, 31st).
-2. Guitar 1 session everyday. 18 hours.
+2. Guitar 1 session everyday. 18 hours. Train to complete before 8 PM
 3. Work 3 sessions weekdays. 1 or 0 on weekend. Finish documentation of messaging procedures. Document assignments by Glen/Corey.
 4. Track everything very honestly.
 5. Perfect diet. Good protein.
 6. Exercise 80 sets. Run 5 hours. Walk 2 hours. Alternate run/walk & weights.
-7. Relax on 25th night. Get weight to 48.5-49.2. Show good restraint.
+7. Relax on 25th night & 1st. Get weight to 48.5-49.2. Show good restraint.
 8. Apologize, Accomodate, Remove, Focus. Always be very very calm, never let other people drag you into being an emotional animal.
 Always keep the landmine of people around me in mind. Don't trigger it. Avoid any movement.
 9. Complete Anna Karenina (good to have)
@@ -149,6 +149,29 @@ Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
+
+1
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress -> 
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+2
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress -> 
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 
