@@ -63,7 +63,7 @@ CP/USACO: Sessions->1/4 Progress -> progressing but stuck. Stay in flow in very 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> 18 mins jog Running Day: Y  (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress -> assignment+running procedures
 Sleep: 7 hrs. good quality.
 
 25
