@@ -21,7 +21,7 @@ THIS IS THE BARE MINIMUM.
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
 If work is intense, sleep later and wakup at 7:30.
-Give at MOST 2 contests a week.
+Give at MOST 2 real contests a week.
 
 Option A
 6:00–7:30 AM Wakeup → Coding → Guitar → Work → Exercise → Learning → Reading → Sleep
