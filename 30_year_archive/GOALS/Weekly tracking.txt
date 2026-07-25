@@ -77,7 +77,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N) walk as well today
 Work: Sessions->0 Progress ->0
-Sleep: 7 hrs.
+Sleep: 7+1.5 nap hrs. having lots of naps. Sign of something else maybe. Need to observe and adjust. Not sure why 8 hrs sleep on average isn't enough.
 
 26
 
