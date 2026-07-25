@@ -2,6 +2,171 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+
+
+https://usaco.training/usacoprob2?a=1sAv8HW5zDn&S=cowtour
+
+Need to do floyd warshall, then think of maximum diameter of each component, calculating each component, and what will happen if I join two components.
+
+
+/*
+ID: hvt19982
+LANG: C++
+TASK: cowtour
+*/
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define TASK "cowtour"
+
+const double INF = 1e18;
+
+double compute_dist(const vector<int>& a, const vector<int>& b) {
+    double dx = a[0] - b[0];
+    double dy = a[1] - b[1];
+    return sqrt(dx * dx + dy * dy);
+}
+
+void floyd_warshall(vector<vector<double>>& dist) {
+    int n = dist.size();
+
+    for (int k = 0; k < n; k++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (dist[i][k] < INF && dist[k][j] < INF) {
+                    dist[i][j] =
+                        min(dist[i][j], dist[i][k] + dist[k][j]);
+                }
+            }
+        }
+    }
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    FILE* fin = fopen(TASK ".in", "r");
+    if (fin) {
+        freopen(TASK ".in", "r", stdin);
+        freopen(TASK ".out", "w", stdout);
+    }
+
+    int n;
+    cin >> n;
+
+    vector<vector<int>> coordinates(n, vector<int>(2));
+
+    for (int i = 0; i < n; i++) {
+        cin >> coordinates[i][0] >> coordinates[i][1];
+    }
+
+    vector<string> adj(n);
+    for (int i = 0; i < n; i++) {
+        cin >> adj[i];
+    }
+
+    vector<vector<double>> dist(n, vector<double>(n, INF));
+
+    for (int i = 0; i < n; i++) {
+        dist[i][i] = 0;
+
+        for (int j = 0; j < n; j++) {
+            if (adj[i][j] == '1') {
+                dist[i][j] =
+                    compute_dist(coordinates[i], coordinates[j]);
+            }
+        }
+    }
+
+    floyd_warshall(dist);
+
+    // farthest reachable node from each pasture
+    vector<double> maxDist(n, 0);
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (dist[i][j] < INF) {
+                maxDist[i] = max(maxDist[i], dist[i][j]);
+            }
+        }
+    }
+
+    // connected components
+    vector<int> comp(n, -1);
+    int compCnt = 0;
+
+    for (int i = 0; i < n; i++) {
+        if (comp[i] != -1) continue;
+
+        queue<int> q;
+        q.push(i);
+        comp[i] = compCnt;
+
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+
+            for (int v = 0; v < n; v++) {
+                if (dist[u][v] < INF && comp[v] == -1) {
+                    comp[v] = compCnt;
+                    q.push(v);
+                }
+            }
+        }
+
+        compCnt++;
+    }
+
+    // diameter of each component
+    vector<double> compDiameter(compCnt, 0);
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            if (dist[i][j] < INF) {
+                compDiameter[comp[i]] =
+                    max(compDiameter[comp[i]], dist[i][j]);
+            }
+        }
+    }
+
+    double largestExistingDiameter = 0;
+
+    for (double d : compDiameter) {
+        largestExistingDiameter =
+            max(largestExistingDiameter, d);
+    }
+
+    double answer = INF;
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+
+            if (comp[i] == comp[j]) continue;
+
+            double edge =
+                compute_dist(coordinates[i], coordinates[j]);
+
+            double candidate = max(
+                {
+                    compDiameter[comp[i]],
+                    compDiameter[comp[j]],
+                    maxDist[i] + edge + maxDist[j]
+                }
+            );
+
+            answer = min(answer, candidate);
+        }
+    }
+
+    answer = max(answer, largestExistingDiameter);
+
+    cout << fixed << setprecision(6) << answer << "\n";
+
+    return 0;
+}
+
 coin change pattern dp.
 
 
