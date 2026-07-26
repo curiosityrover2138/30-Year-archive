@@ -89,7 +89,7 @@ CP/USACO: Sessions->1 Progress -> 1. Implemented dijkstra myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->0
 Sleep: 8 hrs. good quality. show even more restraint.
 
 
