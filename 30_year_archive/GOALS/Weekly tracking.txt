@@ -88,7 +88,7 @@ Breakfast-500 Lunch-400 Dinner-700  Protein-
 CP/USACO: Sessions->1 Progress -> 1. Implemented dijkstra myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> 45 mins walk, 15 min run Running Day: Y  (Y/N). not able to run due to lunch. Eat very very less around 300 cal if plan of running is 4-5 in future.
+Exercise: Sessions-> Progress -> 45 mins walk, 20 min run Running Day: Y  (Y/N). not able to run due to lunch. Eat very very less around 300 cal if plan of running is 4-5 in future.
 Work: Sessions->0 Progress ->0
 Sleep: 8 hrs. good quality. show even more restraint.
 
