@@ -85,7 +85,7 @@ Sleep: 7+1.5 nap hrs. having lots of naps. Sign of something else maybe. Need to
 
 Breakfast-500 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress -> 1. Implemented dijkstra myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
