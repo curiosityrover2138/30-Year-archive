@@ -84,7 +84,7 @@ Sleep: 7+1.5 nap hrs. having lots of naps. Sign of something else maybe. Need to
 
 26
 
-Breakfast-500 Lunch-400 Dinner-700  Protein-
+Breakfast-500 Lunch-400 Dinner-700  Protein-40
 
 CP/USACO: Sessions->1 Progress -> 1. Implemented dijkstra myself.
 Book: Sessions-> Progress ->
