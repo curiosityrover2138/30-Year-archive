@@ -25,7 +25,7 @@ Give at MOST 2 real contests a week.
 
 Option A
 6:00–7:30 AM Wakeup → Coding → Guitar → Work → Exercise → Learning → Reading → Sleep
-Option B (when running)
+Option B
 6:00 AM Wakeup → 45 min Run → Coding → Guitar → Work → Learning → Reading → Sleep
 
 
