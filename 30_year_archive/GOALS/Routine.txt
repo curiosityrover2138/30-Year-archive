@@ -40,6 +40,8 @@ Guitar - 1/2 min 2 max
 Coding/USACO/Math- 1 min 3 max 
 System design/ Research paper/Learning for work- 1/2 min 1 max 
 
+Note: Try and get 1 session uninterrupted. But if its not possible due to various reasons, complete the minimum sessions in a day even if broken into chunks. Keep timers so that you can track honestly (mainly for USACO, Guitar, Work).
+
 
 
 Record each day:
