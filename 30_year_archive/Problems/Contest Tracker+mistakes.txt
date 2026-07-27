@@ -1,23 +1,7 @@
 
 27/7
-https://codeforces.com/contest/1426 Upsolve and analyze solutions from C to F. Take 1 session to upsolve.
-
-C
-
-
-
-D
-
-
-
-
-E
-
-
-
-
-F
-
+https://codeforces.com/contest/1426-> No point upsolving yet. Just focus on giving contest properly and learning. Next contest aim to have 
+2 focused hours, and upsolve one in the next hour.(1.5 sessions)
 
 
 
