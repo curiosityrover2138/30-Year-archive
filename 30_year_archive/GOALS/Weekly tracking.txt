@@ -100,7 +100,7 @@ Sleep: 8 hrs. good quality. show even more restraint.
 
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> CONTEST
+CP/USACO: Sessions->1 Progress -> tried. but couldn't do more than 2. Need to reach 4-5 consistently in 2-3 months. CONTEST
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
@@ -111,7 +111,7 @@ Sleep: 7 hrs. can get better.
 
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> Progress -> UPSOLVE https://codeforces.com/contest/1426
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
