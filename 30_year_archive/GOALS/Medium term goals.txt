@@ -16,7 +16,7 @@ Nov 2026:
 
 
 Immediate goal: 
-Get to codeforces Candidate Master by Dec 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
+Get to codeforces Candidate Master+ by Dec 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
 Complete till USACO platinum.
 Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
 Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
