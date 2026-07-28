@@ -115,7 +115,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N) having issues with scheduling run. Will be able to do a lot more in sat and sun. Will keep today slightly rest, will only walk
-Work: Sessions-> Progress ->
+Work: Sessions-> 0 Progress -> no work needed.
 Sleep:8. a bit late wakeup 6:45. 
 
 29
