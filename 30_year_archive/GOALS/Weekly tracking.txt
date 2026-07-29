@@ -121,13 +121,13 @@ Sleep:8. a bit late wakeup 6:45.
 
 29
 
-Breakfast-100 Lunch-1000 Dinner-  Protein-50
+Breakfast-100 Lunch-1000 Dinner-500  Protein-50
 
 CP/USACO: Sessions->1  Progress -> 1 done UT. myself + learning MST
 Book: Sessions-> 2 Progress -> ak
-Guitar: Sessions-> Progress -> (Need to do today positively ideally before 7 and sit before 5)
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N) 
-Work: Sessions-> 1 Progress -> docs + learning + Meetings
+Guitar: Sessions->1  Progress ->  finally done practice(Need to do today positively ideally before 7 and sit before 5)
+Exercise: Sessions-> Progress ->15 sets weight+45 mins walk Running Day: N  (Y/N) 
+Work: Sessions-> 2 Progress -> docs + learning + Meetings
 Sleep:8. Wokeup late. Fine but need to debug.
 
 
