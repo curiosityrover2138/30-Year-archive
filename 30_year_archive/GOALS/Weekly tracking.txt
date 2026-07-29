@@ -121,7 +121,7 @@ Sleep:8. a bit late wakeup 6:45.
 
 29
 
-Breakfast-100 Lunch- Dinner-  Protein-
+Breakfast-100 Lunch-1000 Dinner-  Protein-50
 
 CP/USACO: Sessions->1  Progress -> 1 done UT. myself + learning MST
 Book: Sessions-> 2 Progress -> ak
