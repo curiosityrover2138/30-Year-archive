@@ -124,10 +124,10 @@ Sleep:8. a bit late wakeup 6:45.
 Breakfast-100 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1  Progress -> 1 done UT. myself + learning MST
-Book: Sessions-> Progress ->
+Book: Sessions-> 2 Progress -> ak
 Guitar: Sessions-> Progress -> (Need to do today positively ideally before 7 and sit before 5)
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N) 
-Work: Sessions-> Progress ->
+Work: Sessions-> 1 Progress -> docs + learning + Meetings
 Sleep:8. Wokeup late. Fine but need to debug.
 
 
