@@ -109,7 +109,7 @@ Sleep: 7 hrs. can get better.
 
 28
 
-Breakfast- 350 Lunch-600 Dinner-  Protein-
+Breakfast- 350 Lunch-600 Dinner- 800 Protein-20
 
 CP/USACO: Sessions->1  Progress -> very very close to the right solution. Will keep trying tomorrow.
 Book: Sessions->2 Progress ->ak
@@ -121,14 +121,14 @@ Sleep:8. a bit late wakeup 6:45.
 
 29
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-100 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N) 
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8. Wokeup late. Fine but need to debug.
 
 
 
