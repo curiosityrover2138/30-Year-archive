@@ -100,7 +100,7 @@ Sleep: 8 hrs. good quality. show even more restraint.
 
 Breakfast-200 Lunch-800 Dinner-700  Protein-50
 
-CP/USACO: Sessions->1 Progress -> tried. but couldn't do more than 2. Need to reach 4-5 consistently in 2-3 months. Also need to try fully before upsolving. Couldn't even look at and attempt problems.
+CP/USACO: Sessions->1 Progress -> contest tried. but couldn't do more than 2. Need to reach 4-5 consistently in 2-3 months. Also need to try fully before upsolving. Couldn't even look at and attempt problems.
 Book: Sessions-> 2 Progress ->ak
 Guitar: Sessions->0 Progress -> too late today due to bs. Won't do. Will read lots more today, and do tomorrow and make it very early, and sit with guitar for 2-3 hours in the morning/afternoon itself.
 Exercise: Sessions-> 1/2 Progress ->12 sets Running Day: N  (Y/N)
