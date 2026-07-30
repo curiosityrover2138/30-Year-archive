@@ -448,114 +448,122 @@ The last picture show.
 
 Non fiction:
 
-The Egyptian Book of the Dead – Anonymous
-The Upanishads – Anonymous
-Dhammapada – Anonymous
-Analects – Confucius
-Tao Te Ching – Laozi
-Zhuangzi – Zhuang Zhou
-The Histories – Herodotus
-History of the Peloponnesian War – Thucydides
-Republic – Plato
+Ancient & Classical Thought
+The Republic – Plato
 Nicomachean Ethics – Aristotle
-Politics – Aristotle
 Meditations – Marcus Aurelius
-Confessions – Augustine
-City of God – Augustine
-Muqaddimah – Ibn Khaldun
-Summa Theologica – Thomas Aquinas
-Guide for the Perplexed – Maimonides
-The Interior Castle – Teresa of Ávila
+The Art of War – Sun Tzu
+On the Nature of Things – Lucretius
+The Peloponnesian War – Thucydides
+Lives – Plutarch
+The Confessions – Augustine
+Arthashastra – Kautilya
+The Muqaddimah – Ibn Khaldun
+
+Renaissance to Enlightenment
 The Prince – Machiavelli
-Discourses on Livy – Machiavelli
+Essays – Michel de Montaigne
 Leviathan – Thomas Hobbes
-Two Treatises of Government – John Locke
-The Spirit of the Laws – Montesquieu
-The Social Contract – Jean‑Jacques Rousseau
-Reflections on the Revolution in France – Edmund Burke
-
-On the Revolutions of the Heavenly Spheres – Copernicus
-Dialogue Concerning the Two Chief World Systems – Galileo
-Principia Mathematica – Isaac Newton
-Opticks – Isaac Newton
-Novum Organum – Francis Bacon
-Discourse on Method – René Descartes
-Meditations on First Philosophy – René Descartes
-An Enquiry Concerning Human Understanding – David Hume
-Critique of Pure Reason – Immanuel Kant
-Phenomenology of Spirit – Hegel
-
-The Wealth of Nations – Adam Smith
-The Theory of Moral Sentiments – Adam Smith
-Democracy in America – Alexis de Tocqueville
+Discourse on Method – Descartes
+Critique of Pure Reason – Kant
+The Social Contract – Rousseau
+An Inquiry into the Nature and Causes of the Wealth of Nations – Adam Smith
+A Vindication of the Rights of Woman – Mary Wollstonecraft
+The Federalist Papers – Hamilton, Madison, Jay
+Common Sense – Thomas Paine
+19th Century: Science, History, Philosophy
+The Origin of Species – Charles Darwin
 On Liberty – John Stuart Mill
-The Communist Manifesto – Marx and Engels
-Capital, Volume I – Karl Marx
-The Protestant Ethic and the Spirit of Capitalism – Max Weber
-The Great Transformation – Karl Polanyi
-The General Theory of Employment, Interest and Money – John Maynard Keynes
-Capitalism, Socialism and Democracy – Joseph Schumpeter
-
-On the Origin of Species – Charles Darwin
-The Descent of Man – Charles Darwin
-The Expression of the Emotions in Man and Animals – Charles Darwin
+The Communist Manifesto – Marx & Engels
+Capital, Vol. I – Karl Marx
 The Interpretation of Dreams – Sigmund Freud
-Civilization and Its Discontents – Sigmund Freud
-The Archetypes and the Collective Unconscious – Carl Jung
-The Hero with a Thousand Faces – Joseph Campbell
+Thus Spoke Zarathustra – Nietzsche
+Beyond Good and Evil – Nietzsche
+The Protestant Ethic and the Spirit of Capitalism – Max Weber
+Narrative of the Life of Frederick Douglass – Frederick Douglass
+Democracy in America – Alexis de Tocqueville
+Early 20th Century: Foundations of the Modern World
+The General Theory of Employment, Interest and Money – Keynes
+Being and Time – Heidegger
+The Elementary Forms of Religious Life – Émile Durkheim
+The Souls of Black Folk – W.E.B. Du Bois
+A Room of One's Own – Virginia Woolf
+Pragmatism – William James
 The Structure of Scientific Revolutions – Thomas Kuhn
-The Selfish Gene – Richard Dawkins
-Gödel, Escher, Bach – Douglas Hofstadter
-
-The Decline and Fall of the Roman Empire – Edward Gibbon
-The Second World War – Winston Churchill
-The Guns of August – Barbara Tuchman
-The Origins of Totalitarianism – Hannah Arendt
-Eichmann in Jerusalem – Hannah Arendt
-Orientalism – Edward Said
+Civilization and Its Discontents – Freud
 The Wretched of the Earth – Frantz Fanon
-Discipline and Punish – Michel Foucault
-The History of Sexuality, Vol. 1 – Michel Foucault
-Imagined Communities – Benedict Anderson
-
-Tristes Tropiques – Claude Lévi‑Strauss
-The Golden Bough – James Frazer
-The Interpretation of Cultures – Clifford Geertz
 Orientalism – Edward Said
-The Souls of Black Folk – W. E. B. Du Bois
-The Second Sex – Simone de Beauvoir
-A Room of One’s Own – Virginia Woolf
-Silent Spring – Rachel Carson
-The Feminine Mystique – Betty Friedan
-Pedagogy of the Oppressed – Paulo Freire
+History: The Grand Narratives
+The Guns of August – Barbara Tuchman
+The Rise and Fall of the Third Reich – William L. Shirer
+A People's History of the United States – Howard Zinn
+The Diary of a Young Girl – Anne Frank
+Homage to Catalonia – George Orwell
+The Gulag Archipelago – Aleksandr Solzhenitsyn
+Night – Elie Wiesel
+Black Lamb and Grey Falcon – Rebecca West
+The Conquest of New Spain – Bernal Díaz del Castillo
+Postwar – Tony Judt
 
-The Society of the Spectacle – Guy Debord
-Simulacra and Simulation – Jean Baudrillard
-Understanding Media – Marshall McLuhan
-The Information – James Gleick
-The Age of Surveillance Capitalism – Shoshana Zuboff
-The Myth of Sisyphus – Albert Camus BOUGHT
-Being and Time – Martin Heidegger
-Tractatus Logico‑Philosophicus – Ludwig Wittgenstein
-Philosophical Investigations – Ludwig Wittgenstein
+Anthropology, Myth & Culture
+The Golden Bough – James George Frazer
+The Hero with a Thousand Faces – Joseph Campbell
+Tristes Tropiques – Claude Lévi-Strauss
+Coming of Age in Samoa – Margaret Mead
+The Gift – Marcel Mauss
+Patterns of Culture – Ruth Benedict
+Mythologies – Roland Barthes
+The Savage Mind – Lévi-Strauss
+The Interpretation of Cultures – Clifford Geertz
+Ways of Seeing – John Berger
+Science & Cosmology
+The Double Helix – James Watson
+The Selfish Gene – Richard Dawkins
 A Brief History of Time – Stephen Hawking
+Gödel, Escher, Bach – Douglas Hofstadter
+The Feynman Lectures on Physics – Richard Feynman
+Silent Spring – Rachel Carson
+The Eighth Day of Creation – Horace Freeland Judson
+Chaos – James Gleick
+The Emperor's New Mind – Roger Penrose
+Being Mortal – Atul Gawande
+Economics, Power & Systems
+The Wealth of Nations is here already — so: The Road to Serfdom – Friedrich Hayek
+Thinking, Fast and Slow – Daniel Kahneman
+Capital in the Twenty-First Century – Thomas Piketty
+The Power Elite – C. Wright Mills
+Debt: The First 5,000 Years – David Graeber
+The Shock Doctrine – Naomi Klein
+Extraordinary Popular Delusions and the Madness of Crowds – Charles Mackay
+The Worldly Philosophers – Robert Heilbroner
+Poor Economics – Banerjee & Duflo
+Seeing Like a State – James C. Scott
+Philosophy of Mind, Language & Knowledge
+Philosophical Investigations – Ludwig Wittgenstein
+Being and Nothingness – Jean-Paul Sartre
+The Phenomenology of Spirit – Hegel
+The Second Sex – Simone de Beauvoir
+Discipline and Punish – Michel Foucault
+Of Grammatology – Derrida
+The Order of Things – Foucault
+Simulacra and Simulation – Jean Baudrillard
+Anti-Oedipus – Deleuze & Guattari
+Totality and Infinity – Emmanuel Levinas
+Memoir, Essay & the Personal as Universal
+The Autobiography of Malcolm X – Malcolm X & Alex Haley
+I Know Why the Caged Bird Sings – Maya Angelou
+The Fire Next Time – James Baldwin
+Notes of a Native Son – James Baldwin
+Speak, Memory – Vladimir Nabokov
+The Essays of Michel de Montaigne (full collected) – Montaigne
+Illness as Metaphor – Susan Sontag
+Against Interpretation – Susan Sontag
+The Argonauts – Maggie Nelson
+Ways of Dying 
+In the Realm of Hungry Ghosts – Gabor Maté
 
-The Outline of History – H. G. Wells
-The Story of Civilization – Will and Ariel Durant
-The Open Society and Its Enemies – Karl Popper
-The Road to Serfdom – Friedrich Hayek
-Guns, Germs, and Steel – Jared Diamond
-Sapiens – Yuval Noah Harari
-The Better Angels of Our Nature – Steven Pinker
-The Beginning of Infinity – David Deutsch
-Cosmos – Carl Sagan
-The Denial of Death – Ernest Becker
 
-Being and Nothingness – Jean‑Paul Sartre
-Difference and Repetition – Gilles Deleuze
-Of Grammatology – Jacques Derrida
-Anti‑Oedipus – Deleuze and Guattari
-Finnegans Wake: A Skeleton Key – Campbell and Robinson
+
 story of philosophy will durant READING (non essential as wikipedia for all philosophers is better) https://www.youtube.com/watch?v=5SmZQLxE98Y&list=PLez3PPtnpncTnkugVq0M5_-NPsrRq3aLo&index=4
 Roger scruton 
 Derek Parfit 
