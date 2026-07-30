@@ -139,7 +139,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N) not running today. Having slight issues, but thats fine. This can be improved gradually. Diet is great now and found the fix for it. Running I can improve slowly.
 Work: Sessions-> Progress ->
 Sleep: 6. Getting gas and fall due to high protein, and specially soft boiled eggs/eggs in general. Need to cut back a bit unfortunately.
 
