@@ -137,7 +137,7 @@ Sleep:8. Wokeup late. Fine but need to debug.
 
 30
 
-Breakfast-40 Lunch-500 Dinner-  Protein-
+Breakfast-40 Lunch-400 Dinner- 1200 Protein-50
 
 CP/USACO: Sessions->0 Progress ->0. tried but skipping today. sleep didn't happen properly, and very tired. Will try and 
 make up by 2 sessions on weekend. Will focus more on work, guitar and book. Just leave it today, sad but have to do it
@@ -159,7 +159,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: 4. feeling wired and tired a lot. Its fine. Lets build up the pressure a bit. Work always becomes a sleep sink, not sure why. if I work a lot it always ruins my sleep even when I am pretty calm and relaxed. But this will be resolved with practice. So no point overthinking. The idea is to stay calm, work, and do all the tasks very calmly, sleep a bit when very tired and go to bed on time. The body will revolt when pushed, but it will have no choice but to obey the mind. Do everything, even give contests when tired a lot. Other things will take care of itself. Don't miss CP,Guitar,Work,Book or Exercise even without sleep.
 
 
 1
