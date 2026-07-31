@@ -158,7 +158,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep: 4. feeling wired and tired a lot. Its fine. Lets build up the pressure a bit. Work always becomes a sleep sink, not sure why. if I work a lot it always ruins my sleep even when I am pretty calm and relaxed. But this will be resolved with practice. So no point overthinking. The idea is to stay calm, work, and do all the tasks very calmly, sleep a bit when very tired and go to bed on time. The body will revolt when pushed, but it will have no choice but to obey the mind. Do everything, even give contests when tired a lot. Other things will take care of itself. Don't miss CP,Guitar,Work,Book or Exercise even without sleep.
+Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep only at night. Wakeup late if needed, but do all the usaco, guitar, work sessions as planned. Exercise a bit less and eat  a bit less if sleep is not fixed for >2 days.
 
 
 1
