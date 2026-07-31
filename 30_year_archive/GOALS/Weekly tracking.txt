@@ -157,7 +157,7 @@ CP/USACO: Sessions-> Progress -> CONTEST
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions-> Progress -> 
 Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep only at night. Wakeup late if needed, but do all the usaco, guitar, work sessions as planned. Exercise a bit less and eat  a bit less if sleep is not fixed for >2 days.
 
 
