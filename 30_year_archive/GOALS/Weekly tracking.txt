@@ -5,11 +5,12 @@ and come out having done 1 usaco, 1 guitar, 3 work sessions at the very least. E
 muscle and body comp. Train slowly and focus on USACO, Work and Guitar as high priority items and train so you can get high quality minimum sessions no matter what.
 
 
-Learning: 
+Learnings: 
 -> Be calm, don't stress over sleep. Sleep on time, don't stay hungry, and don't push too hard on exercise or after 7 PM
 -> Take 1 full rest day apart from in Guitar & USACO. Those are the non negotiables. During the rest day watch some movie/opera or do some bs.
 -> Never run on fumes. If too tired sleep.
 -> Let sleep pressure build as well. Work hard, be calm, and have mind over matter. The body is like a mad elephant. It will revolt, but let everything pass and it will settle to the mind's directions.
+-> Never stop timer, complete it, and have discipline to sit through no matter how you are feeling. Focus on flow, and slowly the quality of each session will improve.
 -> Keep running as good to have, walk if not able to run, and keep weights around 50-60 sets. Don't run more than 30 mins at a stretch.
 
 1. USACO 1 session everyday. 2 on weekends. 3+ UT problems DONE. 3 contests/virtual (23rd,27th, 31st). ALMOST. But figured out a perfect strategy for this as well. Just need calm focus to execute.
