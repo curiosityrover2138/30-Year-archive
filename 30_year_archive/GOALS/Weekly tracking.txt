@@ -151,11 +151,11 @@ Sleep: 6. Getting gas and fall due to high protein, and specially soft boiled eg
 
 31
 
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-800 Dinner-300  Protein-40
 
 CP/USACO: Sessions-> 1/2 Progress -> 3 myself in virtual contest. aim to focus more. a bit late so leaving it today 
 Book: Sessions-> 1 Progress -> dead souls
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->0.75 Progress -> stopping timer for some reason. now I won't going forward. Just finish the timer and have the discipline to do 1 session no matter what.
 Exercise: Sessions-> Progress -> 5 sets weight. Didn't do much. Will have to do 15 tomorrow as well as run/walk Running Day: N (Y/N)
 Work: Sessions->3 Progress -> biogen run + helping tirath
 Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep only at night. Wakeup late if needed, but do all the usaco, guitar, work sessions as planned. Exercise a bit less and eat  a bit less if sleep is not fixed for >2 days.
