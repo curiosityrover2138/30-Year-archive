@@ -144,20 +144,20 @@ if I cannot by 10. It becomes almost impossible to focus even if slightly underp
 Book: Sessions->1  Progress -> dead souls started
 Guitar: Sessions->0 Progress ->0. Got carried away by new madrigal work+ lack of sleep. Will fix again. I CAN do this. But everything needs to be perfect. Sleep is a major killer. Even 7 hours works. NOthing less than 7 will work. I should have slept and gotup late, but didn't do it due to tension for work. Need to be calm. I can fix this, this is an easy fix and something I have done before. 
 Exercise: Sessions->0 Progress -> 0 Running Day: Y (Y/N) not running today. Having slight issues, but thats fine. This can be improved gradually. Diet is great now and found the fix for it. Running I can improve slowly.
-Work: Sessions->4 Progress -> madrigal work
+Work: Sessions->4 Progress -> madrigal work + reverse KT from tirath
 Sleep: 6. Getting gas and fall due to high protein, and specially soft boiled eggs/eggs in general. Need to cut back a bit unfortunately.
 
 
 
 31
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> CONTEST
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress -> 
+Work: Sessions->3 Progress -> biogen run + helping tirath
 Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep only at night. Wakeup late if needed, but do all the usaco, guitar, work sessions as planned. Exercise a bit less and eat  a bit less if sleep is not fixed for >2 days.
 
 
