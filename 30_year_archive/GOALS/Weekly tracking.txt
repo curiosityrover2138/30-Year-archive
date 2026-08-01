@@ -172,7 +172,7 @@ CP/USACO: Sessions-> Progress -> 1 UT. prim's algo implemented myself. Keep goin
 and don't stop the timer. If paused start again and finish it.
 Book: Sessions-> 1.5 Progress -> Dead souls 
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions->1/2 Progress -> walk 30 mins, weights 10 sets Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep: 7 hrs
 
