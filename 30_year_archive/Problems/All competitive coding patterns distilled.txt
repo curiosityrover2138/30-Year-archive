@@ -2,6 +2,30 @@
 Distill all patterns that you can encounter in competitive programming and make a list of problems and techniques having that pattern. Should ideally contain no more than 500 problems when I am a GM. Maximum 1000 problems. Simplify when needed. Gradatim Ferociter.
 
 
+Prim's algorithm:
+
+vector<ll> visited;
+    set<ll> visited_set={0};
+    visited.push_back(0);
+    ll ans=0;
+
+    while(visited.size()<n){
+        ll smallest_edge_not_in = 1e7,vertex_for_the_edge=-1;
+        for(auto itr: visited){
+            for(int i=0;i<n;i++){
+                if(itr!=i && adj_list[itr][i]<=smallest_edge_not_in && visited_set.find(i)==visited_set.end()){
+                    smallest_edge_not_in=adj_list[itr][i];
+                    vertex_for_the_edge=i;
+                }
+            }
+        }
+        ans+=smallest_edge_not_in;
+        visited_set.insert(vertex_for_the_edge);
+        visited.push_back(vertex_for_the_edge);
+    }
+
+    cout<<ans<<endl;
+
 147. 2046A-> All values can be divided into 3 types, one where we go through both rows, one 
 on row 1 and one on row 2. So we can go through all columns and consider we are taking both, then for 
 each column go through all remaining columns and take only the max. The complexity will be O(N^2)
