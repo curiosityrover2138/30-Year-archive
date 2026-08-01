@@ -167,9 +167,9 @@ Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep o
 
 Breakfast-300 (be healthy here as well with coffee) Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions->1/2 Progress -> prim's algo implemented myself. Keep going unless a session is done. This I need to do for everything no matter what. Don't get up unless a very important task is needed urgently,
+CP/USACO: Sessions-> Progress -> 1 UT. prim's algo implemented myself. Keep going unless a session is done. This I need to do for everything no matter what. Don't get up unless a very important task is needed urgently,
 and don't stop the timer. If stopped start again and finish it.
-Book: Sessions-> Progress ->
+Book: Sessions-> 1 Progress -> Dead souls 
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
