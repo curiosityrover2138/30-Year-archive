@@ -167,7 +167,7 @@ Sleep: 7. late wakeup. feeling wired and tired a lot. Build up pressure. Sleep o
 
 Breakfast-300 (be healthy here as well with coffee) Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> 
+CP/USACO: Sessions->1/2 Progress -> prim's algo implemented myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
