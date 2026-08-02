@@ -183,13 +183,13 @@ Sleep: 7 hrs+1.5 nap. Feeling sad mostly due to less diet, more work and inclina
 
 2
 
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast- 100 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->0
 Sleep: 7. decent.
 
 
