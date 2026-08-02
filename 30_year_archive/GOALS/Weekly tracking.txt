@@ -15,27 +15,82 @@ REMINDER:  Apologize, Accomodate, Remove, Focus.
 
 
 3
+Breakfast- Lunch- Dinner-  Protein-
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 
 4
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 
 5
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 6
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 7
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress -> CONTEST
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 8
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 9
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress -> CONTEST
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 
