@@ -1,3 +1,51 @@
+3/8 - 9/8
+Theme: Time to use all learnings specially in prev 2 sprints. Get perfect USACO, Guitar and Work. Great exercise. Decent running, and do 2 contests. Stay calm always and stay disciplined. Start 
+getting high quality flow
+
+1. Perfect USACO. 5 problems. 2 contest.
+2. Guitar 14 hours. Everyday. Sit at or before 5:00 PM. No later. Never miss a day
+3. Work 3 sessions on workday. Complete documentation, learnings, and other things discussed. Start tracing flow, and do all assigments by Glen.
+4. Keep unhealthy food restricted to bhujia. Eat very healthy in small chunks to keep energy all day. Eat less. Exercise/Run more. <1500-1800 calories.
+5. 60 sets weights. 1.5 hrs run. 30 mins run in 1 stretch. Atleast 20 sets weight on weights day.
+6. 200 pages of dead souls (good to have)
+7. Watch opera on 9th. Update sheet. Track everything very honestly.
+8. Don't take too much pressure. Sleep properly, and relax on 9th.
+9. Do all misc home tasks. Almost perfect routine. Sleep well. Keep other things like coffee perfect. Never lose temper.
+REMINDER:  Apologize, Accomodate, Remove, Focus. 
+
+
+3
+
+
+
+
+4
+
+
+
+5
+
+
+6
+
+
+7
+
+
+8
+
+
+9
+
+
+
+
+
+
+
+
+
+
 22/7  - 2/8
 
 Theme: Be invincible, don't let idiots ruin anything. Train towards Perfect routine. Great guitar and work. USACO, Work and Guitar are absolutely high priority items. Be strong, and handle everything whatever a day throws at you, 
@@ -28,7 +76,7 @@ Document more. ANd sync with Tirath.
 9. Complete Anna Karenina (good to have) DONE
 10. Do miscellaneous home tasks, have good grooming. Perfect routine. Good sleep. Do all other misc tasks like coffee, breakfast prep, etc. DONE
 11. Start packing and planning a bit for trip on sep. Discuss on suitcase. DONE
-12. As a relaxation, and reward watch an opera on 2nd night.
+12. As a relaxation, and reward watch an opera on 2nd night. DONE
 
 
 22
@@ -183,12 +231,12 @@ Sleep: 7 hrs+1.5 nap. Feeling sad mostly due to less diet, more work and inclina
 
 2
 
-Breakfast- 100 Lunch- Dinner-  Protein-
+Breakfast- 100 Lunch-600 Dinner-  Protein-20
 
 CP/USACO: Sessions->1 Progress ->  stuck. 
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Book: Sessions->1 Progress -> dead souls
+Guitar: Sessions->0 Progress ->0 leaving as its too late. aim to sit <=5pm
+Exercise: Sessions-> Progress -> 10 sets weight Running Day: N (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep: 7. decent.
 
