@@ -2,6 +2,9 @@
 Theme: Time to use all learnings specially in prev 2 sprints. Get perfect USACO, Guitar and Work. Great exercise. Decent running, and do 2 contests. Stay calm always and stay disciplined. Start 
 getting high quality flow
 
+Learning:
+1. IMP FOR CP: Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, and then implement and think anything about that specific problem. This way you will learn faster. Just guess the topic, and consult the handbook.
+
 1. Perfect USACO. 5 problems. 2 contest. 1+ session everyday. Try 1.5-2 sessions on weekends.
 2. Guitar 14 hours. Everyday. Sit at or before 5:00 PM. No later. Never miss a day
 3. Work 3 sessions on workday. Complete documentation, learnings, and other things discussed. Start tracing flow, and do all assigments by Glen.
@@ -18,6 +21,7 @@ REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind
 Breakfast-300 Lunch-500 Dinner-  Protein-50
 
 CP/USACO: Sessions-> 1.5 Progress -> 1 done
+
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->5 sets weight Running Day: N  (Y/N)
