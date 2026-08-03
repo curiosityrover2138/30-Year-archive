@@ -15,14 +15,14 @@ REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind
 
 
 3
-Breakfast-300 Lunch-500 Dinner-  Protein-
+Breakfast-300 Lunch-500 Dinner-  Protein-30
 
-CP/USACO: Sessions-> 1 Progress -> 1 done
+CP/USACO: Sessions-> 1.5 Progress -> 1 done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress ->5 sets weight Running Day: N  (Y/N)
 Work: Sessions->2 Progress -> meetings and misc
-Sleep:7. bit late wakeup. np.
+Sleep:7. bit late wakeup. np. +45 mins nap.
 
 
 
