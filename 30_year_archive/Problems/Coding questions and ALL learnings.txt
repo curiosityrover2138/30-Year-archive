@@ -3,7 +3,7 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 
 DP pattern rod cutting
 
-
+TO LEARN: DP top down and bottom up memoization patterns and when to use what
 
 
 https://usaco.training/usacoprob2?a=1sAv8HW5zDn&S=cowtour
