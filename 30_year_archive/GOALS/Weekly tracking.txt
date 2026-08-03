@@ -21,7 +21,7 @@ CP/USACO: Sessions-> 1 Progress -> stuck in https://usaco.training/usacoprob2?a=
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->2 Progress -> meetings and misc
 Sleep:7. bit late wakeup. np.
 
 
