@@ -25,7 +25,7 @@ Mindset shift-> Not just solving this problem, but patterns, what family does th
 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress ->5 sets weight Running Day: N  (Y/N)
+Exercise: Sessions-> Progress ->5 sets weight. a bit less since did yest tired Running Day: N  (Y/N)
 Work: Sessions->2 Progress -> meetings and misc
 Sleep:7. bit late wakeup. np. +45 mins nap.
 
