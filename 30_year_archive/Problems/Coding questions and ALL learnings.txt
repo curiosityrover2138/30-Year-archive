@@ -25,7 +25,13 @@ ll dfs(vector<vector<ll>> &problems,ll time){
     return dp[time];
 }
 
-
+Bottom up pattern:
+for (i = 0; i < n; i++) {
+        cin >> pts >> len;
+        for (j = len; j <= m; j++)
+            if (best[j-len] + pts > best[j])
+                best[j] = best[j-len] + pts;
+    }
 
 https://usaco.training/usacoprob2?a=1sAv8HW5zDn&S=cowtour
 
