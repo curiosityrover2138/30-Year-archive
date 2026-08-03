@@ -3,7 +3,7 @@ Theme: Time to use all learnings specially in prev 2 sprints. Get perfect USACO,
 getting high quality flow
 
 Learning:
-1. IMP FOR CP: Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, and then implement and think anything about that specific problem. This way you will learn faster. Just guess the topic, and consult the handbook.
+-> IMP FOR CP: Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, and then implement and think anything about that specific problem. This way you will learn faster. Just guess the topic, and consult the handbook.
 
 1. Perfect USACO. 5 problems. 2 contest. 1+ session everyday. Try 1.5-2 sessions on weekends.
 2. Guitar 14 hours. Everyday. Sit at or before 5:00 PM. No later. Never miss a day
