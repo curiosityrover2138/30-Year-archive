@@ -5,6 +5,27 @@ DP pattern rod cutting
 
 TO LEARN: DP top down and bottom up memoization patterns and when to use what
 
+top down rod cutting pattern:
+
+vector<ll> dp(1e6+2,-1);
+
+ll dfs(vector<vector<ll>> &problems,ll time){
+    if(time==0) return 0;
+    if(dp[time]!=-1){
+        return dp[time];
+    }
+    dp[time]=0;
+    
+    for(const auto& itr : problems){
+        if(time>=itr[1]){
+            dp[time]=max(dp[time],itr[0]+dfs(problems,time-itr[1]));
+        }
+    }
+    
+    return dp[time];
+}
+
+
 
 https://usaco.training/usacoprob2?a=1sAv8HW5zDn&S=cowtour
 
