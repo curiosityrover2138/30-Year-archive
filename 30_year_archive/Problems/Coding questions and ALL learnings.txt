@@ -2,22 +2,6 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 DP pattern rod cutting
-vector<ll> dp(1e6+2,0);
-
-ll dfs(vector<vector<ll>> &problems,ll time){
-    if(time==0) return 0;
-    if(dp[time]>0){
-        return dp[time];
-    }
-    
-    for(auto itr: problems){
-        if(time>=itr[1]){
-            dp[time]=max(dp[time],itr[0]+dfs(problems,time-itr[1]));
-        }
-    }
-    
-    return dp[time];
-}
 
 
 
