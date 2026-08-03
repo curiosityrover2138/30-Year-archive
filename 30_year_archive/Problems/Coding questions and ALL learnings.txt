@@ -1,6 +1,9 @@
 Pattern-> Question, brief pattern, Learning and solution + intuition explanation, Pseudocode. Dont write and copy paste actual code. Write everything yourself.
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
+
+Learning-> Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, before implementing.
+This way you will learn faster.
 DP pattern rod cutting
 
 TO LEARN: DP top down and bottom up memoization patterns and when to use what
