@@ -15,9 +15,9 @@ REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind
 
 
 3
-Breakfast-100 Lunch- Dinner-  Protein-
+Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress -> stuck in https://usaco.training/usacoprob2?a=u2r3MW93x2M&S=inflate dp problem
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
