@@ -33,12 +33,12 @@ Sleep:7. bit late wakeup. np. +45 mins nap.
 
 
 4
-Breakfast-200 Lunch-800 Dinner-  Protein-60
+Breakfast-200 Lunch-800 Dinner-800  Protein-60
 
 CP/USACO: Sessions-> 1 Progress ->stuck. generate and dry run by hand.
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
 Guitar: Sessions->1 Progress -> make quality better.
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
 Work: Sessions->4 Progress -> task+research+ access
 Sleep:8. late wakeup. but sleep duration and quality are imp so prioritizing that. Allow yourself to get tired before sleeping.
 
