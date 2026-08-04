@@ -39,7 +39,7 @@ CP/USACO: Sessions-> 1 Progress ->stuck. generate and dry run by hand.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress -> task+research
 Sleep:8. late wakeup. but sleep duration and quality are imp so prioritizing that. Allow yourself to get tired before sleeping.
 
 
