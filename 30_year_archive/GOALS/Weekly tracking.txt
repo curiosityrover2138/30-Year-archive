@@ -24,7 +24,7 @@ CP/USACO: Sessions-> 1.5 Progress -> 1 done
 Mindset shift-> Not just solving this problem, but patterns, what family does this problem belong to and learn it.
 USE CP handbook
 
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
 Guitar: Sessions-> 1/2 Progress ->practice. late so did 1/2. will do 1.5 on saturday
 Exercise: Sessions-> Progress ->5 sets weight. a bit less since did yest tired Running Day: N  (Y/N)
 Work: Sessions->2 Progress -> meetings and misc
@@ -35,7 +35,7 @@ Sleep:7. bit late wakeup. np. +45 mins nap.
 4
 Breakfast-200 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> 1 Progress ->stuck. generate and dry run by hand.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
