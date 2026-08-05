@@ -2,6 +2,25 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+DP pattern:
+
+vector<ll> humble(n+1,0);
+    vector<int> ptr(m, 0);
+    humble[0]=1;
+    for(int i=1;i<=n;i++){
+        ll curr_next=INT_MAX;
+        for(int j=0;j<m;j++){
+            curr_next=min(curr_next,vec[j]*humble[ptr[j]]);
+        }
+        humble[i]=curr_next;
+        for(int j=0;j<m;j++){
+            while(vec[j]*humble[ptr[j]]<=curr_next){
+                ptr[j]++;
+            }
+        }
+    }
+    cout<<humble[n]<<endl;
+
 Learning-> Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, before implementing.
 This way you will learn faster.
 DP pattern rod cutting
