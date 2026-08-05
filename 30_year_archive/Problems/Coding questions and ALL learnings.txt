@@ -21,8 +21,7 @@ vector<ll> humble(n+1,0);
     }
     cout<<humble[n]<<endl;
 
-Learning-> Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, before implementing.
-This way you will learn faster.
+
 DP pattern rod cutting
 
 TO LEARN: DP top down and bottom up memoization patterns and when to use what
