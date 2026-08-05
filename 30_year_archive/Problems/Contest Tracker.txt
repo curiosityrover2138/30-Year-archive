@@ -16,16 +16,3 @@ https://codeforces.com/contest/1426-> No point upsolving yet. Just focus on givi
 
 18/7/2026
 Give contest again. ANd nap before any real contest, or else will be very tired. 
-
-
-
-
-
-
-
-
-
-
-
-on different (independent!) parts of your data to significantly 
-improve your running time.
