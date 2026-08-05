@@ -88,4 +88,4 @@ the challenge of combination problems that require a combination of two
 algorithms for solution is daunting. Try to separate the cues from different
 parts of the problem so that you can combine one algorithm with a 
 loop or with another algorithm to solve different parts of the problem 
-independently. Note that sometimes you can use the same algorithm twice 
+independently. 
