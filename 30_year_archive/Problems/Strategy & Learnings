@@ -2,7 +2,9 @@ Learnings:
 1. Keep attacking a problem from different directions. Optimize but keeping in mind the time complexity. If its too much, try another totally different approach.
 2. NEVER EVER EVER USE AI. This is for learning, not something that will reward me the more I check a box.
 3. Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, before implementing.
-This way you will learn faster.Never ever google about the specific problem, paste the code or problem statements to clankers. Don't even open any clanker.
+This way you will learn faster.Never ever google about the specific problem, paste the code or problem statements to clankers. Don't even open any clanker. Avoid any outside help 
+and keep attacking it yourself. Even if that means no problem done for months.
+4. Look at the constraints and avoid all techniques like the plague that give lots of overhead.
 
 How to attack a problem:
 
