@@ -49,9 +49,9 @@ Breakfast-400 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 took help. avoid it even if it means no question done for 2-3 months
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Guitar: Sessions-> 0Progress ->0. messed up a bit. will do from tomorrow.
+Exercise: Sessions->0 Progress ->0 Running Day: N (Y/N)
+Work: Sessions->4 Progress ->madrigal qc
 Sleep:8 hr. fine. still late wakeup. will fix this slowly. not much to fix tbh, but still 6 instead of 7:30 is the sweet spot.
 
 
