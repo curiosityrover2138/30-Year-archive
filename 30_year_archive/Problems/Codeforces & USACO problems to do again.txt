@@ -13,6 +13,8 @@ https://usaco.training/usacoprob2?a=jgN9nl5i2m9&S=money IMP pattern used. Rememb
 
 https://usaco.training/usacoprob2?a=x9dK2XmZjKQ&S=concom IMP pattern
 
+https://usaco.training/usacoprob2?a=iBRTvS4LZem&S=humble IMP-> Do it again.
+
 2034C
 1901B
 1904B
