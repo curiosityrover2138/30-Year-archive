@@ -45,7 +45,7 @@ Sleep:8. late wakeup. but sleep duration and quality are imp so prioritizing tha
 
 
 5
-Breakfast-200 Lunch-500 Dinner-  Protein-
+Breakfast-400 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 took help. avoid it even if it means no question done for 2-3 months
 Book: Sessions-> Progress ->
