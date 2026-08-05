@@ -48,6 +48,7 @@ Sleep:8. late wakeup. but sleep duration and quality are imp so prioritizing tha
 Breakfast-200 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 some help as was stuck for a long time. practice dp more.
+learning-> Never open clankers AT ALL. Its learning, not my job. I was close but got again into recursion. Look at the constraints and avoid all techniques like the plague that give lots of overhead.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
