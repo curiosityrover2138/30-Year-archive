@@ -56,14 +56,14 @@ Sleep:8 hr. fine. still late wakeup. will fix this slowly. not much to fix tbh, 
 
 
 6
-Breakfast-300 Lunch- Dinner-  Protein-
+Breakfast-300 Lunch-500 Dinner- 500 Protein-20
 
 CP/USACO: Sessions->1/2 Progress -> 1 done.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions-> Progress ->
-Sleep:6. a bit less but manageable.
+Book: Sessions->1/2 Progress -> 
+Guitar: Sessions->1 Progress ->practice
+Exercise: Sessions->1/2 Progress -> 10 sets Running Day: N  (Y/N)
+Work: Sessions->2 Progress -> vertex issue+meetings
+Sleep:6. a bit less but manageable. +1.5 hrs nap
 
 
 7
