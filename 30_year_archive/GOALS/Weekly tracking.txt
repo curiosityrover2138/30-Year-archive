@@ -4,6 +4,7 @@ getting high quality flow
 
 Learning:
 -> IMP FOR CP: Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, and then implement and think anything about that specific problem. This way you will learn faster. Just guess the topic, and consult the handbook.
+-> Focus on work, not tracking. Tracking should be a tool that strengthens discipline. Ideally your routine should be so enmeshed you don't need it. But still some minimal version will be needed. Keep this repo and update at night daily. Other things use as long as they serve you, and discard if they become a burden.
 
 1. Perfect USACO. 5 problems. 2 contest. 1+ session everyday. Try 1.5-2 sessions on weekends.
 2. Guitar 14 hours. Everyday. Sit at or before 5:00 PM. No later. Never miss a day. If done a bit less, makeup on sat/sun
@@ -59,8 +60,8 @@ Sleep:8 hr. fine. still late wakeup. will fix this slowly. not much to fix tbh, 
 Breakfast-300 Lunch-500 Dinner- 500 Protein-20
 
 CP/USACO: Sessions->1/2 Progress -> 1 done.
-Book: Sessions->1/2 Progress -> 
-Guitar: Sessions->1 Progress ->practice
+Book: Sessions->1 Progress -> 
+Guitar: Sessions->1/2 Progress ->practice
 Exercise: Sessions->1/2 Progress -> 10 sets Running Day: N  (Y/N)
 Work: Sessions->2 Progress -> vertex issue+meetings
 Sleep:6. a bit less but manageable. +1.5 hrs nap
