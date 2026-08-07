@@ -6,6 +6,8 @@ Learning:
 -> IMP FOR CP: Google core concepts/ refer to CP handbook when stuck, and then implement. When stuck, think what topic can it be, and refer to handbook, and then implement and think anything about that specific problem. This way you will learn faster. Just guess the topic, and consult the handbook.
 -> Focus on work, not tracking. Tracking should be a tool that strengthens discipline. Ideally your routine should be so enmeshed you don't need it. But still some minimal version will be needed. Keep this repo and update at night daily. Other things use as long as they serve you, and discard if they become a burden.
 -> Optimize the process. Neither the input, or the output.
+-> Getting around 7-8 hrs of work if I try a lot. Need to increase it to 12. Also guitar is still under development, better than before and best so far, but less than what I want. Pushing harder is the only solution.
+Focus more, and push yourself much harder. Achieve all the things.
 
 1. Perfect USACO. 5 problems. 2 contest. 1+ session everyday. Try 1.5-2 sessions on weekends.
 2. Guitar 14 hours. Everyday. Sit at or before 5:00 PM. No later. Never miss a day. If done a bit less, makeup on sat/sun
