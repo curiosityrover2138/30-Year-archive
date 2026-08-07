@@ -72,12 +72,12 @@ Sleep:6. a bit less but manageable. +1.5 hrs nap
 
 
 7
-Breakfast-400 Lunch- 500 Dinner-  Protein-
+Breakfast-400 Lunch- 500 Dinner- 500 Protein-40
 
 CP/USACO: Sessions->1  Progress -> CONTEST. Solved 3. Try 4. Upsolve till E always. Upsolve pending rn.
 Book: Sessions->0 Progress ->0
 Guitar: Sessions->0 Progress ->0
-Exercise: Sessions-> 30 mins Progress ->10 sets Running Day: Y (Y/N). Didn't run. Feel tired. Fix
+Exercise: Sessions-> 30 mins Progress ->12 sets Running Day: Y (Y/N). Didn't run. Feel tired. Fix. Have apple whenever not feeling the motivation to do the next task.
 Work: Sessions->1/2 Progress ->nothing much. chats & looking at things
 Sleep:8. good but again slight late wakeup @730. relaxed today. Try more intensity. Its happening 5-8 hrs per day rn. Need to get it to 12 in total consistently.
 Feeling tired a lot today. Will debug from tomorrow why I feel this after 3-4 days of work. Also will aim to get 10+ hours now from tomorrow. Today a bit relaxed is fine, but need to work a lot harder to even have
