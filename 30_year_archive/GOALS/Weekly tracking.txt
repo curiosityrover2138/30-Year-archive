@@ -85,7 +85,7 @@ a chance for my goals.
 
 
 8
-Breakfast-250 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- 600 Dinner-  Protein-30
 
 CP/USACO: Sessions->1 Progress ->2 done. looked at prev contest d and e solns.
 Book: Sessions-> Progress ->
