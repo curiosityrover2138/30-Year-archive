@@ -2,6 +2,15 @@
 Now able to do 1.5 hrs of concentration. Did 3. Couldn't focus on 4 still. Upsolve today D and E. Give 1 hr each and then analyze editorial
 https://codeforces.com/contest/2236/problem/D
 
+NO point in submitting. Was able to get the maximum of the array idea and second maximum. Didn't deduce that compression was needed. Technique gone through long ago in USACO. Its fine, as I keep giving more contests
+it will become clearer.
+
+
+E
+
+
+
+
 
 
 
