@@ -90,9 +90,9 @@ Breakfast-250 Lunch- 600 Dinner-  Protein-30
 CP/USACO: Sessions->1 Progress ->2 done. looked at prev contest d and e solns.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
-Work: Sessions-> Progress ->
-Sleep:6. let pressure build
+Exercise: Sessions-> Progress ->15 sets weight Running Day: N  (Y/N)
+Work: Sessions->0 Progress ->0
+Sleep:6. let pressure build. 1.5 hrs nap. bad bad. but also exercise, diet, usaco and work are creating lots of tiredness. Need to push through this. This is a weakness.
 
 
 9
