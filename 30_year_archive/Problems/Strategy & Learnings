@@ -5,6 +5,8 @@ Learnings:
 This way you will learn faster.Never ever google about the specific problem, paste the code or problem statements to clankers. Don't even open any clanker. Avoid any outside help 
 and keep attacking it yourself. Even if that means no problem done for months.
 4. Look at the constraints and avoid all techniques like the plague that give lots of overhead.
+5. Don't use data types or structures that are overkill "just in case". Be very strict about memory & time complexity
+
 
 How to attack a problem:
 
