@@ -2,12 +2,12 @@ Note: Got delayed a bit because of book goals, job switch and home tasks. Strugg
 Also struggled with home issues, and making time for guitar. Now have figured out the perfect personality and sessions. 1 USACO, 1 guitar, 3 work is the ideal mix for me. Once that is done for the day I can do book
 and squeeze exercise. Now its just about implementation and minor improvements everyday.
 
-Nov 2026: 
+July 2027: 
 
 1. Complete Usaco training.
 2. Complete USACO silver >70%
-3. Start USACO gold.
-4. Get to 1300 CF rating, Give 2 contests a week.
+3. Start USACO gold and get to around >50%
+4. Get to 1800 CF rating, Give 2 contests a week every week.
 5. Perfect routine. Perfect guitar(15 hours per week avg). Perfect book. Perfect exercise. Amazing work 3 sessions on workday and 1-2 on weekends
 6. Get weight =46 kg max. BF <18%
 7. Don't let work interrupt or mess with anything. Keep routine robust and flexible so that you can average out a good week no matter what.
@@ -17,7 +17,7 @@ Nov 2026:
 
 Immediate goal: 
 Get to codeforces Candidate Master+ by Dec 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
-Complete till USACO platinum.
+Complete till USACO Gold.
 Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
 Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
 Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
