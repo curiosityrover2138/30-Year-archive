@@ -17,12 +17,12 @@ REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind
 9
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> CONTEST
+CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8 good
 
 10
 Breakfast- Lunch- Dinner-  Protein-
@@ -72,7 +72,7 @@ Sleep:
 14
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> 
+CP/USACO: Sessions-> Progress -> CONTEST
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
