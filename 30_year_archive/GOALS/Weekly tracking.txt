@@ -26,14 +26,14 @@ Sleep:8 + 1 hr nap
 bad day. No matter hwo I am feeling need to show up in an earnest session as planned. Mood will swing, time won't come back.
 
 10
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8. Good.
 
 
 11
