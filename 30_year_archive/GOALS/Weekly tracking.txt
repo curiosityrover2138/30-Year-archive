@@ -28,7 +28,7 @@ bad day. No matter hwo I am feeling need to show up in an earnest session as pla
 10
 Breakfast-250 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> 
+CP/USACO: Sessions->1 Progress ->stuck.very close. implementation issue maybe. will do it myself even if it takes a month.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
