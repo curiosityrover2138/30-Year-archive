@@ -31,7 +31,7 @@ Breakfast-250 Lunch-700 Dinner-  Protein-
 CP/USACO: Sessions->1 Progress ->stuck.very close.will do it myself even if it takes a lifetime.Focused fully which counts as SUCCESS. GOOD JOB.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions->0 Progress ->0 Running Day: N (Y/N)
+Exercise: Sessions->0 Progress ->5 sets. Running Day: N (Y/N). This and guitar will only happen to the intensity if I stop sleeping.
 Work: Sessions->3 Progress ->lots of work
 Sleep:8. Good. 1 hr nap. Getting too tired due to diet+hard work. Need to push more, or eat a bit and drink coffee if I am feeling sluggish.
 
