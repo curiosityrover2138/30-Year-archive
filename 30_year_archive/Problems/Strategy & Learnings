@@ -8,6 +8,7 @@ and keep attacking it yourself. Even if that means no problem done for months.
 5. Don't use data types or structures that are overkill "just in case". Be very strict about memory & time complexity
 6. Let ONLY 2 problems run parallely. 1 from usaco.training and 1 from usaco.guide. Incubate. usaco.training is notoriously harder, so making slower progress is expected. Aim to get atleast 2-3 problems 
 and on average 6-7 problems per week combined progress.
+7. Always remember struggling and trying lots of things is better than AC while not struggling.
 
 
 How to attack a problem:
