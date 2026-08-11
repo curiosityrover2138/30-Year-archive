@@ -26,11 +26,11 @@ Sleep:8 + 1 hr nap
 bad day. No matter hwo I am feeling need to show up in an earnest session as planned. Mood will swing, time won't come back.
 
 10
-Breakfast-250 Lunch-700 Dinner-  Protein-
+Breakfast-250 Lunch-700 Dinner-600  Protein-30
 
 CP/USACO: Sessions->1 Progress ->stuck.very close.will do it myself even if it takes a lifetime.Focused fully which counts as SUCCESS. GOOD JOB.
 Book: Sessions-> 0 Progress ->0
-Guitar: Sessions->0 Progress ->38 mins. Makeup later. very tired.train this. Bad bad.
+Guitar: Sessions->0 Progress ->38 mins. Makeup later. very tired.train this.
 Exercise: Sessions->0 Progress ->5 sets. Running Day: N (Y/N). This and guitar will only happen to the intensity if I stop sleeping.
 Work: Sessions->3 Progress ->lots of work
 Sleep:8. Good. 1 hr nap. Getting too tired due to diet+hard work. Need to push more, or eat a bit and drink coffee if I am feeling sluggish.
@@ -38,14 +38,14 @@ Sleep:8. Good. 1 hr nap. Getting too tired due to diet+hard work. Need to push m
 
 
 11
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:6 hr. Won't nap.
 
 
 12
