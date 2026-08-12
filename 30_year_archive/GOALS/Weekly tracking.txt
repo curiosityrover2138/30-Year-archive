@@ -50,12 +50,12 @@ Had to increase frequency of relaxing because of other restrictions. Also focus 
 
 
 12
-Breakfast-250 Lunch-500 Dinner-  Protein-
+Breakfast-250 Lunch-500 Dinner- 500 Protein-30
 
 CP/USACO: Sessions->1  Progress -> 1 solved it. good job. very very happy. just solve like this. Figured it out. Finally best way for me. pen + paper, problem statement, cases and concept handbook is ALL I need to solve anything imaginable.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Book: Sessions-> 1/2 Progress ->1 ch
+Guitar: Sessions->1/2 Progress ->stamina lacking.develop it slowly
+Exercise: Sessions->1/4 Progress ->15 sets weight Running Day: N (Y/N)
 Work: Sessions->1 Progress ->not much work
 Sleep:6 hr. + 2 hr nap. Getting too tired.
 
