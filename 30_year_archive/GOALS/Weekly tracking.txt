@@ -1,9 +1,9 @@
-9/8 - 15/8
+9/8 - 16/8
 
 THEME: Get 10+ hrs focus per day. Push yourself very hard. Hit the major goals in a day and week no matter what.
 
 1. Perfect USACO sessions. aim to do 6 (guide+training) but focus perfectly. 2 contests. Upsolve 2 extra problems and be fully focused for the contest duration. Have 2 problems running when thinking, 1 from usaco.training and other usaco.guide.
-2. Guitar 11 hrs. Do it everyday
+2. Guitar 13 hrs. Do it everyday
 3. Work 3-4 sessions and 2 on weekend. Research everything and be excellent. Do code changes and absolutely perfect focus.
 4. No unhealthy food. Eat very very healthy. When feeling low on motivation eat a bit and then resume work. 1400-1600 calories max. Eat slight cheat like bhujia chanachur coffee oreos on 15th
 5. Weights 60 sets. Run 30 mins. Stretch in downtime.
@@ -50,14 +50,14 @@ Had to increase frequency of relaxing because of other restrictions. Also focus 
 
 
 12
-Breakfast-250 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1  Progress -> 1 solved it. good job. very very happy. just solve like this. Figured it out. Finally best way for me. pen + paper, problem statement, cases and concept handbook is ALL I need to solve anything imaginable.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:6 hr. 
+Sleep:6 hr. + 2 hr nap. Getting too tired.
 
 
 
