@@ -50,7 +50,7 @@ Had to increase frequency of relaxing because of other restrictions. Also focus 
 
 
 12
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
