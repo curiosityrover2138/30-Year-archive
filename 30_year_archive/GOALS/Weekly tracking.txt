@@ -38,7 +38,7 @@ Sleep:8. Good. 1 hr nap. Getting too tired due to diet+hard work. Need to push m
 
 
 11
-Breakfast-250 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch-500 Dinner- 400 Protein-15
 
 CP/USACO: Sessions->1 Progress -> concentrated good, but stuck. simplify.
 Book: Sessions->0 Progress ->0
@@ -57,7 +57,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:6 hr. 
 
 
 
