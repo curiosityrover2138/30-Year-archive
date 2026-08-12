@@ -56,7 +56,7 @@ CP/USACO: Sessions->1  Progress -> 1 solved it. good job. very very happy. just 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->1 Progress ->not much work
 Sleep:6 hr. + 2 hr nap. Getting too tired.
 
 
@@ -85,6 +85,16 @@ Sleep:
 
 
 15
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress -> 
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+16
 Breakfast- Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> CONTEST
