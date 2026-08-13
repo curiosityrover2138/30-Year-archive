@@ -66,7 +66,7 @@ Sleep:6 hr. + 2 hr nap. Getting too tired.
 
 
 13
-Breakfast-250 Lunch-500 Dinner-400  Protein-20
+Breakfast-250 Lunch-500 Dinner-600  Protein-40
 
 CP/USACO: Sessions-> 1/2 Progress -> develop stamina. stuck ofc. 
 Book: Sessions->0 Progress ->
