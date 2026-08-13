@@ -62,14 +62,14 @@ Sleep:6 hr. + 2 hr nap. Getting too tired.
 
 
 13
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:7 hr.
 
 
 14
