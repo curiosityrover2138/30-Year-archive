@@ -65,17 +65,17 @@ Sleep:6 hr. + 2 hr nap. Getting too tired.
 Breakfast-250 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> 1/2 Progress -> develop stamina. stuck ofc. 
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
-Sleep:6.5 hr. 8 is needed for optimal performance. Don't nap>30 mins or else it will ruin USACO
+Book: Sessions->1/2 Progress ->
+Guitar: Sessions-> Progress ->30 mins. Do atleast 1 session before switching to other tasks. Getting tired. Develop stamina
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
+Work: Sessions->5 hrs Progress ->decent work. Did lots of documentation and discussion on code changes
+Sleep:6.5 hr. 8 is needed for optimal performance. Don't nap>30 mins or else it will ruin USACO. Nap=30 mins good. Keep this AT MOST
 
 
 14
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> CONTEST
+CP/USACO: Sessions-> Progress -> 
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
@@ -87,7 +87,7 @@ Sleep:
 15
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> 
+CP/USACO: Sessions-> Progress -> CONTEST
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
