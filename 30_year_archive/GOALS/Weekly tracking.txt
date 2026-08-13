@@ -69,7 +69,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:7 hr.
+Sleep:6.5 hr. 8 is needed for optimal performance. Don't nap>30 mins or else it will ruin USACO
 
 
 14
