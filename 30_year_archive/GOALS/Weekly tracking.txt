@@ -72,7 +72,7 @@ CP/USACO: Sessions-> 1/2 Progress -> develop stamina. stuck ofc.
 Book: Sessions->0 Progress ->
 Guitar: Sessions-> Progress ->50 mins. Do atleast 1 session before switching to other tasks. Getting tired. Develop stamina
 Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
-Work: Sessions->5 hrs Progress ->decent work. Did lots of documentation and discussion on code changes
+Work: Sessions->2.5 Progress ->decent work. Did lots of documentation and discussion on code changes
 Sleep:6.5 hr. 8 is needed for optimal performance. Don't nap>30 mins or else it will ruin USACO. Nap=30 mins good. Keep this AT MOST
 Tired today. Will push harder from tomorrow. A bit of rest.
 
@@ -85,7 +85,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:7 hrs.
 
 
 
