@@ -97,7 +97,7 @@ Book: Sessions->0 Progress ->0
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
-Sleep:8 hrs
+Sleep:8 hrs. relaxed today. changing to once every 4-5 days due to change in other things
 
 16
 Breakfast- Lunch- Dinner-  Protein-
