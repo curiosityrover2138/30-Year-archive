@@ -93,7 +93,7 @@ Bit of rest day today as well. In position to push harder from tomorrow, especia
 Breakfast-500 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> stuck
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
