@@ -90,13 +90,13 @@ Bit of rest day today as well. In position to push harder from tomorrow, especia
 
 
 15
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-500 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress -> 
+CP/USACO: Sessions->1/2 Progress -> stuck
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->0
 Sleep:8 hrs
 
 16
