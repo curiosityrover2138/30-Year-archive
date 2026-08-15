@@ -5,6 +5,8 @@ THEME: Get 10+ hrs focus per day. Push yourself very hard. Hit the major goals i
 VERDICT: Great breakthrough on USACO, Amazing work. Improved a lot on guitar. Getting tired and getting around 7-8 hours. Need to get 10-12. Increase stamina in all domains. Eat more so I don't get tired as well.
 Reducing it to 1 contest a week since its too hard to do amidst USACO. Reducing guitar a bit. Since its too hard and my song choices are above my skill, I need quality rather than volume. Also need buffer for more work
 and USACO which is priority. Will do 6-10 hrs per week for 4-5 months. Then increase it bit by bit, with 20-30 hr weeks once a few weeks thrown in with normal week being 10-15.
+Also found that 35 sets of weight per week is best for my ideal body. It can always be increased. But in a cut anything else is junk volume. 3 days of 10-12 sets is enough. Also include run around 2 hrs to 
+make everything perfect.
 
 1. Perfect USACO sessions. aim to do 6 (guide+training) but focus perfectly. 1 contest. Upsolve 2 extra problems and be fully focused for the contest duration. Have 2 problems running when thinking, 1 from usaco.training and other usaco.guide.
 2. Guitar 6 hrs. Do it everyday
@@ -95,7 +97,7 @@ Breakfast-500 Lunch- Dinner-  Protein-
 CP/USACO: Sessions->1/2 Progress -> stuck
 Book: Sessions->0 Progress ->0
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress ->12 sets Running Day: Y (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep:8 hrs. relaxed today. changing to once every 4-5 days due to change in other things
 
