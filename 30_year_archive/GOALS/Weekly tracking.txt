@@ -12,27 +12,83 @@ and doing according to strategy
 7. Relax on Wed night and Sunday night. Total restraint
 8.Track everything from YPT and be very honest.
 9. Start packing and almost finish it.
+10. Rest on sunday, Only do USACO and guitar and book if you want. No exercise
 REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind.
 
 
 17
+Breakfast- Lunch- Dinner-  Protein-
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 18
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 19
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 20
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 21
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 22
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 23
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
 
 
 
