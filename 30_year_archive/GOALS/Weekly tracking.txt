@@ -20,8 +20,8 @@ Breakfast-500 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->stuck. good concentration. improve.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Guitar: Sessions->1/2 Progress ->practice
+Exercise: Sessions->1/4 Progress ->10 sets Running Day: N (Y/N)
 Work: Sessions-> 1 Progress ->blocked.discussion needed 
 Sleep:6. don't nap more than 30 mins. train your mind to get sleep at  night.
 
