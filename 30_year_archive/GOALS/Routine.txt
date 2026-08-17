@@ -11,7 +11,7 @@ THIS IS THE BARE MINIMUM.
 6. Work 1-2 session
 7. Lunch 
 8. Work 1-2 session
-8.5. Nap if needed. Strictly < 45 mins
+8.5. Nap if needed. Strictly < 45 mins (3:45 PM - 4:30)
 9. Exercise 1/2 session (4-5) / Work during run days.
 10. Work 1 session or Guitar 1/2 if possible
 11. System design 1 session or work 1 session as needed
@@ -22,7 +22,8 @@ THIS IS THE BARE MINIMUM.
 Tracker-> USING YLP. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
-If work is intense, sleep later and wakup at 7:30.
+If work is intense, sleep later and wakeup at 7:30. On weekends sleep earlier to catchup instead of waking up late. Keep wakeup window FIXED. If you cannot nap try your best to sleep early, and catchup on lost
+sleep on weekends.
 Give at MOST 2 real contests a week.
 
 Option A
