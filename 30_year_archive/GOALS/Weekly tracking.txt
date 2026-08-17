@@ -22,7 +22,7 @@ CP/USACO: Sessions->1 Progress ->stuck. good concentration. improve.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> 2 Progress ->blocked.discussion needed 
+Work: Sessions-> 1 Progress ->blocked.discussion needed 
 Sleep:6. don't nap more than 30 mins. train your mind to get sleep at  night.
 
 18
