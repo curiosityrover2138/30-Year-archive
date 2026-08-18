@@ -16,14 +16,14 @@ REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind
 
 
 17
-Breakfast-500 Lunch- 500 Dinner-  Protein-
+Breakfast-500 Lunch- 500 Dinner-400  Protein-25
 
 CP/USACO: Sessions->1 Progress ->stuck. good concentration. improve.
-Book: Sessions-> Progress ->
+Book: Sessions->1/2 Progress ->part1 done
 Guitar: Sessions->1/2 Progress ->practice
 Exercise: Sessions->1/4 Progress ->10 sets Running Day: N (Y/N)
 Work: Sessions-> 2 Progress ->blocked.discussion needed 
-Sleep:6. don't nap more than 30 mins. train your mind to get sleep at  night.
+Sleep:6. + nap 30 mins don't nap more than 30 mins. train your mind to get sleep at  night.
 
 18
 Breakfast- Lunch- Dinner-  Protein-
@@ -33,7 +33,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8. good.
 
 
 19
