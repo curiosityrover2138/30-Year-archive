@@ -26,7 +26,7 @@ Work: Sessions-> 2 Progress ->blocked.discussion needed
 Sleep:6. + nap 30 mins don't nap more than 30 mins. train your mind to get sleep at  night.
 
 18
-Breakfast-550 Lunch- Dinner-  Protein-
+Breakfast-550 Lunch-300 Dinner-500  Protein-15
 
 CP/USACO: Sessions->1 Progress ->stuck. good progress. study and fill knowledge gap
 Book: Sessions->1/2 Progress ->
@@ -37,7 +37,7 @@ Sleep:8. good.
 
 
 19
-Breakfast-400 Lunch- Dinner-  Protein-
+Breakfast-350 Lunch-300+ Dinner-  Protein-
 
 CP/USACO: Sessions->30 mins. Progress -> maybe figured out the recursion. have work today, so maybe will makeup tomorrow and weekends.
 Book: Sessions-> Progress ->
