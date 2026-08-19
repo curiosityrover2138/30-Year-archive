@@ -33,7 +33,7 @@ Book: Sessions->1/2 Progress ->
 Guitar: Sessions->10 mins Progress ->nothing much
 Exercise: Sessions-> Progress ->1 hr walk Running Day: Y (Y/N)
 Work: Sessions->2 Progress ->
-Sleep:8. good.
+Sleep:8. good
 
 
 19
@@ -44,7 +44,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:8 hrs
+Sleep:8 hrs.+1.5 nap. overslept.
 
 
 20
