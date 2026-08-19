@@ -29,22 +29,22 @@ Sleep:6. + nap 30 mins don't nap more than 30 mins. train your mind to get sleep
 Breakfast-550 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->stuck. good progress. study and fill knowledge gap
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Book: Sessions->1/2 Progress ->
+Guitar: Sessions->10 mins Progress ->nothing much
+Exercise: Sessions-> Progress ->1 hr walk Running Day: Y (Y/N)
+Work: Sessions->2 Progress ->
 Sleep:8. good.
 
 
 19
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-400 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->30 mins. Progress -> maybe figured out the recursion. have work today, so maybe will makeup tomorrow and weekends.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:8 hrs
 
 
 20
