@@ -50,11 +50,11 @@ Sleep:8 hrs.+1.5 nap. overslept.
 20
 Breakfast-200 Lunch-500 Dinner-  Protein-
 
-CP/USACO: Sessions->1 Progress ->close. should have been able to close the gap. train yourself with calmness and urgency.
+CP/USACO: Sessions->1.5 Progress ->close. should have been able to close the gap. train yourself with calmness and urgency.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Exercise: Sessions-> 0 Progress -> 0 Running Day: Y (Y/N)
+Work: Sessions->3 Progress ->good
 Sleep:6.5. well rested. don't oversleep on nap.
 
 
