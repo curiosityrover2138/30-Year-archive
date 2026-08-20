@@ -37,11 +37,11 @@ Sleep:8. good
 
 
 19
-Breakfast-350 Lunch-300+500 Dinner-  Protein-
+Breakfast-350 Lunch-300+500 Dinner- 400 Protein-
 
 CP/USACO: Sessions->30 mins. Progress -> maybe figured out the recursion. have work today, so maybe will makeup tomorrow and weekends.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->30 mins. started 
 Exercise: Sessions-> Progress ->15 sets weight Running Day: N (Y/N)
 Work: Sessions->3 Progress ->code changes almost done. discussion ongoing.
 Sleep:8 hrs.+1.5 nap. overslept.
@@ -55,7 +55,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:6.5. well rested. don't oversleep on nap.
 
 
 21
