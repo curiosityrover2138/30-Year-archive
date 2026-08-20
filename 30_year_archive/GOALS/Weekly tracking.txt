@@ -37,7 +37,7 @@ Sleep:8. good
 
 
 19
-Breakfast-350 Lunch-300+500 Dinner- 400 Protein-
+Breakfast-350 Lunch-300+500 Dinner- 400 Protein-35
 
 CP/USACO: Sessions->30 mins. Progress -> maybe figured out the recursion. have work today, so maybe will makeup tomorrow and weekends.
 Book: Sessions-> Progress ->
@@ -48,7 +48,7 @@ Sleep:8 hrs.+1.5 nap. overslept.
 
 
 20
-Breakfast-200 Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-500 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->close. should have been able to close the gap. train yourself with calmness and urgency.
 Book: Sessions-> Progress ->
