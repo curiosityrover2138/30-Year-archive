@@ -84,7 +84,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:5
 
 23
 Breakfast- Lunch- Dinner-  Protein-
