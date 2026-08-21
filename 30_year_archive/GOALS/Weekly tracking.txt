@@ -65,8 +65,9 @@ Breakfast-300 Lunch-1100 Dinner-1400  Protein- 40  will do  cheat day today. Get
 
 CP/USACO: Sessions->1 Progress ->still stuck. will do it even if it takes 100 years.
 Book: Sessions-> 3 Progress ->ulysses
-Guitar: Sessions-> Progress -> completed carcassi and finding it hard to sustain focus because I will be going anyways and it will break the flow of starting howl's. Still do it and have atleast 6-7 hrs a week.
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Guitar: Sessions-> Progress -> completed carcassi and finding it hard to sustain focus because I will be going anyways and it will break the flow of starting howl's. Still do it and have atleast 6-7 hrs a week. Will
+have to do probably on sat and sunday.
+Exercise: Sessions->1/2 Progress ->15 sets Running Day: N (Y/N)
 Work: Sessions- 0 Progress -> almost done with madrigal. no other work
 Sleep:7
 
