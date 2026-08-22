@@ -4,7 +4,7 @@ periodically
 https://cses.fi/problemset/task/3294 -> 22/8. Try after 26/8
 
 Thinking of bfs, and checking possibility on the fly. Struggling with contradictions that will occur and what are actually the sets that contribute to it. Wrote some code but became too confusing. Think clearly
-from scratch.
+from scratch. Think about what constitutes a "DSU" and when it will be impossible for what kinds of cases.
 
 
 
