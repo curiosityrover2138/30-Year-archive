@@ -6,15 +6,15 @@ Learning: When you are unable to solve any problems,that will decide and push yo
 Also learnt that need to have like a good cheat day every 2 weeks in order to have consistent diet and have the energy to exercise. 
 
 1. Work 30-35 hrs in the week full focus. Almost complete Madrigal DONE with less hours
-2. Guitar 6.5 hrs. Start Howl's castle merry go round.
-3. USACO 15 hrs. Full focus. 1 contest on sunday. No pressure on number of problems. Progress  = Full focused session and doing according to strategy
+2. Guitar 6.5 hrs. Start Howl's castle merry go round. NOT DONE. Fix this once I am back as well. It wont' get fixed because my motivation is dipped due to being distracted + knowing I wont be able to complete it.
+3. USACO 15 hrs. Full focus. 1 contest on sunday. No pressure on number of problems. Progress  = Full focused session and doing according to strategy DONE. No contest as of now. Fine not urgent.
 4. Weights 40 sets DONE. Run 1 hr not done, walk 1 hr DONe. 
-5. 10+ hour total days in atleast 3 days. 60+ week
-6. Read book a bit more. Complete Dead souls Did deadsolus and ulysses
+5. 10+ hour total days in atleast 3 days. 60+ week NOT DONE. Get more depth, but fine, no need to stress as I am getting things done. Slowly increase stamina.
+6. Read book a bit more. Complete Dead souls Did deadsolus and ulysses DONE
 7. Relax on Wed night and Sunday night. Total restraint DONE
-8.Track everything from YPT and be very honest.
-9. Start packing and almost finish it.
-10. Rest on sunday, Only do USACO and guitar and book if you want. No exercise
+8.Track everything from YPT and be very honest. DONE
+9. Start packing and almost finish it. NOT DONE. Finish packing next week. Not urgent.
+10. Rest on sunday, Only do USACO and guitar and book if you want. No exercise DONE.
 REMINDER:  Apologize, Accomodate, Remove, Focus. Stay calm, never lose your mind.
 
 
@@ -77,7 +77,7 @@ Only chink becomes not doing guitar as intensely and bad diet. one day won't rui
 fix this with good behavior and fighting. keep fighting and learning about yourself. cope properly and keep improving
 
 22
-Breakfast-200 Lunch- 700 Dinner-  Protein- 
+Breakfast-200 Lunch- 700 Dinner-800  Protein- 30
 
 CP/USACO: Sessions->1/2 Progress -> put one in backburner for now. Will try after 26th. did 1 from bipartiteness.
 Book: Sessions->3 Progress -> ulysses
