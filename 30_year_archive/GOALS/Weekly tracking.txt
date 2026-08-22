@@ -79,8 +79,8 @@ fix this with good behavior and fighting. keep fighting and learning about yours
 22
 Breakfast-200 Lunch- 700 Dinner-  Protein- 
 
-CP/USACO: Sessions->1 Progress -> put one in backburner for now. Will try after 26th. did 1 from bipartiteness.
-Book: Sessions->2 Progress -> ulysses
+CP/USACO: Sessions->1/2 Progress -> put one in backburner for now. Will try after 26th. did 1 from bipartiteness.
+Book: Sessions->3 Progress -> ulysses
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress ->5 sets Running Day:  Y (Y/N)
 Work: Sessions->1 Progress ->
