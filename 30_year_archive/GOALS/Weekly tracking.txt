@@ -92,7 +92,7 @@ Work: Sessions->1 Progress ->
 Sleep:5+1 nap. controlled
 
 23
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-200 Lunch-700 Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
