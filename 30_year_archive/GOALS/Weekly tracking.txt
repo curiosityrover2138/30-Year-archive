@@ -94,11 +94,11 @@ Sleep:5+1 nap. controlled
 23
 Breakfast-200 Lunch-1300 Dinner-  Protein-30
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+CP/USACO: Sessions->30 mins Progress ->tired. need to gather myself today, walk and then try a bit more. its fine, but slowly fix this and increase stamina to around 20-25 hrs per week. Will take 2-3 months on this.
+Book: Sessions->3 Progress ->ulysses. enjoying it a lot.
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions-> 0 Progress -> no work.
 Sleep:7 hrs. 
 
 
