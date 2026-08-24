@@ -16,7 +16,7 @@ CP/USACO: Sessions->1/2 Progress -> focus more intensely. can do better.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
-Work: Sessions->  Progress ->
+Work: Sessions-> 2 Progress ->normal
 Sleep:5. Let pressure build.
 
 25
