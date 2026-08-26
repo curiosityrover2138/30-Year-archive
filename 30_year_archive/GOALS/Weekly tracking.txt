@@ -3,7 +3,7 @@ Theme: Increase USACO focus. Do work as much as needed. Pack everything. Do good
 
 
 1. USACO 15 hrs full focus. Full plan adherence
-2. Guitar 8 hrs. Maintainance. No new learning
+2. Guitar 4 hrs. Maintainance. No new learning
 3. Exercise 50 sets weight. 4 hrs walk. 1 hr run
 4. Work 20-30 hrs. Pack everything and have full plan for Pune trip
 5. Continue on Ulysses. Control calories. Eat healthy. Relax on Tuesday and Saturday night.
@@ -35,8 +35,8 @@ Breakfast-250 Lunch-700 Dinner-600  Protein-
 
 CP/USACO: Sessions->1 Progress ->try harder.deeper flow needed.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
+Guitar: Sessions->0 Progress ->0
+Exercise: Sessions-> 1/2 Progress ->10 sets Running Day:  N (Y/N)
 Work: Sessions->3  Progress ->code changes.
 Sleep:8 hrs. fine.
 
