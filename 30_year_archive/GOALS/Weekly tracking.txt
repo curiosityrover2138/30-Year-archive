@@ -37,7 +37,7 @@ CP/USACO: Sessions->1/2 Progress ->try harder.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  N (Y/N)
-Work: Sessions->  Progress ->
+Work: Sessions->3  Progress ->code changes.
 Sleep:8 hrs. fine.
 
 
