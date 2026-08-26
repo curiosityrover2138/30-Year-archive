@@ -35,7 +35,7 @@ Breakfast-250 Lunch-700 Dinner-600  Protein-
 
 CP/USACO: Sessions->1 Progress ->try harder.deeper flow needed.
 Book: Sessions-> Progress ->
-Guitar: Sessions->0 Progress ->0
+Guitar: Sessions->0 Progress ->15 mins. do better a lot.
 Exercise: Sessions-> 1/2 Progress ->10 sets Running Day:  N (Y/N)
 Work: Sessions->3  Progress ->code changes.
 Sleep:8 hrs. fine.
