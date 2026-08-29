@@ -56,9 +56,9 @@ Sleep:7 . decent
 Breakfast-200 Lunch-800 Dinner-400  Protein-
 
 CP/USACO: Sessions->1/2 Progress -> need to learn. also need to fix this. or else its getting out of hand. Fine I am a bit tensed, but that doesnt mean this will suffer. Learn and execute.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions->1/2 Progress ->walk Running Day:  N (Y/N)
+Book: Sessions->1 Progress ->ulysses
+Guitar: Sessions-> 0Progress ->0. again very depressed this week. maybe after coming back and this looming presence going away will make it better.
+Exercise: Sessions->1/2 Progress ->walk+5sets weight Running Day:  N (Y/N)
 Work: Sessions-> 4  Progress ->bs work regarding "hackathon"
 Sleep:9
 
