@@ -64,13 +64,13 @@ Sleep:9
 
 
 29
-Breakfast-250 Lunch- Dinner-  Protein-
+Breakfast-250 Lunch- 600 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->close, and better. but stuck. focus much harder. have to train myself. or people will destroy me.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
-Work: Sessions->  Progress ->
+Work: Sessions->  0Progress ->0
 Sleep: 9
 
 30
