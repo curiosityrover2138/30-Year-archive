@@ -66,7 +66,7 @@ Sleep:9
 29
 Breakfast-100 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->close, and better. but stuck. focus much harder.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
