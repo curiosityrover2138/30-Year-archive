@@ -1,5 +1,111 @@
+31/8 - 6/8
+Theme: Have great outing. Work on your personality and social skills. Focus on overall effect. Decent USACO 
+and book reading. Walk. Treat social interaction as work and dont give people major reasons to complain
+
+
+1. USACO 6 hrs if possible. Focus well
+2. Work 40+ hrs. Total focus. 
+3. Be warm, polite, curious. Share very less, and only when asked. Don't
+shoot. Be an onion with layers
+4. Walk 2-3 hrs.
+5. Have decent diet. Good sleep.
+6. Have excellent Hackathon and meetup experience. Don't mess things up majorly. Think before opening your mouth.
+Make others feel good.
+7. Read book in freetime. Improve social skills. If this week goes well it would be a good addition to ELO of social skills.
+
+
+31
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+1
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+2
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+
+3
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+4
+
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+5
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+6
+Breakfast- Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Work: Sessions-> Progress ->
+Sleep:
+
+
+
+
+
+
+
 24/8 - 30/8
 Theme: Increase USACO focus. Do work as much as needed. Pack everything. Do good guitar as maintainance. Reduce calories and increase exercise a bit. Walk and run. Cope healthily
+
+Verdict: Did less than I thought. Tried but had lots of concern regarding work approach. Will change my personality 
+and do a 180 to have better leadership traits. Need to improve this, and atleast do USACO totally properly instead of
+messing it up.
 
 
 1. USACO 15 hrs full focus. Full plan adherence
@@ -75,13 +181,13 @@ Sleep: 9
 
 30
 
-Breakfast-100 Lunch- Dinner-  Protein-
+Breakfast-100 Lunch-700 Dinner-500  Protein-10
 
 CP/USACO: Sessions->1/2 Progress ->strugglgin. also thinking of totally going 180 and recalibrating my professional persona
 so a bit of a whiplash.
-Book: Sessions->1  Progress ->ulysses
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
+Book: Sessions->2  Progress ->ulysses
+Guitar: Sessions-> 0 Progress ->0
+Exercise: Sessions->0 Progress ->20 mins walk Running Day:  Y (Y/N)
 Work: Sessions->2  Progress ->packing
 Sleep:8
 
