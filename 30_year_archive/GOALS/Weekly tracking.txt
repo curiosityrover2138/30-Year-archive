@@ -17,7 +17,8 @@ Make others feel good.
 31
 Breakfast- Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->stuck. but not due to inability, just tensed. for the love of god stop using AI totally. Never talk to clankers, they only increase anxiety. Just see the template and implement. Nothing
+major and its a very easy very simple problem. Just implementation is going wrong, I know the exact thing that needs to be done.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
