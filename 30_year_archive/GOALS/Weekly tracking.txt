@@ -28,13 +28,13 @@ Sleep:
 
 
 1
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-400 Lunch-1200 Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->0 Progress ->0
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->4 Progress -> meetup. performance.
 Sleep:
 
 
