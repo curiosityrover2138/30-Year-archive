@@ -16,14 +16,14 @@ things using copilot (don't use chat ai since its expensive)
 
 
 9
-Breakfast- Lunch- Dinner-  Protein-
-
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
-Sleep:
+Breakfast-600 Lunch-500 Dinner-500  Protein-15
+still sick rn. Can do intensely from tomorrow.
+CP/USACO: Sessions->0 Progress ->0. s
+Book: Sessions->1 Progress ->
+Guitar: Sessions->0 Progress ->
+Exercise: Sessions->0 Progress -> Running Day: Y (Y/N)
+Work: Sessions->3 Progress ->
+Sleep:9
 
 
 10
