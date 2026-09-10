@@ -27,13 +27,13 @@ Sleep:9
 
 
 10
-Breakfast-300 Lunch- Dinner-  Protein-
-
+Breakfast-300 Lunch-700 Dinner-600  Protein-
+recovering now. do better from tomorrow. Crush all the goals. specially USACO, Work and Guitar.
 CP/USACO: Sessions->1/2 Progress -> tried but still sick. Need to be more intense, and try fully myself, and code well. Focus better and with urgency, or the goals will just remain that.
 Book: Sessions->1 Progress -> ulysses
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions->3 Progress ->
+Guitar: Sessions->1/2 Progress ->
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
+Work: Sessions->3 Progress ->work
 Sleep:8
 
 
