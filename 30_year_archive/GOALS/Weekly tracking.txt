@@ -33,7 +33,7 @@ CP/USACO: Sessions->1/2 Progress -> tried but still sick. Need to be more intens
 Book: Sessions->1 Progress -> ulysses
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress ->
 Sleep:8
 
 
