@@ -27,10 +27,10 @@ Sleep:9
 
 
 10
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress -> tried but still sick. Need to be more intense, and try fully myself, and code well. Focus better and with urgency, or the goals will just remain that.
+Book: Sessions->1 Progress -> ulysses
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
