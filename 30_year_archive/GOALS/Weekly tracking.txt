@@ -40,11 +40,11 @@ Sleep:8
 11
 Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress ->still stuck. need to focus. IDK what is happening. I can focus, but just lacking energy and not trying as hard. Need to focus and learn the patterns and code myself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions->4 Progress ->
 Sleep:9
 
 
