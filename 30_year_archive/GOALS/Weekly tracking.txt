@@ -31,7 +31,7 @@ Breakfast-300 Lunch-700 Dinner-600  Protein-
 recovering now. do better from tomorrow. Crush all the goals. specially USACO, Work and Guitar.
 CP/USACO: Sessions->1/2 Progress -> tried but still sick. Need to be more intense, and try fully myself, and code well. Focus better and with urgency, or the goals will just remain that.
 Book: Sessions->1 Progress -> ulysses
-Guitar: Sessions->1/2 Progress ->
+Guitar: Sessions->1/2 Progress -> started practice
 Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
 Work: Sessions->3 Progress ->work
 Sleep:8
@@ -41,9 +41,9 @@ Sleep:8
 Breakfast-300 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions->1/2 Progress ->still stuck. need to focus. IDK what is happening. I can focus, but just lacking energy and not trying as hard. Need to focus and learn the patterns and code myself.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Book: Sessions->1/2 Progress ->
+Guitar: Sessions->0 Progress ->0 bad bad. need to fix this from tomorrow. Will feel fine,so do it.
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
 Work: Sessions->4 Progress ->
 Sleep:9
 
