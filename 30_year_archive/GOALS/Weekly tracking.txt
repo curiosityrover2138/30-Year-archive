@@ -38,14 +38,14 @@ Sleep:8
 
 
 11
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-300 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep:9
 
 
 12
