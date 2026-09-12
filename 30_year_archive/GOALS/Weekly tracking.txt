@@ -51,11 +51,13 @@ Sleep:9
 12
 Breakfast-400 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress ->close but not concentrating. Need to work much harder on this. I cannot mess this up. Need to focus fully and craft the solutions fully myself. Will 
+work on easier or other topics just to move forward if needed. But need to do it fully myself. Practice leetcode as well a bit random problems if you want to train focus fully. But the point is to focus and 
+work out yourself.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Work: Sessions-> 0Progress ->0. rest. getting a bit too tired because of so much shit. Getup at 6 from tomorrow and focus hard. It should get fixed.
 Sleep:9
 
 
