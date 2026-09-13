@@ -66,7 +66,7 @@ rest day today essentially. Need to stop resting now and start working very hard
 13
 Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->1 done. did it myself. just template is common. need to keep in mind.
 Book: Sessions->1 Progress ->naked lunch
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
