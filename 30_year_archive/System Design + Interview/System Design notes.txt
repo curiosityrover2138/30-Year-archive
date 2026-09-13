@@ -3,6 +3,18 @@ ROADMAP + BASICS SYSTEM DESIGN
 ============================================================================================================================================================================
 
 
+Major db choices:
+
+No SQL vs SQL
+
+Databases will be a tradeoff between consistency vs availability, read vs write performance, 
+flexibility vs structure, simplicity vs scalability and cost vs capability
+
+SQL databases optimize for relationships, consistency, and querying.
+
+NoSQL databases optimize for scale, flexibility, and specific access patterns.
+
+The easiest thing is just choosing Postgres and adding indexing. Unless data is very specialized from the get go.
 
 
 
