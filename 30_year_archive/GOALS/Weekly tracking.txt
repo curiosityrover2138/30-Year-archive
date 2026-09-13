@@ -64,14 +64,14 @@ rest day today essentially. Need to stop resting now and start working very hard
 
 
 13
-Breakfast- Lunch- Dinner-  Protein-
+Breakfast-300 Lunch- Dinner-  Protein-
 
 CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+Book: Sessions->1 Progress ->naked lunch
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
-Sleep:
+Work: Sessions->1 Progress ->changes as suggested by Jennifer.
+Sleep:8
 
 
 14
