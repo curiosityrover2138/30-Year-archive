@@ -2,6 +2,118 @@ Pattern-> Question, brief pattern, Learning and solution + intuition explanation
 Move on after completing 80% of a level. Then do the rest 20% while doing the next till 80%
 
 
+Bipartite pattern:
+
+/*
+ID: hvt19982
+LANG: C++
+TASK: revegetate
+*/
+
+#define TASK "revegetate"
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define ll long long
+
+//Make templates of commonly used functions and algorithms like dijkstra, prim's etc.
+// Also make sure you can implement them from memory
+
+
+const ll INF = 1e9;
+
+
+// See the template for using colors and implement using that. Its a simple problem based on a template of colored graphs.
+
+bool valid=true;
+
+
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+   
+    FILE* fin = fopen(TASK ".in", "r");
+    if (fin) {
+        freopen(TASK ".in", "r", stdin);
+        freopen(TASK ".out", "w", stdout);
+    }
+
+    int n,m;
+    cin>>n>>m;
+
+    vector<vector<pair<int,int>>> adj_list(n);
+
+    // Use the exact same method of adj list and bipartite, but have a "edge type" variable instead to make it same or different
+
+
+
+    int count=0;
+    for(int i=0;i<m;i++){
+        char c;
+        int a,b;
+        cin>>c>>a>>b;
+        a--;
+        b--;
+        // 1 means same and 2 means different
+        if(c=='S'){
+            adj_list[a].push_back(make_pair(b,1));
+            adj_list[b].push_back(make_pair(a,1));
+        }else{
+            adj_list[a].push_back(make_pair(b,2));
+            adj_list[b].push_back(make_pair(a,2));
+        }
+    }
+    
+    vector<int> assigned(n,0);
+    // assigned = vector<int>(n);
+    for (int i = 0; i < n; i++) {
+		if (assigned[i] != 0) { continue; }
+        count++;
+		assigned[i] = 1;
+		queue<int> todo;
+		todo.push(i);
+		while (!todo.empty()) {
+			int curr = todo.front();
+			todo.pop();
+			
+			for (auto next : adj_list[curr]) {
+               int n_color=1;
+                if(next.second==1){
+                    n_color=assigned[curr];
+                }else{
+                    n_color=3-assigned[curr];
+                }
+				if (assigned[next.first] != 0) {
+					if (assigned[next.first] != n_color) {
+						valid = false;
+                       
+						goto end;
+					}
+				} else {
+					assigned[next.first] = n_color;
+					todo.push(next.first);
+				}
+			}
+		}
+	}
+    end:;
+    if(valid){
+        string ans="1";
+        for(int i=1;i<=count;i++){
+            ans+='0';
+        }
+        cout<<ans<<endl;
+    }else{
+        cout<<0<<endl;
+    }                                                                                                                                                                                                                                                                                                                                                                                 
+    return 0;
+}
+
+
 DP pattern:
 
 vector<ll> humble(n+1,0);
