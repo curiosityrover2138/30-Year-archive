@@ -2,6 +2,10 @@
 ROADMAP + BASICS SYSTEM DESIGN 
 ============================================================================================================================================================================
 
+
+
+
+
 What is system design-> Definining a system and the relationships between its components.
 Breaking down a problem into small steps and solving each part, ensuring optimization for given use case. 
 Its an iterative process that involves multiple rounds of designing, implementation etc. A system is never fully  
