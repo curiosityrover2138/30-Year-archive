@@ -16,6 +16,18 @@ NoSQL databases optimize for scale, flexibility, and specific access patterns.
 
 The easiest thing is just choosing Postgres and adding indexing. Unless data is very specialized from the get go.
 
+Ask questions to the data
+
+What are my read patterns?
+What are my write patterns?
+Do I need transactions?
+Do I need joins?
+What scale am I targeting in the next 2 years?
+What operational expertise does my team have?
+
+
+Once these things become clear, choose the db and other details.
+
 
 
 What is system design-> Definining a system and the relationships between its components.
