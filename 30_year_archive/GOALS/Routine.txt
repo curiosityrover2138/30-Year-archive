@@ -50,11 +50,11 @@ Note: Try and get 1 session uninterrupted. But if its not possible due to variou
 Record each day:
 
 Format:
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
