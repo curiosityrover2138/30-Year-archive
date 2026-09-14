@@ -75,7 +75,7 @@ Sleep:8
 
 
 14
-Breakfast-300 Lunch-600 Dinner-  Protein-
+Breakfast-300 Lunch-600 Dinner- 600 Protein-
 
 CP/USACO: Sessions->1 Progress ->1 done. focus harder.
 Book: Sessions->1 Progress ->
@@ -92,7 +92,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
@@ -115,7 +115,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
@@ -138,7 +138,7 @@ Breakfast- Lunch- Dinner-  Protein-
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep:
 
