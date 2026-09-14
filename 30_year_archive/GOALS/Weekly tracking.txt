@@ -88,71 +88,76 @@ Sleep:8 hrs
 
 
 15
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
+
 
 
 16
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
+
 
 
 
 17
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
 
 
 18
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
+
 
 
 
 19
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
+
 
 
 20
-Breakfast- Lunch- Dinner-  Protein-
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep:
+Sleep: (Good/Decent/Bad)
+
 
 
 
