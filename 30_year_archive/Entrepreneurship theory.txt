@@ -6,19 +6,21 @@ Trifecta for Entrepreneur:
 
 
 Plan-> 
-Step 0: (I am here)
+Step 0: (I am here) (3 years)
 
 - Get good at maths, coding, system design and basic skills like full stack development, AI assisted coding. Read research papers on interesting technologies and pass interviews.
 - Develop domain knowledge relevant to job. Read domain specific pain points, workflows, and think of products that can help customers and address relevant and recent pain points.
+- Get good at day to day job in your company. Become go to person on your part of the work.
 - Be EXTREMELY curious. Learn domain specific things, business things, and most importantly technical things. Get good at making scrappy products that can be scaled. Choose good architecture,
 and pass tech interviews.
 
-Step 1:
+Step 1:(3 years)
 - Expand on basic skills. Integrate with domain knowledge to make products, and add value and move the economic needle of a product
 - Aim to get deep in the domain and target products that allow you to stay in the domain rather than move into other unrelated work.
 - Have domain knowledge relevant to day to day job responsibilities. Contribute to open source and make network with people in the domain
+- Join startups OR Faang companies in that specific domain preferably. Or some domain that helps directly. Focus on well paid and amazing opportunities.
 
-Step 2:
+Step 2: (3 years)
 - Start understanding domain economics and think of new product ideas
 - Make new projects and prototypes that help day to day huge pain points. Network more in new startup arenas, and integrate domain knowledge with basic implementation, and working with
 deep technical people to move product forward as needed.
