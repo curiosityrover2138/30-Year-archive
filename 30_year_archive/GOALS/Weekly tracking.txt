@@ -75,13 +75,13 @@ Sleep:8
 
 
 14
-Breakfast-300 Lunch- Dinner-  Protein-
+Breakfast-300 Lunch-600 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 done. focus harder.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
-Work: Sessions-> Progress ->
+Exercise: Sessions->1/2 Progress ->walk Running Day: Y (Y/N)
+Work: Sessions->1 Progress ->system design+ slight work
 Sleep:8 hrs
 
 
