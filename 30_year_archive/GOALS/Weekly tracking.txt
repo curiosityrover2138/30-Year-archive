@@ -78,8 +78,8 @@ Sleep:8
 Breakfast-300 Lunch-600 Dinner-  Protein-
 
 CP/USACO: Sessions->1 Progress ->1 done. focus harder.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions->1 Progress ->
+Guitar: Sessions->30 mins Progress ->getting stuck. howl is hard. need to lock in and try hard.
 Exercise: Sessions->1/2 Progress ->walk Running Day: Y (Y/N)
 Work: Sessions->1 Progress ->system design+ slight work
 Sleep:8 hrs
