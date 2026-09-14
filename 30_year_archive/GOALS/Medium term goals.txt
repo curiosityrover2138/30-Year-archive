@@ -12,16 +12,4 @@ July 2027:
 6. Get weight =46 kg max. BF <18%
 7. Don't let work interrupt or mess with anything. Keep routine robust and flexible so that you can average out a good week no matter what.
 8. Do 1 USACO, 6-10 hrs weekly guitar, 3 work consistently. 1 session=2 hours. Ideally uninterrupted.
-
-
-
-Immediate goal: 
-Get to codeforces Candidate Master+ by Dec 2027 (Got delayed due to WFH and company switch that came unexpectedly). 
-Complete till USACO Gold.
-Once crossed CM+, start making side projects like for eg Redis clone, etc and get to side project level of a stanford undergrad 
-Get to 30+ LPA capability May 2027 (if WFH 20-22 LPA +). 
-Have extremely good code quality. Be good at your work. Take more work voluntarily. Become a very good 
-full stack developer. 
-Follow routine everyday perfectly.
-Renovate home and have a great place to work and live. Invest in long term things.
-
+9. Start learning System design, full stack and AI assisted coding. Around 6-8 hours a week included in work. Get good at work required theory so that you dont get crushed in the daily grind at big companies.
