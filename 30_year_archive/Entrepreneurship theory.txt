@@ -5,7 +5,20 @@ Trifecta for Entrepreneur:
 3. Business knowledge-> What sells, who pays, what clients want.
 
 
+Plan-> 
+Step 0: (I am here)
 
+- Get good at maths, coding, system design and basic skills like full stack development, AI assisted coding. Read research papers on interesting technologies and pass interviews.
+- Develop domain knowledge relevant to job. Read domain specific pain points, workflows, and think of products that can help customers and address relevant and recent pain points.
+
+Step 1:
+- Expand on basic skills. Integrate with domain knowledge to make products, and add value and move the economic needle of a product
+- Aim to get deep in the domain and target products that allow you to stay in the domain rather than move into other unrelated work.
+- Have domain knowledge relevant to day to day job responsibilities. Contribute to open source and make network with people in the domain
+
+Step 2:
+- Start understanding domain economics and think of new product ideas
+- Make new projects and 
 
 
 
