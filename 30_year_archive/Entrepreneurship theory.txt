@@ -10,6 +10,8 @@ Step 0: (I am here)
 
 - Get good at maths, coding, system design and basic skills like full stack development, AI assisted coding. Read research papers on interesting technologies and pass interviews.
 - Develop domain knowledge relevant to job. Read domain specific pain points, workflows, and think of products that can help customers and address relevant and recent pain points.
+- Be EXTREMELY curious. Learn domain specific things, business things, and most importantly technical things. Get good at making scrappy products that can be scaled. Choose good architecture,
+and pass tech interviews.
 
 Step 1:
 - Expand on basic skills. Integrate with domain knowledge to make products, and add value and move the economic needle of a product
