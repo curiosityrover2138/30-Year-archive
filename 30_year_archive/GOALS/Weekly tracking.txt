@@ -77,7 +77,7 @@ Sleep:8
 14
 Breakfast-300 Lunch- Dinner-  Protein-
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->stuck. focus harder. got overwhelmed with my path forward, but its easy. Look at milestones and learnings and weekly tasks.Not overall. THe same goal can be reached through multiple paths. Pave your own what you think is best. Don't simulate someone else's. Learn foundational skills, and then layer opportunistic skills on top.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
