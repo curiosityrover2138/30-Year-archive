@@ -88,14 +88,14 @@ Sleep:8 hrs
 
 
 15
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories - 1600 Protein-10 Rating: medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->stuck.but concentrated decently. can do better.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Guitar: Sessions-> 0 Progress ->couldn't due to electricity issues. will compensate tomorrow
+Exercise: Sessions-> 1/2 Progress -> Walk + 6 sets weight Running Day:  (Y/N)
+Work: Sessions->3 Progress ->astellas+kft
+Sleep: good (Good/Decent/Bad)
 
 
 
