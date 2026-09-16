@@ -94,7 +94,7 @@ CP/USACO: Sessions->1 Progress ->stuck.but concentrated decently. can do better.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> 0 Progress ->couldn't due to electricity issues. will compensate tomorrow
 Exercise: Sessions-> 1/2 Progress -> Walk + 6 sets weight Running Day:  (Y/N)
-Work: Sessions->3 Progress ->astellas+kft
+Work: Sessions->3.6 Progress ->astellas+kft+system design
 Sleep: good (Good/Decent/Bad)
 
 
