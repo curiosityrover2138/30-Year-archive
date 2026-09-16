@@ -102,7 +102,7 @@ Sleep: good (Good/Decent/Bad)
 16
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1  Progress ->  stuck. too many moving parts. need to break down and implement 1 by 1. Slowly.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
