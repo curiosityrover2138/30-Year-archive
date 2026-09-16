@@ -103,8 +103,9 @@ Sleep: good (Good/Decent/Bad)
 Approx calories -1800 Protein-30 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->0.75  Progress ->  stuck. too many moving parts. need to break down and implement 1 by 1. Slowly.
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions->0 Progress ->
+Guitar: Sessions-> 30 mins. Progress -> failing to make time and juggle. Will just do USACO, Guitar and Work tomorrow and see. Sleep no more than 45 mins, and exercise ONLY with weights for 30 mins. This
+should help.
 Exercise: Sessions->1/2 Progress ->6 sets Running Day:  (Y/N)
 Work: Sessions->3 Progress ->sd + incyte
 Sleep:Good. Maybe too good. (Good/Decent/Bad)
