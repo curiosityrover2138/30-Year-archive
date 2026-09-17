@@ -114,14 +114,14 @@ Sleep:Good. Maybe too good. (Good/Decent/Bad)
 
 
 17
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1500 Protein-30 Rating:light (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->stuck but good progress.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Guitar: Sessions->0 Progress ->0. got occupied in task. also had a chill day slightly. will fix this. Can juggle now. Just need to focus a bit more
+Exercise: Sessions->0 Progress -> 0Running Day:  (Y/N)
+Work: Sessions->3 Progress ->lots of work
+Sleep: good (Good/Decent/Bad)
 
 
 18
