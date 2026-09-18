@@ -125,11 +125,11 @@ Sleep: good (Good/Decent/Bad)
 
 
 18
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1600 Protein-10 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->still stuck. focus harder. forget pressure. calm down. 
 Book: Sessions->0 Progress ->0
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1 Progress ->bouree
 Exercise: Sessions->0 Progress -> Running Day: 0 (Y/N)
 Work: Sessions->3 Progress ->lots of work.
 Sleep: too good (Good/Decent/Bad) need to sleep less to avoid dreams
