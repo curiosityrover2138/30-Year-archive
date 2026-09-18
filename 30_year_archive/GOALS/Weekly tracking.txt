@@ -128,11 +128,11 @@ Sleep: good (Good/Decent/Bad)
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->still stuck. focus harder. forget pressure. calm down. 
-Book: Sessions-> Progress ->
+Book: Sessions->0 Progress ->0
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
-Work: Sessions-> Progress ->
-Sleep: good (Good/Decent/Bad)
+Exercise: Sessions->0 Progress -> Running Day: 0 (Y/N)
+Work: Sessions->3 Progress ->lots of work.
+Sleep: too good (Good/Decent/Bad) need to sleep less to avoid dreams
 
 
 
