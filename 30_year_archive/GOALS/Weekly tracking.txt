@@ -2,15 +2,18 @@
 Theme: Start learning core theory as part of work. Start usaco full force. Do good guitar. Decent exercise and diet. 
 25-35 hrs of work weekly. 
 
-1. 17 hr USACO. Focus fully. Total plan adherence
+VERDICT: Not eating as healthy, need to do it. From 20th I wont eat a single morsel of unhealthy food for atleast 1 month.
+
+1. 17 hr USACO. Focus fully. Total plan adherence DONE. GOOD
 2. Work and do all glen's assignments and communication. Pick 1 block and learn from backend roadmap. Implement
-things using copilot (don't use chat ai since its expensive) 
+things using copilot (don't use chat ai since its expensive)  DONE. Decent. System design will improve slowly. But usaco and work is priority. System design 2-3 sets a week is fine for now.
 3. Walk 3 hrs 
 4. 50 sets weight
-5. Guitar 15 hrs. Start on howls.
-6. Sleep well. Perfect routine adherence. Decent diet. Try and get weight in a 47 range and check.
-7. Read ulysses. First will Finish Ulysses and Naked lunch and only then start Godaan and Paradise lost.
+5. Guitar 15 hrs. Start on howls. DECENT. Can do better. Started on Bouree.
+6. Sleep well. Perfect routine adherence. Decent diet. Try and get weight in a 47 range and check. NOT DONE. Need to increase exercise and eat much healthier.
+7. Read ulysses. First will Finish Ulysses and Naked lunch and only then start Godaan and Paradise lost. DECENT. No need to focus too much on this. Just coast.
 8. Make a new weekly sheet(no. 3) for next year and track everything.
+9. Relax on 19th
 
 Changing tracking a bit. Sleep I can just mark as good, avg or bad. Protein track, but calories is meaningless. So remove and give approx rating of Less, Decent or Heavy days. like approx 1300, approx 2000 and approx >2500
 
@@ -139,6 +142,7 @@ Sleep: too good (Good/Decent/Bad) need to sleep less to avoid dreams
 
 19
 Approx calories -1700 Protein-10 Rating:medium (Heavy, Medium or Light)
+
 
 CP/USACO: Sessions->1 Progress ->done
 Book: Sessions-> Progress ->
