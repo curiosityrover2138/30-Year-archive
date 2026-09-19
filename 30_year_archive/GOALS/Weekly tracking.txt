@@ -145,7 +145,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: decent. idk if its too little, but feel fine with excess before and now 6 (Good/Decent/Bad)
 
 
 
