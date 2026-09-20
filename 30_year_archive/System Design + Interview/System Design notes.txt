@@ -1044,6 +1044,8 @@ Datalog is a subset of Prolog. Just shows how the language evolved.
 
 
 
+STRATEGY TO LEARN-> Learn it like a house architect. Have basic idea first. Keep going deep in layers. And be curious about layers that are useful and make money.
+
 
 
 
