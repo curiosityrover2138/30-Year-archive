@@ -1,3 +1,40 @@
+21/9 - 27/9
+THEME: Increase focus quality on USACO. Do things with urgency. Do great work, and great guitar.
+Don't bother with anything else until guitar becomes great. Increase system
+
+1. USACO 14 hrs. Full focus
+2. Work and do all Incyte tasks and other things. Work around 30+ hrs total
+3. Do system design (included in work) for 5 hrs of the week
+4. Do guitar 8 hrs. Be very focused. Plan for issues beforehand
+5. Perfect routine from Monday to Saturday. Relax on Sunday a bit.
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+
+26
+
+
+27
+
+
+
+
+
+
 9/9 - 20/9
 Theme: Start learning core theory as part of work. Start usaco full force. Do good guitar. Decent exercise and diet. 
 25-35 hrs of work weekly. 
@@ -164,7 +201,8 @@ Approx calories -1700 Protein-20 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress ->
-Guitar: Sessions-> 0 Progress ->0 intruders at home. need to be better from tomorrow
+Guitar: Sessions-> 0 Progress ->0 intruders at home. need to be better from tomorrow. Should have planned beforehand but
+forgot. Will do it in the future.
 Exercise: Sessions-> Progress -> walk. 3 setsRunning Day:  (Y/N)
 Work: Sessions->1 Progress -> system design
 Sleep: decent (Good/Decent/Bad)
