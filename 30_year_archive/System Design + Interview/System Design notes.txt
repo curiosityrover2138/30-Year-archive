@@ -206,7 +206,7 @@ right database include:
 can have different levels of data security 
 
 A key value store allows O(1) reads and writes and is often backed by memory and ssd. 
-Data stores can maintain 
+
 
 
 
