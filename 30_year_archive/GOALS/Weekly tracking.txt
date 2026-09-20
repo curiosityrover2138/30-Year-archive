@@ -164,10 +164,10 @@ Approx calories -1700 Protein-20 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress ->
-Guitar: Sessions-> 0 Progress ->0 intruders at home. need to lock in from tomorrow
+Guitar: Sessions-> 0 Progress ->0 intruders at home. need to be better from tomorrow
 Exercise: Sessions-> Progress -> walk. 3 setsRunning Day:  (Y/N)
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Work: Sessions->1 Progress -> system design
+Sleep: decent (Good/Decent/Bad)
 
 
 
