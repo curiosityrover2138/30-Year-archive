@@ -1,1 +1,173 @@
 Put all past weekly tracking here to find trends
+
+9/9 - 20/9
+Theme: Start learning core theory as part of work. Start usaco full force. Do good guitar. Decent exercise and diet. 
+25-35 hrs of work weekly. 
+
+VERDICT: Not eating as healthy, need to do it. From 20th I wont eat a single morsel of unhealthy food for atleast 1 month.
+USACO is good. Maintain it and improve the quality of concentration.
+Work is good. Good idea to mix system design and KFT as well and good idea to keep running todo for day to day. Concentrate better and slowly improve performance.
+Guitar is decent. Improve it. Can be improved a lot to atleast 8-9 hours a week as a start.
+Exercise I am eking out. But need to do it more. Diet as said above its bordering on shit, but cannot let that happen. No need to have indulgence everyday. Cut it drastically and keep ANY indulgence limited to 
+one item once a day AT MOST.
+
+
+1. 17 hr USACO. Focus fully. Total plan adherence DONE. GOOD
+2. Work and do all glen's assignments and communication. Pick 1 block and learn from backend roadmap. Implement
+things using copilot (don't use chat ai since its expensive)  DONE. Decent. System design will improve slowly. But usaco and work is priority. System design 2-3 sets a week is fine for now.
+3. Walk 3 hrs 1 hr. DO MORE
+4. 50 sets weight
+5. Guitar 15 hrs. Start on howls. DECENT. Can do better. Started on Bouree.
+6. Sleep well. Perfect routine adherence. Decent diet. Try and get weight in a 47 range and check. NOT DONE. Need to increase exercise and eat much healthier.
+7. Read ulysses. First will Finish Ulysses and Naked lunch and only then start Godaan and Paradise lost. DECENT. No need to focus too much on this. Just coast.
+8. Make a new weekly sheet(no. 3) for next year and track everything.
+9. Relax on 19th DONE
+
+Changing tracking a bit. Sleep I can just mark as good, avg or bad. Protein track, but calories is meaningless. So remove and give approx rating of Less, Decent or Heavy days. like approx 1300, approx 2000 and approx >2500
+
+
+
+9
+Breakfast-600 Lunch-500 Dinner-500  Protein-15
+still sick rn. Can do intensely from tomorrow.
+CP/USACO: Sessions->0 Progress ->0. s
+Book: Sessions->1 Progress ->
+Guitar: Sessions->0 Progress ->
+Exercise: Sessions->0 Progress -> Running Day: Y (Y/N)
+Work: Sessions->3 Progress ->
+Sleep:9
+
+
+10
+Breakfast-300 Lunch-700 Dinner-600  Protein-
+recovering now. do better from tomorrow. Crush all the goals. specially USACO, Work and Guitar.
+CP/USACO: Sessions->1/2 Progress -> tried but still sick. Need to be more intense, and try fully myself, and code well. Focus better and with urgency, or the goals will just remain that.
+Book: Sessions->1 Progress -> ulysses
+Guitar: Sessions->1/2 Progress -> started practice
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
+Work: Sessions->3 Progress ->work
+Sleep:8
+
+
+11
+Breakfast-300 Lunch- Dinner-  Protein-
+
+CP/USACO: Sessions->1/2 Progress ->still stuck. need to focus. IDK what is happening. I can focus, but just lacking energy and not trying as hard. Need to focus and learn the patterns and code myself.
+Book: Sessions->1/2 Progress ->
+Guitar: Sessions->0 Progress ->0 bad bad. need to fix this from tomorrow. Will feel fine,so do it.
+Exercise: Sessions->0 Progress ->0 Running Day: Y (Y/N)
+Work: Sessions->4 Progress ->
+Sleep:9
+
+
+12
+Breakfast-400 Lunch-1000 Dinner-500  Protein-
+
+CP/USACO: Sessions->1/2 Progress ->close but not concentrating. Need to work much harder on this. I cannot mess this up. Need to focus fully and craft the solutions fully myself. Will 
+work on easier or other topics just to move forward if needed. But need to do it fully myself. Practice leetcode as well a bit random problems if you want to train focus fully. But the point is to focus and 
+work out yourself.
+Book: Sessions-> Progress ->
+Guitar: Sessions-> 20 mins Progress ->need to completely lock in from tomorrow and accomplish my goals 
+Exercise: Sessions-> 10 mins Progress ->4 sets Running Day: Y (Y/N)
+Work: Sessions-> 0Progress ->0. rest. getting a bit too tired because of so much shit. Getup at 6 from tomorrow and focus hard. It should get fixed.
+Sleep:9
+
+rest day today essentially. Need to stop resting now and start working very hard with USACO, work learning and guitar on priority. I need 10 hour days and only then focus on book and exercise. Walk and do weights.
+
+
+13
+Breakfast-300 Lunch-1000 Dinner-400  Protein-
+
+CP/USACO: Sessions->1/2 Progress ->1 done. did it myself. just template is common. need to keep in mind.
+Book: Sessions->1 Progress ->naked lunch
+Guitar: Sessions->30 mins Progress ->normal. do 2 hours from tomorrow and be very intense with 10 hr workdays.
+Exercise: Sessions->16 mins Progress ->10 sets weight Running Day: Y (Y/N)
+Work: Sessions->1 Progress ->changes as suggested by Jennifer.
+Sleep:8
+
+
+14
+Breakfast-300 Lunch-600 Dinner- 600 Protein-
+
+CP/USACO: Sessions->1 Progress ->1 done. focus harder.
+Book: Sessions->1 Progress ->
+Guitar: Sessions->30 mins Progress ->getting stuck. howl is hard. need to lock in and try hard.
+Exercise: Sessions->1/2 Progress ->walk Running Day: Y (Y/N)
+Work: Sessions->1 Progress ->system design+ slight work
+Sleep:8 hrs
+
+
+
+15
+Approx calories - 1600 Protein-10 Rating: medium (Heavy, Medium or Light)
+
+CP/USACO: Sessions->1 Progress ->stuck.but concentrated decently. can do better.
+Book: Sessions-> Progress ->
+Guitar: Sessions-> 0 Progress ->couldn't due to electricity issues. will compensate tomorrow
+Exercise: Sessions-> 1/2 Progress -> Walk + 6 sets weight Running Day:  (Y/N)
+Work: Sessions->3.5 Progress ->astellas+kft+system design
+Sleep: good (Good/Decent/Bad)
+
+
+
+16
+Approx calories -1800 Protein-30 Rating:medium (Heavy, Medium or Light)
+
+CP/USACO: Sessions->0.75  Progress ->  stuck. too many moving parts. need to break down and implement 1 by 1. Slowly.
+Book: Sessions->0 Progress ->
+Guitar: Sessions-> 30 mins. Progress -> failing to make time and juggle. Will just do USACO, Guitar and Work tomorrow and see. Sleep no more than 45 mins, and exercise ONLY with weights for 30 mins. This
+should help.
+Exercise: Sessions->1/2 Progress ->6 sets Running Day:  (Y/N)
+Work: Sessions->3 Progress ->sd + incyte
+Sleep:Good. Maybe too good. (Good/Decent/Bad)
+
+
+
+
+17
+Approx calories -1500 Protein-30 Rating:light (Heavy, Medium or Light)
+
+CP/USACO: Sessions->1 Progress ->stuck but good progress.
+Book: Sessions-> Progress ->
+Guitar: Sessions->0 Progress ->0. got occupied in task. also had a chill day slightly. will fix this. Can juggle now. Just need to focus a bit more
+Exercise: Sessions->0 Progress -> 0Running Day:  (Y/N)
+Work: Sessions->3 Progress ->lots of work
+Sleep: good (Good/Decent/Bad)
+
+
+18
+Approx calories -1600 Protein-10 Rating:medium (Heavy, Medium or Light)
+
+CP/USACO: Sessions->1 Progress ->still stuck. focus harder. forget pressure. calm down. 
+Book: Sessions->0 Progress ->0
+Guitar: Sessions->1 Progress ->bouree
+Exercise: Sessions->0 Progress -> Running Day: 0 (Y/N)
+Work: Sessions->3 Progress ->lots of work.
+Sleep: too good (Good/Decent/Bad) need to sleep less to avoid dreams
+
+
+
+
+19
+Approx calories -1700 Protein-10 Rating:medium (Heavy, Medium or Light)
+
+
+CP/USACO: Sessions->1 Progress ->done
+Book: Sessions-> 1/2 Progress ->1/2
+Guitar: Sessions-> 0Progress ->0
+Exercise: Sessions->1/2 Progress ->10 sets Running Day:  (Y/N)
+Work: Sessions->0 Progress ->0
+Sleep: decent. idk if its too little, but feel fine with excess before and now 6 (Good/Decent/Bad)
+
+
+
+20
+Approx calories -1700 Protein-20 Rating:medium (Heavy, Medium or Light)
+
+CP/USACO: Sessions->1 Progress ->1 done
+Book: Sessions-> Progress ->
+Guitar: Sessions-> 0 Progress ->0 intruders at home. need to be better from tomorrow. Should have planned beforehand but
+forgot. Will do it in the future.
+Exercise: Sessions-> Progress -> walk. 3 setsRunning Day:  (Y/N)
+Work: Sessions->1 Progress -> system design
+Sleep: decent (Good/Decent/Bad)
