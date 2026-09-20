@@ -20,7 +20,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -31,7 +31,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -42,7 +42,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -53,7 +53,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -64,7 +64,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y  (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -76,7 +76,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -87,7 +87,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
