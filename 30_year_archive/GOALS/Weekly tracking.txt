@@ -151,8 +151,8 @@ Approx calories -1700 Protein-10 Rating:medium (Heavy, Medium or Light)
 
 
 CP/USACO: Sessions->1 Progress ->done
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Book: Sessions-> 1/2 Progress ->1/2
+Guitar: Sessions-> 0Progress ->0
 Exercise: Sessions->1/2 Progress ->10 sets Running Day:  (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep: decent. idk if its too little, but feel fine with excess before and now 6 (Good/Decent/Bad)
@@ -160,9 +160,9 @@ Sleep: decent. idk if its too little, but feel fine with excess before and now 6
 
 
 20
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1700 Protein-20 Rating:medium (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
