@@ -17,14 +17,14 @@ tracking. Focus on execution.
 
 
 21
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1600 Protein-30 Rating: medium. can be more healthy (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day:  Y (Y/N)
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+CP/USACO: Sessions->1/2 Progress ->stuck but good progress. will do more
+Book: Sessions->0 Progress ->
+Guitar: Sessions->30 mins Progress -> fine but need 2 hrs
+Exercise: Sessions->0 Progress ->0 Running Day:  Y (Y/N)
+Work: Sessions->3 Progress -> incyte+astellas
+Sleep:good (Good/Decent/Bad)
 
 
 22
