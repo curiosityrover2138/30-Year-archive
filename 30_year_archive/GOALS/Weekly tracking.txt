@@ -31,10 +31,10 @@ Sleep:good (Good/Decent/Bad)
 Approx calories -1600 Protein-30 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->1 done
-Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Book: Sessions-> 1Progress ->manga
+Guitar: Sessions-> 10 mins Progress ->got a bit tired. focus more
+Exercise: Sessions-> 0Progress ->0 Running Day: N (Y/N)
+Work: Sessions->3 Progress ->good
 Sleep: decent (Good/Decent/Bad)
 
 
