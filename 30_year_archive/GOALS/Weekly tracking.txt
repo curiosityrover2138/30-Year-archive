@@ -28,9 +28,9 @@ Sleep:good (Good/Decent/Bad)
 
 
 22
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1600 Protein-30 Rating:medium (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
