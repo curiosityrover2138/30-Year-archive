@@ -46,7 +46,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: 6 hrs. Feel fine. Again increase to 8 from tomorrow. And always restrict afternoon naps to 30-45 mins. NEVER MORE. (Good/Decent/Bad)
 
 
 24
