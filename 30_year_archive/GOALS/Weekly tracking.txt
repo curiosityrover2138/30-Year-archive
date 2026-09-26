@@ -3,14 +3,16 @@ THEME: Increase focus quality on USACO. Do things with urgency. Do great work, a
 Don't bother with anything else until guitar becomes great. Increase system design a bit. FOCUS HARD with URGENCY.
 Don't miss USACO, Work or Guitar. Everything else can wait.
 
-1. USACO 14 hrs. Full focus
+VERDICT: Sunday outing so some won't be done. 
+
+1. USACO 14 hrs. Full focus DONE. Focus can be improved to reach deep flow 
 2. Work and do all Incyte tasks. Very focused, and plan MOST MAJOR TASKS in advance. Work around 30+ hrs total
-3. Do system design for 5 hrs of the week. Write some code and push in Backend-SystemDesign-Code for core concepts.
+3. Do system design for 5 hrs of the week. Write some code and push in Backend-SystemDesign-Code for core concepts. NOT DONE. Did around 3 hrs. Not 5. Due to outing on Sunday
 4. Do guitar 8 hrs. Be very focused. Plan for intrusions beforehand. Practice Bouree. Never miss a day. If you anticipate busy/tired evening, practice from 11-12 atleast.
 5. Perfect routine from Monday to Saturday. Relax on Sunday a bit.
-6. 50 sets weights. 2 hrs walk. Eat healthy.
+6. 50 sets weights. 2 hrs walk. Eat healthy -> DONE.
 7. Track everything properly. Have atleast 2 10+ hr days. total week should be around 60 hr.
-8. Read books occassionally. Dont take pressure.  
+8. Read books occassionally. Dont take pressure.  DONE
 9. Make new sheet (3) from 21st sep till next year. Have weekly split.
 10. Update sheets on 27th night. Update this repo always at EOD. Track everything from YPT. Don't bother too much with
 tracking. Focus on execution.
@@ -74,14 +76,15 @@ Sleep: decent (Good/Decent/Bad)
 
 
 26
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1500 Protein- Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->stuck. decent prog.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: N  (Y/N)
+Exercise: Sessions-> Progress ->2sets weight Running Day: N  (Y/N)
 Work: Sessions->2 Progress ->system design
 Sleep: (Good/Decent/Bad)
+
 
 
 27
