@@ -94,7 +94,9 @@ Book: Sessions-> Progress ->
 Guitar: Sessions->1/2 Progress -> struggling. tired. 
 Exercise: Sessions-> Progress ->2sets weight Running Day: N  (Y/N)
 Work: Sessions->2 Progress ->system design
-Sleep: (Good/Decent/Bad)
+Sleep: good (Good/Decent/Bad)
+
+tomorrow will be shallow and less work. so feeling sad today. will watch a movie and sleep a bit less. will just focus on usaco and some guitar tomorrow and get to higher focus from monday
 
 
 
