@@ -17,21 +17,76 @@ When tired, sleep or watch some movie. No overthinking.
 
 
 28
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
 
 
 29
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
 
 30
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
 
 
 1
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
 
 2
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
+
 
 3
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
+
 
 4
+
+Approx calories - Protein- Rating: (Heavy, Medium or Light)
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress ->
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Running Day:  (Y/N)
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad)
