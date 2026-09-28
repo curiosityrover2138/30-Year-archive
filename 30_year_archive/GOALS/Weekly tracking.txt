@@ -19,7 +19,7 @@ When tired, sleep or watch some movie. No overthinking.
 28
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> 1/2 Progress ->shallow focus. tired. compensate tomorrow and sunday.
+CP/USACO: Sessions-> 1/2 Progress ->shallow focus. tired. compensate tomorrow and sunday. stuck consistently. not feeling good. Need to focus much harder, make more test cases and understand the problem better.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day:  (Y/N)
