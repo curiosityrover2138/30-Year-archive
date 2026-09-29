@@ -35,7 +35,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep:bad. will fix today. not an issue as such because 1 day I should power through (Good/Decent/Bad)
 
 30
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
