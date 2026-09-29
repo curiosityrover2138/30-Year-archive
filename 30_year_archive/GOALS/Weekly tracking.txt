@@ -35,8 +35,9 @@ Need to check paper. Not much work today but will nap <1 hr and do USACO and gui
 
 CP/USACO: Sessions->1 Progress ->low focus, need to increase it. from tomorrow iwll be very intense on this. Also confused and stuck so probably that is also a reason.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress -> (target 1.5 hrs)
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Guitar: Sessions->30 mins Progress ->practice. still struggling with flow in usaco and guitar. Thats the goal for this week. From tomorrow focus all energy on USACO and Guitar and on downtime work and rest.
+Most tasks this week focus on documentation and overseeing Tirath + learning.
+Exercise: Sessions->0 Progress -> 0 Running Day: Y (Y/N)
 Work: Sessions->3 Progress ->lots of work
 Sleep:bad. will fix today. not an issue as such because 1 day I should power through (Good/Decent/Bad)
 
