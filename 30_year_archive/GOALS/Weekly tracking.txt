@@ -31,10 +31,11 @@ NOTE: No newspaper today.
 
 29
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Need to check paper. Not much work today but will nap <1 hr and do USACO and guitar perfectly. 
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions-> Progress ->(target 3hr)
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> Progress -> (target 1.5 hrs)
 Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
 Work: Sessions-> Progress ->
 Sleep:bad. will fix today. not an issue as such because 1 day I should power through (Good/Decent/Bad)
@@ -42,9 +43,10 @@ Sleep:bad. will fix today. not an issue as such because 1 day I should power thr
 30
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+
+CP/USACO: Sessions-> Progress ->  
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> Progress -> 
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
