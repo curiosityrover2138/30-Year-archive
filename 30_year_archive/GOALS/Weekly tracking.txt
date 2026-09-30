@@ -48,11 +48,11 @@ Sleep:bad. will fix today. not an issue as such because 1 day I should power thr
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 
-CP/USACO: Sessions-> Progress ->  
+CP/USACO: Sessions->1.4 Progress ->  good focus, but still hard problem. solving bit by bit.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress -> 
-Exercise: Sessions-> Progress -> Running Day: N (Y/N)
-Work: Sessions-> Progress ->
+Exercise: Sessions->0 Progress -> 0 do tomorrow Running Day: N (Y/N)
+Work: Sessions->4 Progress ->
 Sleep: good (Good/Decent/Bad)
 
 
@@ -62,7 +62,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Running Day: Y (Y/N)
+Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
