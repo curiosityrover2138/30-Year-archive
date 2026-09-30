@@ -50,7 +50,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress -> 
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: good (Good/Decent/Bad)
 
 
 1
