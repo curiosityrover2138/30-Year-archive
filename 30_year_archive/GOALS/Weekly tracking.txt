@@ -50,7 +50,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1.4 Progress ->  good focus, but still hard problem. solving bit by bit.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> 0Progress -> 0. bad. but fine. will just do USACO, learning related work and guitar tomorrow. No need to do anything else for 4 days since I am on leave
+Guitar: Sessions-> 30 mins Progress -> bad. but fine. will just do USACO, learning related work and guitar tomorrow. No need to do anything else for 4 days since I am on leave
 Exercise: Sessions->0 Progress -> 0 do tomorrow Running Day: N (Y/N)
 Work: Sessions->4 Progress ->
 Sleep: good (Good/Decent/Bad)
