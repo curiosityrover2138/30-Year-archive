@@ -1,25 +1,40 @@
 Gradatim Ferociter.  Train like Phelps or sleep. Nothing else. Flow existence. VINCERO                     
-=== Revise every 6 months (9/06/2026) === 
+=== Revise every 6 months (1/10/2026) === 
 THIS IS THE BARE MINIMUM.
 
 1. Wakeup 6-7:30 MAX
-1.5 Run 45 mins-1hr (if running day). Try outside on weekends (good to have). If late wakup  >=7:30 then run b/w 4-6
 2. Coffee and light snack
 3. USACO/Leetcode 1 session non negotiable (2-3 on weekends)
-4. Guitar 1 session/ Work 1 session ONLY if its TOO MUCH
+
+4. Exercise (wed, sat and sun)/Work/Guitar (if some backlog is there) 1 session
 5. Bath/Grooming 
 6. Work 1-2 session
 7. Lunch 
 8. Work 1-2 session
 8.5. Nap if needed. Strictly < 45 mins (3:45 PM - 4:30)
-9. Exercise 1/2 session (4-5) / Work during run days.
-10. Work 1 session or Guitar 1/2 if possible
-11. System design 1 session or work 1 session as needed
+9. Work 1 session or Guitar 1/2 if possible
+11. Guitar 1 session
 12. Reading book session
 13. Sleep 10:30-11:30 PM
 
 
-Tracker-> USING YLP. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
+Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
+
+Exercise:
+Day 1: The Foundation (Squat / Press / Pull)
+• Barbell or Goblet Squats: 3 sets x 8 reps
+• Dumbbell Bench Press: 3 sets x 8 reps
+• Lat Pulldowns or Pull-ups: 3 sets x 10 reps
+Day 2: The Posterior Chain (Hinge / Overhead / Row)
+• Romanian Deadlifts (RDLs): 3 sets x 8 reps (Great for hamstrings and glutes)
+• Dumbbell Overhead Shoulder Press: 3 sets x 10 reps
+• Seated Cable Rows or Dumbbell Rows: 3 sets x 10 reps
+Day 3: The Athletic Finish (Leg Press / Incline / Arms)
+• Leg Press or Lunge variation: 3 sets x 10 reps
+• Incline Dumbbell Bench Press: 3 sets x 8 reps
+• Bicep Curls: 3 sets x 12 reps (A quick simple arm finisher)
+
+3 day workout wed, sat sun. Walk and slowly build stamina to run some days of the week.
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
 If work is intense, sleep later and wakeup at 7:30. On weekends sleep earlier to catchup instead of waking up late. Keep wakeup window FIXED. If you cannot nap try your best to sleep early, and catchup on lost
