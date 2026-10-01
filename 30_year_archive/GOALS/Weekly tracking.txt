@@ -61,12 +61,12 @@ Sleep: good (Good/Decent/Bad)
 1
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->1 done finally. happy
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Running Day: N (Y/N)
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: good (Good/Decent/Bad)
 
 2
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
