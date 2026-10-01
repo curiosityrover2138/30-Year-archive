@@ -6,16 +6,16 @@ THIS IS THE BARE MINIMUM.
 2. Coffee and light snack
 3. USACO/Leetcode 1 session non negotiable (2-3 on weekends)
 
-4. Exercise (wed, sat and sun)/Work/Guitar (if some backlog is there) 1 session
+4. Exercise (wed, sat and sun)/Work/Guitar (if some backlog is there) 1/2 session (
 5. Bath/Grooming 
-6. Work 1-2 session
+6. Work 1 session
 7. Lunch 
-8. Work 1-2 session
+8. Work 1-1.5 session
 8.5. Nap if needed. Strictly < 45 mins (3:45 PM - 4:30)
 9. Work 1 session or Guitar 1/2 if possible
 11. Guitar 1 session
 12. Reading book session
-13. Sleep 10:30-11:30 PM
+13. Sleep 10:30 PM
 
 
 Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
@@ -35,6 +35,8 @@ Day 3: The Athletic Finish (Leg Press / Incline / Arms)
 • Bicep Curls: 3 sets x 12 reps 
 
 3 day workout wed, sat sun. Walk and slowly build stamina to run some days of the week.
+Weights should be such that you can do the reps. If you can do 4-5 more reps in each set then increase it to the next available level preferably 2.5kg/5kg. If reps are >12-15 its too less, if reps are <5 its too much.
+
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
 If work is intense, sleep later and wakeup at 7:30. On weekends sleep earlier to catchup instead of waking up late. Keep wakeup window FIXED. If you cannot nap try your best to sleep early, and catchup on lost
