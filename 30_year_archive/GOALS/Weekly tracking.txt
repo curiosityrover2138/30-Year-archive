@@ -72,6 +72,8 @@ Exercise: Sessions->0 Progress ->0 Running Day: N (Y/N)
 Work: Sessions->0 Progress ->0
 Sleep: good (Good/Decent/Bad)
 
+
+
 2
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
@@ -81,6 +83,8 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym/Cardio: G
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
+
+NOTE: No newspaper today
 
 
 3
