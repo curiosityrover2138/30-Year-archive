@@ -79,12 +79,12 @@ Sleep: good (Good/Decent/Bad)
 2
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress ->stuck
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress ->gym 10 sets Gym/Cardio: G
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Work: Sessions->0 Progress ->0
+Sleep:good (Good/Decent/Bad)
 
 NOTE: No newspaper today
 
