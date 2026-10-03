@@ -104,7 +104,7 @@ CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->0 Progress ->0 wont go, sore today Gym/Cardio: G
-Work: Sessions-> Progress ->
+Work: Sessions-> 0Progress ->0
 Sleep: good (Good/Decent/Bad)
 
 
