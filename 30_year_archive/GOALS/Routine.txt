@@ -20,31 +20,38 @@ THIS IS THE BARE MINIMUM.
 Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
 
 Exercise:
-Tuesday: Upper Body A (10 AM / Flexible)
-Focus: Heavy horizontal pressing and vertical pulling.
-• Dumbbell Bench Press: 3 sets x 8 reps | Target: 62% BW (~30 kg total or 15 kg dumbbells)
-• Lat Pulldowns or Pull-ups: 3 sets x 10 reps | Target: 90%–100% BW (43–48 kg)
-• Incline Dumbbell Bench Press: 3 sets x 8 reps | Target: 52% BW (~25 kg total or 12.5 kg dumbbells)
-• Bicep Curls: 3 sets x 12 reps | Target: 25%–30% BW (~12–14 kg total or 6–7 kg dumbbells)
-Wednesday: Lower Body A (10 AM)
-Focus: Squat strength and unilateral quad work.
-• Barbell Squats: 3 sets x 8 reps | Target: 100% BW (48 kg)
-(Alternative: Goblet Squat with a 24 kg dumbbell)
-• Leg Press: 3 sets x 10 reps | Target: 155%–185% BW (74–89 kg)
-• Walking Lunges: 3 sets x 10 reps (per leg) | Bodyweight or light dumbbells
-• Calf Raises (Optional): 3 sets x 15 reps
-Saturday: Upper Body B (9 AM)
-Focus: Vertical pressing, rowing, and shoulder isolation.
-• Dumbbell Overhead Shoulder Press: 3 sets x 8–12 reps | Target: 42% BW total (~20 kg total or 10 kg dumbbells) (Increased sets from 1 to 3 for better volume)
-• Seated Cable Rows or DB Rows: 3 sets x 10 reps | Target: 85%–93% BW (41–45 kg)
-• Lateral Raises: 3 sets x 12 reps | Target: 8 kg dumbbells (Increased from 2 sets)
-• Tricep Overhead Extensions (Added): 3 sets x 12 reps | To balance out the extra bicep work
-Sunday: Lower Body B (5 PM)
-Focus: Hip hinging and hamstring/glute development.
-• Romanian Deadlifts (RDLs): 3 sets x 8 reps | Target: 100%–115% BW (48–55 kg)
-• Leg Press: 3 sets x 12 reps | Target: Moderate weight (focus on slow controlled repetitions)
-• Hamstring Curls (Added): 3 sets x 10 reps | Great isolation to support your RDLs
-• Core Work (Planks or Hanging Knee Raises): 3 sets
+Tuesday: Upper Body A
+• Superset 1 (3 Rounds):
+	• Dumbbell Bench Press: 3 sets x 8 reps (~30 kg total)
+	• Lat Pulldown Machine: 3 sets x 10 reps (43–48 kg)
+• Superset 2 (3 Rounds):
+	• Incline Dumbbell Bench Press: 3 sets x 8 reps (~25 kg total)
+	• Dumbbell Bicep Curls: 3 sets x 12 reps (6–7 kg DBs) 
+
+Wednesday: Lower Body A
+• Main Lift (3 Rounds):
+	• Barbell Squats: 3 sets x 8 reps (48 kg) OR Goblet Squat (24 kg DB)
+• Superset 2 (3 Rounds):
+	• Dumbbell Bulgarian Split Squats: 3 sets x 10 reps per leg
+	• Walking Lunges: 3 sets x 10 reps per leg (Bodyweight)
+
+Saturday: Upper Body B
+• Superset 1 (3 Rounds):
+	• Seated Dumbbell Overhead Press: 3 sets x 8–12 reps (10 kg DBs)
+	• Chest-Supported Dumbbell Rows: 3 sets x 10 reps
+• Superset 2 (3 Rounds):
+	• Dumbbell Lateral Raises: 3 sets x 12 reps (8 kg DBs)
+	• Overhead Dumbbell Tricep Extension: 3 sets x 12 reps
+
+Sunday: Lower Body B
+• Main Lift (3 Rounds):
+	• Barbell Romanian Deadlifts (RDLs): 3 sets x 8 reps (48–55 kg)
+• Superset 2 (3 Rounds):
+	• Dumbbell Floor Glute Bridges: 3 sets x 12 reps
+	• B-Stance Dumbbell RDLs: 3 sets x 12 reps
+• Core:
+	• Plank: 3 sets x 60 seconds
+
 
 
 
