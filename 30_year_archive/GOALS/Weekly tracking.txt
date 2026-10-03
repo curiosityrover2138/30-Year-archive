@@ -103,7 +103,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym/Cardio: G
+Exercise: Sessions->0 Progress ->0 wont go, sore today Gym/Cardio: G
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
