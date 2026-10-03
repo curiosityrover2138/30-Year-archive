@@ -102,7 +102,8 @@ Approx calories - 1400 Protein- Rating: (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions->1 Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->0.75 session Progress -> need to do 1.5 tomorrow positively to get total 8. Need to do this on priority. Only this and USACO as per sunday plan.
+
 Exercise: Sessions->0 Progress ->0 wont go, sore today Gym/Cardio: G
 Work: Sessions-> 0Progress ->0
 Sleep: good (Good/Decent/Bad)
