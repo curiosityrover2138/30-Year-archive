@@ -95,6 +95,6 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym/Cardio: (G/C)
+Exercise: Sessions-> Progress -> Gym:
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
