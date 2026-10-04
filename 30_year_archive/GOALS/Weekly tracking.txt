@@ -38,7 +38,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -49,7 +49,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -83,7 +83,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
@@ -95,7 +95,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
