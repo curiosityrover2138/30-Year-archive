@@ -113,9 +113,9 @@ Sleep: good (Good/Decent/Bad)
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->stuck
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym/Cardio: G
+Guitar: Sessions->30 mins Progress -> can do more but wont today just to keep some fuel in the tank. Will see again from tomorrow and practice a bit more daily. Aim to complete the goal by saturday.
+Exercise: Sessions->1/2 Progress -> done sunday plan Gym/Cardio: G
 Work: Sessions-> Progress ->
 Sleep: good (Good/Decent/Bad)
