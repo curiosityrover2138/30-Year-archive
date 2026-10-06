@@ -37,14 +37,16 @@ Sleep: decent (Good/Decent/Bad)
 
 
 6
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1700 Protein-30 Rating:medium (Heavy, Medium or Light)
 
 CP/USACO: Sessions->1/2 Progress ->stuck. hard for me. focus much harder. and be more honest and go into flow state.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1/2 Progress ->
 Exercise: Sessions->1/2 Progress ->done. slowly reaching target weights Gym:Y
-Work: Sessions->2 Progress ->not much work today
+Work: Sessions->3 Progress ->not much work today
 Sleep: good (Good/Decent/Bad)
+
+can do better in USACO. Need to concentrate and fight for full time
 
 
 7
