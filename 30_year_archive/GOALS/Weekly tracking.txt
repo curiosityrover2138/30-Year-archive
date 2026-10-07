@@ -56,7 +56,7 @@ CP/USACO: Sessions->1 Progress ->stuck bad. keep pushing.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y (go in evening today due to bs reasons) 4-5
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress ->good
 Sleep: good (Good/Decent/Bad)
 
 
