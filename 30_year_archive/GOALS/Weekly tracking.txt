@@ -59,10 +59,12 @@ Approx calories -1900 Protein-30 Rating:heavy (Heavy, Medium or Light) experimen
 
 CP/USACO: Sessions->1 Progress ->stuck bad. keep pushing.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 15 mins tired today. will makeup tomorrow. Progress ->
 Exercise: Sessions-> Progress -> Gym:changed schedule to tue thu sat sun to avoid fatigue 
 Work: Sessions->3 Progress ->good
 Sleep: good (Good/Decent/Bad)
+
+when work is less focus on system design. And get one more session of USACO if possible. Also focus on USACO getting better.
 
 
 8
