@@ -55,7 +55,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions->1 Progress ->stuck bad. keep pushing.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y (go in evening today due to bs reasons) 4-5
+Exercise: Sessions-> Progress -> Gym:changed schedule to tue thu sat sun to avoid fatigue 
 Work: Sessions->3 Progress ->good
 Sleep: good (Good/Decent/Bad)
 
@@ -66,7 +66,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym: Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad)
 
