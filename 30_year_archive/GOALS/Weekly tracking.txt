@@ -57,7 +57,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: good (Good/Decent/Bad)
 
 
 8
