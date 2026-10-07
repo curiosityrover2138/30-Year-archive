@@ -51,6 +51,26 @@ Sunday: Lower B
 Weights should be such that you can do the reps. If you can do 4-5 more reps in each set then increase it to the next available level preferably 2.5kg/5kg. If reps are >12-15 its too less, if reps are <5 its too much.
 Rest 1 min between each set. MAX 2 mins.
 
+OPTIONAL 3 day schedule if I am very busy
+
+Wednesday: Upper A (Heavy)
+* Dumbbell Bench Press: 3 x 8
+* Lat Pulldown Machine: 3 x 10
+* Incline Dumbbell Bench Press: 3 x 10
+* Dumbbell Bicep Curls: 3 x 12
+* Treadmill Brisk Walk: 15 mins
+Saturday: Lower A (Heavy)
+* Barbell Squats: 3 x 8
+* Leg Press: 3 x 8–10
+* Plank: 3 x 60s
+* Cat-Cow & Child's Pose Mobility: 5 mins
+Sunday: Upper B + Lower B Mashup (Decent)
+* Seated Dumbbell Overhead Press: 3 x 8–12
+* Chest-Supported Dumbbell Rows: 3 x 10
+* Dumbbell Romanian Deadlifts: 3 x 8
+* Standing Dumbbell Calf Raises: 3 x 15
+* Stationary Bike: 15 mins
+
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
 If work is intense, sleep later and wakeup at 7:30. On weekends sleep earlier to catchup instead of waking up late. Keep wakeup window FIXED. If you cannot nap try your best to sleep early, and catchup on lost
