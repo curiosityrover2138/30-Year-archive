@@ -74,7 +74,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress ->legs weak. train till failure. Gym: Y
-Work: Sessions-> Progress ->
+Work: Sessions->2 Progress ->not much work today. 
 Sleep:decent. sleep more (Good/Decent/Bad)
 
 need to relax on sundays as planned or I will suffer on weekdays
