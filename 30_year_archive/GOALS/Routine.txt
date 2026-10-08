@@ -16,6 +16,7 @@ THIS IS THE BARE MINIMUM.
 12. Reading book session
 13. Sleep 10:30 PM
 
+Always track weight weekly and measure every sunday morning without food/water. Never let it cross 51. If 48-50 excercise and move more and limit junk. If 46-48 relax. Do atleast 3 days of gym a week.
 
 Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
 Go on tuesday, thu, sat and sun. If missed go around 5 pm, if not prefer 10 AM.Never skip more than 1 day in gym. if both tue and wed skipped due to huge work, try any weekday evening around 6. or take halfday leave if required in dire situation. plan your work so this never occurs 
@@ -96,11 +97,11 @@ Note: Try and get 1 session uninterrupted. But if its not possible due to variou
 Record each day:
 
 Format:
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: (Good/Decent/Bad) (tracking optional)
