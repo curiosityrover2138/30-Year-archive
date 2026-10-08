@@ -68,7 +68,7 @@ when work is less focus on system design. And get one more session of USACO if p
 
 
 8
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
+Approx calories -1900 Protein-10 Rating: heavy (Heavy, Medium or Light)
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
