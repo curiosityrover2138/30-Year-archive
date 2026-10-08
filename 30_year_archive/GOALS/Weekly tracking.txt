@@ -73,7 +73,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym: Y
+Exercise: Sessions->1/2 Progress ->legs weak. train till failure. Gym: Y
 Work: Sessions-> Progress ->
 Sleep:decent. sleep more (Good/Decent/Bad)
 
