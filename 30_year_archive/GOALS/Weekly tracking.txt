@@ -75,9 +75,9 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym: Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep:decent. sleep more (Good/Decent/Bad)
 
-
+need to relax on sundays as planned or I will suffer on weekdays
 
 9
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
