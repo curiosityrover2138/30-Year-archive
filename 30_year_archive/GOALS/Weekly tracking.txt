@@ -70,7 +70,7 @@ when work is less focus on system design. And get one more session of USACO if p
 8
 Approx calories -1900 Protein-10 Rating: heavy (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->stuck. decent flow.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress ->legs weak. train till failure. Gym: Y
