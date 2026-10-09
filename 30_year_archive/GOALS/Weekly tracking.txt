@@ -95,7 +95,7 @@ Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad)
+Sleep: good (Good/Decent/Bad)
 
 
 10
