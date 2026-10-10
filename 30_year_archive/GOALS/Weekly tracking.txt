@@ -103,7 +103,7 @@ Sleep: good (Good/Decent/Bad)
 10
 Approx calories - Protein- Rating: (Heavy, Medium or Light)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1.5 Progress ->done finally.
 Book: Sessions-> Progress ->
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
