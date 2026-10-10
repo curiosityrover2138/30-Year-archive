@@ -106,13 +106,14 @@ Sleep: good (Good/Decent/Bad)
 
 
 10
-Approx calories - Protein- Rating: (Heavy, Medium or Light)
-
+Approx calories -1600 Protein-40 Rating:medium (Heavy, Medium or Light)
+feeling shoulder pain maybe due to guitar+gym+grinder induced. will slowly increase gym intensity, adn guitar will need to keep intensity diffused in order to solve this. Will have to solve guitar intensity issue from
+next week and keep it very consistent at 1-2 hr a day no matter what.
 CP/USACO: Sessions->1.5 Progress ->done finally.
 Book: Sessions-> Progress ->
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y
-Work: Sessions-> Progress ->
+Guitar: Sessions->1 hr Progress ->
+Exercise: Sessions-> done Progress -> Gym:Y
+Work: Sessions-> 1Progress ->
 Sleep:good (Good/Decent/Bad)
 
 
