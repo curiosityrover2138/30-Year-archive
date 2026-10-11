@@ -16,30 +16,81 @@ THEME: Aim to get mathematical optimum time utilization. Increase USACO focus. A
 
 
 12
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 13
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 14
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 
 15
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 
 16
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 17
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
 
 
 
 
 18
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions-> Progress ->
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:
+Work: Sessions-> Progress ->
+Sleep: (Good/Decent/Bad) (tracking optional)
