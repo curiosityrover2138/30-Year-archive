@@ -28,7 +28,7 @@ CP/USACO: Sessions->1/2 Progress ->bad. focus hard. same issue with clankers. ke
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
-Work: Sessions-> Progress ->
+Work: Sessions->2 Progress ->not much
 Sleep: decent (Good/Decent/Bad) (tracking optional)
 
 
