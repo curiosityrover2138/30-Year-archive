@@ -35,7 +35,7 @@ Sleep: decent (Good/Decent/Bad) (tracking optional)
 13
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress -> better but still struggling with total concentration. Need to develop this for atleast 2-3 hours on priority.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
