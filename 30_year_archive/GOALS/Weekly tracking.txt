@@ -40,7 +40,8 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep:bad (Good/Decent/Bad) (tracking optional) recurring issue due to sleeping in afternoon. Will observe what happens long term. Its likely also gym, but it SHOULD improve since I feel great going to gym.
+Lets observe. Just don't sleep >45 mins during productive hours. (6AM-9PM). 1 nap is fine but even that needs to go away ideally. 
 
 
 14
