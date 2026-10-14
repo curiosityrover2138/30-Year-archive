@@ -51,9 +51,9 @@ hectic day. But can improve quality. Focus on quality, quantity will take care w
 
 
 14
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+Approx calories -1600 Protein-30 Rating: light (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions->1/2 Progress ->1 done
+CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->20 mins walk Progress -> Gym:
