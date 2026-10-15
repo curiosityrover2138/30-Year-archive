@@ -70,7 +70,8 @@ CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress ->done good session. was able to do 4 exercises. Need to do with challenging but doable weights. Gym:Y
-Work: Sessions-> Progress ->
+Work: Sessions->4 Progress ->not work, but just tracking because its unavoidable obligation (work adjacent) and consumes time. Have less "work" this week due to projects getting bumped up. Will just do more system design 
+and supervise tirath.
 Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
