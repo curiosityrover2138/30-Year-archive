@@ -69,7 +69,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y
+Exercise: Sessions->1/2 Progress ->done good session. was able to do 4 exercises. Need to do with challenging but doable weights. Gym:Y
 Work: Sessions-> Progress ->
 Sleep:decent (Good/Decent/Bad) (tracking optional)
 
