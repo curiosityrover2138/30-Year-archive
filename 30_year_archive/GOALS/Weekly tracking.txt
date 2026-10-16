@@ -80,13 +80,13 @@ Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
 16
-Approx calories -1500 Protein- 30 Rating:medium (Heavy, Medium or Light) (tracking optional)
+Approx calories -1700 Protein- 30 Rating:medium (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions->30 mins Progress ->bad. but due to puja. also had bad sleep
+CP/USACO: Sessions->1 hr Progress ->bad. but due to puja. also had bad sleep
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress -> Gym: Y
-Work: Sessions-> 2 Progress ->not much work
+Work: Sessions-> 3 Progress ->not much work
 Sleep: bad (Good/Decent/Bad) (tracking optional)
 
 
