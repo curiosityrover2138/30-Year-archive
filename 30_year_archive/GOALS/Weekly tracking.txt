@@ -68,7 +68,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions->1 Progress ->1 done
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 30 mins Progress ->due to puja
 Exercise: Sessions->1/2 Progress ->done good session. was able to do 4 exercises. Need to do with challenging but doable weights. Gym:Y
 Work: Sessions->4 Progress ->not work, but just tracking because its unavoidable obligation (work adjacent) and consumes time. Have less "work" this week due to projects getting bumped up. Will just do more system design 
 and supervise tirath.
