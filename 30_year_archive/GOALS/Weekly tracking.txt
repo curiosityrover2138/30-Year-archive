@@ -97,7 +97,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y
+Exercise: Sessions-> Progress -> Gym:holiday
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad) (tracking optional)
 
@@ -110,6 +110,6 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym: holiday due to puja
+Exercise: Sessions-> Progress -> Gym: holiday due to puja. Will do using 10 kg dumbbells same excercise. Also next week tuesday will do Sunday + Tuesday excercises in 1 day.
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad) (tracking optional)
