@@ -3,7 +3,7 @@
 THEME: Continue on aiming for mathematical time optimization. NO talking to clankers. Focus on thinking, and writing thoughts if needed. Get 55 hrs total week. Do perfect gym routine with intense exercises.
 Do diet a bit and lose a bit more weight. No junk food. Perfect routine. 
 
-WEIGHT: 48.5- 50.1
+WEIGHT: 48.5- 50.1 TARGET: 48- 49.8
 
 1. USACO 15+ hrs. Aim for 2-3 sums solved. Perfect focus.
 2. System design 5 hrs.
