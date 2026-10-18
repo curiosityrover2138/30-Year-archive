@@ -8,7 +8,7 @@ WEIGHT: 48.5- 50.1
 1. USACO 15+ hrs. Aim for 2-3 sums solved. Perfect focus.
 2. System design 5 hrs.
 3. Guitar 9 hrs. Do 2 sessions a day on most days. from 12-1 and 6:30 - 7:30 
-4. Perfect gym routine. Do Tuesday and Sunday excercise on Tuesday since 18/10 was missed due to gym holiday.
+4. Perfect gym routine. Do Tuesday and Sunday excercise on Tuesday since 18/10 was missed due to gym holiday. Do cardio on each gym day walking + cycling.
 5. Work aim for 30 hrs. Since not much work is there do documentation, tracing of bugs by your own volition, and system design. But be focused during work timings to train yourself.
 6. Never ever talk to clankers. Give it prompts.
 7. Start slight diet. Have high protein. Lose 0.2 kg weight (measured on sunday morining)
