@@ -3,7 +3,7 @@
 THEME: Continue on aiming for mathematical time optimization. NO talking to clankers. Focus on thinking, and writing thoughts if needed. Get 55 hrs total week. Do perfect gym routine with intense exercises.
 Do diet a bit and lose a bit more weight. No junk food. Perfect routine. 
 
-WEIGHT: 48.5- 50.1 TARGET: 48- 49.8
+WEIGHT: 48.5- 50.1 TARGET: 48- 49.7
 
 1. USACO 15+ hrs. Aim for 2-3 sums solved. Perfect focus.
 2. System design 5 hrs.
@@ -11,7 +11,7 @@ WEIGHT: 48.5- 50.1 TARGET: 48- 49.8
 4. Perfect gym routine. Do Tuesday and Sunday excercise on Tuesday since 18/10 was missed due to gym holiday. Do cardio on each gym day walking + cycling.
 5. Work aim for 30 hrs. Since not much work is there do documentation, tracing of bugs by your own volition, and system design. But be focused during work timings to train yourself.
 6. Never ever talk to clankers. Give it prompts.
-7. Start slight diet. Have high protein. Lose 0.2 kg weight (measured on sunday morining)
+7. Start slight diet. Have high protein. Lose 0.4 kg weight (measured on sunday morining)
 8. Relax on Sunday. Watch movies in downtime. Read books around 6-8 hrs but optional. Track it if you do.
 9. Stop gadfly behavior. Things never change. Focus on your change. Don't care about anything outside your bodily coordinates.
 
