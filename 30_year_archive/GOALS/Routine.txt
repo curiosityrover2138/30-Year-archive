@@ -22,57 +22,45 @@ Do atleast 3 days of gym a week.
 
 Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
 Go on tuesday, thu, sat and sun. If missed go around 5 pm, if not prefer 10 AM.Never skip more than 1 day in gym. if both tue and wed skipped due to huge work, try any weekday evening around 6. or take halfday leave if required in dire situation. plan your work so this never occurs 
+4 DAY SCHEDULE
 
-Tuesday: Upper A 
-* Dumbbell Bench Press: 3 x 8
-* Lat Pulldown Machine: 3 x 10
-* Incline Dumbbell Bench Press: 3 x 10
-* Dumbbell Bicep Curls: 3 x 12
-* Treadmill Brisk Walk: 15 mins
+Day      | Main Work                                                                 | Bonus Machines
+---------|---------------------------------------------------------------------------|---------------------------------------------
+Tuesday  | DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10 | DB Curl 3x12 | Walk 15m
+         |                                                                           | Chest Press 2-3x10 | Cable Row 2-3x10
+         |                                                                           | Pec Deck 2x12 | Rear Delt Machine 2x15
 
-Thursday: Lower A 
-* Barbell Squats: 3 x 8
-* Leg Press: 3 x 8–10
-* Plank: 3 x 60s
-* Cat-Cow & Child's Pose Mobility: 5 mins
+Thursday | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m
+         |                                                                           | Leg Curl 2-3x12 | Leg Extension 2-3x12
+         |                                                                           | Hip Abductor 2x15 | Back Extension 2x12
 
-Saturday: Upper B 
-* Seated Dumbbell Overhead Press: 3 x 8–12
-* Chest-Supported Dumbbell Rows: 3 x 10
-* Dumbbell Lateral Raises: 3 x 12–15
-* Overhead Dumbbell Tricep Extension: 3 x 12
-* Stationary Bike: 15 mins
+Saturday | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10 | Lateral Raise 3x12-15
+         | OH DB Tricep Extension 3x12 | Bike 15m
+         |                                                                           | Assisted Pullup 2-3x8 | Face Pull 2-3x15
+         |                                                                           | Shoulder Press Machine 2x10 | Pushdown 2x12
 
-Sunday: Lower B 
-* Dumbbell Romanian Deadlifts: 3 x 8
-* Standing Dumbbell Calf Raises: 3 x 15
-* Standing Dumbbell Side Bends: 3 x 12 per side
-* Stationary Bike: 15 mins
+Sunday   | DB RDL 3x8 | DB Calf Raise 3x15 | DB Side Bend 3x12/side | Bike 15m
+         |                                                                           | Seated Leg Curl 2-3x12 | Hack Squat 2x10
+         |                                                                           | Glute Kickback 2x15 | Adductor 2x15
 
 
-4 day workout tue, thursday, sat sun. Walk and slowly build stamina to run some days of the week.
-Weights should be such that you can do the reps. If you can do 4-5 more reps in each set then increase it to the next available level preferably 2.5kg/5kg. If reps are >12-15 its too less, if reps are <5 its too much.
-Rest 1 min between each set. MAX 2 mins.
+3 DAY (BUSY) SCHEDULE
 
-OPTIONAL 3 day schedule if I am very busy
+Day      | Main Work                                                                 | Bonus Machines
+---------|---------------------------------------------------------------------------|---------------------------------------------
+Wednesday| DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10
+(Heavy)  | DB Curl 3x12 | Walk 15m
+         |                                                                           | Chest Press 2-3x10 | Cable Row 2-3x10
+         |                                                                           | Pec Deck 2x12 | Rear Delt Machine 2x15
 
-Wednesday: Upper A (Heavy)
-* Dumbbell Bench Press: 3 x 8
-* Lat Pulldown Machine: 3 x 10
-* Incline Dumbbell Bench Press: 3 x 10
-* Dumbbell Bicep Curls: 3 x 12
-* Treadmill Brisk Walk: 15 mins
-Saturday: Lower A (Heavy)
-* Barbell Squats: 3 x 8
-* Leg Press: 3 x 8–10
-* Plank: 3 x 60s
-* Cat-Cow & Child's Pose Mobility: 5 mins
-Sunday: Upper B + Lower B Mashup (Decent)
-* Seated Dumbbell Overhead Press: 3 x 8–12
-* Chest-Supported Dumbbell Rows: 3 x 10
-* Dumbbell Romanian Deadlifts: 3 x 8
-* Standing Dumbbell Calf Raises: 3 x 15
-* Stationary Bike: 15 mins
+Saturday | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m
+(Heavy)  |                                                                           | Leg Curl 2-3x12 | Leg Extension 2-3x12
+         |                                                                           | Hip Abductor 2x15 | Back Extension 2x12
+
+Sunday   | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10 | DB RDL 3x8
+(Mashup) | DB Calf Raise 3x15 | Bike 15m
+         |                                                                           | Assisted Pullup 2-3x8 | Face Pull 2x15
+         |                                                                           | Leg Curl 2x12 | Hack Squat 2x10
 
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
