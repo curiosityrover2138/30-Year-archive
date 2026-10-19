@@ -37,7 +37,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y Do sunday + tuesday workout
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad) (tracking optional)
 
@@ -62,7 +62,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym: Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad) (tracking optional)
 
@@ -86,7 +86,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: (Good/Decent/Bad) (tracking optional)
 
@@ -97,7 +97,8 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
+
 Sleep: (Good/Decent/Bad) (tracking optional)
 
