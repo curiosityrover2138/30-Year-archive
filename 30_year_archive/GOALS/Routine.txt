@@ -22,45 +22,37 @@ Do atleast 3 days of gym a week.
 
 Tracker-> USING YPT. Amazing - Aim for 2 hr per session AT MOST. Take a break if it exceeds. Aim so that its easy to focus for 2 hours. Track trends.
 Go on tuesday, thu, sat and sun. If missed go around 5 pm, if not prefer 10 AM.Never skip more than 1 day in gym. if both tue and wed skipped due to huge work, try any weekday evening around 6. or take halfday leave if required in dire situation. plan your work so this never occurs 
+GYM SCHEDULE
+
 4 DAY SCHEDULE
 
-Day      | Main Work                                                                 | Bonus Machines
----------|---------------------------------------------------------------------------|---------------------------------------------
-Tuesday  | DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10 | DB Curl 3x12 | Walk 15m
-         |                                                                           | Chest Press 2-3x10 | Cable Row 2-3x10
-         |                                                                           | Pec Deck 2x12 | Rear Delt Machine 2x15
+Day        | Main Work                                                          | Bonus Machines
+-----------|--------------------------------------------------------------------|-------------------------------------------
+Tuesday    | DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10    | Chest Press 2-3x10 | Cable Row 2-3x10
+           | DB Curl 3x12 | Walk 15m                                         | Pec Deck 2x12 | Rear Delt Machine 2x15
 
-Thursday | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m
-         |                                                                           | Leg Curl 2-3x12 | Leg Extension 2-3x12
-         |                                                                           | Hip Abductor 2x15 | Back Extension 2x12
+Thursday   | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m | Leg Curl 2-3x12 | Leg Extension 2-3x12
+           |                                                                    | Hip Abductor 2x15 | Back Extension 2x12
 
-Saturday | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10 | Lateral Raise 3x12-15
-         | OH DB Tricep Extension 3x12 | Bike 15m
-         |                                                                           | Assisted Pullup 2-3x8 | Face Pull 2-3x15
-         |                                                                           | Shoulder Press Machine 2x10 | Pushdown 2x12
+Saturday   | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10              | Assisted Pullup 2-3x8 | Face Pull 2-3x15
+           | Lateral Raise 3x12-15 | OH DB Tricep Extension 3x12 | Bike 15m | Shoulder Press Machine 2x10 | Pushdown 2x12
 
-Sunday   | DB RDL 3x8 | DB Calf Raise 3x15 | DB Side Bend 3x12/side | Bike 15m
-         |                                                                           | Seated Leg Curl 2-3x12 | Hack Squat 2x10
-         |                                                                           | Glute Kickback 2x15 | Adductor 2x15
+Sunday     | DB RDL 3x8 | DB Calf Raise 3x15 | DB Side Bend 3x12/side       | Seated Leg Curl 2-3x12 | Hack Squat 2x10
+           | Bike 15m                                                        | Glute Kickback 2x15 | Adductor 2x15
 
 
 3 DAY (BUSY) SCHEDULE
 
-Day      | Main Work                                                                 | Bonus Machines
----------|---------------------------------------------------------------------------|---------------------------------------------
-Wednesday| DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10
-(Heavy)  | DB Curl 3x12 | Walk 15m
-         |                                                                           | Chest Press 2-3x10 | Cable Row 2-3x10
-         |                                                                           | Pec Deck 2x12 | Rear Delt Machine 2x15
+Day        | Main Work                                                          | Bonus Machines
+-----------|--------------------------------------------------------------------|-------------------------------------------
+Wednesday  | DB Bench Press 3x8 | Lat Pulldown 3x10 | Incline DB Bench 3x10    | Chest Press 2-3x10 | Cable Row 2-3x10
+(Heavy)    | DB Curl 3x12 | Walk 15m                                         | Pec Deck 2x12 | Rear Delt Machine 2x15
 
-Saturday | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m
-(Heavy)  |                                                                           | Leg Curl 2-3x12 | Leg Extension 2-3x12
-         |                                                                           | Hip Abductor 2x15 | Back Extension 2x12
+Saturday   | Barbell Squat 3x8 | Leg Press 3x8-10 | Plank 3x60s | Mobility 5m | Leg Curl 2-3x12 | Leg Extension 2-3x12
+(Heavy)    |                                                                    | Hip Abductor 2x15 | Back Extension 2x12
 
-Sunday   | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10 | DB RDL 3x8
-(Mashup) | DB Calf Raise 3x15 | Bike 15m
-         |                                                                           | Assisted Pullup 2-3x8 | Face Pull 2x15
-         |                                                                           | Leg Curl 2x12 | Hack Squat 2x10
+Sunday     | Seated DB OHP 3x8-12 | Chest-Supported DB Row 3x10 | DB RDL 3x8 | Assisted Pullup 2-3x8 | Face Pull 2x15
+(Mashup)   | DB Calf Raise 3x15 | Bike 15m                                  | Leg Curl 2x12 | Hack Squat 2x10
 
 
 Important Learning: Don't do anything intense before bedtime. Finish all major personal tasks like USACO, Guitar and Exercise before 8 PM. Preferably before 6.
