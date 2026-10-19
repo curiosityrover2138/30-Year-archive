@@ -18,13 +18,14 @@ WEIGHT: 48.5- 50.1 TARGET: 48- 49.7
 
 19
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+Talked to clankers a bit today. Mostly because sleep was bad. Not from tomorrow. PROMISE.
 
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep: bad (Good/Decent/Bad) (tracking optional)
 
 
 
