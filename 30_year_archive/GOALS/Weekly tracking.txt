@@ -26,7 +26,7 @@ CP/USACO: Sessions->1 Progress ->STUCK. slept bad and wasnt able to focus well. 
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
-Work: Sessions-> Progress ->
+Work: Sessions->3 Progress ->documentation and prep
 Sleep: bad (Good/Decent/Bad) (tracking optional)
 
 
