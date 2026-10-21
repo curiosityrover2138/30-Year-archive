@@ -1,7 +1,21 @@
 Think about these problems until you can solve them yourself. Study concepts, not editorials. When putting in backburner, keep 1 line note of what you tried, what the topics may be, and where you were stuck. Review
 periodically
 
-https://cses.fi/problemset/task/3294 -> 22/8. Try after 7/9
+https://usaco.org/index.php?page=viewproblem2&cpid=1110
+
+Just tired of flood fills. This wont be done before a week so letting go for now. Later once I shuffle some more topics will come again. Very last problem so not bad.
+
+
+Notes I wrote. Try brute force first and then see. 
+// Maybe points that have 3 cows beside them are the interesting ones. If it has cows, I start with there, if it doesnt' have , and it becomes part of visited, then thats also possible
+// Something like this.
+// Since N=1e5. There has to be soemthing I need to precompute. I cannot do it using flood fill naively
+// I think we only care after 1 point when it will have 3 coordniates surrounding it. Before that we dont' care. We need 2 maps. 1 to map 
+// from which number will it be "comfortable" and then the map of the coordinates that will be filled after adding that.
+
+
+
+https://cses.fi/problemset/task/3294 -> 22/8. Try after 7/11
 
 Thinking of bfs, and checking possibility on the fly. Struggling with contradictions that will occur and what are actually the sets that contribute to it. Wrote some code but became too confusing. Think clearly
 from scratch. Think about what constitutes a "DSU" and when it will be impossible for what kinds of cases. DFS/BFS, DSU, Prefix sum kind of logic.
