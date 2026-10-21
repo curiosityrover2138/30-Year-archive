@@ -58,8 +58,9 @@ Approx calories -1400 Protein-40 Rating:medium (Heavy, Medium or Light) (trackin
 
 CP/USACO: Sessions->2 Progress ->volume but can do better quality wise.
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
+Guitar: Sessions-> 0 Progress ->wont do. lots of noise due to puja. But I can be intense from tomorrow and do 2 sessions per day and knock this off. I am confident I can do this. This is a blessing in disguise because
+if I can do that, I will train myself to cross 12-14 hr barrier for the week just like in 3-4 days of intensity. Then the next week will be just maintaining this.
+Exercise: Sessions->walk Progress -> Gym:
 Work: Sessions-> 0Progress ->no work
 Sleep: good (Good/Decent/Bad) (tracking optional)
 
