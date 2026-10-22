@@ -69,9 +69,9 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 22
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions->1 Progress ->still stuck, seemingly easy problem but dont know recursionw ell enough to track everything.
+CP/USACO: Sessions->1 Progress ->1 done. easy patternw here the answer was in the theory itself. fine for some, but go through the resources properly before starting sums.
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1 hr Progress ->decent. will take 5-10 mins break every 30 mins and see how much I can push from tomorrow.
 Exercise: Sessions-> 1/2 Progress -> decent. legs are still weak. train. Gym: Y
 Work: Sessions-> 1 Progress ->completed all work as of now. nothing left.will do system design and documentation tomorrow
 Sleep:decent (Good/Decent/Bad) (tracking optional)
