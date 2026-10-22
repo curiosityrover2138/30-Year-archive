@@ -3,6 +3,18 @@ Distill all patterns that you can encounter in competitive programming and make 
 https://codeforces.com/profile/Qingyu 5 years is the best time to get to LGM. Aim for this.
 
 
+Pattern for finding subtrees:
+
+void dfs(int curr,int par){
+    subtree[curr]=1;
+    for(auto itr: children_map[curr]){
+        dfs(itr,curr);
+        subtree[curr]+=subtree[itr];       
+    }
+}
+
+
+
 Top down dp, rod cutting pattern:
 vector<ll> dp(1e6+2,-1);
 
