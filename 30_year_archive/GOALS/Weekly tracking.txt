@@ -73,7 +73,7 @@ CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> 1/2 Progress -> decent. legs are still weak. train. Gym: Y
-Work: Sessions-> Progress ->
+Work: Sessions-> 1 Progress ->completed all work as of now. nothing left.will do system design and documentation tomorrow
 Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
