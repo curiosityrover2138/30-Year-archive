@@ -109,7 +109,7 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep: bad (Good/Decent/Bad) (tracking optional) gym is messing up sleep. it will come around. just need to be patient. and from next week fix it totally. bit messed up the cycle but seems temporary and quickly fixable.
 
 
 25
