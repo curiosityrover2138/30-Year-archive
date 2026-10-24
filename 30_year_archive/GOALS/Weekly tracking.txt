@@ -105,7 +105,8 @@ Sleep:decent (Good/Decent/Bad) (tracking optional)
 24
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 sleep bad. will just do decent till tomorrow. After clayface will focus on getting 60+ hrs next week. I have everything figured out. I just need to go monk mode and ruthlessly execute. I have done good USACO but I am
-underestimating how much intensity is needed. Need full flow to even hope to get to GM in 2-3 years which should be the goal. The ideal outcome is to get to LGM within 8-10 years.
+underestimating how much intensity is needed. Need full flow to even hope to get to GM in 2-3 years which should be the goal. The ideal outcome is to get to LGM within 5-7 years. Need full monk mode in order to get to
+those outcomes. If I can get that I would be very very happy.
 
 CP/USACO: Sessions->2 Progress ->stuck in a simple sum. idek why. not sure whats failing. something with logic misunderstanding.
 Book: Sessions-> Progress -> (tracking optional)
