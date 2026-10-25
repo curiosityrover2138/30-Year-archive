@@ -125,7 +125,7 @@ Sleep:very bad (Good/Decent/Bad) (tracking optional) gym is messing up sleep. it
 25
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->30 mins Progress ->1 done
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1. done both saturday and sunday Progress -> Gym:Y
