@@ -1,135 +1,48 @@
-19/10 - 25/10
+26/10 - 1/11
 
-THEME: Continue on aiming for mathematical time optimization. NO talking to clankers. Focus on thinking, and writing thoughts if needed. Get 55 hrs total week. Do perfect gym routine with intense exercises.
-Do diet a bit and lose a bit more weight. No junk food. Perfect routine. 
-
-VERDICT: Still getting around 50-60% efficiency in mathematically perfect time utilization. Need more. Need mathematical efficiency so much that no waking hour is wasted. Need to treat time as the biggest asset
-and the biggest countdown running constantly. Need to be more efficient than my idols, and cross the efficiency of a UPSC topper.
-I can do it , but this week was a bit bad. Planning to go to Clayface as well. But fine. USACO was good, and guitar I figured out how to get it. Next week I can do 60+ hrs potentially.
-
-FIX: Think of thoughts like Waves. Ride the waves, and keep focusing on your work. Do the whole flow trajectory. For guitar take micro breaks, and then go back. Focus fully and complete this week, but from next
-week I can do 60+ hrs full focus. Aim for mathematical efficiency. Time is your biggest asset, use it. Never ever waste even a second. Trying for an hour and failing is better than trying for 10 mins and then
-getting lost in thought. Monk mode on. NEVER EVER use downtime for BS. No youtube, no bs shit, no social media, no clanker talk. The ONLY "downtime" you can do is read books, manga, movies or painting analysis.
-Do it after 60+ hrs of week or atleast a successful day.
-Also dont stress about number of hours too much. In normal weeks it will look like 50-70 hrs. Focus on quality. Now quality is improving, but keep imrpoving it. Thats the biggest optimization. Go absolutely monk mode.
-Focus on thoughts you have, and have the quality of thoughts so good that each thought you have is high quality and completely relevant to the task at hand. Don't do social media, youtube, or even waste time for a second.
-Use google, websites, and go completely monk mode. The details you will figure out with practice.
-Figured out everything, how to do USACO, how to work, how to do Guitar, book, and exercise. Now from next week it willl be pure monk mode execution. 50-70 hrs PER WEEK is the average. Some can be 80 some can be 30-40
-but this average is what I should target. This is the sweet spot. Just focus on increasing quality of the thoughts, each thought should be pure execution. Monk mode, let thoughts come, let them go, dont act. Focus
-fully for the time on the task. Each thought should be intentional. Go slow. From next week it has to be total monk mode. I need to finish Silver and Gold and usaco.training asap, do guitar 15 hours a week and work 30-40
-hrs a week, without fail, while doing exercise 5-6 hrs a day. Thats a simple 4 step goal for the next 1 year. Need to do this asap. No excuses. Total monk mode like a UPSC topper. Need to work as hard or harder.
-
-WEIGHT: 48.5- 50.1 TARGET: 48- 49.7
-
-1. USACO 15+ hrs. Aim for 2-3 sums solved. Perfect focus. GOOD. Figured out how to optimize this even further.
-2. System design 5 hrs. NOT DONE.
-3. Guitar 9 hrs. Do 2 sessions a day on most days. NOT DONE BUT  FINALLY FIGURED OUT how to do this, even if I dont hit 9 due to movies and plans its fine. I figured it out. Now its just about time.
-
-4. Perfect gym routine DONE. Do Tuesday and Sunday excercise on Tuesday since 18/10 was missed due to gym holiday. Do cardio on each gym day walking + cycling. GOOD. Will improve if I just trust and work.
-5. Work aim for 30 hrs. Since not much work is there do documentation, tracing of bugs by your own volition, and system design. But be focused during work timings to train yourself. NOT DONE. Not much work, but next week
-will do even if nothing is there, to trian myself and kepe my mind active. Also do system design.
-6. Never ever talk to clankers. Give it prompts. DID FOR 3 days. NO MORE. FOR THE LOVE OF GOD. Write but dont talk to clankers. DONT EVER DO THIS GOING FORWARD. Its a huge waste of time and energy. the fucking
-clankers are not even capable of an ounce of normal conversation without regressing to absolute crap. DId some still this week. Need absolutely 0 from next week.
-7. Start slight diet. Have high protein. Lose 0.4 kg weight (measured on sunday morining). NOT DONE. Need to get to 47 kg in 2 weeks. Will do a very strict diet from 21st oct - 21st nov. Be very intense. No excuses. 
-WILL BE ONGOING, Lost some weight but hard to tell how much.
-8. Relax on Sunday. Watch movies in downtime. Read books around 6-8 hrs but optional. Track it if you do. DECENT
-9. Stop gadfly behavior. Stop joking and wasting energy. Things never change. Focus on your change. Don't care about anything outside your bodily coordinates. GOOD.
+THEME: Go total monk mode. Apply eveyrthing you have learnt. Let thoughts come and focus your mind always. Full intensity. Perfect guitar.
 
 
-19
-Approx calories -1500 Protein-10 Rating: (Heavy, Medium or Light) (tracking optional)
-Talked to clankers a lot today. Messed up very badly. Mostly because sleep was bad. Not any more. Need to swear on my mission.
-relaxed today as yesterdya wasnt able to. A bit of a miss but doable. Just need this week to be much more intense than previous ones, cannot be perfect yet. I am not that polished now. Will do that in next 1 month. 60
-hr per week focused and polished is the goal, specially in USACO, Work and Guitar.
+1. Get 17+ hrs of USACO. Full intensity. Perfect focus.
+2. Get 9 hrs guitar. Change strings on Sunday. Do in multiple sittings, take micro breaks every 30-40 mins or when tired. 
+3. 30+ hrs of work. Get 6 hrs of work perfect focus. If no work do System design. Try and get 5+ hrs in the week of SD.
+4. Get total focus of 10-12 hrs per day.
+5. Perfect exercise. Have intense sessions at the gym. Walk on other days except Sunday.
+6. Perfect diet. Dont eat unhealthy crap. Good protein, good fibre.
+7. Get total 60+ hrs a week. No talking to clankers. No wasting time. Rest or Work. Have more intensity than a UPSC topper.
+8. Watch 1 movie a week only when off the clock. Read books 5-6 hrs. Read manga off the clock.
+9. Perfect grooming. Count in the clock but only when it stresses you out.
 
-CP/USACO: Sessions->1 Progress ->STUCK. slept bad and wasnt able to focus well. But wouldnt have occured even if I did. its hard but I need to focus harder.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> 17 mins Progress ->tired. do more from tomorrow. also had to go outside for puja.
-Exercise: Sessions-> Progress -> Gym:
-Work: Sessions->3 Progress ->documentation and prep
-Sleep: bad (Good/Decent/Bad) (tracking optional)
+
+26
 
 
 
-20
-Approx calories -2000 Protein- 10 Rating:heavy (Heavy, Medium or Light) (tracking optional)
 
-Had junk food today. Will stop totally for 1 month and reduce weight. Struggling with diet again, now that going to gym has made it so hard to control cravings. Will reduce calories by grazing, and having
-high protein. Also need to always have something healthy handy, so that I dont have constipation from protein. The thing is I get so afraid of having too much protein, i am unable to eat healthy constantly, and ended
-up snacking on bhujia. Just need to cover by eating less tomorrow, and then reset for next 4 weeks.
-
-I am very relaxed as of now. I need to be very very intense with 60+ hrs a week of mathematically perfect time utilization. I have developed intensity, but its still much less than the theoretical maximum I am capable.
-Still 2-3 hrs a day is being wasted due to mental weakness. Cannot be weak even for a second. Cannot waste even a second of invaluable time.
-
-CP/USACO: Sessions->1 Progress ->stuck. feeling tired today. need to have mathematically perfect time utilization. I just feel extremely empty without it. Even if I am perfectly fine.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> 0Progress ->tired. bs puja.
-Exercise: Sessions-> 1 Progress ->workout done mostly.cardio ran out of time. will do from 22nd Gym:Y Do sunday + tuesday workout
-Work: Sessions->0 Progress ->no work
-Sleep: decent (Good/Decent/Bad) (tracking optional)
+27
 
 
 
-21
-
-Approx calories -1400 Protein-40 Rating:medium (Heavy, Medium or Light) (tracking optional)
-
-CP/USACO: Sessions->2 Progress ->volume but can do better quality wise.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> 0 Progress ->wont do. lots of noise due to puja. But I can be intense from tomorrow and do 2 sessions per day and knock this off. I am confident I can do this. This is a blessing in disguise because
-if I can do that, I will train myself to cross 12-14 hr barrier for the week just like in 3-4 days of intensity. Then the next week will be just maintaining this.
-Exercise: Sessions->walk Progress -> Gym:
-Work: Sessions-> 0Progress ->no work
-Sleep: good (Good/Decent/Bad) (tracking optional)
+28
 
 
 
-22
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
-
-CP/USACO: Sessions->1 Progress ->1 done. easy patternw here the answer was in the theory itself. fine for some, but go through the resources properly before starting sums.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions->1 hr Progress ->decent. will take 5-10 mins break every 30 mins and see how much I can push from tomorrow.
-Exercise: Sessions-> 1/2 Progress -> decent. legs are still weak. train. Gym: Y
-Work: Sessions-> 1 Progress ->completed all work as of now. nothing left.will do system design and documentation tomorrow
-Sleep:decent (Good/Decent/Bad) (tracking optional)
+29
 
 
 
-23
-
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
-
-CP/USACO: Sessions->1 Progress ->2 done. good flow but also easy problems.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> 1 hr Progress ->
-Exercise: Sessions->40 mins walk Progress -> Gym:
-Work: Sessions->0 Progress ->0 no work. did some documentation but bored.
-Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
-24
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
-sleep bad. will just do decent till tomorrow. After clayface will focus on getting 60+ hrs next week. I have everything figured out. I just need to go monk mode and ruthlessly execute. I have done good USACO but I am
-underestimating how much intensity is needed. Need full flow to even hope to get to GM in 2-3 years which should be the goal. The ideal outcome is to get to LGM within 5-7 years. Need full monk mode in order to get to
-those outcomes. If I can get that I would be very very happy.
-
-CP/USACO: Sessions->2 Progress ->stuck in a simple sum. idek why. not sure whats failing. something with logic misunderstanding.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
-Exercise: Sessions->0 Progress -> 0 Gym:Y. not done. tired and sleepy due to bad sleep. Will do both sat and sun workout tomorrow alongwith some extra exercises.
-Work: Sessions->0 Progress ->0
-Sleep:very bad (Good/Decent/Bad) (tracking optional) gym is messing up sleep. it will come around. just need to be patient. and from next week fix it totally. bit messed up the cycle but seems temporary and quickly fixable.
+30
 
 
-25
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-Today will go watch Clayface so fine.
-CP/USACO: Sessions->30 mins Progress ->1 done
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> 0Progress ->0. not ideal. but fine. from next week will be able to get 10-12 hr days consistently with what I have learnt. Go total monk mode.
-Exercise: Sessions->1. done both saturday and sunday Progress -> Gym:Y
-Work: Sessions-> Progress ->
-Sleep: good (Good/Decent/Bad) (tracking optional)
+
+31
+
+
+
+
+1
+
 
