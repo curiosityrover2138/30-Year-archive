@@ -128,7 +128,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/USACO: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y
+Exercise: Sessions->1. done both saturday and sunday Progress -> Gym:Y
 Work: Sessions-> Progress ->
 Sleep: good (Good/Decent/Bad) (tracking optional)
 
