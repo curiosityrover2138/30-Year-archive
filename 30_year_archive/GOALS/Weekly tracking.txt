@@ -19,7 +19,7 @@ WEIGHT: 48 - 49.9
 26
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->getting tle
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
