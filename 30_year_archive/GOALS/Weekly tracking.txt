@@ -17,13 +17,13 @@ WEIGHT: 48 - 49.9
 
 
 26
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+Approx calories -1500 Protein- 30 Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions->1 Progress -> stuck
-Book: Sessions-> Progress -> (tracking optional)
+Book: Sessions->0 Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
-Work: Sessions->2 Progress ->just basic work.
+Work: Sessions->3 Progress ->just basic work.
 Sleep: (Good/Decent/Bad) (tracking optional)
 
 
