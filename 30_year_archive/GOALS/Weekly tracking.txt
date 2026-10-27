@@ -24,7 +24,7 @@ Book: Sessions->0 Progress -> (tracking optional)
 Guitar: Sessions-> 50 mins Progress -> will do more intensely tomorrow. today was much better than before days, but I will do more.
 Exercise: Sessions->48 mins walk Progress -> Gym:
 Work: Sessions->3 Progress ->just basic work.
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep:good (Good/Decent/Bad) (tracking optional)
 
 
 
@@ -36,7 +36,7 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep:very good (Good/Decent/Bad) (tracking optional)
 
 
 28
