@@ -63,7 +63,7 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep:bad (Good/Decent/Bad) (tracking optional) still struggling if I exercise a lot. It will get fixed with some time. Just need to get sleep whenever I can afternoon, evening, etc whenever its bad
 
 
 
