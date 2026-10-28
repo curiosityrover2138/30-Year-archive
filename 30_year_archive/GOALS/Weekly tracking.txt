@@ -47,11 +47,11 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 still talking to clankers sometimes. NEED TO TOTALLY STOP. WTF IS WRNOG IWTH ME. Why cant I stay in peace with my opinions instead of seeking validation. 
 Around 70-80% now. Need to get to 100% monk mode.
 CP/USACO: Sessions->1  Progress ->still stuck. thought bfs will work but it wont. DP is the only way now.
-Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Book: Sessions-> 1 Progress -> (tracking optional)
+Guitar: Sessions->15 mins Progress ->
 Exercise: Sessions->1/2 Progress -> done Gym:Y cardio 4-5 evening
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Work: Sessions->3.5 Progress ->
+Sleep: good (Good/Decent/Bad) (tracking optional)
 
 
 
