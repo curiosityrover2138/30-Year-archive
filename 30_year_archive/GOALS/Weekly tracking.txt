@@ -44,8 +44,8 @@ Sleep:very good (Good/Decent/Bad) (tracking optional)
 
 28
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
-
-CP/USACO: Sessions-> Progress ->
+still talking to clankers sometimes. NEED TO TOTALLY STOP. WTF IS WRNOG IWTH ME. Why cant I stay in peace with my opinions instead of seeking validation. 
+CP/USACO: Sessions->1  Progress ->still stuck. thought bfs will work but it wont. DP is the only way now.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y cardio 4-5 evening
