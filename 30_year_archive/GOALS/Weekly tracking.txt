@@ -57,6 +57,7 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 
 29
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+Less than ideal intensity today because of sleep getting messed up. Need to find better way to fix it and get work done.
 
 CP/USACO: Sessions->1 Progress ->still stuck. I have another idea for precomputation. But need to implement it. Today sleep got messed up so threw the routine a bit. Will do again tomorrow.
 Need to improve this. This is bad as of now.
