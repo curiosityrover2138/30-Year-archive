@@ -62,7 +62,7 @@ Less than ideal intensity today because of sleep getting messed up. Need to find
 CP/USACO: Sessions->1 Progress ->still stuck. I have another idea for precomputation. But need to implement it. Today sleep got messed up so threw the routine a bit. Will do again tomorrow.
 Need to improve this. This is bad as of now.
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->30 mins Progress -> again can be improved. messed up a bit mainly because of sleep throwing the whole day askew.
 Exercise: Sessions-> 0Progress -> went yesterday. will go tomorrow.experimented but cannot go in evening on workdays. only mornings will work Gym:Y
 Work: Sessions->3 Progress ->lots of work.
 Sleep:bad (Good/Decent/Bad) (tracking optional) still struggling if I exercise a lot. It will get fixed with some time. Just need to get sleep whenever I can afternoon, evening, etc whenever its bad
