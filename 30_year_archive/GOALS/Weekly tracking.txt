@@ -58,7 +58,7 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 29
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress ->still stuck. I have another idea for precomputation. But need to implement it. Today sleep got messed up so threw the routine a bit. Will do again tomorrow.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
