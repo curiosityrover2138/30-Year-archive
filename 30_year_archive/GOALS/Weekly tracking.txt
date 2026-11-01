@@ -105,7 +105,7 @@ got a bit rattled due to work. tirath is making mistakes but cannot let that sto
 good enough and I should be very risk averse to avoid any small issue. And I can just make sure I dont cause any issues. Other things I will just push blame on others, and as long as nothing can be concretely pinned
 on me I should be fine.
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1 Progress -> still stuck. idk why.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
