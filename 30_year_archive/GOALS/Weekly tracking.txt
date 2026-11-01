@@ -90,7 +90,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions->1 Progress ->wasnt able to do it. still stuck. why is it so hard I dont understand.
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->1 Progress ->theory. found out best way to do 15-20 hr a week. need to miss theory, pick & hard fingerstyle to get good and be able to do more.
 Exercise: Sessions->0 Progress ->didnt go today Gym:Y
 Work: Sessions->0 Progress ->
 Sleep: bad. build pressure. stop totally sleeping on afternoon. I still end up sleeping >1 hr even with alarm. (Good/Decent/Bad) (tracking optional)
@@ -110,5 +110,5 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep: good. but woke up late. fine for sunday. (Good/Decent/Bad) (tracking optional)
 
