@@ -17,11 +17,11 @@ a bit less. Do exercise a bit more in gym days. And stop sleeping >45 mins on af
 2
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
-Book: Sessions-> Progress -> (tracking optional)
+CP/USACO: Sessions-> 2 Progress ->still stuck.getting tle but logic is correct
+Book: Sessions->2 Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
-Work: Sessions-> Progress ->
+Exercise: Sessions->0 Progress -> Gym:
+Work: Sessions->1 Progress ->not much due to it ticket pending
 Sleep: decent (Good/Decent/Bad) (tracking optional)
 
 3
