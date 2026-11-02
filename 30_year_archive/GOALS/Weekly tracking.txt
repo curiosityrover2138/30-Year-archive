@@ -19,7 +19,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions-> 2 Progress ->still stuck.getting tle but logic is correct
 Book: Sessions->2 Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->30 mins Progress ->do more. overall day was fine regardless.
 Exercise: Sessions->0 Progress -> Gym:
 Work: Sessions->1 Progress ->not much due to it ticket pending
 Sleep: decent (Good/Decent/Bad) (tracking optional)
