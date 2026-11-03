@@ -10,7 +10,7 @@ Repeat this and be adventurous without the feeling of sounding bad. Try to achie
 
 
 analyze 
-https://musescore.com/user/59845633/scores/9774907 Telemann
+minuet g major Telemann
 
 D major chord-> D, F#, A
 D minor -> D, F, A
