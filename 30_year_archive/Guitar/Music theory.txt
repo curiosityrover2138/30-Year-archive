@@ -2,6 +2,11 @@ All chords are triads.
 Develop Relative Pitch (Interval training of chords, scales, notes etc)
 https://www.earbeater.com/online-ear-training/#/
 
+To learn music theory, restrict yourself to top 5 frets of guitar. 
+Then pick a scale you are learning, if its a major scale look at minuets, bourees, etc in MAJOR, and then transpose it to your scale.
+Then look for the mathematical patterns of the Bass and the melody separately.
+Then try to fill the blanks. (Improvisation)
+Repeat this and be adventurous without the feeling of sounding bad. Try to achieve flow.
 
 D major chord-> D, F#, A
 D minor -> D, F, A
