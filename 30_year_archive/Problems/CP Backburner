@@ -1,6 +1,13 @@
 Think about these problems until you can solve them yourself. Study concepts, not editorials. When putting in backburner, keep 1 line note of what you tried, what the topics may be, and where you were stuck. Review
 periodically
 
+
+https://usaco.org/index.php?page=viewproblem2&cpid=968
+
+I think its similar to the floodfill issue I was facing. Something I can precompute. Its giving TLE if I do O(NxM) and giving MLE if I precompute everything in a matrix O(N^2). None are working.
+LCA needs to be calculated, but not sure how much I CAN precompute. Something weird is going on. I need to see the rpevious as well as this because at first glance they look similar issues of me facing TLE
+due to not being able to precompute properly. Some trick of precomputation or dp like pattern I am missing.
+
 https://usaco.org/index.php?page=viewproblem2&cpid=1110
 
 Just tired of flood fills. This wont be done before a week so letting go for now. Later once I shuffle some more topics will come again. Very last problem so not bad.
