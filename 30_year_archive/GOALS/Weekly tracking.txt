@@ -35,7 +35,7 @@ Work: Sessions->0 Progress ->
 Sleep: good (Good/Decent/Bad) (tracking optional)
 
 4
-Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+Approx calories -2200 Protein-70 Rating: heavy (Heavy, Medium or Light) (tracking optional)
 still spending some time with clanker talk. even though the topics are worthy of thinking, I need to stop prompting like this. It never gives a decent answer and the product is inherently useless unless used for very objective things (where its just forced to be a program and hence objectively correct). If it gets even a little subjective, it will just say random shit.
 
 CP/USACO: Sessions->2 Progress ->stuck. put one in backburner
@@ -53,7 +53,7 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym: tired today wont go. will go tomorrow
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep: good (Good/Decent/Bad) (tracking optional)
 
 6
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
