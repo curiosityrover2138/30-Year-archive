@@ -58,12 +58,12 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 6
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress ->
+CP/USACO: Sessions->1/2 Progress ->stuck
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> 30 mins Progress ->leg with more weights Gym: y
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Work: Sessions->3 Progress ->
+Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
 
