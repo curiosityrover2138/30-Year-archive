@@ -50,7 +50,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/USACO: Sessions->2 Progress ->1 done. old ones still stuck.
 Book: Sessions-> Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions->45 mins Progress -> started on shostakovich
 Exercise: Sessions-> Progress -> Gym: tired today wont go. will go tomorrow
 Work: Sessions->3 Progress ->client work
 Sleep: good (Good/Decent/Bad) (tracking optional)
