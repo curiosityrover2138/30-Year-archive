@@ -1,4 +1,5 @@
 30 Year project. Exhaust yourself completely and reach convergence. Targeting to achieve learning everything necessary for atleast 100 million net worth. Become one of the best businessmen in India in software.
+
 MISSION-> Reach Convergence through Flow.
 Activities to do it-> Mathematics, Programming, Entrepreneurship, Guitar. 
 
