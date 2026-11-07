@@ -4,14 +4,18 @@
 THEME: Perfect monk mode. Get 10+ hrs guitar. 30+ hrs work, and 15+ hrs USACO total focus. Read books a bit more, watch movies
 a bit less. Do exercise a bit more in gym days. And stop sleeping >45 mins on afternoons.
 
-1. USACO 15+ hrs. Try to do 3 sums. Immerse yourself.
-2. Work 30+ hrs. Try and get 5 hrs of system design. Perfect work. No issues.
-3. Guitar >10 hrs. Practice fingerstyle for 4-5 and 5-6 hrs of theory, improvise and learn baroque music. Copy by hand , pick practice etc.
-4. Books >5 hrs. Read ulysses & manga
-5. Relax on sunday. Perfect routine. Perfect grooming. Don't sleep more than 45 mins on daytime. Try and get 60-70 hrs.
-6. Gym 4 days 1 hr sessions perfect, or 5 days with cardio. Walk 3 days a week 45 mins each day.
-7. Have good sleep. Continue on diet. Dont eat even slightly unhealthy food.
-8. Never talk to clankers. Perfect monk mode practice. Meditate always.
+VERDICT: Learnt that the root cause of feeling lonely is not being able to satisfy the 1% of my desires that happen. Working 70+ hours satisfies 99%, but the 1% bleeds into shit. Just need to let the 1% pass.
+And have hyper confidence in your vision. It will be satisifed when I do the work. And I will only be able to do work. Failed this week catastrophically. But ok. Its good data. Will just end the week in decent
+note and move on.
+
+1. USACO 15+ hrs. Try to do 3 sums. Immerse yourself. DECENT
+2. Work 30+ hrs. Try and get 5 hrs of system design. Perfect work. No issues. DECENT
+3. Guitar >10 hrs. Practice fingerstyle for 4-5 and 5-6 hrs of theory, improvise and learn baroque music. Copy by hand , pick practice etc. VERY BAD. 
+4. Books >5 hrs. Read ulysses & manga DECENT. Read big sleep.
+5. Relax on sunday. Perfect routine. Perfect grooming. Don't sleep more than 45 mins on daytime. Try and get 60-70 hrs. FAILED
+6. Gym 4 days 1 hr sessions perfect, or 5 days with cardio. Walk 3 days a week 45 mins each day. DECENT
+7. Have good sleep. Continue on diet. Dont eat even slightly unhealthy food. FAILED
+8. Never talk to clankers. Perfect monk mode practice. Meditate always. FAILED.
 
 
 2
@@ -73,7 +77,8 @@ Sleep:decent (Good/Decent/Bad) (tracking optional)
 7
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-I need to increase my self esteem. What I am doing is very hard.
+I need to increase my self esteem. What I am doing is very hard. Slacking off a bit is normal. Just see the self sabotage as data and learn from it.
+
 
 CP/USACO: Sessions-> 30 mins Progress ->stuck bad
 Book: Sessions-> Progress -> (tracking optional)
