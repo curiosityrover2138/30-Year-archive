@@ -98,7 +98,7 @@ Sleep:bad (Good/Decent/Bad) (tracking optional)
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/USACO: Sessions-> Progress -> did some physics problems for fun. No usaco.
+CP/USACO: Sessions-> Progress -> did some physics problems for fun.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y gym closed today, will just use 10kg dumbbells
