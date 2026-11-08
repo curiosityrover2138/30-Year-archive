@@ -14,4 +14,4 @@ July 2027:
 8. Do 1 USACO, 1 guitar, 3 work consistently. 1 session=2 hours. Ideally uninterrupted.
 9. Start learning System design, full stack and AI assisted coding. Around 6-8 hours a week included in work. Get good at work required theory so that you dont get crushed in the daily grind at big companies.
 10. Start prepping for L5 interview at FAANG. Have domain expertise to target those teams or in general big data analytics teams.
-11. Start doing some problems for INMO, IMO, Physics problems just for fun. Just as a training ground for mathematical thinking, learn concepts for fun and solve problems for fun.
+11. Start doing some problems for INMO, IMO, Physics problems just for fun. Just as a training ground for mathematical thinking, learn concepts for fun and solve problems for fun. No pressure until you get to CM+.
