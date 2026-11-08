@@ -1,5 +1,113 @@
 Put all past weekly tracking here to find trends
 
+
+2/11 - 8/11
+
+THEME: Perfect monk mode. Get 10+ hrs guitar. 30+ hrs work, and 15+ hrs USACO total focus. Read books a bit more, watch movies
+a bit less. Do exercise a bit more in gym days. And stop sleeping >45 mins on afternoons.
+
+VERDICT: Learnt that the root cause of feeling lonely is not being able to satisfy the 1% of my desires that happen. Working 70+ hours satisfies 99%, but the 1% bleeds into shit. Just need to let the 1% pass.
+And have hyper confidence in your vision. It will be satisifed when I do the work. And I will only be able to do work. Failed this week catastrophically. But ok. Its good data. Will just end the week in decent
+note and move on.
+
+FIX: Think of any distracting thoughts like a tsunami that comes. Imagine it like a tsunami. Vivid imagery. And let it wash over you. Let it pass. Take deep breaths. And return your mind to the task at hand.
+Practice this repeatedly. Increase quality of time spent. And cap quantity of USACO+Guitar+Work at 14 hrs a day MAXIMUM. Normal day should look like 10-14 hrs. And rest -> Book, Exercise.
+Genuinely relax during Exercise, Book and Guitar. In exercise the more you push ahrder the more relaxed you will be.
+You can also watch movies and shit when off the clock. Dont watch porn and dont masturbate. I am just not that guy. It will never work.
+Started also doing some fun problems for physics and maths.
+
+1. USACO/Mathematics 15+ hrs. Try to do 3 sums. Immerse yourself. DECENT
+2. Work 30+ hrs. Try and get 5 hrs of system design. Perfect work. No issues. DECENT
+3. Guitar >10 hrs. Practice fingerstyle for 4-5 and 5-6 hrs of theory, improvise and learn baroque music. Copy by hand , pick practice etc. VERY BAD. 
+4. Books >5 hrs. Read ulysses & manga DECENT. Read big sleep.
+5. Relax on sunday. Perfect routine. Perfect grooming. Don't sleep more than 45 mins on daytime. Try and get 60-70 hrs. FAILED
+6. Gym 4 days 1 hr sessions perfect, or 5 days with cardio. Walk 3 days a week 45 mins each day. DECENT
+7. Have good sleep. Continue on diet. Dont eat even slightly unhealthy food. FAILED
+8. Never talk to clankers. Perfect monk mode practice. Meditate always. FAILED.
+
+
+2
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions-> 2 Progress ->still stuck.getting tle but logic is correct
+Book: Sessions->2 Progress -> (tracking optional)
+Guitar: Sessions->30 mins Progress ->do more. overall day was fine regardless.
+Exercise: Sessions->0 Progress -> Gym:
+Work: Sessions->1 Progress ->not much due to it ticket pending
+Sleep: decent (Good/Decent/Bad) (tracking optional)
+
+3
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions->2 Progress ->stuck
+Book: Sessions->2 Progress -> (tracking optional)
+Guitar: Sessions->1hr Progress ->music theory
+Exercise: Sessions-> Progress -> Gym:Today wont go. feeling very tired
+Work: Sessions->0 Progress ->
+Sleep: good (Good/Decent/Bad) (tracking optional)
+
+4
+Approx calories -2200 Protein-70 Rating: heavy (Heavy, Medium or Light) (tracking optional)
+still spending some time with clanker talk. even though the topics are worthy of thinking, I need to stop prompting like this. It never gives a decent answer and the product is inherently useless unless used for very objective things (where its just forced to be a program and hence objectively correct). If it gets even a little subjective, it will just say random shit.
+
+CP/USACO: Sessions->2 Progress ->stuck. put one in backburner
+Book: Sessions->1 Progress -> (tracking optional)
+Guitar: Sessions-> 0 Progress ->went to sher e punjab
+Exercise: Sessions-> 1/2 Progress ->decent gym Gym:Y
+Work: Sessions->0 Progress ->0 no work
+Sleep:good (Good/Decent/Bad) (tracking optional)
+
+5
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions->2 Progress ->1 done. old ones still stuck.
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions->45 mins Progress -> started on shostakovich
+Exercise: Sessions-> Progress -> Gym: tired today wont go. will go tomorrow
+Work: Sessions->3 Progress ->client work
+Sleep: good (Good/Decent/Bad) (tracking optional)
+
+6
+Approx calories -2500 Protein-10 Rating: ate lot of bhujia because of bout of depression. Now figured out the way forward and how to handle that.
+When I miss the 1% I ruin the 99% but I just need to compartmentalize. (Heavy, Medium or Light) (tracking optional)
+
+Need to push myself much harder, only then will I get the total pleasure from the tasks I envision, and I will be calm enough due to the exhaustion to not care about things I TRULY don't care about.
+
+CP/USACO: Sessions->1/2 Progress ->stuck
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions->0 Progress ->0 bad. fucked up by messing up a few things related to horniness. Need to fix it from tomorrow, and have a plan so that very less of my energy is wasted, and I can construct something I like/want.
+Exercise: Sessions-> 30 mins Progress ->leg with more weights Gym: y
+Work: Sessions->3 Progress ->
+Sleep:decent (Good/Decent/Bad) (tracking optional)
+
+
+
+7
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+I need to increase my self esteem. What I am doing is very hard. Slacking off a bit is normal. Just see the self sabotage as data and learn from it.
+
+
+CP/USACO: Sessions-> 30 mins Progress ->stuck bad
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions->20 mins Progress ->just theory. need to do 8 hrs theory and 7 hrs fingerstyle practice in a week, train
+with this in mind.
+Exercise: Sessions->exercised a bit myself. didnt go to gym. will do long session tomorrow. Progress -> Gym:Y
+Work: Sessions-> Progress ->
+Sleep:bad (Good/Decent/Bad) (tracking optional)
+
+8
+
+Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
+
+CP/USACO: Sessions->0 Progress -> did some physics problems for fun. still stuck on usaco problem.
+Book: Sessions-> Progress -> (tracking optional)
+Guitar: Sessions->1/2 Progress ->
+Exercise: Sessions->1/2 Progress -> Gym:Y gym closed today, will just use 10kg dumbbells
+Work: Sessions->0 Progress ->0
+Sleep: very good (Good/Decent/Bad) (tracking optional)
+
+
 26/10 - 1/11
 
 THEME: Go total monk mode. Apply eveyrthing you have learnt. Let thoughts come and focus your mind always. Full intensity. Perfect guitar. Mathematically perfect time utilization effort.
