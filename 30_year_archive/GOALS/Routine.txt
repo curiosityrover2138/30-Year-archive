@@ -84,7 +84,7 @@ Record each day:
 Format:
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math: Sessions-> Progress ->
+CP/Math/Physics: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
