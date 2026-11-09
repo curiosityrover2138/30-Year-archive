@@ -21,7 +21,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/Math/Physics: Sessions-> Progress -> 
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y
+Exercise: Sessions-> Progress -> Gym: today also gym closed. idk why. lazy idiots. Will just do weights normally and walk.
 Work: Sessions->0 Progress ->holiday today
 Sleep: decent (Good/Decent/Bad) (tracking optional)
 
