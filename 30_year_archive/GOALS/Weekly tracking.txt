@@ -50,7 +50,7 @@ CP/Math/Physics: Sessions->1/2 Progress ->1 easy done. another stuck.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress -> gym intense session done Gym:Y
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->holiday today
 Sleep:good (Good/Decent/Bad) (tracking optional)
 
 
