@@ -46,7 +46,7 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 11
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math/Physics: Sessions->1/2 Progress ->1 easy done. another stuck.
+CP/Math/Physics: Sessions->1 Progress ->1 easy done. another stuck.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress -> gym intense session done Gym:Y
