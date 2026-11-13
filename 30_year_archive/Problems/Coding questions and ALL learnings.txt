@@ -4,6 +4,8 @@ Move on after completing 80% of a level. Then do the rest 20% while doing the ne
 
 https://codeforces.com/gym/104536/problem/F
 Such an easy thing I overlooked. WHen calculating diameter I was just calculating the resultant. If the subtree has greater diameter the tree diameter remains that
+I feel so bad for missing this. Extremely bad that I had to look at forum discussion. Will keep this in mind from next problems. Construct cases and think VERY CAREFULLY. And never give up. This way maybe 
+next problems I will solve better. Its fine, didnt get 100% from this problem. But can do that from countless others. No worries. Keep going bravely.
 
 So simple and so easy to miss. Idiot.
 ans=max(max(dia_1,dia_2),dia_1/2+dia_1%2+dia_2/2+dia_2%2+1)
