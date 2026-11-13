@@ -74,10 +74,10 @@ Sleep: good (Good/Decent/Bad) (tracking optional)
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/Math/Physics: Sessions->1 Progress ->1 done. took a hint. missed a very easy thing. need greater carefulness in how i think. its ok. learn and move on.
-Book: Sessions-> Progress -> (tracking optional)
+Book: Sessions->0 Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
-Work: Sessions-> Progress ->
+Exercise: Sessions->0 Progress -> Gym:
+Work: Sessions->3 Progress ->
 Sleep:good  (Good/Decent/Bad) (tracking optional)
 
 
