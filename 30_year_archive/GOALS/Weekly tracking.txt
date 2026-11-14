@@ -88,8 +88,8 @@ CP/Math/Physics: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
-Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Work: Sessions-> 0Progress ->0
+Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
 15
