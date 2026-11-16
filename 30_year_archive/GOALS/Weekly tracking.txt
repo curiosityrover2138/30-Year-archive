@@ -37,7 +37,8 @@ Sleep:very good (Good/Decent/Bad) (tracking optional)
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math/Physics: Sessions->1 Progress ->stuck usaco training. nothing coming to mind properly.
+CP/Math/Physics: Sessions->1 Progress ->stuck usaco training. nothing coming to mind properly. need to think harder. dont understand. will also need to try 1 usaco training problem per week atleast to hope to achieve
+medium term goals
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
