@@ -37,7 +37,7 @@ Sleep:very good (Good/Decent/Bad) (tracking optional)
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math/Physics: Sessions-> Progress ->
+CP/Math/Physics: Sessions->1 Progress ->stuck usaco training. nothing coming to mind properly.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:
