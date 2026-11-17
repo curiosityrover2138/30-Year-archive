@@ -54,7 +54,11 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
 Work: Sessions-> Progress ->
-Sleep: (Good/Decent/Bad) (tracking optional)
+Sleep:good  (Good/Decent/Bad) (tracking optional)
+
+
+increase flow. be at 100% monk mode. Getting there, but dont get depressed. And control diet and increase activity. Focus on tasks USACO, Work & Guitar in the day, and then relax with book. Only watch 1 movie on sunday
+if needed. Or else focus on monk mode. Delay gratification, and keep focusing your mind. You can do this. Currently around 80% when I try a lot.
 
 
 
