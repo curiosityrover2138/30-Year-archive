@@ -51,7 +51,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/Math/Physics: Sessions->1 Progress ->still stuck. not sure. in usaco training. getting correct answer, need to fix tle issue
 Book: Sessions->1 Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 36 mins today Progress ->decent. will aim for 2-3 hours per day from tomorrow, and do 1 hour or similar around before 12 once. doinga  bit more book today. will aim for 3+ hours in sat and sun 
 Exercise: Sessions->1/2 Progress ->intesne gym session Gym:Y
 Work: Sessions->2 Progress ->
 Sleep:good  (Good/Decent/Bad) (tracking optional)
