@@ -68,11 +68,11 @@ slight distraction still present. make it 0.
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math/Physics: Sessions-> Progress ->
+CP/Math/Physics: Sessions->1 Progress ->stuck
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym: not going to gym
-Work: Sessions-> Progress ->
+Exercise: Sessions->40 mins walk Progress -> Gym: not going to gym
+Work: Sessions-> 3 Progress ->basic
 Sleep:good  (Good/Decent/Bad) (tracking optional)
 
 
