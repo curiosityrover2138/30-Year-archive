@@ -32,8 +32,8 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/Math/Physics: Sessions->1 Progress ->1 done. usaco training/
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:Y. bad weather, go in evening.
-Work: Sessions-> Progress ->
+Exercise: Sessions-> Progress -> Gym:wasnt able to go. bad bad weather. always raining.
+Work: Sessions->0 Progress ->0 skipping today. will makeup
 Sleep:good (Good/Decent/Bad) (tracking optional)
 
 no bad food from today. full focus. and do guitar, work & usaco.
