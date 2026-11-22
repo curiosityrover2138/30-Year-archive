@@ -77,7 +77,8 @@ CP/Math/Physics: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y
-Work: Sessions-> Progress ->
+Work: Sessions->1 Progress ->glen fixed it. i will see what he says on monday and then work accordingly. but need to be careful now, but in dev i CAN do most things. Dont need to worry so much. And definitely can run
+more processes since they are expecting us to.
 Sleep: decent (Good/Decent/Bad) (tracking optional)
 
 
