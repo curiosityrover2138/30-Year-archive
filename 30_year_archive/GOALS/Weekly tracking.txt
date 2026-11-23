@@ -35,8 +35,8 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 CP/Math/Physics: Sessions->1 Progress ->trying but stuck. dk what to do.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
-Exercise: Sessions-> Progress -> Gym:
-Work: Sessions-> Progress ->
+Exercise: Sessions->0 Progress -> Gym:
+Work: Sessions-> 4 Progress ->a bit on edge due to what glen will say. but will see. hopefully things should be fine.
 Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
