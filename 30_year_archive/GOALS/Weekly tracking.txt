@@ -37,6 +37,8 @@ Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->0 Progress -> Gym:
 Work: Sessions-> 4 Progress ->a bit on edge due to what glen will say. but will see. hopefully things should be fine.
+update. it was fine. Just need to test everything thoroughly in dev. checked with glen and apparently i can as long as
+i know how to reverse any change and know the admin table updates
 Sleep:decent (Good/Decent/Bad) (tracking optional)
 
 
