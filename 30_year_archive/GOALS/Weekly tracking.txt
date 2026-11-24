@@ -58,7 +58,7 @@ Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
 CP/Math/Physics: Sessions->1.5 Progress ->1 done UT
 Book: Sessions->0 Progress -> (tracking optional)
-Guitar: Sessions-> Progress ->
+Guitar: Sessions-> 52 mins Progress ->
 Exercise: Sessions->0 Progress ->0 Gym: Will go tomorrow
 Work: Sessions-> 4 Progress ->code changes
 Sleep: good (Good/Decent/Bad) (tracking optional)
