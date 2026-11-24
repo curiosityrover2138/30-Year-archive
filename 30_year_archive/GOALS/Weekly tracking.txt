@@ -60,7 +60,7 @@ CP/Math/Physics: Sessions->1.5 Progress ->1 done UT
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym: Will go tomorrow
-Work: Sessions-> Progress ->
+Work: Sessions-> 4 Progress ->code changes
 Sleep: good (Good/Decent/Bad) (tracking optional)
 
 Getting 70-80% now. Still ending up wasting some time with clanker or just in my mind. Need to focus 100% 
