@@ -75,7 +75,7 @@ CP/Math/Physics: Sessions->1 Progress ->stuck but feeling close.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions->decent session Progress -> Gym:Y
-Work: Sessions-> 4 Progress ->going through things
+Work: Sessions-> 2 Progress ->going through things and understanding. From tomorrow will very positively start understanding all steps in new brand build.
 Sleep: bad, stressful due to attack (Good/Decent/Bad) (tracking optional)
 
 
