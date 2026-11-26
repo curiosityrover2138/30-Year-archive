@@ -92,7 +92,7 @@ Guitar: Sessions-> Progress ->
 Exercise: Sessions->1/2 Progress ->decent. Gym:Y
 Work: Sessions->0 Progress ->ehh. can start from tomorrow. nothing urgent.
 Sleep:good (Good/Decent/Bad) (tracking optional)
-relaxed
+relaxed(after 10 days, fine)
 
 
 27
