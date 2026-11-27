@@ -100,7 +100,7 @@ relaxed(after 10 days, fine)
 
 Approx calories - Protein- Rating: (Heavy, Medium or Light) (tracking optional)
 
-CP/Math/Physics: Sessions-> Progress ->
+CP/Math/Physics: Sessions->1 Progress ->still stuck. dont know how to progress. its similar idea as lca which I also wasnt able to do. Need to study and see whats missing.
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y. Will go in evening
