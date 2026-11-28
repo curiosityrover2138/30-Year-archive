@@ -118,7 +118,7 @@ CP/Math/Physics: Sessions-> Progress ->
 Book: Sessions-> Progress -> (tracking optional)
 Guitar: Sessions-> Progress ->
 Exercise: Sessions-> Progress -> Gym:Y do cardio as well
-Work: Sessions-> Progress ->
+Work: Sessions->0 Progress ->0
 Sleep:good (Good/Decent/Bad) (tracking optional)
 
 
